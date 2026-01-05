@@ -1,6 +1,7 @@
 # Comprehensive Documentation of Trump Controversies
 
 **A Critical Compilation of Issues Raised by the Left and Moderates**
+
 **Updated January 2026 - Consolidated Edition**
 
 ---
@@ -1173,7 +1174,7 @@ Experts note Trump's repeated use of **"low IQ" attacks** against Black people p
 - Executive orders targeting law firms that represented Trump opponents
 - Lawsuits against pollsters (Ann Selzer) and media (CBS, ABC)
 
-### February-Present 2025 - Tariff Chaos, Corruption & Lies About Who Pays
+### February 2025-Present - Tariff Chaos, Corruption & Lies About Who Pays
 
 - Trump repeatedly claimed tariffs are **"paid by other countries"** and foreign governments send checks to U.S. Treasury [Source: Multiple statements, 2025]
 - **Reality:** Tariffs are taxes paid by **U.S. importers**, not foreign countries [Source: NPR, CBS News, Tax Foundation]
@@ -1220,7 +1221,7 @@ Experts note Trump's repeated use of **"low IQ" attacks** against Black people p
 - Trump's **25% tariffs on Canada and Mexico will be "blow to all 3 economies"** [Source: Brookings analysis]
 - Legal challenges consolidated into **Learning Resources v. Trump**; Supreme Court heard oral arguments November 5, 2025, decision expected 2026 [Source: Congress.gov]
 
-### September-Present 2025 - Caribbean Drug Boat Strikes
+### September 2025-Present - Caribbean Drug Boat Strikes
 
 - **22+ strikes on boats have killed at least 87 people**
 - **September 2 strike:** After initial strike left two survivors clinging to wreckage, follow-up strike ordered to kill them
