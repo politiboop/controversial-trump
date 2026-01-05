@@ -206,6 +206,61 @@ This document provides detailed source citations for all claims made in the Trum
   - FactCheck.org: https://www.factcheck.org/2025/11/experts-say-democratic-video-not-seditious-as-trump-claims/
   - PolitiFact: https://www.politifact.com/article/2025/nov/20/trump-military-video-unlawful-orders-sedition/
 
+### Tariff Chaos & Corruption (February-Present 2025)
+- **Who Pays Tariffs & Economic Impact**
+  - NPR: https://www.npr.org/2025/02/05/nx-s1-5284991/trump-tariffs-higher-prices-inflation-mexico-canada-china
+  - CBS News: https://www.cbsnews.com/news/trump-tariffs-mexico-canada-china-truth-social/
+  - Tax Foundation (Trump Tariffs Impact): https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/
+  - CNN: https://www.cnn.com/2026/01/03/business/tariffs-prices-2026
+
+- **Tariff Implementation Timeline**
+  - White House (February 1, 2025): https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-imposes-tariffs-on-imports-from-canada-mexico-and-china/
+  - White House (Canada/Mexico March): https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-proceeds-with-tariffs-on-imports-from-canada-and-mexico/
+  - Congress.gov (Presidential Tariff Actions): https://www.congress.gov/crs-product/R48549
+  - Wikipedia (Tariffs in second Trump administration): https://en.wikipedia.org/wiki/Tariffs_in_the_second_Trump_administration
+  - Wikipedia (Liberation Day tariffs): https://en.wikipedia.org/wiki/Liberation_Day_tariffs
+  - Tax Policy Center (Tracking Trump Tariffs): https://taxpolicycenter.org/features/tracking-trump-tariffs
+  - Trade Compliance Resource Hub: https://www.tradecomplianceresourcehub.com/2026/01/02/trump-2-0-tariff-tracker/
+
+- **USMCA Violations & Allies**
+  - Brookings: https://www.brookings.edu/articles/trumps-25-tariffs-on-canada-and-mexico-will-be-a-blow-to-all-3-economies/
+  - Wikipedia (2025 U.S. trade war with Canada/Mexico): https://en.wikipedia.org/wiki/2025_United_States_trade_war_with_Canada_and_Mexico
+  - Economic Policy Institute: https://www.epi.org/policywatch/trump-administration-imposes-large-broad-based-tariffs-on-canada-china-and-mexico/
+  - PBS NewsHour (Timeline): https://www.pbs.org/newshour/economy/a-timeline-of-trumps-tariff-actions-so-far
+
+- **Corruption & Donor Exemptions**
+  - Jacobin: https://jacobin.com/2025/04/tariffs-trump-corruption-trade-war
+  - HuffPost: https://www.huffpost.com/entry/trump-tariffs-corrupt_n_67ef000ee4b0fdd720b69595
+  - ABC News (Sen. Warren): https://abcnews.go.com/Politics/trumps-tariff-policy-chaos-corruption-sen-elizabeth-warren/story?id=120752506
+  - Sen. Warren letter: https://www.warren.senate.gov/imo/media/doc/_corruption.pdf
+  - Sen. Warren (Tim Cook): https://www.warren.senate.gov/newsroom/press-releases/icymi-warren-presses-apple-ceo-tim-cook-on-tariff-special-favors
+
+- **Tech Exemptions (Apple, Tesla)**
+  - Washington Post (Tim Cook/Apple): https://www.washingtonpost.com/business/2025/04/17/apple-iphone-tariff-exemption-trump/
+  - Washington Post (Musk): https://www.washingtonpost.com/business/2025/04/07/musk-trump-tariffs/
+  - CNBC (Electronics exemption): https://www.cnbc.com/amp/2025/04/12/trump-exempts-phones-computers-chips-tariffs-apple-dell.html
+  - CNBC (Chip tariffs): https://www.cnbc.com/2025/09/05/trump-warns-of-fairly-substantial-chip-tariffs-signals-apple-others-safe-ai-tim-cook-tech.html
+  - PhoneArena: https://www.phonearena.com/news/trump-musk-tim-cook-triangle-apple-tariff-exemptions_id164895
+  - WHYY: https://whyy.org/articles/consumer-electronic-excluded-reciprocal-tariffs-trump/
+
+- **Swiss Businessmen Bribery Scandal (November 2025)**
+  - SWI swissinfo.ch (Gold bar diplomacy): https://www.swissinfo.ch/eng/foreign-affairs/swiss-politicians-decry-gold-bar-diplomacy-in-trump-trade-deal/90541517
+  - SWI swissinfo.ch (Swiss law): https://www.swissinfo.ch/eng/foreign-affairs/is-offering-a-rolex-to-a-foreign-official-considered-bribery-under-swiss-law/90585126
+  - Bloomberg: https://www.bloomberg.com/news/articles/2025-11-28/swiss-lawmakers-file-criminal-complaint-over-trump-tariff-gifts
+  - Fortune (Swiss billionaires): https://fortune.com/2025/11/13/swiss-billionaires-trump-tariff-deal/
+  - CounterPunch: https://www.counterpunch.org/2025/12/05/corruption-donald-trump-and-the-swiss/
+  - Yahoo News: https://www.yahoo.com/news/articles/swiss-businessmen-accused-bribing-trump-185129254.html
+  - Le News (Corruption complaint): https://lenews.ch/2025/11/28/corruption-complaint-filed-against-swiss-executives-over-gifts-to-trump/
+  - Daily Beast: https://www.thedailybeast.com/ex-white-house-ethics-chief-richard-painter-says-donald-trumps-switzerland-gold-gifts-look-like-a-bribe/
+  - Newsweek (Bribery probe): https://www.newsweek.com/calls-for-bribery-probe-into-lavish-gifts-given-to-trump-11124763
+
+- **FCPA Suspension & Insider Trading**
+  - Latham & Watkins (FCPA pause): https://www.lathamreg.com/2025/02/week-4-in-review-trade-tariffs-rise-anti-bribery-enforcement-paused/
+  - FINCHANNEL: https://finchannel.com/if-trump-or-officials-traded-on-tariff-policy-knowledge-it-could-be-classified-as-corruption/125216/business-2/markets/2025/04/
+
+- **Legal & Academic Analysis**
+  - Harvard Law School: https://hls.harvard.edu/today/four-harvard-law-experts-examine-the-trump-administrations-policies-on-tariffs-international-business/
+
 ### Venezuela Military Operation (January 2026)
 - **Maduro Capture & U.S. Military Operation**
   - The Hill: https://thehill.com/homenews/administration/5671845-live-updates-donald-trump-venezuela-maduro/

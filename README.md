@@ -1173,6 +1173,53 @@ Experts note Trump's repeated use of **"low IQ" attacks** against Black people p
 - Executive orders targeting law firms that represented Trump opponents
 - Lawsuits against pollsters (Ann Selzer) and media (CBS, ABC)
 
+### February-Present 2025 - Tariff Chaos, Corruption & Lies About Who Pays
+
+- Trump repeatedly claimed tariffs are **"paid by other countries"** and foreign governments send checks to U.S. Treasury [Source: Multiple statements, 2025]
+- **Reality:** Tariffs are taxes paid by **U.S. importers**, not foreign countries [Source: NPR, CBS News, Tax Foundation]
+- **Goldman Sachs analysis:** Tariff costs are **40% paid by U.S. consumers, 40% by U.S. businesses, 20% by foreign exporters** [Source: Tax Foundation]
+- **Peterson Institute:** Trump's tariffs cost typical U.S. family **additional $2,600 per year** [Source: NPR, February 2025]
+- Average tax increase of **$1,200 per U.S. household in 2025**, rising to **$1,400 in 2026** [Source: Tax Foundation]
+- Tariffs on imported consumer goods **passed directly to U.S. customers** [Source: CBS News analysis]
+- **February 1, 2025:** Trump imposed **25% tariffs on Canada and Mexico**, **10% on China** [Source: White House, February 2025]
+- **April 2025:** Average U.S. tariff rate rose from **2.5% to as high as 170%**—**highest level in over a century** [Source: Tax Foundation, Congress.gov]
+- **April 2, 2025:** Claimed unprecedented tariff authority under International Emergency Economic Powers Act (IEEPA) [Source: Wikipedia, Harvard Law School analysis]
+- Overall average effective tariff rate: **16.8% as of November 2025** [Source: Tracking the Trump Tariffs]
+- Tariffs on Canada and Mexico **directly violate USMCA** (United States-Mexico-Canada Agreement) that **Trump himself negotiated** in first term [Source: Brookings, Wikipedia]
+- **Mexico's Secretary of Economy Marcelo Ebrard:** Called tariffs a **"flagrant violation"** of USMCA [Source: Brookings analysis]
+- Tariffs signal to world that **"any international agreement with the U.S. is not worth all that much"** [Source: Economic Policy Institute]
+- Raises questions for all U.S. allies about **value of trade agreements with U.S.** [Source: Brookings]
+- Trump **granting tariff exemption deals to wealthy donors and politically connected businesses** [Source: Jacobin, HuffPost, April 2025]
+- **Study from first term:** Companies requesting tariff waivers were **twice as likely to succeed if their CEOs donated to Republicans** [Source: ABC News, Sen. Warren letter]
+- **April 2025:** Trump **suspended tariffs for electronics**—good news for **Elon Musk** (Tesla, Trump super PAC donor) and **Tim Cook** (Apple CEO who donated **$1 million to Trump inauguration**) [Source: HuffPost, Washington Post]
+- Electronics exemption means smartphones, laptops, chips **not subject to 145% China tariffs or 10% baseline tariffs** [Source: CNBC, WHYY]
+- **Apple investment commitment:** Apple won praise from Trump after committing **$500 billion investment and 20,000 U.S. jobs**—echoing pattern from first term when iPhone exempted from China tariffs after **$350 billion commitment** [Source: Washington Post, CNBC]
+- Tech CEOs (Cook, Musk, Zuckerberg, Bezos, Pichai) **assembled behind Trump at January 20 inauguration** [Source: Washington Post]
+- Trump fired **government watchdog that raised alarm** about exemption corruption [Source: HuffPost]
+- **November 4, 2025:** Swiss businessmen met Trump in Oval Office bearing **Rolex table clock and 1kg gold bar engraved with Trump's name** [Source: Bloomberg, Yahoo News, SWI swissinfo.ch]
+- Executives included **Jean-Frédéric Dufour (Rolex CEO)** and **Marwan Shakarchi (MKS PAMP gold refiner chairman)** among others from Richemont, Partners Group, MSC, Mercuria Energy [Source: Fortune, Bloomberg]
+- Swiss business delegation sought tariff reduction from **39% that caused Swiss exports to collapse by nearly one-third** [Source: Yahoo News, CounterPunch]
+- **One week later (November 13):** Trump lowered tariff on Switzerland from **39% to 15%** [Source: SWI swissinfo.ch, Bloomberg]
+- Swiss also promised **$200 billion U.S. investment over next three years** [Source: Yahoo News]
+- **Green Party MPs Raphael Mahaim and Greta Gysin** filed criminal complaint with Swiss prosecutors asking if gifts violated **Swiss Criminal Code** [Source: Bloomberg, Le News]
+- Swiss attorney general's office confirmed receiving **three criminal complaints** and is reviewing them [Source: Bloomberg]
+- **Former Swiss ambassador Daniel Woker:** "There is a sense from some in Switzerland that this was **very close to corruption**" - added "It shows wheeling and dealing but that is **not how we like to think of ourselves**" [Source: CounterPunch]
+- **Former White House ethics lawyer Richard Painter:** Gold Rolex and gold bar given **week before favorable tariff cut "should trigger a congressional investigation"** [Source: Daily Beast, Newsweek]
+- Gifts estimated worth **tens of thousands of Swiss francs** [Source: Bloomberg]
+- Swiss politicians decried **"gold bar diplomacy"** in Trump trade deal [Source: SWI swissinfo.ch]
+- **Sen. Elizabeth Warren:** "There is no tariff policy. It's just **all chaos and corruption**. That's all we have going on" [Source: ABC News, April 2025]
+- Lawmakers wrote expressing concern Trump's trade policy is becoming **"corrupt scheme to enrich administration officials and those loyal to them"** [Source: Sen. Warren letter to administration]
+- Administration's handling of tariffs **"rife with opportunities to unduly influence President Trump and other administration officials"** [Source: Sen. Warren letter]
+- **February 10, 2025:** Trump signed executive order putting **six-month pause on DOJ enforcement of Foreign Corrupt Practices Act (FCPA)**, which prohibits bribery of foreign government officials [Source: Latham & Watkins legal analysis]
+- AG Pam Bondi charged with preparing new enforcement guidelines [Source: FINCHANNEL]
+- Timing of Trump's social media posts on **April 9, 2025** raised **suspicions of insider trading** [Source: FINCHANNEL]
+- If Trump or officials traded on tariff policy knowledge, **could be classified as corruption** - misuse of position for financial benefit [Source: FINCHANNEL, April 2025]
+- As of April 16, 2025, no conclusive evidence exists on insider trading; investigations ongoing [Source: FINCHANNEL]
+- **Wildly inconsistent country-by-country rates:** China (10%, later reduced), Canada/Mexico (25% despite USMCA), India (50% for buying Russian oil), Vietnam (20%), Philippines (19%), Indonesia (19%), South Korea (15%), Japan (15%) [Source: Congress.gov, White House, Trade Compliance Resource Hub]
+- **Inconsistent and historic nature** of tariff decisions **unsettled markets and caused confusion** [Source: Brookings]
+- Trump's **25% tariffs on Canada and Mexico will be "blow to all 3 economies"** [Source: Brookings analysis]
+- Legal challenges consolidated into **Learning Resources v. Trump**; Supreme Court heard oral arguments November 5, 2025, decision expected 2026 [Source: Congress.gov]
+
 ### September-Present 2025 - Caribbean Drug Boat Strikes
 
 - **22+ strikes on boats have killed at least 87 people**
