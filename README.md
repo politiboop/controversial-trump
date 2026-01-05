@@ -1,7 +1,7 @@
 # Comprehensive Documentation of Trump Controversies
 
 **A Critical Compilation of Issues Raised by the Left and Moderates**
-**Updated December 2025 - Consolidated Edition**
+**Updated January 2026 - Consolidated Edition**
 
 ---
 
@@ -1206,6 +1206,30 @@ Experts note Trump's repeated use of **"low IQ" attacks** against Black people p
 - **$71 million spent on golf in 2025**
 - Average cost: **$3.4 million per trip**
 - Taxpayer money flows directly to Trump properties
+
+### January 3, 2026 - Venezuela Military Operation & "We're Going to Run the Country"
+
+- **January 3, 2026:** Trump announced U.S. military operation to capture Venezuelan President Nicolás Maduro [Source: NPR, CBS News, NBC News, January 2026]
+- Trump described **"extraordinary military operation"** using **"overwhelming military power, air land and sea"** to **"launch a spectacular assault"** against **"heavily fortified military fortress in the heart of Caracas"** [Source: war.gov, CBS News]
+- **Venezuelan casualties:** Both civilians and service members killed; large part of Maduro's security team killed during operation [Source: Venezuelan Defense Minister Padrino López statement]
+- Maduro charged with **drug trafficking and narco-terrorism conspiracies** by AG Pam Bondi; pleaded not guilty [Source: The Hill, January 2026]
+- Trump stated: **"We're in charge"** when asked who is running Venezuela [Source: CBS News, NBC News, January 2026]
+- **"We're going to run the country until such time as we can do a safe, proper and judicious transition"** to new leadership [Source: NBC News, 1News, January 2026]
+- U.S. plans to govern Venezuela with no clear timeline or exit strategy
+- Trump: Operation **"won't cost us anything"** because U.S. oil companies would invest in new infrastructure, **"It's going to make a lot of money"** [Source: 1News, Chatham House, January 2026]
+- Administration serving **"triple goals of crippling Maduro, hitting drug trade routes and getting access to Venezuela oil"** [Source: NPR]
+- Administration expressed interest in Venezuela's **large deposits of gold and rare earth minerals**
+- Critics call it **neo-colonialism** and **resource extraction** disguised as anti-drug operation
+- Trump administration **did not notify Congress in advance** of military operation - **bucks laws and precedents** requiring Congressional notification [Source: NPR, Secretary of State Rubio confirmation]
+- Violates War Powers Resolution requirements [Source: Legal analysis]
+- **Chatham House experts:** May be **"the moment when Western Europe realizes that the U.S. has abandoned the core values that united them for the past century"** [Source: Chatham House analysis, January 2026]
+- **Sen. Mark Warner (D):** "Does this mean any large country can indict the ruler of a smaller adjacent country and take that person out?" [Source: NPR]
+- Raises questions about **sovereignty violations** and **illegal regime change**
+- Setting **dangerous international precedent** for military interventions
+- Trump dismissed **María Corina Machado** (2025 Nobel Peace Prize winner and Venezuelan democratic opposition leader) as **"very nice woman"** who **"doesn't have the support within or the respect within the country"** [Source: CNN, Al Jazeera, January 2026]
+- Trump suggested he'd instead partner with **Maduro loyalist Delcy Rodríguez** as interim president [Source: CNN analysis]
+- **CNN:** "Trump doesn't seem interested in working with Venezuela's opposition" [Source: CNN analysis, January 2026]
+- Critics note Trump ignored democratic processes to install preferred leadership
 
 ---
 

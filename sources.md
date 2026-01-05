@@ -2,7 +2,7 @@
 
 ## Comprehensive Documentation of Trump Controversies
 
-**Last Updated: December 2025**
+**Last Updated: January 2026**
 
 This document provides detailed source citations for all claims made in the Trump Controversies documentation. Where possible, direct links to primary sources are provided.
 
@@ -205,6 +205,27 @@ This document provides detailed source citations for all claims made in the Trum
   - Al Jazeera: https://www.aljazeera.com/news/2025/11/20/punishable-by-death-trump-threatens-democrats-with-sedition-charges
   - FactCheck.org: https://www.factcheck.org/2025/11/experts-say-democratic-video-not-seditious-as-trump-claims/
   - PolitiFact: https://www.politifact.com/article/2025/nov/20/trump-military-video-unlawful-orders-sedition/
+
+### Venezuela Military Operation (January 2026)
+- **Maduro Capture & U.S. Military Operation**
+  - The Hill: https://thehill.com/homenews/administration/5671845-live-updates-donald-trump-venezuela-maduro/
+  - War.gov: https://www.war.gov/News/News-Stories/Article/Article/4370431/trump-announces-us-militarys-capture-of-maduro/
+  - NPR: https://www.npr.org/2026/01/03/nx-s1-5665670/venezuela-strikes-us-maduro
+  - CBS News: https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/
+  - NBC News: https://www.nbcnews.com/politics/white-house/trump-venezuela-nicolas-maduro-strikes-run-country-transition-military-rcna252044
+  - Wikipedia: https://en.wikipedia.org/wiki/2026_United_States_strikes_in_Venezuela
+
+- **"We're Going to Run the Country" Statements**
+  - 1News (New Zealand): https://www.1news.co.nz/2026/01/04/us-plans-to-run-venezuela-and-tap-oil-reserves-trump-says/
+  - NBC News: https://www.nbcnews.com/politics/white-house/trump-venezuela-nicolas-maduro-strikes-run-country-transition-military-rcna252044
+  - CBS News: https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/
+
+- **International Law & Expert Analysis**
+  - Chatham House: https://www.chathamhouse.org/2026/01/us-attacks-venezuela-and-maduro-captured-early-analysis-chatham-house-experts
+  - Al Jazeera fact-check: https://www.aljazeera.com/news/2026/1/4/fact-checking-trump-following-us-capture-of-venezuelas-maduro
+
+- **Opposition Leader & Democratic Process Concerns**
+  - CNN Analysis: https://www.cnn.com/2026/01/03/americas/venezuela-opposition-maduro-trump-analysis-latam-intl
 
 ---
 
@@ -607,7 +628,7 @@ This document provides detailed source citations for all claims made in the Trum
 
 ---
 
-**Last Comprehensive Review**: December 2025
+**Last Comprehensive Review**: January 2026
 **Document Maintained By**: Compilation of publicly available information
 **Corrections**: Open to corrections with proper documentation
 
