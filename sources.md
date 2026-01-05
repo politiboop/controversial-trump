@@ -206,6 +206,69 @@ This document provides detailed source citations for all claims made in the Trum
   - FactCheck.org: https://www.factcheck.org/2025/11/experts-say-democratic-video-not-seditious-as-trump-claims/
   - PolitiFact: https://www.politifact.com/article/2025/nov/20/trump-military-video-unlawful-orders-sedition/
 
+### DOJ Weaponization Against Political Opponents
+
+**Erik Siebert Forced Out:**
+- NPR: https://www.npr.org/2025/09/20/nx-s1-5547837/us-attorney-virginia-resigns-letitia-james-probe
+- CBS News (Investigation launched): https://www.cbsnews.com/news/erik-siebert-us-attorney-house-democrats-investigate-ouster-lindsey-halligan/
+- CBS News (Replacement): https://www.cbsnews.com/news/us-attorney-virginia-letitia-james-trump/
+- VPM: https://www.vpm.org/news/2025-09-21/trump-us-attorney-eastern-district-va-erik-seibert-lindsey-halligan
+- Wikipedia (Erik Siebert): https://en.wikipedia.org/wiki/Erik_Siebert
+
+**Lindsey Halligan Unlawful Appointment:**
+- CNN (63 days with Halligan): https://edition.cnn.com/2025/11/30/politics/rise-fall-lindsey-halligan-63-days-us-attorney-alexandria-virginia
+- CNN (Senior prosecutor removed): https://www.cnn.com/2025/10/13/politics/federal-prosecutor-maggie-cleary-removed
+- Slate (Fake prosecutor): https://slate.com/news-and-politics/2025/11/comey-lindsey-halligan-tish-james-fake-prosecutor.html
+- NPR (Who is Lindsey Halligan): https://www.npr.org/2025/11/25/nx-s1-5620636/lindsey-halligan-us-attorney-unlawful-comey-james
+- Fox News: https://www.foxnews.com/politics/trump-nominates-senior-white-house-aide-top-federal-prosecutor-virginia
+
+**James Comey:**
+- Axios (List of individuals targeted): https://www.axios.com/2025/09/26/trump-justice-department-prosecute-james-comey-adam-schiff-letitia-james
+- ABC News (Targets list): https://abcnews.go.com/US/list-individuals-including-lisa-cook-targeted-trump-administration/story?id=124968309
+
+**Letitia James:**
+- CNN (Indicted): https://www.cnn.com/2025/10/09/politics/letitia-james-grand-jury-trump-indictment
+- NBC News: https://www.nbcnews.com/politics/justice-department/doj-opens-investigation-new-york-ags-office-brought-fraud-case-trump-rcna223731
+
+**Adam Schiff:**
+- CNN (Prosecutors hesitant): https://www.cnn.com/2025/10/23/politics/adam-schiff-investigation-donald-trump-ed-martin
+- CNBC: https://www.cnbc.com/2025/10/23/trump-adam-schiff-mortgage-doj-hayes-maryland.html
+
+**Liz Cheney:**
+- NBC News (GOP report): https://www.nbcnews.com/politics/congress/house-republicans-say-liz-cheney-investigated-jan-6-committee-work-rcna184649
+- The Hill (GOP report): https://thehill.com/homenews/house/5045125-republicans-report-jan-6-committee/
+- ABC News (Trump backs GOP accusation): https://abcnews.go.com/Politics/trump-backs-house-gop-accusation-liz-cheney-tampered/story?id=116900209
+- ABC News (Should be jailed): https://abcnews.go.com/Politics/trump-liz-cheney-jan-6-committee-members-jailed/story?id=108257827
+- CNN (Johnson at odds): https://www.cnn.com/2025/03/12/politics/johnson-loudermilk-trump-january-6-investigation-cheney/index.html
+- PolitiFact (Trump false claim): https://www.politifact.com/factchecks/2025/jan/24/donald-trump/donald-trump-goes-too-far-in-claim-that-jan-6-comm/
+
+**Jack Smith Prosecutors & Law Firms:**
+- ABC News (DOJ fires Smith team): https://abcnews.go.com/Politics/doj-fires-members-special-counsel-jack-smiths-team/story?id=118155822
+- The Hill (Trump calls for prosecution): https://thehill.com/homenews/administration/5572680-trump-targets-biden-officials/
+
+**Jan 6 Committee:**
+- CNN (New investigation): https://www.cnn.com/2025/07/25/politics/house-gop-january-6-investigation
+- NPR (Biden pardons): Multiple sources confirm January 20, 2025 preemptive pardons
+
+**Lawsuits Against Media & Pollsters:**
+- NBC News (Selzer lawsuit): https://www.nbcnews.com/politics/donald-trump/trump-lawsuit-iowa-poll-ann-selzer-des-moines-register-kamala-harris-rcna216078
+- The Hill (Drops suit): https://thehill.com/regulation/court-battles/5377513-trump-drops-suit-iowa-pollster/
+- The Hill (Original lawsuit): https://thehill.com/regulation/court-battles/5043821-donald-trump-des-moines-register-ann-selzer-lawsuit/
+- Deadline: https://deadline.com/2025/06/trump-lawsuit-ann-selzer-iowa-pollster-1236446205/
+- Variety: https://variety.com/2025/politics/news/trump-refiles-lawsuit-selzer-poll-des-moines-register-1236444513/
+- Iowa Public Radio (Free speech defense): https://www.iowapublicradio.org/ipr-news/2025-01-08/free-speech-nonprofit-to-defend-iowa-pollster-ann-selzer-in-lawsuit-from-trump
+- Iowa Public Radio (Original suit): https://www.iowapublicradio.org/ipr-news/2024-12-17/trump-sues-des-moines-register-ann-selzer-iowa-poll-harris-win-election-interference
+- FIRE: https://www.thefire.org/news/fires-defense-pollster-j-ann-selzer-against-donald-trumps-lawsuit-first-amendment-101
+- Columbia Journalism Review (Legal war on journalism): https://www.cjr.org/kicker/lawsuits-journalism-sullivan-selzer-abc-cbs-fcc.php
+- CBS News (Threatens lawsuits): https://www.cbsnews.com/news/trump-threatens-lawsuit-des-moines-register-poll-media/
+
+**Context & Analysis:**
+- International Bar Association: https://www.ibanet.org/US-presidency-weaponised-Department-of-Justice-investigations-prompt-concerns-over-independence
+- NPR (Unease at DOJ): https://www.npr.org/2025/09/22/nx-s1-5550132/trump-justice-department-comey-letitia-james-virginia
+- TIME (Prosecute political enemies): https://time.com/7321683/trump-political-opponents-doj-prosecution/
+- ABC News (DOJ/FBI probing): https://abcnews.go.com/US/doj-fbi-probing-top-trump-administration-officials-investigations/story?id=127602305
+- NPR (Trump official targeting Jan 6 investigators): https://www.npr.org/2025/02/12/g-s1-48193/trump-doj-january-6-cases
+
 ### Tariff Chaos & Corruption (February-Present 2025)
 - **Who Pays Tariffs & Economic Impact**
   - NPR: https://www.npr.org/2025/02/05/nx-s1-5284991/trump-tariffs-higher-prices-inflation-mexico-canada-china
@@ -401,6 +464,40 @@ This document provides detailed source citations for all claims made in the Trum
 - **Attorney General William Barr**: "No evidence of fraud" (December 2020)
 - **CREW Tracking**: 526 times Trump repeated election lies on Truth Social (Jan 2023-April 2024)
 - **CNN defamation case**: Court ruled "big lie" description was accurate (November 2025)
+
+### Multi-Pronged Scheme to Overturn 2020 Election
+
+**Fake Electors Scheme:**
+- Wikipedia (Trump fake electors plot): https://en.wikipedia.org/wiki/Trump_fake_electors_plot
+- The Hill: https://thehill.com/homenews/state-watch/4138124-trumps-fake-electors-7-states-he-lost/
+- CNN (Trump campaign orchestrated): https://www.cnn.com/2022/01/20/politics/trump-campaign-officials-rudy-giuliani-fake-electors/index.html
+- CNN (Fresh insights): https://www.cnn.com/2022/01/12/politics/trump-overturn-2020-election-fake-electoral-college/index.html
+- NBC News (What to know): https://www.nbcnews.com/politics/donald-trump/what-know-fake-electors-trump-indictment-2020-election-rcna98013
+- NBC News (Trump team orchestrated): https://www.nbcnews.com/politics/congress/trump-team-orchestrated-fake-electors-try-overturn-election-jan-6-comm-rcna34605
+- Missouri Independent: https://missouriindependent.com/2023/08/03/how-the-fake-electors-in-seven-states-are-central-to-the-trump-jan-6-indictment/
+- Just Security (Timeline): https://www.justsecurity.org/81939/timeline-false-electors/
+- CREW (Cases against fake electors): https://www.citizensforethics.org/reports-investigations/crew-reports/the-cases-against-fake-electors-and-where-they-stand/
+
+**Georgia Call:**
+- Washington Post (obtained audio): January 2, 2021 call audio and transcript
+- Fulton County indictment: August 2023
+
+**Jack Smith Final Report & Deposition (December 2025-January 2026):**
+- NPR (Final report): https://www.npr.org/2025/01/14/g-s1-42358/trump-jack-smith-election-report
+- NPR (Deposition released): https://www.npr.org/2026/01/01/nx-s1-5664080/in-newly-released-testimony-jack-smith-defends-his-investigations-into-trump
+- NBC News (Criminal scheme): https://www.nbcnews.com/politics/justice-department/jack-smith-tells-congress-prove-trump-engaged-criminal-scheme-overturn-rcna249715
+- PBS (Full deposition): https://www.pbs.org/newshour/politics/read-jack-smiths-full-deposition-on-the-decision-to-indict-trump
+- CNN (Deposition released): https://www.cnn.com/2025/12/31/politics/jack-smith-house-judiciary-committee-deposition-released
+- Axios (Top 5 takeaways): https://www.axios.com/2025/01/14/jack-smith-trump-jan-6-final-report
+- Axios (READ full report): https://www.axios.com/2025/01/14/jack-smith-trump-final-report-jan-6
+- Washington Post (PDF): https://www.washingtonpost.com/national-security/2025/01/14/pdf-trump-jan-6-report-jack-smith/
+- The Hill (READ report): https://thehill.com/regulation/court-battles/5083309-trump-jan-6-investigation-read-jack-smith-report/
+- ABC News (No historical analog): https://abcnews.go.com/Politics/jack-smith-historical-analog-trumps-actions-2020-election/story?id=128819035
+- Lawfare (First Volume): https://www.lawfaremedia.org/article/justice-dept.-releases-first-volume-of-special-counsel-smith-s-final-report
+- First Amendment Encyclopedia: https://firstamendment.mtsu.edu/article/jack-smiths-final-report-on-trump-investigations-2025/
+- WUFT: https://www.wuft.org/2026-01-01/in-newly-released-testimony-jack-smith-defends-his-investigations-into-trump
+- Heather Cox Richardson: https://heathercoxrichardson.substack.com/p/january-3-2026
+- The Hill (Cannon keeps Volume 2 sealed): https://thehill.com/homenews/administration/5660584-judge-cannon-lifts-report-restrictions/
 
 ### Access Hollywood Tape
 - **Released**: October 7, 2016

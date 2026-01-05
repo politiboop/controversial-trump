@@ -1098,13 +1098,27 @@ Experts note Trump's repeated use of **"low IQ" attacks** against Black people p
 - **Over 400,000 Americans died during his term** [Source: CDC COVID Data Tracker; Johns Hopkins University, as of January 20, 2021]
   - *Note: The pandemic emerged in March 2020 (~10 months before term ended). Vaccines became available in December 2020. Attributing all deaths to policy decisions oversimplifies a complex public health crisis.*
 
-### November 2020-January 2021 - Election Denial
+### November 2020-January 2021 - Multi-Pronged Scheme to Overturn Election
 
+- Special Counsel Jack Smith called Trump's effort an **"unprecedented criminal effort"** to overturn the 2020 election [Source: Jack Smith final report, January 2025]
 - Refused to concede after losing to Biden [Source: Election night November 3-4; no concession ever given]
 - Claimed election stolen through widespread fraud despite no evidence [Source: Multiple tweets, speeches, November 2020-January 2021]
 - Filed **over 60 lawsuits**; nearly all dismissed or ruled against [Source: Court records compiled by USA Today, Washington Post]
-- **Georgia call:** Pressured officials to **"find 11,780 votes"** [Source: Recorded phone call, January 2, 2021; Washington Post obtained audio]
-- Organized fake electors scheme in multiple states [Source: DOJ indictments, House Jan 6 Committee evidence, 2022-2023]
+- Knowingly spread **"demonstrably and, in many cases, obviously false"** claims about the election [Source: Jack Smith final report, January 2025]
+- Trump campaign officials, **led by Rudy Giuliani**, orchestrated fake elector scheme in **seven states** Trump lost: Arizona, Georgia, Michigan, Nevada, New Mexico, Pennsylvania, and Wisconsin [Source: CNN, NBC News, House Jan 6 Committee]
+- **84 total fake electors** across seven states signed fraudulent electoral certificates falsely claiming Trump won [Source: Wikipedia, CREW]
+- Trump campaign **lined up supporters to fill elector slots, secured meeting rooms in statehouses, circulated drafts of fake certificates** [Source: CNN, NBC News]
+- Fake electors met on **December 14, 2020** to sign false certificates of ascertainment [Source: Just Security timeline]
+- Intent was to pass fraudulent certificates to Vice President Pence to count **fake electoral ballots instead of authentic certificates** [Source: Missouri Independent, NBC News]
+- **By June 2024:** Dozens of Republican state officials and Trump associates indicted in four states for involvement [Source: CREW]
+- **November 2025:** Trump pardoned **77 people involved in fake electors scheme** [Source: Multiple sources, November 2025]
+- Trump and allies **pressured, threatened and lied to state lawmakers and elections officials** in seven states [Source: DOJ indictments]
+- **Georgia call (January 2, 2021):** Pressured Secretary of State Brad Raffensperger to **"find 11,780 votes"** - exact margin needed to flip Georgia [Source: Recorded phone call, Washington Post obtained audio]
+- Trump: **"I just want to find 11,780 votes, which is one more than we have"** [Source: Call transcript]
+- Georgia officials refused; call led to state criminal indictment [Source: Fulton County indictment, August 2023]
+- Trump pressured Vice President Pence to refuse to certify electoral college results on January 6 [Source: House Jan 6 Committee evidence]
+- After Pence refused to overturn electoral vote count, Trump **"took aim"** at Pence in Jan 6 rally speech and social media [Source: Jack Smith report]
+- Trump's actions **resulted in rioters singling out Pence** chanting **"Where is Pence? Bring Him Out!"** and **"Hang Mike Pence!"** [Source: Jack Smith final report, January 2025]
 
 ### January 6, 2021 - Capitol Attack / Second Impeachment
 
@@ -1165,14 +1179,30 @@ Experts note Trump's repeated use of **"low IQ" attacks** against Black people p
 - Hegseth refused IG interview, denied access to personal phone
 - Administration called damning IG report a **"TOTAL exoneration"**
 
-### DOJ Weaponization
+### DOJ Weaponization Against Political Opponents
 
-- **James Comey:** DOJ opened investigation into former FBI Director who led Russia probe
-- **Letitia James:** Criminal investigation into NY AG who won $454M fraud judgment against Trump
-- **John Bolton:** Investigation into former National Security Adviser who wrote critical book
+- Trump shattered norms by installing loyalists at DOJ and inserting himself into prosecutions at agency that has historically operated with independence from president
+- **More than 100 prosecutors and career lawyers resigned** from DOJ since Trump returned to office - **exodus far exceeding normal turnover** [Source: International Bar Association]
+- **September 2025:** Erik Siebert, career federal prosecutor in Virginia, resigned **under pressure** from Trump administration [Source: NPR, CBS News]
+- Siebert balked at bringing criminal charges against **Letitia James and James Comey** after monthslong investigations found insufficient evidence [Source: NPR, CBS News]
+- Trump told reporters in Oval Office he wanted Siebert **"out"** - hours later, Siebert resigned [Source: NPR]
+- Trump replaced Siebert with **Lindsey Halligan**, senior White House aide and Trump personal attorney with **no prior prosecutorial experience** [Source: CNN, NPR, Fox News]
+- Halligan **quickly secured indictments** against Comey and James after Siebert refused [Source: CNN, ABC News]
+- Federal judge ruled Halligan's appointment **unlawful** - violated federal statute limiting interim U.S. attorneys to 120 days [Source: CNN, Slate, NPR]
+- Judge **dismissed both indictments in their entirety** due to unlawful appointment [Source: CNN, Slate]
+- House Judiciary Democrats launched investigation of Siebert's ouster [Source: CBS News]
+- **James Comey (Former FBI Director):** Indicted in Virginia federal court, charged with **making false statements to Congress** and **obstructing Russia probe investigation**; case **dismissed** due to Halligan's unlawful appointment [Source: Axios, ABC News, CNN, NPR]
+- **Letitia James (NY Attorney General):** Indicted **October 9, 2025** on **bank fraud** and **making false statements to financial institution**; James brought **$454M civil fraud case** against Trump [Source: CNN, NBC News]
+- **Adam Schiff (Democratic Senator, lead manager in first Trump impeachment):** DOJ investigating for alleged **insurance fraud** related to Maryland property; AG Pam Bondi named **Ed Martin as special prosecutor**; **prosecutors hesitant to proceed** with charges [Source: CNN, CNBC]
+- **Liz Cheney (Former GOP Representative):** GOP report recommended FBI investigation for alleged **criminal witness tampering** on Jan 6 committee; Trump said Jan 6 committee members **"should go to jail"**; **January 20, 2025:** Biden gave **preemptive pardons** to all Jan 6 committee members/staffers given Trump's threats [Source: NBC News, The Hill, ABC News, NPR]
+- **John Bolton (Former National Security Adviser):** Investigation opened over **critical book** about Trump administration
+- **Jack Smith prosecutors:** **Late January 2025:** DOJ fired **"over a dozen" officials** from Special Counsel Jack Smith's teams; Trump called for **Jack Smith and Merrick Garland to be prosecuted** [Source: ABC News, The Hill]
+- Trump issued executive orders against **law firms involved with investigations** including **Covington & Burling** (provided Jack Smith legal services); by end of March 2025, **four additional law firms** targeted [Source: ABC News]
+- **July 2025:** At Trump's insistence, GOP launched **new January 6 committee** led by Rep. Barry Loudermilk to re-investigate previous committee's work [Source: CNN]
 - FBI agents fired who investigated Trump
-- Executive orders targeting law firms that represented Trump opponents
-- Lawsuits against pollsters (Ann Selzer) and media (CBS, ABC)
+- **Ann Selzer/Des Moines Register:** Trump sued pollster over Iowa poll showing him trailing Harris by 3 points (he won by 13); claimed poll violated Iowa **consumer fraud statute**; **dropped federal lawsuit June 30, 2025**, refiled in state court to **shield from Anti-SLAPP measure** [Source: NBC News, The Hill, Iowa Public Radio, Variety, Deadline]
+- **ABC News:** Trump brought defamation case after George Stephanopoulos inaccurately described E. Jean Carroll jury determination; **ABC settled for $15 million** [Source: Columbia Journalism Review]
+- **CBS/Paramount:** Trump filed **$20 billion lawsuit** accusing "60 Minutes" of selectively editing Harris interview; parties in settlement negotiations [Source: Columbia Journalism Review]
 
 ### February 2025-Present - Tariff Chaos, Corruption & Lies About Who Pays
 
@@ -1248,6 +1278,24 @@ Experts note Trump's repeated use of **"low IQ" attacks** against Black people p
 - **Rudy Giuliani** - Trump's personal attorney
 - **Mark Meadows** - Former White House Chief of Staff
 - Sidney Powell, John Eastman, Kenneth Chesebro, Jenna Ellis
+
+### December 31, 2025-January 14, 2026 - Jack Smith Report & Deposition Released
+
+- **December 17, 2025:** Special Counsel Jack Smith testified before House Judiciary Committee in **eight-hour closed-door deposition** [Source: CNN, NPR, PBS]
+- **December 31, 2025:** House Judiciary Committee released **255-page transcript and video** of Smith's deposition on New Year's Eve [Source: CNN, NPR]
+- **January 14, 2026:** Justice Department released **Volume 1 of Jack Smith's final report** - 137 pages entitled "Report on Efforts to Interfere with the Lawful Transfer of Power Following the 2020 Presidential Election" [Source: Lawfare, NPR, Axios]
+- Volume 2 regarding classified documents case **remains sealed** by federal judge's order [Source: The Hill, Lawfare]
+- Smith to committee: **"The decision to bring charges against President Trump was mine, but the basis for nine of those charges rests entirely with President Trump and his actions"** [Source: Deposition transcript, PBS]
+- Smith called January 6 **"an attack on the structure of our democracy in which over 140 heroic law enforcement officers were assaulted"** [Source: Deposition transcript]
+- Smith: Trump was **"by a large measure the most culpable and most responsible person in this conspiracy"** [Source: Deposition transcript, NPR]
+- Report conclusion: Evidence would have led to Trump's **conviction at trial**, **"but for Mr. Trump's election and imminent return to the Presidency"** [Source: Final report, NPR, Axios]
+- Report: Trump engaged in **"unprecedented criminal effort"** to overturn 2020 election results [Source: Final report, NBC News, ABC News]
+- Report: Trump knowingly spread **"demonstrably and, in many cases, obviously false"** claims about the election [Source: Final report, NPR]
+- Report: After Pence refused to overturn electoral vote, Trump **"took aim"** at Pence, resulting in rioters chanting **"Where is Pence? Bring Him Out!"** and **"Hang Mike Pence!"** [Source: Final report]
+- Report documented: **140 law enforcement officers assaulted** during Capitol riot; **at least 123 rioters charged** with using deadly weapon or causing serious bodily injury to officers [Source: Final report]
+- Smith stated: **"Nobody within the Department of Justice ever sought to interfere with, or improperly influence, my prosecutorial decision making"** [Source: Final report, ABC News]
+- Smith: **"No historical analog"** for Trump's actions around 2020 election [Source: ABC News]
+- Smith submitted report to DOJ on **January 7, 2026** and resigned on **January 10, 2026** [Source: First Amendment Encyclopedia]
 
 ### Golf Spending
 
