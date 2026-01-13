@@ -189,6 +189,13 @@ This document provides detailed source citations for all claims made in the Trum
 - ABC News: https://abcnews.go.com/Politics/oath-keepers-proud-boys-leaders-prison-after-trump/story?id=117940370
 - Approximately 1,500 pardons including Proud Boys and Oath Keepers leaders
 
+### White House Website January 6 Revisionism (January 2025)
+- **Official White House Page:** https://www.whitehouse.gov/j6/
+- **Archive.org capture (for posterity):** https://web.archive.org/web/20260108/https://www.whitehouse.gov/j6/
+- Page describes January 6 as "peaceful protest turned tragedy" despite documented evidence of violence, deaths, and injuries
+- Claims "Deep State entrapment" and calls prosecutions "political targeting" contradicting DOJ findings and court verdicts
+- This represents official government historical revisionism documented on formal White House website
+
 ### EJ Antoni BLS Nomination & Withdrawal
 - **Nomination (August 2025)**
   - NBC News: https://www.nbcnews.com/politics/trump-administration/trump-plans-nominate-ej-antoni-bureau-labor-statistics-commissioner-rcna224438
@@ -521,6 +528,18 @@ This document provides detailed source citations for all claims made in the Trum
   - Johns Hopkins University tracking
   - 400,000+ deaths by January 20, 2021
 
+
+### Stimulus Checks - Trump's Name on Checks (April 2020)
+- **ABC News (Unprecedented move):** https://abcnews.go.com/Politics/apparently-unprecedented-move-treasury-includes-trumps-coronavirus-stimulus/story?id=70162533
+- **ABC News (Inside story):** https://abcnews.go.com/Politics/inside-donald-trumps-stimulus-checks/story?id=77534116
+- **Newsweek (IRS feared law violation):** https://www.newsweek.com/irs-feared-trump-stimulus-checks-broke-law-1972140
+- **Tax Policy Center (Did it slow down mailing):** https://taxpolicycenter.org/taxvox/did-adding-trumps-name-slow-down-mailing-stimulus-checks-course-it-did
+- **Fortune:** https://fortune.com/2020/04/14/trump-name-on-stimulus-checks-treasury-printing-donald-j-trump-coronavirus-checks-signature-civil-servant/
+- **Slate:** https://slate.com/news-and-politics/2020/04/trump-signature-printed-on-stimulus-checks-irs-treasury.html
+- **RCFP (ABC News lawsuit reveals):** https://www.rcfp.org/trump-covid-checks-abc-news/
+- **Law360:** Trump's Signature Won't Delay Stimulus Checks, IRS Says
+- **Snopes (Fact-check):** https://www.snopes.com/fact-check/trumps-name-stimulus-checks/
+- **Money.com (Follow-up letters):** https://money.com/stimulus-check-letter-donald-trump-irs/
 ### Family Separation Policy
 - **DHS "Zero Tolerance" Policy (April 2018)**
   - DHS memo documentation

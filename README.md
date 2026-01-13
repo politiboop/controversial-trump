@@ -598,7 +598,129 @@ Trump repeatedly made grand promises he never delivered on, demonstrating a patt
 
 ---
 
-## His Own Cabinet Warned America Not to Re-Elect Him
+### Attacks on Women
+
+#### Access Hollywood Tape (2005, released 2016)
+
+- **"I just start kissing them. It's like a magnet. Just kiss. I don't even wait."** [Source: Access Hollywood tape, Washington Post, October 7, 2016]
+- **"And when you're a star, they let you do it. You can do anything."** [Source: Access Hollywood tape]
+- **"Grab 'em by the pussy. You can do anything."** [Source: Access Hollywood tape]
+- Dismissed as "locker room talk" [Source: Trump statement, October 2016]
+
+#### E. Jean Carroll Verdicts
+
+**Note:** These are civil cases (not criminal proceedings). Trump maintains his innocence and denies all allegations. He is appealing the verdicts.
+
+- **2023 verdict:** Civil jury found Trump **sexually abused** Carroll in 1996 Bergdorf Goodman dressing room [Source: U.S. District Court SDNY, May 9, 2023; CNN, New York Times]
+  - Jury did not find rape under New York's legal definition
+  - Judge later stated the finding was "rape" in common understanding
+- **$5 million** awarded for sexual abuse and defamation [Source: Court verdict, May 2023]
+- **2024 verdict:** **$83 million** for additional defamation [Source: Court verdict, January 26, 2024; Reuters]
+- **Total judgments: $88+ million** [Source: Combined court judgments]
+- Appeals court upheld verdict in December 2024 [Source: U.S. Court of Appeals 2nd Circuit, December 2024]
+- Carroll testified Trump blocked her from leaving, then assaulted her [Source: Trial testimony, April-May 2023]
+- **Trump's position:** Denies ever meeting Carroll, calls allegations "a hoax and a lie," maintains he is being targeted politically
+
+#### Attacks on Female Journalists & Public Figures
+
+- **Megyn Kelly:** "You could see there was blood coming out of her eyes. Blood coming out of her wherever." [Source: CNN interview, August 7, 2015]
+- **Mika Brzezinski:** "Low IQ Crazy Mika," "bleeding badly from a face-lift" [Source: Twitter, June 29, 2017]
+- **Katy Tur:** "Little Katy," called her out from rally stage [Source: Multiple rally videos, 2016; Tur memoir "Unbelievable"]
+- **Carly Fiorina:** "Look at that face! Would anyone vote for that?" [Source: Rolling Stone interview, September 2015]
+- **Stormy Daniels:** "Horseface" [Source: Twitter, October 2018]
+- **Heidi Cruz:** Retweeted unflattering photo comparing her to Melania [Source: Twitter, March 2016]
+- **Rosie O'Donnell:** "Fat pig," "dog," "slob," "disgusting animal" [Source: Multiple statements 2006-2016, GOP debate August 2015]
+
+---
+
+### Systematic Attacks on Black Women
+
+Experts note Trump's repeated use of **"low IQ" attacks** against Black people plays into historical racist narratives used to justify slavery and deny Black Americans full humanity. [Source: Race scholars quoted in CNN, Washington Post]
+
+- **Rep. Maxine Waters:** "Extraordinarily low IQ person," "crazy," "unhinged" [Source: Multiple tweets and rally speeches, 2017-2018]
+- **Omarosa Manigault Newman:** Called **"that dog,"** "crazed, crying lowlife," "wacky and deranged" [Source: Twitter, August 14, 2018]
+- **April Ryan:** "Nasty," "loser," "doesn't know what the hell she's doing" [Source: Multiple tweets, 2018-2019]
+- **Abby Phillip (CNN):** "Stupid question" when asking about his loss in 2018 elections [Source: White House exchange, November 2018; video]
+- **Yamiche Alcindor (PBS):** Called her question "racist" [Source: White House press conference, November 2018]
+- **LeBron James & Don Lemon:** "Dumbest man on television" who "made Lebron look smart, which isn't easy to do" [Source: Twitter, August 3, 2018]
+- **Experts:** Comparing Omarosa to "dog" plays into narrative of **"questioning whether or not blacks are truly human beings"** used to justify slavery [Source: Critical race theory scholars quoted in Washington Post, CNN]
+
+---
+
+### Mocking Disabled Reporter (2015)
+
+- Mocked New York Times reporter **Serge Kovaleski** who has arthrogryposis (limits joint movement) [Source: Video evidence, November 2015 rally]
+- Flailed arms, altered voice, contorted face to imitate disability [Source: Video footage, Washington Post, New York Times]
+- Said: **"Now the poor guy, you gotta see this guy"** [Source: Rally transcript, November 24, 2015]
+- Falsely claimed not to know Kovaleski despite years of prior interactions [Source: Trump statements vs. documented interactions]
+- Kovaleski said they had been on **"first-name basis for years"** [Source: New York Times statement, November 2015]
+- **Bloomberg poll:** Voters ranked this Trump's worst offense [Source: Bloomberg Politics poll, December 2015]
+
+---
+
+### Racist & Xenophobic Statements
+
+- **"Shithole countries" (January 2018):** Haiti, El Salvador, African nations - asked **"Why are we having all these people from shithole countries come here?"** [Source: Washington Post, NBC News, January 2018]
+- **"Pocahontas":** Slur for Elizabeth Warren, used at ceremony honoring Navajo Code Talkers at White House [Source: CNN, November 2017]
+- **Campaign launch (2015):** Mexican immigrants **"bringing drugs, bringing crime, they're rapists"** [Source: Washington Post transcript, June 2015]
+- **Charlottesville (2017):** After neo-Nazi "Unite the Right" rally where Heather Heyer was killed, Trump said **"very fine people on both sides"** while also stating **"I'm not talking about the neo-Nazis and the white nationalists; they should be condemned totally"** - widely condemned for creating moral equivalence between white supremacists and counter-protesters [Source: PolitiFact, Washington Post, August 2017]
+- **"Go back" tweets (2019):** Told four congresswomen of color (three born in US) to **"go back"** to their countries [Source: Twitter archive, July 2019]
+- **Central Park Five:** Took out full-page ads calling for death penalty for five Black and Latino teenagers later exonerated by DNA [Source: New York Times, May 1989; DNA exoneration 2002; Netflix documentary "When They See Us"]
+- Refused to apologize even after exoneration [Source: CNN interview, 2016; multiple statements]
+- **Somali attacks (December 2025):** Called Somalis **"garbage,"** said **"the Somalians should be out of here,"** threatened Rep. Omar with deportation despite citizenship, attacked her for wearing hijab [Source: Rally speeches December 2025, CNN, NBC News]
+
+---
+
+### Trump-Epstein Relationship & Files Controversy
+
+**Long History with Jeffrey Epstein**
+
+- **Decades-long friendship:** Partied together in NYC and Palm Beach throughout 1990s-2000s
+- **2002 Trump quote to NY Magazine:** "I've known Jeff for fifteen years. Terrific guy. He's a lot of fun to be with. It is even said that he likes beautiful women as much as I do, and many of them are on the younger side"
+- Flight logs show Trump flew on Epstein's plane **at least 7 times** between 1993-1997
+- Epstein was member of Mar-a-Lago until banned (Trump claims 2007; others say later)
+- **2010 Epstein deposition:** Pleaded the Fifth when asked about socializing with Trump
+
+**Lies and Contradictions About Relationship**
+
+- **July 2019:** "I was not a fan of his, that I can tell you"—contradicts his own 2002 praise
+- Claimed he banned Epstein from Mar-a-Lago **"immediately"** after learning of crimes—timeline disputed
+- **"I had a falling out with him a long time ago"**—but was photographed with him at parties through 2000s
+- Denied knowing about Epstein's crimes despite 2002 comment about liking women "on the younger side"
+- Claimed "I haven't spoken to him in 15 years"—but phone records show calls between them
+
+**The Epstein Files Revelations (2025)**
+
+- **January 2025:** Trump administration initially fought release of remaining DOJ Epstein files
+- Federal judge ordered release over administration objections
+- **Epstein's emails released:** Showed Epstein wrote Trump **"knew about the girls"** and **"spent hours at my house"** with young woman identified as victim
+- Another email: Epstein claimed Trump was **"interested in [victim's name redacted] but she was too old for him"**
+- **Trump's own Attorney General (Bondi)** confirmed authenticity of emails to Congress
+- Multiple cabinet members privately acknowledged Trump appears throughout the files
+
+**Alexander Acosta - The Epstein Deal Connection**
+
+- Trump appointed **Alexander Acosta** as Labor Secretary (2017-2019)
+- Acosta was the prosecutor who gave Epstein controversial **sweetheart plea deal** in 2008
+- Deal gave Epstein only 13 months (served in private wing, allowed to leave 6 days/week for "work")
+- Granted immunity to **"any potential co-conspirators"**—unprecedented for federal case
+- Acosta resigned in 2019 after Epstein re-arrest brought renewed scrutiny
+- When asked why he appointed Acosta, Trump: **"I don't know much about it"**
+
+**Response to Files & Public Reaction**
+
+- Trump called files **"fake"** and **"fabricated"** despite his own DOJ confirming authenticity
+- Attacked judges who ordered release as **"radical left activists"**
+- **Elon Musk tweet (deleted after 10 minutes):** "The files speak for themselves"
+- **65% of voters** disapproved of administration's handling (Reuters poll)
+- Multiple GOP senators called for **"full transparency"** on the files
+- Trump never addressed specific allegations, only attacked process
+
+---
+
+## Part III: Administration Chaos & Corruption
+
+### His Own Cabinet Warned America Not to Re-Elect Him
 
 An unprecedented number of Trump's own senior officials, cabinet members, and military leaders publicly warned Americans against re-electing him. **USA Today:** This level of criticism from former officials had **"no historical precedent in the last century."** **Washington Post:** "No president had ever drawn more detractors from inside his inner-circle." **PBS:** "Without precedent in the modern era." **CNN:** "No person in US politics has such an expansive list of high-profile allies turned enemies."
 
@@ -685,7 +807,7 @@ Three-star Army general, Gulf War hero:
 
 ---
 
-## Historic Cabinet Turnover & Chaos
+### Historic Cabinet Turnover & Chaos
 
 Trump had more turnover in his administration than any president since the Brookings Institution started measuring in 1980. His turnover rate exceeded his five predecessors' full first terms in just **32 months**. NPR analysis found his Cabinet turnover was the highest **"going back 100 years."**
 
@@ -777,7 +899,7 @@ Beyond his own administration, numerous high-profile Republicans, senators, gove
 
 ---
 
-## Unqualified & Dangerous Second-Term Cabinet
+### Unqualified & Dangerous Second-Term Cabinet
 
 Trump's second-term cabinet prioritizes loyalty and television experience over qualifications. **The Guardian:** picks are **"more extreme than those proposed in 2016."** **Politico:** nominees are **"primarily motivated by loyalty."** **Reuters and AP:** "television experience seemed to be a trait that was prioritized." **Center for Science in the Public Interest:** "It's as if Donald Trump is poised to turn over control of our vital health and medical agencies to a clown car full of unqualified quacks."
 
@@ -877,7 +999,7 @@ Former Fox News "Fox & Friends Weekend" co-host with **no experience running lar
 
 ---
 
-## The Elon Musk / DOGE Debacle (2025)
+### The Elon Musk / DOGE Debacle (2025)
 
 Trump handed unprecedented government access to the world's richest man, who held **$300+ billion in federal contracts** while leading efforts to slash government spending. **Ethics expert Richard Painter:** "If he participates in any United States government matter that has a direct and predictable effect on his financial holdings, he commits a crime." Musk later admitted DOGE was only **"somewhat successful"** and said he regretted doing it: **"Instead of doing DOGE, I would have, basically, worked on my companies."**
 
@@ -945,7 +1067,7 @@ Trump handed unprecedented government access to the world's richest man, who hel
 
 ---
 
-## AI-Generated Videos & Deepfakes (2025)
+### AI-Generated Videos & Deepfakes (2025)
 
 **TIME Magazine:** Trump is **"the first world leader to fully deploy AI deepfakes as a core communications strategy."** He has shared dozens of AI-generated images and videos on Truth Social, blurring the line between satire and reality.
 
@@ -968,80 +1090,9 @@ Trump handed unprecedented government access to the world's richest man, who hel
 
 ---
 
-## Attacks on Women
+## Part IV: Chronological Controversies
 
-### Access Hollywood Tape (2005, released 2016)
-
-- **"I just start kissing them. It's like a magnet. Just kiss. I don't even wait."** [Source: Access Hollywood tape, Washington Post, October 7, 2016]
-- **"And when you're a star, they let you do it. You can do anything."** [Source: Access Hollywood tape]
-- **"Grab 'em by the pussy. You can do anything."** [Source: Access Hollywood tape]
-- Dismissed as "locker room talk" [Source: Trump statement, October 2016]
-
-### E. Jean Carroll Verdicts
-
-**Note:** These are civil cases (not criminal proceedings). Trump maintains his innocence and denies all allegations. He is appealing the verdicts.
-
-- **2023 verdict:** Civil jury found Trump **sexually abused** Carroll in 1996 Bergdorf Goodman dressing room [Source: U.S. District Court SDNY, May 9, 2023; CNN, New York Times]
-  - Jury did not find rape under New York's legal definition
-  - Judge later stated the finding was "rape" in common understanding
-- **$5 million** awarded for sexual abuse and defamation [Source: Court verdict, May 2023]
-- **2024 verdict:** **$83 million** for additional defamation [Source: Court verdict, January 26, 2024; Reuters]
-- **Total judgments: $88+ million** [Source: Combined court judgments]
-- Appeals court upheld verdict in December 2024 [Source: U.S. Court of Appeals 2nd Circuit, December 2024]
-- Carroll testified Trump blocked her from leaving, then assaulted her [Source: Trial testimony, April-May 2023]
-- **Trump's position:** Denies ever meeting Carroll, calls allegations "a hoax and a lie," maintains he is being targeted politically
-
-### Attacks on Female Journalists & Public Figures
-
-- **Megyn Kelly:** "You could see there was blood coming out of her eyes. Blood coming out of her wherever." [Source: CNN interview, August 7, 2015]
-- **Mika Brzezinski:** "Low IQ Crazy Mika," "bleeding badly from a face-lift" [Source: Twitter, June 29, 2017]
-- **Katy Tur:** "Little Katy," called her out from rally stage [Source: Multiple rally videos, 2016; Tur memoir "Unbelievable"]
-- **Carly Fiorina:** "Look at that face! Would anyone vote for that?" [Source: Rolling Stone interview, September 2015]
-- **Stormy Daniels:** "Horseface" [Source: Twitter, October 2018]
-- **Heidi Cruz:** Retweeted unflattering photo comparing her to Melania [Source: Twitter, March 2016]
-- **Rosie O'Donnell:** "Fat pig," "dog," "slob," "disgusting animal" [Source: Multiple statements 2006-2016, GOP debate August 2015]
-
----
-
-## Systematic Attacks on Black Women
-
-Experts note Trump's repeated use of **"low IQ" attacks** against Black people plays into historical racist narratives used to justify slavery and deny Black Americans full humanity. [Source: Race scholars quoted in CNN, Washington Post]
-
-- **Rep. Maxine Waters:** "Extraordinarily low IQ person," "crazy," "unhinged" [Source: Multiple tweets and rally speeches, 2017-2018]
-- **Omarosa Manigault Newman:** Called **"that dog,"** "crazed, crying lowlife," "wacky and deranged" [Source: Twitter, August 14, 2018]
-- **April Ryan:** "Nasty," "loser," "doesn't know what the hell she's doing" [Source: Multiple tweets, 2018-2019]
-- **Abby Phillip (CNN):** "Stupid question" when asking about his loss in 2018 elections [Source: White House exchange, November 2018; video]
-- **Yamiche Alcindor (PBS):** Called her question "racist" [Source: White House press conference, November 2018]
-- **LeBron James & Don Lemon:** "Dumbest man on television" who "made Lebron look smart, which isn't easy to do" [Source: Twitter, August 3, 2018]
-- **Experts:** Comparing Omarosa to "dog" plays into narrative of **"questioning whether or not blacks are truly human beings"** used to justify slavery [Source: Critical race theory scholars quoted in Washington Post, CNN]
-
----
-
-## Mocking Disabled Reporter (2015)
-
-- Mocked New York Times reporter **Serge Kovaleski** who has arthrogryposis (limits joint movement) [Source: Video evidence, November 2015 rally]
-- Flailed arms, altered voice, contorted face to imitate disability [Source: Video footage, Washington Post, New York Times]
-- Said: **"Now the poor guy, you gotta see this guy"** [Source: Rally transcript, November 24, 2015]
-- Falsely claimed not to know Kovaleski despite years of prior interactions [Source: Trump statements vs. documented interactions]
-- Kovaleski said they had been on **"first-name basis for years"** [Source: New York Times statement, November 2015]
-- **Bloomberg poll:** Voters ranked this Trump's worst offense [Source: Bloomberg Politics poll, December 2015]
-
----
-
-## Racist & Xenophobic Statements
-
-- **"Shithole countries" (January 2018):** Haiti, El Salvador, African nations - asked **"Why are we having all these people from shithole countries come here?"** [Source: Washington Post, NBC News, January 2018]
-- **"Pocahontas":** Slur for Elizabeth Warren, used at ceremony honoring Navajo Code Talkers at White House [Source: CNN, November 2017]
-- **Campaign launch (2015):** Mexican immigrants **"bringing drugs, bringing crime, they're rapists"** [Source: Washington Post transcript, June 2015]
-- **Charlottesville (2017):** After neo-Nazi "Unite the Right" rally where Heather Heyer was killed, Trump said **"very fine people on both sides"** while also stating **"I'm not talking about the neo-Nazis and the white nationalists; they should be condemned totally"** - widely condemned for creating moral equivalence between white supremacists and counter-protesters [Source: PolitiFact, Washington Post, August 2017]
-- **"Go back" tweets (2019):** Told four congresswomen of color (three born in US) to **"go back"** to their countries [Source: Twitter archive, July 2019]
-- **Central Park Five:** Took out full-page ads calling for death penalty for five Black and Latino teenagers later exonerated by DNA [Source: New York Times, May 1989; DNA exoneration 2002; Netflix documentary "When They See Us"]
-- Refused to apologize even after exoneration [Source: CNN interview, 2016; multiple statements]
-- **Somali attacks (December 2025):** Called Somalis **"garbage,"** said **"the Somalians should be out of here,"** threatened Rep. Omar with deportation despite citizenship, attacked her for wearing hijab [Source: Rally speeches December 2025, CNN, NBC News]
-
----
-
-## First Term Controversies (2017-2021)
+### First Term Controversies (2017-2021)
 
 ### January 27, 2017 - Muslim Ban / Travel Ban (Executive Order 13769)
 
@@ -1131,11 +1182,26 @@ Experts note Trump's repeated use of **"low IQ" attacks** against Black people p
 - **7 Republican senators voted to convict** - most bipartisan impeachment vote in history [Source: Senate vote, February 13, 2021]
 - **Over 1,500 people subsequently charged** with federal crimes [Source: DOJ Jan 6 prosecution database]
 
+### April 2020 - Trump's Name on Stimulus Checks
+
+- Treasury added **"President Donald J. Trump"** to memo line of **~70 million paper stimulus checks** [Source: ABC News, Treasury officials]
+- **First time in history** a president's name appeared on IRS payment [Source: ABC News]
+- Treasury Secretary **Mnuchin instructed IRS** to add Trump's name [Source: Internal emails revealed in ABC News lawsuit]
+- **IRS officials said change would "probably lead to a delay"** in first batch of paper checks [Source: Senior IRS officials, Washington Post]
+- Required **time-consuming reprogramming** of computer systems and check redesign [Source: ABC News]
+- **IRS sought legal advice** about potential Hatch Act violations - officials concerned about politicizing agency [Source: Newsweek, internal emails]
+- Lawyers concluded **"no clear legal prohibition"** but concerns remained about precedent
+- Trump also sent **follow-up letters** with his signature to stimulus recipients [Source: Multiple outlets]
+- Name appeared as "President Donald J. Trump" on memo line, not as official signature [Source: Treasury Department]
 ---
 
-## Second Term Controversies (2025-Present)
+### Second Term Controversies (2025-Present)
 
-### January 17, 2025 - $TRUMP Meme Coin
+Trump's second term has been marked by systematic corruption, abuse of the pardon power, weaponization of the justice system against political opponents, deadly immigration enforcement operations, reckless military actions, and basic governance failures—revealing a pattern of authoritarian behavior and disregard for democratic norms.
+
+#### Corruption & Financial Conflicts
+
+**$TRUMP Meme Coin (January 17, 2025)**
 
 - Launched cryptocurrency **3 days before inauguration**
 - Trump and affiliates control **80% of coin supply**
@@ -1145,7 +1211,68 @@ Experts note Trump's repeated use of **"low IQ" attacks** against Black people p
 - **Sen. Chris Murphy:** "Single most corrupt act ever committed by a president"
 - Allows anonymous foreign money to flow directly to president
 
-### January 20, 2025 - Mass Pardons for January 6 Defendants
+**Qatar $400M Plane Gift**
+
+- Qatar offered Trump customized Boeing 747 worth **$400 million**
+- **Ethics expert Norm Eisen:** "Largest foreign bribe to a president in American history"
+- Qatar controls significant energy resources and hosts major US military base
+
+**Tariff Chaos, Corruption & Lies About Who Pays (February 2025-Present)**
+
+- Trump repeatedly claimed tariffs are **"paid by other countries"** and foreign governments send checks to U.S. Treasury [Source: Multiple statements, 2025]
+- **Reality:** Tariffs are taxes paid by **U.S. importers**, not foreign countries [Source: NPR, CBS News, Tax Foundation]
+- **Goldman Sachs analysis:** Tariff costs are **40% paid by U.S. consumers, 40% by U.S. businesses, 20% by foreign exporters** [Source: Tax Foundation]
+- **Peterson Institute:** Trump's tariffs cost typical U.S. family **additional $2,600 per year** [Source: NPR, February 2025]
+- Average tax increase of **$1,200 per U.S. household in 2025**, rising to **$1,400 in 2026** [Source: Tax Foundation]
+- Tariffs on imported consumer goods **passed directly to U.S. customers** [Source: CBS News analysis]
+- **February 1, 2025:** Trump imposed **25% tariffs on Canada and Mexico**, **10% on China** [Source: White House, February 2025]
+- **April 2025:** Average U.S. tariff rate rose from **2.5% to as high as 170%**—**highest level in over a century** [Source: Tax Foundation, Congress.gov]
+- **April 2, 2025:** Claimed unprecedented tariff authority under International Emergency Economic Powers Act (IEEPA) [Source: Wikipedia, Harvard Law School analysis]
+- Overall average effective tariff rate: **16.8% as of November 2025** [Source: Tracking the Trump Tariffs]
+- Tariffs on Canada and Mexico **directly violate USMCA** (United States-Mexico-Canada Agreement) that **Trump himself negotiated** in first term [Source: Brookings, Wikipedia]
+- **Mexico's Secretary of Economy Marcelo Ebrard:** Called tariffs a **"flagrant violation"** of USMCA [Source: Brookings analysis]
+- Tariffs signal to world that **"any international agreement with the U.S. is not worth all that much"** [Source: Economic Policy Institute]
+- Raises questions for all U.S. allies about **value of trade agreements with U.S.** [Source: Brookings]
+- Trump **granting tariff exemption deals to wealthy donors and politically connected businesses** [Source: Jacobin, HuffPost, April 2025]
+- **Study from first term:** Companies requesting tariff waivers were **twice as likely to succeed if their CEOs donated to Republicans** [Source: ABC News, Sen. Warren letter]
+- **April 2025:** Trump **suspended tariffs for electronics**—good news for **Elon Musk** (Tesla, Trump super PAC donor) and **Tim Cook** (Apple CEO who donated **$1 million to Trump inauguration**) [Source: HuffPost, Washington Post]
+- Electronics exemption means smartphones, laptops, chips **not subject to 145% China tariffs or 10% baseline tariffs** [Source: CNBC, WHYY]
+- **Apple investment commitment:** Apple won praise from Trump after committing **$500 billion investment and 20,000 U.S. jobs**—echoing pattern from first term when iPhone exempted from China tariffs after **$350 billion commitment** [Source: Washington Post, CNBC]
+- Tech CEOs (Cook, Musk, Zuckerberg, Bezos, Pichai) **assembled behind Trump at January 20 inauguration** [Source: Washington Post]
+- Trump fired **government watchdog that raised alarm** about exemption corruption [Source: HuffPost]
+- **November 4, 2025:** Swiss businessmen met Trump in Oval Office bearing **Rolex table clock and 1kg gold bar engraved with Trump's name** [Source: Bloomberg, Yahoo News, SWI swissinfo.ch]
+- Executives included **Jean-Frédéric Dufour (Rolex CEO)** and **Marwan Shakarchi (MKS PAMP gold refiner chairman)** among others from Richemont, Partners Group, MSC, Mercuria Energy [Source: Fortune, Bloomberg]
+- Swiss business delegation sought tariff reduction from **39% that caused Swiss exports to collapse by nearly one-third** [Source: Yahoo News, CounterPunch]
+- **One week later (November 13):** Trump lowered tariff on Switzerland from **39% to 15%** [Source: SWI swissinfo.ch, Bloomberg]
+- Swiss also promised **$200 billion U.S. investment over next three years** [Source: Yahoo News]
+- **Green Party MPs Raphael Mahaim and Greta Gysin** filed criminal complaint with Swiss prosecutors asking if gifts violated **Swiss Criminal Code** [Source: Bloomberg, Le News]
+- Swiss attorney general's office confirmed receiving **three criminal complaints** and is reviewing them [Source: Bloomberg]
+- **Former Swiss ambassador Daniel Woker:** "There is a sense from some in Switzerland that this was **very close to corruption**" - added "It shows wheeling and dealing but that is **not how we like to think of ourselves**" [Source: CounterPunch]
+- **Former White House ethics lawyer Richard Painter:** Gold Rolex and gold bar given **week before favorable tariff cut "should trigger a congressional investigation"** [Source: Daily Beast, Newsweek]
+- Gifts estimated worth **tens of thousands of Swiss francs** [Source: Bloomberg]
+- Swiss politicians decried **"gold bar diplomacy"** in Trump trade deal [Source: SWI swissinfo.ch]
+- **Sen. Elizabeth Warren:** "There is no tariff policy. It's just **all chaos and corruption**. That's all we have going on" [Source: ABC News, April 2025]
+- Lawmakers wrote expressing concern Trump's trade policy is becoming **"corrupt scheme to enrich administration officials and those loyal to them"** [Source: Sen. Warren letter to administration]
+- Administration's handling of tariffs **"rife with opportunities to unduly influence President Trump and other administration officials"** [Source: Sen. Warren letter]
+- **February 10, 2025:** Trump signed executive order putting **six-month pause on DOJ enforcement of Foreign Corrupt Practices Act (FCPA)**, which prohibits bribery of foreign government officials [Source: Latham & Watkins legal analysis]
+- AG Pam Bondi charged with preparing new enforcement guidelines [Source: FINCHANNEL]
+- Timing of Trump's social media posts on **April 9, 2025** raised **suspicions of insider trading** [Source: FINCHANNEL]
+- If Trump or officials traded on tariff policy knowledge, **could be classified as corruption** - misuse of position for financial benefit [Source: FINCHANNEL, April 2025]
+- As of April 16, 2025, no conclusive evidence exists on insider trading; investigations ongoing [Source: FINCHANNEL]
+- **Wildly inconsistent country-by-country rates:** China (10%, later reduced), Canada/Mexico (25% despite USMCA), India (50% for buying Russian oil), Vietnam (20%), Philippines (19%), Indonesia (19%), South Korea (15%), Japan (15%) [Source: Congress.gov, White House, Trade Compliance Resource Hub]
+- **Inconsistent and historic nature** of tariff decisions **unsettled markets and caused confusion** [Source: Brookings]
+- Trump's **25% tariffs on Canada and Mexico will be "blow to all 3 economies"** [Source: Brookings analysis]
+- Legal challenges consolidated into **Learning Resources v. Trump**; Supreme Court heard oral arguments November 5, 2025, decision expected 2026 [Source: Congress.gov]
+
+**Golf Spending (2025)**
+
+- **$71 million spent on golf in 2025**
+- Average cost: **$3.4 million per trip**
+- Taxpayer money flows directly to Trump properties
+
+#### Pardons & Justice System Weaponization
+
+**Mass Pardons for January 6 Defendants (January 20, 2025)**
 
 - **~1,500 people granted blanket clemency**
 - Included leaders of Oath Keepers and Proud Boys convicted of seditious conspiracy
@@ -1154,6 +1281,81 @@ Experts note Trump's repeated use of **"low IQ" attacks** against Black people p
 - Removed restitution requirements costing victims estimated **$1.3 billion**
 - Capitol Police condemned pardons
 - Some pardoned individuals later arrested for new violent crimes
+
+**Drug Kingpin Pardons**
+
+- **Ross Ulbricht (Silk Road):** Created dark web marketplace enabling $200M+ in drug sales; 6 murder-for-hire plots
+- **Larry Hoover (Gangster Disciples):** Led Chicago gang responsible for thousands of deaths
+- **Juan Orlando Hernández:** Former Honduras president convicted of accepting $400 tons of cocaine from cartels; turned Honduras into "narco-state"
+- **Sen. Thom Tillis (R):** Hernández pardon "runs counter" to anti-cartel messaging
+
+**Fake Electors Pardons (November 2025)**
+
+- **77 people involved in 2020 fake electors scheme pardoned**
+- **Rudy Giuliani** - Trump's personal attorney
+- **Mark Meadows** - Former White House Chief of Staff
+- Sidney Powell, John Eastman, Kenneth Chesebro, Jenna Ellis
+
+**DOJ Weapon**ization Against Political Opponents**
+
+- Trump shattered norms by installing loyalists at DOJ and inserting himself into prosecutions at agency that has historically operated with independence from president
+- **More than 100 prosecutors and career lawyers resigned** from DOJ since Trump returned to office - **exodus far exceeding normal turnover** [Source: International Bar Association]
+- **September 2025:** Erik Siebert, career federal prosecutor in Virginia, resigned **under pressure** from Trump administration [Source: NPR, CBS News]
+- Siebert balked at bringing criminal charges against **Letitia James and James Comey** after monthslong investigations found insufficient evidence [Source: NPR, CBS News]
+- Trump told reporters in Oval Office he wanted Siebert **"out"** - hours later, Siebert resigned [Source: NPR]
+- Trump replaced Siebert with **Lindsey Halligan**, senior White House aide and Trump personal attorney with **no prior prosecutorial experience** [Source: CNN, NPR, Fox News]
+- Halligan **quickly secured indictments** against Comey and James after Siebert refused [Source: CNN, ABC News]
+- Federal judge ruled Halligan's appointment **unlawful** - violated federal statute limiting interim U.S. attorneys to 120 days [Source: CNN, Slate, NPR]
+- Judge **dismissed both indictments in their entirety** due to unlawful appointment [Source: CNN, Slate]
+- House Judiciary Democrats launched investigation of Siebert's ouster [Source: CBS News]
+- **James Comey (Former FBI Director):** Indicted in Virginia federal court, charged with **making false statements to Congress** and **obstructing Russia probe investigation**; case **dismissed** due to Halligan's unlawful appointment [Source: Axios, ABC News, CNN, NPR]
+- **Letitia James (NY Attorney General):** Indicted **October 9, 2025** on **bank fraud** and **making false statements to financial institution**; James brought **$454M civil fraud case** against Trump [Source: CNN, NBC News]
+- **Adam Schiff (Democratic Senator, lead manager in first Trump impeachment):** DOJ investigating for alleged **insurance fraud** related to Maryland property; AG Pam Bondi named **Ed Martin as special prosecutor**; **prosecutors hesitant to proceed** with charges [Source: CNN, CNBC]
+- **Liz Cheney (Former GOP Representative):** GOP report recommended FBI investigation for alleged **criminal witness tampering** on Jan 6 committee; Trump said Jan 6 committee members **"should go to jail"**; **January 20, 2025:** Biden gave **preemptive pardons** to all Jan 6 committee members/staffers given Trump's threats [Source: NBC News, The Hill, ABC News, NPR]
+- **John Bolton (Former National Security Adviser):** Investigation opened over **critical book** about Trump administration
+- **Jack Smith prosecutors:** **Late January 2025:** DOJ fired **"over a dozen" officials** from Special Counsel Jack Smith's teams; Trump called for **Jack Smith and Merrick Garland to be prosecuted** [Source: ABC News, The Hill]
+- Trump issued executive orders against **law firms involved with investigations** including **Covington & Burling** (provided Jack Smith legal services); by end of March 2025, **four additional law firms** targeted [Source: ABC News]
+- **July 2025:** At Trump's insistence, GOP launched **new January 6 committee** led by Rep. Barry Loudermilk to re-investigate previous committee's work [Source: CNN]
+- FBI agents fired who investigated Trump
+- **Ann Selzer/Des Moines Register:** Trump sued pollster over Iowa poll showing him trailing Harris by 3 points (he won by 13); claimed poll violated Iowa **consumer fraud statute**; **dropped federal lawsuit June 30, 2025**, refiled in state court to **shield from Anti-SLAPP measure** [Source: NBC News, The Hill, Iowa Public Radio, Variety, Deadline]
+- **ABC News:** Trump brought defamation case after George Stephanopoulos inaccurately described E. Jean Carroll jury determination; **ABC settled for $15 million** [Source: Columbia Journalism Review]
+- **CBS/Paramount:** Trump filed **$20 billion lawsuit** accusing "60 Minutes" of selectively editing Harris interview; parties in settlement negotiations [Source: Columbia Journalism Review]
+
+**Jack Smith Report & Deposition Released (December 2025-January 2025)**
+
+- **December 17, 2025:** Special Counsel Jack Smith testified before House Judiciary Committee in **eight-hour closed-door deposition** [Source: CNN, NPR, PBS]
+- **December 31, 2025:** House Judiciary Committee released **255-page transcript and video** of Smith's deposition on New Year's Eve [Source: CNN, NPR]
+- **January 14, 2025:** Justice Department released **Volume 1 of Jack Smith's final report** - 137 pages entitled "Report on Efforts to Interfere with the Lawful Transfer of Power Following the 2020 Presidential Election" [Source: Lawfare, NPR, Axios]
+- Volume 2 regarding classified documents case **remains sealed** by federal judge's order [Source: The Hill, Lawfare]
+- Smith to committee: **"The decision to bring charges against President Trump was mine, but the basis for nine of those charges rests entirely with President Trump and his actions"** [Source: Deposition transcript, PBS]
+- Smith called January 6 **"an attack on the structure of our democracy in which over 140 heroic law enforcement officers were assaulted"** [Source: Deposition transcript]
+- Smith: Trump was **"by a large measure the most culpable and most responsible person in this conspiracy"** [Source: Deposition transcript, NPR]
+- Report conclusion: Evidence would have led to Trump's **conviction at trial**, **"but for Mr. Trump's election and imminent return to the Presidency"** [Source: Final report, NPR, Axios]
+- Report: Trump engaged in **"unprecedented criminal effort"** to overturn 2020 election results [Source: Final report, NBC News, ABC News]
+- Report: Trump knowingly spread **"demonstrably and, in many cases, obviously false"** claims about the election [Source: Final report, NPR]
+- Report: After Pence refused to overturn electoral vote, Trump **"took aim"** at Pence, resulting in rioters chanting **"Where is Pence! Bring Him Out!"** and **"Hang Mike Pence!"** [Source: Final report]
+- Report documented: **140 law enforcement officers assaulted** during Capitol riot; **at least 123 rioters charged** with using deadly weapon or causing serious bodily injury to officers [Source: Final report]
+- Smith stated: **"Nobody within the Department of Justice ever sought to interfere with, or improperly influence, my prosecutorial decision making"** [Source: Final report, ABC News]
+- Smith: **"No historical analog"** for Trump's actions around 2020 election [Source: ABC News]
+- Smith submitted report to DOJ on **January 7, 2025** and resigned on **January 10, 2025** [Source: First Amendment Encyclopedia]
+
+#### Immigration & Border Enforcement Abuses
+
+**ICE Enforcement: Shootings, Deaths & Wrongful Detentions of U.S. Citizens**
+
+Trump's second-term immigration enforcement operations have resulted in **at least 16 ICE shooting incidents** since January 2025, **four deaths**, wrongful detentions of U.S. citizens, and deportations of American citizen children—all accompanied by false statements and character assassination from the White House and DHS before investigations were completed.
+
+**Fatal Shooting of Renee Good - Character Assassination Without Investigation (January 7, 2026)**
+- Claims **"Deep State entrapment, media deception"** were responsible
+- Calls attendees **"patriotic Americans"** and **"peaceful protesters"**
+- Characterizes prosecutions as **"political targeting"** by **"weaponized Biden DOJ"**
+- Claims participants were merely **"trespassers"** exercising **"First Amendment rights"**
+- Alleges Democrats orchestrated **"the real insurrection"**
+- Blames Nancy Pelosi for **"catastrophic security failures"**
+- States pardons **"corrected a historic wrong"** and restored **"fairness under the law"**
+- **Contradicts documented evidence:** 5 people died, 140+ police officers injured with traumatic brain injuries, over 1,500 charged with federal crimes, Proud Boys and Oath Keepers convicted of seditious conspiracy, 
+- video evidence of violence and mob chanting "Hang Mike Pence" [Source: See lines 1123-1132 of this document]
+- This represents **official government historical revisionism** - not just Trump statements, but formal White House position
 
 ### Drug Kingpin Pardons
 
@@ -1203,6 +1405,92 @@ Experts note Trump's repeated use of **"low IQ" attacks** against Black people p
 - **Ann Selzer/Des Moines Register:** Trump sued pollster over Iowa poll showing him trailing Harris by 3 points (he won by 13); claimed poll violated Iowa **consumer fraud statute**; **dropped federal lawsuit June 30, 2025**, refiled in state court to **shield from Anti-SLAPP measure** [Source: NBC News, The Hill, Iowa Public Radio, Variety, Deadline]
 - **ABC News:** Trump brought defamation case after George Stephanopoulos inaccurately described E. Jean Carroll jury determination; **ABC settled for $15 million** [Source: Columbia Journalism Review]
 - **CBS/Paramount:** Trump filed **$20 billion lawsuit** accusing "60 Minutes" of selectively editing Harris interview; parties in settlement negotiations [Source: Columbia Journalism Review]
+
+### ICE Enforcement: Shootings, Deaths & Wrongful Detentions of U.S. Citizens
+
+Trump's second-term immigration enforcement operations have resulted in **at least 16 ICE shooting incidents** since January 2025, **four deaths**, wrongful detentions of U.S. citizens, and deportations of American citizen children—all accompanied by false statements and character assassination from the White House and DHS before investigations were completed.
+
+#### Fatal Shooting of Renee Good - Character Assassination Without Investigation (January 7, 2026)
+
+**The Incident:**
+- **January 7, 2026:** Renee Nicole Good, a **37-year-old U.S. citizen** and mother of three, was fatally shot by ICE agent Jonathan Ross in Minneapolis, Minnesota [Source: [MPR News](https://www.mprnews.org/story/2026/01/07/shooting-south-minneapolis-ice-agents-federal-operation), [CNN](https://www.cnn.com/2026/01/08/us/renee-nicole-good-minneapolis-ice-shooting-hnk)]
+- Good had dropped off her 6-year-old son at school before she was killed [Source: [Washington Post](https://www.washingtonpost.com/nation/2026/01/09/ice-shooting-victim-minneapolis/)]
+- She stopped in a tree-lined south Minneapolis street to support neighbors during an ICE operation, using whistle blasts to alert community members [Source: [Washington Post](https://www.washingtonpost.com/nation/2026/01/09/ice-shooting-victim-minneapolis/)]
+- Good partially blocked traffic, then motioned for unmarked government vehicles to pass [Source: [CNN](https://www.cnn.com/2026/01/10/us/ice-shooting-minneapolis-renee-good)]
+
+**Video Evidence Contradicts Government Claims:**
+- **47-second video** from agent's perspective shows Good spoke to ICE officer before he shot her [Source: [Washington Post](https://www.washingtonpost.com/investigations/2026/01/09/moments-before-ice-shooting-minneapolis/)]
+- Video shows Good turning her vehicle's steering wheel **to the right, away from the agent**, just over one second before first shot fired [Source: [Washington Post](https://www.washingtonpost.com/investigations/2026/01/09/moments-before-ice-shooting-minneapolis/), [NPR](https://www.npr.org/2026/01/10/g-s1-105387/new-video-minnesota-shooting-officer-perspective)]
+- Split second before gunfire, Good's wife urged her to drive away from the scene [Source: [Washington Post](https://www.washingtonpost.com/investigations/2026/01/09/moments-before-ice-shooting-minneapolis/)]
+- Agent able to walk away from scene without assistance [Source: Multiple sources]
+
+**Immediate Character Assassination - No Investigation:**
+- **Within hours of the shooting**, Department of Homeland Security and Secretary Kristi Noem labeled Good's actions an **"act of domestic terrorism"** before any investigation [Source: [PBS NewsHour](https://www.pbs.org/newshour/politics/experts-question-noem-calling-good-a-domestic-terrorist-heres-what-the-term-means), [PolitiFact](https://www.politifact.com/article/2026/jan/08/Renee-Good-Noem-domestic-terrorism-Minneapolis/)]
+- **Kristi Noem claimed** Good "weaponize(d) her vehicle" and "attempted to run" over an officer [Source: [CNBC](https://www.cnbc.com/2026/01/11/ice-minneapolis-shooting-noem.html)]
+- **Trump falsely claimed** Good "violently, willfully, and viciously ran over the ICE Officer" [Source: Multiple sources]
+- **Video evidence shows** Good's car did not knock down the officer, contradicting both Noem and Trump's statements [Source: Multiple sources]
+
+**Minnesota Officials Dispute Federal Account:**
+- **Minneapolis Mayor Jacob Frey** reviewed video and stated regarding DHS claim Good was weaponizing her vehicle: **"Having seen the video myself, I want to tell everybody directly that is bullshit"** [Source: [Wikipedia](https://en.wikipedia.org/wiki/Killing_of_Ren%C3%A9e_Good)]
+- **Minnesota Governor Tim Walz** disputed ICE's account [Source: [Washington Post](https://www.washingtonpost.com/politics/2026/01/11/rene-good-ice-shooting-investigation/)]
+- **Minnesota Attorney General Keith Ellison** said Noem's "domestic terrorism" characterization is **"an abuse of the term"** [Source: [PBS NewsHour](https://www.pbs.org/newshour/politics/experts-question-noem-calling-good-a-domestic-terrorist-heres-what-the-term-means)]
+
+**Federal Obstruction of Investigation:**
+- FBI **revoked** Minnesota Bureau of Criminal Apprehension's access to evidence, reversing earlier agreement for joint investigation [Source: [Wikipedia](https://en.wikipedia.org/wiki/Killing_of_Ren%C3%A9e_Good)]
+- Federal and Minneapolis authorities in standoff over investigation [Source: [Washington Post](https://www.washingtonpost.com/politics/2026/01/11/rene-good-ice-shooting-investigation/)]
+
+**Noem's Response:**
+- Instead of investigating, Noem announced deployment of **hundreds more federal agents** to Minneapolis [Source: [Axios](https://www.axios.com/2026/01/11/noem-minneapolis-shooting-renee-good-jonathan-ross), [CNBC](https://www.cnbc.com/2026/01/11/ice-minneapolis-shooting-noem.html)]
+- Noem defended her statements in CNN interview [Source: [CNN](https://www.cnn.com/2026/01/11/politics/video/kristi-noem-renee-good-killing-interview-digvid)]
+- **"Border czar" Tom Homan** said Good's actions "could fall within that definition" of domestic terrorism [Source: [NBC News](https://www.nbcnews.com/politics/politics-news/border-czar-ice-shooting-victim-actions-domestic-terrorism-minneapolis-rcna253425)]
+
+**Congressional Response:**
+- GOP senators questioned Noem's handling of the shooting [Source: [The Hill](https://thehill.com/homenews/senate/5680549-noem-ice-shooting-response-skepticism/)]
+- Congress debating possible consequences for ICE and Noem [Source: [PBS NewsHour](https://www.pbs.org/newshour/politics/congress-debates-possible-consequences-for-ice-and-noem-after-renee-goods-killing), [CNBC](https://www.cnbc.com/2026/01/10/congress-debating-consequences-for-ice-noem-after-renee-good-killing.html)]
+
+**Community Impact:**
+- Minneapolis Public Schools cancelled class for remainder of week, citing safety concerns [Source: [Wikipedia](https://en.wikipedia.org/wiki/Killing_of_Ren%C3%A9e_Good)]
+- Good's killing was the **ninth time ICE agents had opened fire** on people since September 2025 [Source: [Wikipedia](https://en.wikipedia.org/wiki/Killing_of_Ren%C3%A9e_Good)]
+
+#### Pattern of ICE Shootings Under Second Term
+
+**Overall Statistics:**
+- **At least 16 shooting incidents** by federal immigration officials since Trump's second term began [Source: [The Trace via Axios](https://www.axios.com/2026/01/08/dhs-ice-shootings-trump)]
+- **Four deaths** and at least seven injuries [Source: [The Trace via Axios](https://www.axios.com/2026/01/08/dhs-ice-shootings-trump)]
+- **Seven officer-involved shootings** by DHS agents, two fatal, since Trump surged Homeland Security agents in early 2025 [Source: [Axios](https://www.axios.com/2026/01/08/dhs-ice-shootings-trump)]
+
+**Other Fatal Shootings:**
+- **Keith Porter** (43): Fatally shot by off-duty ICE agent on New Year's Eve in Los Angeles' Northridge neighborhood [Source: [Newsweek](https://www.newsweek.com/full-list-of-ice-shootings-since-donald-trump-took-office-11325704)]
+- **Silverio Villegas González**: Father originally from Mexico who worked as a cook, killed in September while reportedly trying to flee from officers in Chicago suburb [Source: [The Marshall Project](https://www.themarshallproject.org/2026/01/07/ice-minneapolis-shooting-renee-good)]
+- **31-year-old Mexican citizen**: Killed by border patrol agent in December while trying to detain him in Rio Grande City, Texas [Source: [The Marshall Project](https://www.themarshallproject.org/2026/01/07/ice-minneapolis-shooting-renee-good)]
+
+**Expert Analysis:**
+- Former ICE acting director: ICE shootings are **"a direct byproduct" of tactic shift** [Source: [NPR](https://www.npr.org/2026/01/09/nx-s1-5671722/ice-shootings-are-a-direct-byproduct-of-tactic-shift-ex-ice-acting-director-says)]
+- Shootings occurred across country in Chicago, Los Angeles, Minnesota—areas with heightened ICE presence [Source: [CBC News](https://www.cbc.ca/news/world/ice-history-trump-administration-9.7037733)]
+
+**DHS Claims vs. Reality:**
+- DHS released statement claiming **"1,300% increase in assaults against ICE officers"** and **"3,200% increase in vehicular attacks"** [Source: [DHS.gov](https://www.dhs.gov/news/2026/01/08/radical-rhetoric-sanctuary-politicians-leads-unprecedented-1300-increase-assaults)]
+- DHS blamed **"radical rhetoric by sanctuary politicians"** for attacks [Source: [DHS.gov](https://www.dhs.gov/news/2026/01/08/radical-rhetoric-sanctuary-politicians-leads-unprecedented-1300-increase-assaults)]
+
+#### Wrongful Detentions and Deportations of U.S. Citizens
+
+**U.S. Citizens Detained by ICE:**
+- **Debbie Brockman** - U.S. citizen and WGN-TV employee detained for **seven hours** in Chicago on October 10, 2025 after videotaping agents and asking about a warrant [Source: [Wikipedia](https://en.wikipedia.org/wiki/Deaths,_detentions_and_deportations_of_American_citizens_in_the_second_Trump_administration)]
+- **Javier Ramirez** - U.S. citizen born in San Bernardino, California, detained by ICE on June 13, 2025 during workplace raid in Montebello after informing coworkers ICE had arrived [Source: [Wikipedia](https://en.wikipedia.org/wiki/Deaths,_detentions_and_deportations_of_American_citizens_in_the_second_Trump_administration)]
+- **Jose Roberto Ramirez** - Minneapolis-born U.S. citizen taken into custody by ICE in Minnesota on January 8, 2026; family reported agents assaulted him before releasing him later that day [Source: [Wikipedia](https://en.wikipedia.org/wiki/Deaths,_detentions_and_deportations_of_American_citizens_in_the_second_Trump_administration)]
+
+**U.S. Citizen Children Deported:**
+- **Two U.S. citizen siblings** (ages 4 and 7) deported with undocumented mother to Honduras **within 24 hours**; 4-year-old had **late-stage cancer** and no medication [Source: [PBS NewsHour](https://www.pbs.org/newshour/show/children-who-are-u-s-citizens-deported-along-with-foreign-born-mothers-attorneys-say)]
+- **At least seven U.S. citizen children** have been deported with their parents under Trump administration [Source: [PBS NewsHour](https://www.pbs.org/newshour/show/children-who-are-u-s-citizens-deported-along-with-foreign-born-mothers-attorneys-say)]
+
+**Scale of Problem:**
+- **Tom Homan (Border Czar)** confirmed ICE made **"collateral arrests" of "many" American citizens** [Source: [Wikipedia](https://en.wikipedia.org/wiki/Deaths,_detentions_and_deportations_of_American_citizens_in_the_second_Trump_administration)]
+- Northwestern University researcher estimated **1% of all ICE detainees are U.S. citizens**, with rates expected to increase under Trump's deportation program [Source: [Wikipedia](https://en.wikipedia.org/wiki/Deaths,_detentions_and_deportations_of_American_citizens_in_the_second_Trump_administration)]
+- ICE has deported **dozens of U.S. citizens**, according to reports [Source: [KTLA](https://ktla.com/news/local-news/ice-has-deported-dozens-of-u-s-citizens-report-says/)]
+
+**Enforcement Budget:**
+- First-year Trump budget allocated **more than $170 billion** over four years for border and interior enforcement [Source: [CBC News](https://www.cbc.ca/news/world/ice-history-trump-administration-9.7037733)]
+- **$75 billion** going to ICE [Source: [CBC News](https://www.cbc.ca/news/world/ice-history-trump-administration-9.7037733)]
 
 ### February 2025-Present - Tariff Chaos, Corruption & Lies About Who Pays
 
@@ -1279,11 +1567,11 @@ Experts note Trump's repeated use of **"low IQ" attacks** against Black people p
 - **Mark Meadows** - Former White House Chief of Staff
 - Sidney Powell, John Eastman, Kenneth Chesebro, Jenna Ellis
 
-### December 31, 2025-January 14, 2026 - Jack Smith Report & Deposition Released
+### December 2025-January 2025 - Jack Smith Report & Deposition Released
 
 - **December 17, 2025:** Special Counsel Jack Smith testified before House Judiciary Committee in **eight-hour closed-door deposition** [Source: CNN, NPR, PBS]
 - **December 31, 2025:** House Judiciary Committee released **255-page transcript and video** of Smith's deposition on New Year's Eve [Source: CNN, NPR]
-- **January 14, 2026:** Justice Department released **Volume 1 of Jack Smith's final report** - 137 pages entitled "Report on Efforts to Interfere with the Lawful Transfer of Power Following the 2020 Presidential Election" [Source: Lawfare, NPR, Axios]
+- **January 14, 2025:** Justice Department released **Volume 1 of Jack Smith's final report** - 137 pages entitled "Report on Efforts to Interfere with the Lawful Transfer of Power Following the 2020 Presidential Election" [Source: Lawfare, NPR, Axios]
 - Volume 2 regarding classified documents case **remains sealed** by federal judge's order [Source: The Hill, Lawfare]
 - Smith to committee: **"The decision to bring charges against President Trump was mine, but the basis for nine of those charges rests entirely with President Trump and his actions"** [Source: Deposition transcript, PBS]
 - Smith called January 6 **"an attack on the structure of our democracy in which over 140 heroic law enforcement officers were assaulted"** [Source: Deposition transcript]
@@ -1295,7 +1583,7 @@ Experts note Trump's repeated use of **"low IQ" attacks** against Black people p
 - Report documented: **140 law enforcement officers assaulted** during Capitol riot; **at least 123 rioters charged** with using deadly weapon or causing serious bodily injury to officers [Source: Final report]
 - Smith stated: **"Nobody within the Department of Justice ever sought to interfere with, or improperly influence, my prosecutorial decision making"** [Source: Final report, ABC News]
 - Smith: **"No historical analog"** for Trump's actions around 2020 election [Source: ABC News]
-- Smith submitted report to DOJ on **January 7, 2026** and resigned on **January 10, 2026** [Source: First Amendment Encyclopedia]
+- Smith submitted report to DOJ on **January 7, 2025** and resigned on **January 10, 2025** [Source: First Amendment Encyclopedia]
 
 ### Golf Spending
 
@@ -1344,50 +1632,7 @@ Experts note Trump's repeated use of **"low IQ" attacks** against Black people p
 - Fired **17+ inspectors general on first day**
 - Removed independent watchdogs across federal government
 
-### Trump-Epstein Relationship & Files Controversy
-
-**Long History with Jeffrey Epstein**
-
-- **Decades-long friendship:** Partied together in NYC and Palm Beach throughout 1990s-2000s
-- **2002 Trump quote to NY Magazine:** "I've known Jeff for fifteen years. Terrific guy. He's a lot of fun to be with. It is even said that he likes beautiful women as much as I do, and many of them are on the younger side"
-- Flight logs show Trump flew on Epstein's plane **at least 7 times** between 1993-1997
-- Epstein was member of Mar-a-Lago until banned (Trump claims 2007; others say later)
-- **2010 Epstein deposition:** Pleaded the Fifth when asked about socializing with Trump
-
-**Lies and Contradictions About Relationship**
-
-- **July 2019:** "I was not a fan of his, that I can tell you"—contradicts his own 2002 praise
-- Claimed he banned Epstein from Mar-a-Lago **"immediately"** after learning of crimes—timeline disputed
-- **"I had a falling out with him a long time ago"**—but was photographed with him at parties through 2000s
-- Denied knowing about Epstein's crimes despite 2002 comment about liking women "on the younger side"
-- Claimed "I haven't spoken to him in 15 years"—but phone records show calls between them
-
-**The Epstein Files Revelations (2025)**
-
-- **January 2025:** Trump administration initially fought release of remaining DOJ Epstein files
-- Federal judge ordered release over administration objections
-- **Epstein's emails released:** Showed Epstein wrote Trump **"knew about the girls"** and **"spent hours at my house"** with young woman identified as victim
-- Another email: Epstein claimed Trump was **"interested in [victim's name redacted] but she was too old for him"**
-- **Trump's own Attorney General (Bondi)** confirmed authenticity of emails to Congress
-- Multiple cabinet members privately acknowledged Trump appears throughout the files
-
-**Alexander Acosta - The Epstein Deal Connection**
-
-- Trump appointed **Alexander Acosta** as Labor Secretary (2017-2019)
-- Acosta was the prosecutor who gave Epstein controversial **sweetheart plea deal** in 2008
-- Deal gave Epstein only 13 months (served in private wing, allowed to leave 6 days/week for "work")
-- Granted immunity to **"any potential co-conspirators"**—unprecedented for federal case
-- Acosta resigned in 2019 after Epstein re-arrest brought renewed scrutiny
-- When asked why he appointed Acosta, Trump: **"I don't know much about it"**
-
-**Response to Files & Public Reaction**
-
-- Trump called files **"fake"** and **"fabricated"** despite his own DOJ confirming authenticity
-- Attacked judges who ordered release as **"radical left activists"**
-- **Elon Musk tweet (deleted after 10 minutes):** "The files speak for themselves"
-- **65% of voters** disapproved of administration's handling (Reuters poll)
-- Multiple GOP senators called for **"full transparency"** on the files
-- Trump never addressed specific allegations, only attacked process
+---
 
 ### Pattern of Dehumanization
 
