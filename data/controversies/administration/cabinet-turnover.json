@@ -1,0 +1,64 @@
+{
+  "id": "cabinet-turnover",
+  "title": "Historic Cabinet Turnover & Chaos",
+  "slug": "cabinet-turnover",
+  "description": "# Historic Cabinet Turnover & Chaos\n\nTrump had more turnover in his administration than any president since the Brookings Institution started measuring in 1980. His turnover rate exceeded his five predecessors' full first terms in just **32 months**. NPR analysis found his Cabinet turnover was the highest **\"going back 100 years.\"**\n\n## First Term Turnover Statistics\n\n- **91% turnover** among senior executive staff by end of term (vs. 78% Reagan, 74% Clinton, 71% Obama)\n- **85% turnover** in \"A Team\" advisers\n- **14 Senate-confirmed cabinet secretaries** resigned (more than 5 predecessors combined)\n- **4 Chiefs of Staff:** Reince Priebus, John Kelly, Mick Mulvaney, Mark Meadows\n- **4 National Security Advisers:** Michael Flynn, H.R. McMaster, John Bolton, Robert O'Brien\n- **4 Press Secretaries**\n- **6 Communications Directors**\n- **4 Homeland Security Secretaries** (Kelly, Nielsen, McAleenan, Wolf)\n- First president since Brookings started tracking (1980) to have ANY Cabinet departures in first year\n- Brookings coined new term **\"RUP\" - \"Resigned Under Pressure\"** to describe Trump-era departures\n- **Harvard Business Review:** High turnover \"slows down productive work\" and \"shrinks pool of qualified candidates\"\n\n## Notable Shortest Tenures in History\n\n- **Michael Flynn (National Security Adviser):** 24 days - shortest ever in that position\n- **Reince Priebus (Chief of Staff):** 189 days - shortest in modern history\n- **Anthony Scaramucci (Communications Director):** 11 days\n- **Tom Price (HHS Secretary):** Shortest service tenure in history of that office\n\n## Pattern of Public Humiliation\n\nTrump often announced firings via Twitter, adding **\"the dimension of public humiliation\"**\n\n- Mark Esper learned he was fired from Trump's tweet: \"Mark Esper has been terminated. I would like to thank him for his service.\"\n- Chris Krebs fired by tweet for stating 2020 election was \"most secure in American history\"\n- Jeff Sessions publicly humiliated repeatedly before firing\n- Rex Tillerson learned of firing from tweet while traveling in Africa\n- Dozens resigned in aftermath of January 6 Capitol attack",
+  "summary": "Trump had more turnover in his administration than any president since the Brookings Institution started measuring in 1980. His turnover rate exceeded his five predecessors' full first terms in just 32 months. NPR analysis found his Cabinet turnover was the highest \"going back 100 years.\"",
+  "date": "2020-01-01",
+  "tags": {
+    "timeline": [
+      "first-term"
+    ],
+    "type": [
+      "financial",
+      "political"
+    ],
+    "topic": [
+      "democracy",
+      "cabinet"
+    ],
+    "severity": "verified"
+  },
+  "keyPoints": [
+    "**91% turnover** among senior executive staff by end of term (vs. 78% Reagan, 74% Clinton, 71% Obama)",
+    "**85% turnover** in \"A Team\" advisers",
+    "**14 Senate-confirmed cabinet secretaries** resigned (more than 5 predecessors combined)",
+    "**4 Chiefs of Staff:** Reince Priebus, John Kelly, Mick Mulvaney, Mark Meadows",
+    "**4 National Security Advisers:** Michael Flynn, H.R. McMaster, John Bolton, Robert O'Brien",
+    "**4 Press Secretaries**",
+    "**6 Communications Directors**",
+    "**4 Homeland Security Secretaries** (Kelly, Nielsen, McAleenan, Wolf)",
+    "First president since Brookings started tracking (1980) to have ANY Cabinet departures in first year",
+    "Brookings coined new term **\"RUP\" - \"Resigned Under Pressure\"** to describe Trump-era departures",
+    "**Harvard Business Review:** High turnover \"slows down productive work\" and \"shrinks pool of qualified candidates\"",
+    "**Michael Flynn (National Security Adviser):** 24 days - shortest ever in that position",
+    "**Reince Priebus (Chief of Staff):** 189 days - shortest in modern history",
+    "**Anthony Scaramucci (Communications Director):** 11 days",
+    "**Tom Price (HHS Secretary):** Shortest service tenure in history of that office",
+    "Mark Esper learned he was fired from Trump's tweet: \"Mark Esper has been terminated. I would like to thank him for his service.\"",
+    "Chris Krebs fired by tweet for stating 2020 election was \"most secure in American history\"",
+    "Jeff Sessions publicly humiliated repeatedly before firing",
+    "Rex Tillerson learned of firing from tweet while traveling in Africa",
+    "Dozens resigned in aftermath of January 6 Capitol attack"
+  ],
+  "sources": [
+    {
+      "text": "NPR analysis of Cabinet turnover",
+      "type": "news"
+    },
+    {
+      "text": "Brookings Institution tracking data",
+      "type": "expert"
+    },
+    {
+      "text": "Harvard Business Review on turnover impact",
+      "type": "expert"
+    }
+  ],
+  "metadata": {
+    "featured": false,
+    "priority": 5,
+    "lastUpdated": "2026-01-20T21:00:40.028Z",
+    "status": "active"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ai-deepfakes",
+  "title": "AI-Generated Videos & Deepfakes (2025)",
+  "slug": "ai-deepfakes",
+  "description": "# AI-Generated Videos & Deepfakes (2025)\n\n**TIME Magazine:** Trump is **\"the first world leader to fully deploy AI deepfakes as a core communications strategy.\"** He has shared dozens of AI-generated images and videos on Truth Social, blurring the line between satire and reality.\n\n## \"King Trump\" Fighter Jet Video\n\n- AI video showing Trump wearing a crown, piloting a fighter jet\n- Depicts him **dumping excrement on protesters below**\n- Posted to official Truth Social account\n\n## Other AI Deepfakes Shared by Trump\n\n- **Barack Obama:** Deepfake showing former president being arrested in orange jumpsuit\n- **Hakeem Jeffries:** Racist AI image depicting Black House Minority Leader in fake mustache and sombrero\n- **Nancy Pelosi:** AI video with falsified voice\n- **Adam Schiff:** Depicted in handcuffs being arrested\n- **Gavin Newsom:** Depicted being arrested\n- **Russ Vought:** Depicted as grim reaper\n- **Gov. Pritzker & Chris Christie:** Depicted as sumo wrestlers\n- **\"MedBeds\" conspiracy:** Fake Fox News clip promoting imaginary healing devices that cure all diseases",
+  "summary": "TIME Magazine: Trump is \"the first world leader to fully deploy AI deepfakes as a core communications strategy.\" He has shared dozens of AI-generated images and videos on Truth Social, blurring the line between satire and reality.",
+  "date": "2025-01-01",
+  "tags": {
+    "timeline": [
+      "second-term"
+    ],
+    "type": [
+      "political"
+    ],
+    "topic": [
+      "racism"
+    ],
+    "severity": "verified"
+  },
+  "keyPoints": [
+    "AI video showing Trump wearing a crown, piloting a fighter jet",
+    "Depicts him **dumping excrement on protesters below**",
+    "Posted to official Truth Social account",
+    "**Barack Obama:** Deepfake showing former president being arrested in orange jumpsuit",
+    "**Hakeem Jeffries:** Racist AI image depicting Black House Minority Leader in fake mustache and sombrero",
+    "**Nancy Pelosi:** AI video with falsified voice",
+    "**Adam Schiff:** Depicted in handcuffs being arrested",
+    "**Gavin Newsom:** Depicted being arrested",
+    "**Russ Vought:** Depicted as grim reaper",
+    "**Gov. Pritzker & Chris Christie:** Depicted as sumo wrestlers",
+    "**\"MedBeds\" conspiracy:** Fake Fox News clip promoting imaginary healing devices that cure all diseases"
+  ],
+  "sources": [
+    {
+      "text": "TIME Magazine report on AI deepfakes",
+      "type": "news"
+    },
+    {
+      "text": "Trump Truth Social posts",
+      "type": "social-media"
+    }
+  ],
+  "metadata": {
+    "featured": false,
+    "priority": 5,
+    "lastUpdated": "2026-01-20T21:00:50.593Z",
+    "status": "active"
+  }
+}

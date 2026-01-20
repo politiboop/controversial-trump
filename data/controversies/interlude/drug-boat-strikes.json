@@ -1,0 +1,41 @@
+{
+  "id": "drug-boat-strikes",
+  "title": "Drug Boat Strikes Save 25,000 Lives Each",
+  "slug": "drug-boat-strikes",
+  "description": "# Drug Boat Strikes Save 25,000 Lives Each (2025)\n\n- Claimed each boat strike in the Caribbean saves **25,000 lives** from drug overdoses\n- Johns Hopkins professor called the claim **\"absurd\"** [Source: Johns Hopkins expert statement, 2025; U.S. News]\n- No evidence any boats were carrying drugs [Source: Washington Post investigation, 2025]",
+  "summary": "- Claimed each boat strike in the Caribbean saves 25,000 lives from drug overdoses\n- Johns Hopkins professor called the claim \"absurd\" \n- No evidence any boats were carrying drugs ",
+  "date": "2020-01-01",
+  "tags": {
+    "timeline": [
+      "second-term"
+    ],
+    "type": [
+      "political"
+    ],
+    "topic": [
+      "character"
+    ],
+    "severity": "disputed"
+  },
+  "keyPoints": [
+    "Claimed each boat strike in the Caribbean saves **25,000 lives** from drug overdoses",
+    "Johns Hopkins professor called the claim **\"absurd\"** [Source: Johns Hopkins expert statement, 2025; U.S. News]",
+    "No evidence any boats were carrying drugs [Source: Washington Post investigation, 2025]"
+  ],
+  "sources": [
+    {
+      "text": "Johns Hopkins expert statement, 2025; U.S. News",
+      "type": "government"
+    },
+    {
+      "text": "Washington Post investigation, 2025",
+      "type": "news"
+    }
+  ],
+  "metadata": {
+    "featured": false,
+    "priority": 5,
+    "lastUpdated": "2026-01-20T21:00:00.594Z",
+    "status": "active"
+  }
+}

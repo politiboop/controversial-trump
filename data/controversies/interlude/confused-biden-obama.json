@@ -1,0 +1,46 @@
+{
+  "id": "confused-biden-obama",
+  "title": "Confused Biden with Obama",
+  "slug": "confused-biden-obama",
+  "description": "# Confused Biden with Obama (Multiple Times)\n\n- Repeatedly mixed up Barack Obama and Joe Biden during 2023-2024 campaign\n- **\"We're beating Obama\"** in the polls [Source: Rally speeches, 2023; CNN]\n- Claimed he was running against Obama in 2024 [Source: Multiple rally statements, The Mirror, CNN]\n- Also confused Nikki Haley with Nancy Pelosi when discussing January 6 [Source: Rally speech, January 2024]",
+  "summary": "- Repeatedly mixed up Barack Obama and Joe Biden during 2023-2024 campaign\n- \"We're beating Obama\" in the polls \n- Claimed he was running against Obama in 2024 \n- Also confused Nikki Haley with Nancy Pelosi when discussing January 6 ",
+  "date": "2020-01-01",
+  "tags": {
+    "timeline": [
+      "campaign-2024"
+    ],
+    "type": [
+      "political"
+    ],
+    "topic": [
+      "democracy"
+    ],
+    "severity": "verified"
+  },
+  "keyPoints": [
+    "Repeatedly mixed up Barack Obama and Joe Biden during 2023-2024 campaign",
+    "**\"We're beating Obama\"** in the polls [Source: Rally speeches, 2023; CNN]",
+    "Claimed he was running against Obama in 2024 [Source: Multiple rally statements, The Mirror, CNN]",
+    "Also confused Nikki Haley with Nancy Pelosi when discussing January 6 [Source: Rally speech, January 2024]"
+  ],
+  "sources": [
+    {
+      "text": "Rally speeches, 2023; CNN",
+      "type": "news"
+    },
+    {
+      "text": "Multiple rally statements, The Mirror, CNN",
+      "type": "government"
+    },
+    {
+      "text": "Rally speech, January 2024",
+      "type": "news"
+    }
+  ],
+  "metadata": {
+    "featured": false,
+    "priority": 5,
+    "lastUpdated": "2026-01-20T21:00:00.584Z",
+    "status": "active"
+  }
+}

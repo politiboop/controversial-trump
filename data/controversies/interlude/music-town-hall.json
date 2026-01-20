@@ -1,0 +1,41 @@
+{
+  "id": "music-town-hall",
+  "title": "The 39-Minute Music Session Town Hall",
+  "slug": "music-town-hall",
+  "description": "# The 39-Minute Music Session Town Hall (October 2024)\n\n- Turned a town hall Q&A into a **39-minute music listening session**\n- Stopped taking questions and just played songs while swaying on stage [Source: Town hall event, Pennsylvania, October 2024; Axios]\n- Crowd stood confused as Trump listened to his playlist [Source: News coverage, October 2024]",
+  "summary": "- Turned a town hall Q&A into a 39-minute music listening session\n- Stopped taking questions and just played songs while swaying on stage \n- Crowd stood confused as Trump listened to his playlist ",
+  "date": "2020-01-01",
+  "tags": {
+    "timeline": [
+      "campaign-2024"
+    ],
+    "type": [
+      "political"
+    ],
+    "topic": [
+      "character"
+    ],
+    "severity": "verified"
+  },
+  "keyPoints": [
+    "Turned a town hall Q&A into a **39-minute music listening session**",
+    "Stopped taking questions and just played songs while swaying on stage [Source: Town hall event, Pennsylvania, October 2024; Axios]",
+    "Crowd stood confused as Trump listened to his playlist [Source: News coverage, October 2024]"
+  ],
+  "sources": [
+    {
+      "text": "Town hall event, Pennsylvania, October 2024; Axios",
+      "type": "news"
+    },
+    {
+      "text": "News coverage, October 2024",
+      "type": "news"
+    }
+  ],
+  "metadata": {
+    "featured": false,
+    "priority": 5,
+    "lastUpdated": "2026-01-20T21:00:00.612Z",
+    "status": "active"
+  }
+}

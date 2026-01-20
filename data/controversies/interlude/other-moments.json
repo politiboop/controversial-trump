@@ -1,0 +1,56 @@
+{
+  "id": "other-moments",
+  "title": "Other Notable Moments",
+  "slug": "other-moments",
+  "description": "# Other Notable Moments\n\n- **Looking directly at the solar eclipse (2017)** after being warned not to [Source: Photos, August 21, 2017]\n- **\"Covfefe\" tweet (2017)** - never explained [Source: Twitter, May 31, 2017: \"Despite the constant negative press covfefe\"]\n- **\"I know words. I have the best words.\"** [Source: Campaign rally, 2015]\n- **Bragged about passing a cognitive test** repeatedly, describing it as very difficult: \"Person. Woman. Man. Camera. TV.\" [Source: Fox News interview, July 2020]\n- **Abortion flip-flop within hours:** Said women should face \"some form of punishment\" for abortions, then completely reversed himself hours later [Source: CNN, 2016]",
+  "summary": "- Looking directly at the solar eclipse (2017) after being warned not to \n- \"Covfefe\" tweet (2017) - never explained \n- \"I know words. I have the best words.\" \n- Bragged about passing a cognitive test repeatedly, describing it as very difficult: \"Person. Woman. Man. Camera. TV.\" \n- Abortion flip-flop within hours: Said women should face \"some form of punishment\" for abortions, then completely r...",
+  "date": "2017-08-21",
+  "tags": {
+    "timeline": [
+      "campaign-2016",
+      "first-term"
+    ],
+    "type": [
+      "political"
+    ],
+    "topic": [
+      "women"
+    ],
+    "severity": "verified"
+  },
+  "keyPoints": [
+    "**Looking directly at the solar eclipse (2017)** after being warned not to [Source: Photos, August 21, 2017]",
+    "**\"Covfefe\" tweet (2017)** - never explained [Source: Twitter, May 31, 2017: \"Despite the constant negative press covfefe\"]",
+    "**\"I know words. I have the best words.\"** [Source: Campaign rally, 2015]",
+    "**Bragged about passing a cognitive test** repeatedly, describing it as very difficult: \"Person. Woman. Man. Camera. TV.\" [Source: Fox News interview, July 2020]",
+    "**Abortion flip-flop within hours:** Said women should face \"some form of punishment\" for abortions, then completely reversed himself hours later [Source: CNN, 2016]"
+  ],
+  "sources": [
+    {
+      "text": "Photos, August 21, 2017",
+      "type": "news"
+    },
+    {
+      "text": "Twitter, May 31, 2017: \"Despite the constant negative press covfefe\"",
+      "type": "social-media"
+    },
+    {
+      "text": "Campaign rally, 2015",
+      "type": "news"
+    },
+    {
+      "text": "Fox News interview, July 2020",
+      "type": "news"
+    },
+    {
+      "text": "CNN, 2016",
+      "type": "news"
+    }
+  ],
+  "metadata": {
+    "featured": false,
+    "priority": 5,
+    "lastUpdated": "2026-01-20T21:00:00.620Z",
+    "status": "active"
+  }
+}

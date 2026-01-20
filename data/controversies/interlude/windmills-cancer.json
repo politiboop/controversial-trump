@@ -1,0 +1,41 @@
+{
+  "id": "windmills-cancer",
+  "title": "Windmills Cause Cancer",
+  "slug": "windmills-cancer",
+  "description": "# Windmills Cause Cancer\n\n- **April 2019 rally:** \"If you have a windmill anywhere near your house, congratulations, your house just went down 75 percent in value. And they say the noise causes cancer\" [Source: Rally transcript, April 2, 2019]\n- No scientific evidence supports this claim [Source: American Cancer Society, multiple studies]\n- Repeated variations of this claim at multiple rallies",
+  "summary": "- April 2019 rally: \"If you have a windmill anywhere near your house, congratulations, your house just went down 75 percent in value. And they say the noise causes cancer\" \n- No scientific evidence supports this claim \n- Repeated variations of this claim at multiple rallies",
+  "date": "2019-04-02",
+  "tags": {
+    "timeline": [
+      "first-term"
+    ],
+    "type": [
+      "political"
+    ],
+    "topic": [
+      "character"
+    ],
+    "severity": "disputed"
+  },
+  "keyPoints": [
+    "**April 2019 rally:** \"If you have a windmill anywhere near your house, congratulations, your house just went down 75 percent in value. And they say the noise causes cancer\" [Source: Rally transcript, April 2, 2019]",
+    "No scientific evidence supports this claim [Source: American Cancer Society, multiple studies]",
+    "Repeated variations of this claim at multiple rallies"
+  ],
+  "sources": [
+    {
+      "text": "Rally transcript, April 2, 2019",
+      "type": "news"
+    },
+    {
+      "text": "American Cancer Society, multiple studies",
+      "type": "news"
+    }
+  ],
+  "metadata": {
+    "featured": false,
+    "priority": 5,
+    "lastUpdated": "2026-01-20T21:00:00.639Z",
+    "status": "active"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "raking-forests",
+  "title": "Raking Forests to Prevent Wildfires",
+  "slug": "raking-forests",
+  "description": "# Raking Forests to Prevent Wildfires\n\n- **November 2018:** After devastating California wildfires, suggested the problem was **lack of \"raking\"**\n- **\"You've got to take care of the floors. You know the floors of the forest, very important... they don't do any forest management\"** [Source: Press conference, November 17, 2018]\n- Claimed **Finland's president** told him they prevent fires by raking\n- Finland's president denied ever saying this [Source: Finnish media interviews, November 2018]\n- California wildfires driven by climate change, drought, and wind - not insufficient raking",
+  "summary": "- November 2018: After devastating California wildfires, suggested the problem was lack of \"raking\"\n- \"You've got to take care of the floors. You know the floors of the forest, very important... they don't do any forest management\" \n- Claimed Finland's president told him they prevent fires by raking\n- Finland's president denied ever saying this \n- California wildfires driven by climate change, ...",
+  "date": "2018-11-17",
+  "tags": {
+    "timeline": [
+      "first-term"
+    ],
+    "type": [
+      "political"
+    ],
+    "topic": [
+      "character"
+    ],
+    "severity": "disputed"
+  },
+  "keyPoints": [
+    "**November 2018:** After devastating California wildfires, suggested the problem was **lack of \"raking\"**",
+    "**\"You've got to take care of the floors. You know the floors of the forest, very important... they don't do any forest management\"** [Source: Press conference, November 17, 2018]",
+    "Claimed **Finland's president** told him they prevent fires by raking",
+    "Finland's president denied ever saying this [Source: Finnish media interviews, November 2018]",
+    "California wildfires driven by climate change, drought, and wind - not insufficient raking"
+  ],
+  "sources": [
+    {
+      "text": "Press conference, November 17, 2018",
+      "type": "news"
+    },
+    {
+      "text": "Finnish media interviews, November 2018",
+      "type": "news"
+    }
+  ],
+  "metadata": {
+    "featured": false,
+    "priority": 5,
+    "lastUpdated": "2026-01-20T21:00:00.623Z",
+    "status": "active"
+  }
+}

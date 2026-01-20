@@ -1,0 +1,73 @@
+{
+  "id": "racist-statements",
+  "title": "Racist & Xenophobic Statements",
+  "slug": "racist-statements",
+  "description": "# Racist & Xenophobic Statements\n\n- **\"Shithole countries\" (January 2018):** Haiti, El Salvador, African nations - asked **\"Why are we having all these people from shithole countries come here?\"** [Source: Washington Post, NBC News, January 2018]\n- **\"Pocahontas\":** Slur for Elizabeth Warren, used at ceremony honoring Navajo Code Talkers at White House [Source: CNN, November 2017]\n- **Campaign launch (2015):** Mexican immigrants **\"bringing drugs, bringing crime, they're rapists\"** [Source: Washington Post transcript, June 2015]\n- **Charlottesville (2017):** After neo-Nazi \"Unite the Right\" rally where Heather Heyer was killed, Trump said **\"very fine people on both sides\"** while also stating **\"I'm not talking about the neo-Nazis and the white nationalists; they should be condemned totally\"** - widely condemned for creating moral equivalence between white supremacists and counter-protesters [Source: PolitiFact, Washington Post, August 2017]\n- **\"Go back\" tweets (2019):** Told four congresswomen of color (three born in US) to **\"go back\"** to their countries [Source: Twitter archive, July 2019]\n- **Central Park Five:** Took out full-page ads calling for death penalty for five Black and Latino teenagers later exonerated by DNA [Source: New York Times, May 1989; DNA exoneration 2002; Netflix documentary \"When They See Us\"]\n- Refused to apologize even after exoneration [Source: CNN interview, 2016; multiple statements]\n- **Somali attacks (December 2025):** Called Somalis **\"garbage,\"** said **\"the Somalians should be out of here,\"** threatened Rep. Omar with deportation despite citizenship, attacked her for wearing hijab [Source: Rally speeches December 2025, CNN, NBC News]",
+  "summary": "- \"Shithole countries\" (January 2018): Haiti, El Salvador, African nations - asked \"Why are we having all these people from shithole countries come here?\" \n- \"Pocahontas\": Slur for Elizabeth Warren, used at ceremony honoring Navajo Code Talkers at White House \n- Campaign launch (2015): Mexican immigrants \"bringing drugs, bringing crime, they're rapists\" \n- Charlottesville (2017): After neo-Nazi...",
+  "date": "2020-01-01",
+  "tags": {
+    "timeline": [
+      "campaign-2016",
+      "first-term",
+      "second-term"
+    ],
+    "type": [
+      "political"
+    ],
+    "topic": [
+      "racism",
+      "immigration"
+    ],
+    "severity": "verified"
+  },
+  "keyPoints": [
+    "**\"Shithole countries\" (January 2018):** Haiti, El Salvador, African nations - asked **\"Why are we having all these people from shithole countries come here?\"** [Source: Washington Post, NBC News, January 2018]",
+    "**\"Pocahontas\":** Slur for Elizabeth Warren, used at ceremony honoring Navajo Code Talkers at White House [Source: CNN, November 2017]",
+    "**Campaign launch (2015):** Mexican immigrants **\"bringing drugs, bringing crime, they're rapists\"** [Source: Washington Post transcript, June 2015]",
+    "**Charlottesville (2017):** After neo-Nazi \"Unite the Right\" rally where Heather Heyer was killed, Trump said **\"very fine people on both sides\"** while also stating **\"I'm not talking about the neo-Nazis and the white nationalists; they should be condemned totally\"** - widely condemned for creating moral equivalence between white supremacists and counter-protesters [Source: PolitiFact, Washington Post, August 2017]",
+    "**\"Go back\" tweets (2019):** Told four congresswomen of color (three born in US) to **\"go back\"** to their countries [Source: Twitter archive, July 2019]",
+    "**Central Park Five:** Took out full-page ads calling for death penalty for five Black and Latino teenagers later exonerated by DNA [Source: New York Times, May 1989; DNA exoneration 2002; Netflix documentary \"When They See Us\"]",
+    "Refused to apologize even after exoneration [Source: CNN interview, 2016; multiple statements]",
+    "**Somali attacks (December 2025):** Called Somalis **\"garbage,\"** said **\"the Somalians should be out of here,\"** threatened Rep. Omar with deportation despite citizenship, attacked her for wearing hijab [Source: Rally speeches December 2025, CNN, NBC News]"
+  ],
+  "sources": [
+    {
+      "text": "Washington Post, NBC News, January 2018",
+      "type": "news"
+    },
+    {
+      "text": "CNN, November 2017",
+      "type": "news"
+    },
+    {
+      "text": "Washington Post transcript, June 2015",
+      "type": "news"
+    },
+    {
+      "text": "PolitiFact, Washington Post, August 2017",
+      "type": "news"
+    },
+    {
+      "text": "Twitter archive, July 2019",
+      "type": "social-media"
+    },
+    {
+      "text": "New York Times, May 1989; DNA exoneration 2002; Netflix documentary \"When They See Us\"",
+      "type": "news"
+    },
+    {
+      "text": "CNN interview, 2016; multiple statements",
+      "type": "government"
+    },
+    {
+      "text": "Rally speeches December 2025, CNN, NBC News",
+      "type": "news"
+    }
+  ],
+  "metadata": {
+    "featured": false,
+    "priority": 5,
+    "lastUpdated": "2026-01-20T21:00:29.842Z",
+    "status": "active"
+  }
+}

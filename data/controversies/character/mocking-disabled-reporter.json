@@ -1,0 +1,60 @@
+{
+  "id": "mocking-disabled-reporter",
+  "title": "Mocking Disabled Reporter (2015)",
+  "slug": "mocking-disabled-reporter",
+  "description": "# Mocking Disabled Reporter (2015)\n\n- Mocked New York Times reporter **Serge Kovaleski** who has arthrogryposis (limits joint movement) [Source: Video evidence, November 2015 rally]\n- Flailed arms, altered voice, contorted face to imitate disability [Source: Video footage, Washington Post, New York Times]\n- Said: **\"Now the poor guy, you gotta see this guy\"** [Source: Rally transcript, November 24, 2015]\n- Falsely claimed not to know Kovaleski despite years of prior interactions [Source: Trump statements vs. documented interactions]\n- Kovaleski said they had been on **\"first-name basis for years\"** [Source: New York Times statement, November 2015]\n- **Bloomberg poll:** Voters ranked this Trump's worst offense [Source: Bloomberg Politics poll, December 2015]",
+  "summary": "- Mocked New York Times reporter Serge Kovaleski who has arthrogryposis (limits joint movement) \n- Flailed arms, altered voice, contorted face to imitate disability \n- Said: \"Now the poor guy, you gotta see this guy\" \n- Falsely claimed not to know Kovaleski despite years of prior interactions \n- Kovaleski said they had been on \"first-name basis for years\" \n- Bloomberg poll: Voters ranked this T...",
+  "date": "2015-01-01",
+  "tags": {
+    "timeline": [
+      "campaign-2016"
+    ],
+    "type": [
+      "political"
+    ],
+    "topic": [
+      "character"
+    ],
+    "severity": "verified"
+  },
+  "keyPoints": [
+    "Mocked New York Times reporter **Serge Kovaleski** who has arthrogryposis (limits joint movement) [Source: Video evidence, November 2015 rally]",
+    "Flailed arms, altered voice, contorted face to imitate disability [Source: Video footage, Washington Post, New York Times]",
+    "Said: **\"Now the poor guy, you gotta see this guy\"** [Source: Rally transcript, November 24, 2015]",
+    "Falsely claimed not to know Kovaleski despite years of prior interactions [Source: Trump statements vs. documented interactions]",
+    "Kovaleski said they had been on **\"first-name basis for years\"** [Source: New York Times statement, November 2015]",
+    "**Bloomberg poll:** Voters ranked this Trump's worst offense [Source: Bloomberg Politics poll, December 2015]"
+  ],
+  "sources": [
+    {
+      "text": "Video evidence, November 2015 rally",
+      "type": "video"
+    },
+    {
+      "text": "Video footage, Washington Post, New York Times",
+      "type": "video"
+    },
+    {
+      "text": "Rally transcript, November 24, 2015",
+      "type": "news"
+    },
+    {
+      "text": "Trump statements vs. documented interactions",
+      "type": "government"
+    },
+    {
+      "text": "New York Times statement, November 2015",
+      "type": "government"
+    },
+    {
+      "text": "Bloomberg Politics poll, December 2015",
+      "type": "news"
+    }
+  ],
+  "metadata": {
+    "featured": false,
+    "priority": 5,
+    "lastUpdated": "2026-01-20T21:00:29.839Z",
+    "status": "active"
+  }
+}

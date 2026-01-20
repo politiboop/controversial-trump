@@ -1,0 +1,268 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://politiboop.github.io/controversial-trump/schemas/controversy.json",
+  "title": "Trump Controversy",
+  "description": "A documented controversy, criticism, or concern about Donald Trump",
+  "type": "object",
+  "required": ["id", "title", "description", "date", "tags", "sources"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier in kebab-case format",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "examples": ["big-lie-2020-election", "january-6-capitol-attack"]
+    },
+    "title": {
+      "type": "string",
+      "description": "Human-readable title of the controversy",
+      "minLength": 5,
+      "maxLength": 200,
+      "examples": ["The 'Big Lie' - 2020 Election Fraud Claims"]
+    },
+    "slug": {
+      "type": "string",
+      "description": "URL-friendly slug (defaults to id if not provided)",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "description": {
+      "type": "string",
+      "description": "Full description of the controversy (markdown supported)",
+      "minLength": 20
+    },
+    "summary": {
+      "type": "string",
+      "description": "Short summary for list/card views (auto-generated from description if not provided)",
+      "maxLength": 500
+    },
+    "date": {
+      "type": "string",
+      "description": "Primary date of controversy in YYYY-MM-DD format",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "examples": ["2020-11-03", "2025-01-20"]
+    },
+    "dateRange": {
+      "type": "object",
+      "description": "Optional date range for ongoing or multi-day controversies",
+      "properties": {
+        "start": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+        },
+        "end": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+        }
+      },
+      "required": ["start"]
+    },
+    "tags": {
+      "type": "object",
+      "description": "Multi-dimensional tags for filtering and categorization",
+      "required": ["timeline", "type", "topic", "severity"],
+      "properties": {
+        "timeline": {
+          "type": "array",
+          "description": "When the controversy occurred",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "enum": [
+              "pre-presidency",
+              "campaign-2016",
+              "first-term",
+              "campaign-2020",
+              "campaign-2024",
+              "second-term"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "type": {
+          "type": "array",
+          "description": "Nature of the controversy",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "enum": [
+              "personal",
+              "political",
+              "legal",
+              "financial",
+              "policy",
+              "character"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "topic": {
+          "type": "array",
+          "description": "Subject matter categories",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "enum": [
+              "democracy",
+              "corruption",
+              "character",
+              "foreign-policy",
+              "domestic-policy",
+              "immigration",
+              "justice-system",
+              "military",
+              "women",
+              "racism",
+              "rhetoric",
+              "covid",
+              "economy",
+              "cabinet",
+              "environment",
+              "healthcare",
+              "media",
+              "pardons"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "severity": {
+          "type": "string",
+          "description": "Evidence level and credibility",
+          "enum": [
+            "court-ruling",
+            "verified",
+            "opinion",
+            "disputed",
+            "ongoing"
+          ]
+        }
+      },
+      "additionalProperties": false
+    },
+    "keyPoints": {
+      "type": "array",
+      "description": "Bullet point key facts (markdown supported)",
+      "items": {
+        "type": "string",
+        "minLength": 10
+      },
+      "examples": [
+        [
+          "Filed 60+ lawsuits challenging election results; **61 of 62 failed in court**",
+          "Attorney General William Barr: 'The Department of Justice found no evidence of fraud'",
+          "AP investigation found **fewer than 475 potential fraud cases** out of 25+ million votes"
+        ]
+      ]
+    },
+    "sources": {
+      "type": "array",
+      "description": "Source citations for the controversy",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["text"],
+        "properties": {
+          "text": {
+            "type": "string",
+            "description": "Source citation text",
+            "minLength": 5,
+            "examples": ["Washington Post, January 6, 2021", "Attorney General William Barr statement"]
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "description": "Source URL (optional)"
+          },
+          "type": {
+            "type": "string",
+            "description": "Source type for categorization and icon display",
+            "enum": [
+              "news",
+              "government",
+              "court",
+              "video",
+              "social-media",
+              "book",
+              "expert",
+              "academic"
+            ]
+          },
+          "date": {
+            "type": "string",
+            "description": "Source publication date",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "quotes": {
+      "type": "array",
+      "description": "Notable quotes related to the controversy",
+      "items": {
+        "type": "object",
+        "required": ["text", "speaker"],
+        "properties": {
+          "text": {
+            "type": "string",
+            "description": "The quote text",
+            "minLength": 10
+          },
+          "speaker": {
+            "type": "string",
+            "description": "Who said it",
+            "minLength": 2
+          },
+          "date": {
+            "type": "string",
+            "description": "When it was said",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+          },
+          "context": {
+            "type": "string",
+            "description": "Context or setting of the quote"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "relatedControversies": {
+      "type": "array",
+      "description": "IDs of related controversies",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+      },
+      "uniqueItems": true
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Metadata for display and organization",
+      "properties": {
+        "featured": {
+          "type": "boolean",
+          "description": "Whether this is a featured/highlighted controversy",
+          "default": false
+        },
+        "priority": {
+          "type": "number",
+          "description": "Display priority (1-10, higher is more important)",
+          "minimum": 1,
+          "maximum": 10,
+          "default": 5
+        },
+        "lastUpdated": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When this record was last updated"
+        },
+        "status": {
+          "type": "string",
+          "description": "Current status of the controversy",
+          "enum": ["active", "archived", "disputed", "ongoing", "resolved"],
+          "default": "active"
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

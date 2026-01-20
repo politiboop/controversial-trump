@@ -1,0 +1,46 @@
+{
+  "id": "ai-generated-crowds",
+  "title": "AI-Generated Kamala Harris Crowds",
+  "slug": "ai-generated-crowds",
+  "description": "# AI-Generated Kamala Harris Crowds (August 2024)\n\n- **August 2024:** Claimed photos of Harris's large campaign rallies were **AI-generated fakes**\n- Posted: **\"There was nobody at the plane, and she 'A.I.'d' it\"** [Source: Truth Social, August 2024]\n- Photos were real; verified by multiple photographers and attendees [Source: Fact-checkers, August 2024]\n- Photographers who took the photos confirmed they were genuine [Source: Reuters, AP fact-checks]",
+  "summary": "- August 2024: Claimed photos of Harris's large campaign rallies were AI-generated fakes\n- Posted: \"There was nobody at the plane, and she 'A.I.'d' it\" \n- Photos were real; verified by multiple photographers and attendees \n- Photographers who took the photos confirmed they were genuine ",
+  "date": "2020-01-01",
+  "tags": {
+    "timeline": [
+      "campaign-2024"
+    ],
+    "type": [
+      "political"
+    ],
+    "topic": [
+      "character"
+    ],
+    "severity": "verified"
+  },
+  "keyPoints": [
+    "**August 2024:** Claimed photos of Harris's large campaign rallies were **AI-generated fakes**",
+    "Posted: **\"There was nobody at the plane, and she 'A.I.'d' it\"** [Source: Truth Social, August 2024]",
+    "Photos were real; verified by multiple photographers and attendees [Source: Fact-checkers, August 2024]",
+    "Photographers who took the photos confirmed they were genuine [Source: Reuters, AP fact-checks]"
+  ],
+  "sources": [
+    {
+      "text": "Truth Social, August 2024",
+      "type": "social-media"
+    },
+    {
+      "text": "Fact-checkers, August 2024",
+      "type": "news"
+    },
+    {
+      "text": "Reuters, AP fact-checks",
+      "type": "news"
+    }
+  ],
+  "metadata": {
+    "featured": false,
+    "priority": 5,
+    "lastUpdated": "2026-01-20T21:00:00.562Z",
+    "status": "active"
+  }
+}

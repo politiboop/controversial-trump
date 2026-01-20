@@ -1,0 +1,38 @@
+{
+  "id": "hannibal-lecter",
+  "title": "The Late, Great Hannibal Lecter",
+  "slug": "hannibal-lecter",
+  "description": "# \"The Late, Great Hannibal Lecter\" (2024)\n\n- Repeatedly praised **Hannibal Lecter** - the **fictional cannibal serial killer** from \"Silence of the Lambs\"\n- **\"The late, great Hannibal Lecter... he's a wonderful man\"** [Source: Multiple rally speeches, 2024; Axios, Washington Post]\n- Hannibal Lecter is not a real person and didn't die (because he never existed)\n- Used this as part of immigration discussion somehow",
+  "summary": "- Repeatedly praised Hannibal Lecter - the fictional cannibal serial killer from \"Silence of the Lambs\"\n- \"The late, great Hannibal Lecter... he's a wonderful man\" \n- Hannibal Lecter is not a real person and didn't die (because he never existed)\n- Used this as part of immigration discussion somehow",
+  "date": "2020-01-01",
+  "tags": {
+    "timeline": [
+      "campaign-2024"
+    ],
+    "type": [
+      "political"
+    ],
+    "topic": [
+      "immigration"
+    ],
+    "severity": "verified"
+  },
+  "keyPoints": [
+    "Repeatedly praised **Hannibal Lecter** - the **fictional cannibal serial killer** from \"Silence of the Lambs\"",
+    "**\"The late, great Hannibal Lecter... he's a wonderful man\"** [Source: Multiple rally speeches, 2024; Axios, Washington Post]",
+    "Hannibal Lecter is not a real person and didn't die (because he never existed)",
+    "Used this as part of immigration discussion somehow"
+  ],
+  "sources": [
+    {
+      "text": "Multiple rally speeches, 2024; Axios, Washington Post",
+      "type": "news"
+    }
+  ],
+  "metadata": {
+    "featured": false,
+    "priority": 5,
+    "lastUpdated": "2026-01-20T21:00:00.608Z",
+    "status": "active"
+  }
+}

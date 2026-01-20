@@ -1,0 +1,53 @@
+{
+  "id": "dictator-for-a-day",
+  "title": "\"Dictator for a Day\" Statement",
+  "slug": "dictator-for-a-day",
+  "description": "# \"Dictator for a Day\" Statement (December 5, 2023)\n\nDuring Fox News town hall with Sean Hannity, Trump refused to rule out acting as a dictator:\n\n- **Hannity:** \"You would never abuse power as retribution against anybody?\"\n- **Trump:** \"Except for Day One\"\n- **Hannity (pressing):** \"You're not going to be a dictator, are you?\"\n- **Trump:** \"No, no, no, other than Day One. We're closing the border and we're drilling, drilling, drilling. After that, I'm not a dictator\"\n- When given multiple opportunities to deny dictatorial ambitions, **repeatedly said \"except for Day One\"**\n- Biden campaign: \"Donald Trump has been telling us exactly what he will do if he's reelected and tonight he said he will be a dictator on day one\"\n- Democracy experts called it **\"the clearest authoritarian threat ever made by an American presidential candidate\"**\n- Later doubled down at rallies, joking about the statement rather than clarifying",
+  "summary": "During Fox News town hall with Sean Hannity, Trump refused to rule out acting as a dictator:",
+  "date": "2023-12-05",
+  "tags": {
+    "timeline": [
+      "campaign-2024"
+    ],
+    "type": [
+      "political"
+    ],
+    "topic": [
+      "democracy",
+      "immigration"
+    ],
+    "severity": "verified"
+  },
+  "keyPoints": [
+    "**Hannity:** \"You would never abuse power as retribution against anybody?\"",
+    "**Trump:** \"Except for Day One\"",
+    "**Hannity (pressing):** \"You're not going to be a dictator, are you?\"",
+    "**Trump:** \"No, no, no, other than Day One. We're closing the border and we're drilling, drilling, drilling. After that, I'm not a dictator\"",
+    "When given multiple opportunities to deny dictatorial ambitions, **repeatedly said \"except for Day One\"**",
+    "Biden campaign: \"Donald Trump has been telling us exactly what he will do if he's reelected and tonight he said he will be a dictator on day one\"",
+    "Democracy experts called it **\"the clearest authoritarian threat ever made by an American presidential candidate\"**",
+    "Later doubled down at rallies, joking about the statement rather than clarifying"
+  ],
+  "sources": [
+    {
+      "text": "Fox News town hall transcript, December 5, 2023",
+      "type": "video",
+      "date": "2023-12-05"
+    },
+    {
+      "text": "Biden campaign statement",
+      "type": "news",
+      "date": "2023-12-05"
+    },
+    {
+      "text": "Democracy experts analysis",
+      "type": "expert"
+    }
+  ],
+  "metadata": {
+    "featured": false,
+    "priority": 5,
+    "lastUpdated": "2026-01-20T21:00:13.500Z",
+    "status": "active"
+  }
+}

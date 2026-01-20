@@ -1,0 +1,45 @@
+{
+  "id": "tim-apple",
+  "title": "The \"Tim Apple\" Incident",
+  "slug": "tim-apple",
+  "description": "# The \"Tim Apple\" Incident\n\n- **March 2019:** At American Workforce Policy Advisory Board meeting, introduced Apple CEO Tim Cook as **\"Tim Apple\"** [Source: Video footage, March 6, 2019]\n- Later claimed he said \"Tim Cook Apple\" very quickly to save time and words [Source: Trump tweets]\n- Video clearly shows he said \"Tim Apple\" [Source: Multiple video recordings]",
+  "summary": "- March 2019: At American Workforce Policy Advisory Board meeting, introduced Apple CEO Tim Cook as \"Tim Apple\" \n- Later claimed he said \"Tim Cook Apple\" very quickly to save time and words \n- Video clearly shows he said \"Tim Apple\" ",
+  "date": "2019-03-06",
+  "tags": {
+    "timeline": [
+      "first-term"
+    ],
+    "type": [
+      "policy"
+    ],
+    "topic": [
+      "character"
+    ],
+    "severity": "verified"
+  },
+  "keyPoints": [
+    "**March 2019:** At American Workforce Policy Advisory Board meeting, introduced Apple CEO Tim Cook as **\"Tim Apple\"** [Source: Video footage, March 6, 2019]",
+    "Later claimed he said \"Tim Cook Apple\" very quickly to save time and words [Source: Trump tweets]",
+    "Video clearly shows he said \"Tim Apple\" [Source: Multiple video recordings]"
+  ],
+  "sources": [
+    {
+      "text": "Video footage, March 6, 2019",
+      "type": "video"
+    },
+    {
+      "text": "Trump tweets",
+      "type": "social-media"
+    },
+    {
+      "text": "Multiple video recordings",
+      "type": "video"
+    }
+  ],
+  "metadata": {
+    "featured": false,
+    "priority": 5,
+    "lastUpdated": "2026-01-20T21:00:00.634Z",
+    "status": "active"
+  }
+}

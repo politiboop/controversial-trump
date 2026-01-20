@@ -1,0 +1,41 @@
+{
+  "id": "gender-surgery",
+  "title": "Schoolchildren Getting Gender Surgery",
+  "slug": "gender-surgery",
+  "description": "# Schoolchildren Getting Gender Surgery (2024)\n\n- Claimed schools were giving children **gender surgery** without parental consent\n- **\"Your kid goes to school and comes home a few days later with an operation\"** [Source: Campaign rally, 2024; U.S. News fact-check]\n- Completely false - no schools perform surgeries [Source: Fact-checkers, 2024]",
+  "summary": "- Claimed schools were giving children gender surgery without parental consent\n- \"Your kid goes to school and comes home a few days later with an operation\" \n- Completely false - no schools perform surgeries ",
+  "date": "2020-01-01",
+  "tags": {
+    "timeline": [
+      "campaign-2024"
+    ],
+    "type": [
+      "political"
+    ],
+    "topic": [
+      "character"
+    ],
+    "severity": "verified"
+  },
+  "keyPoints": [
+    "Claimed schools were giving children **gender surgery** without parental consent",
+    "**\"Your kid goes to school and comes home a few days later with an operation\"** [Source: Campaign rally, 2024; U.S. News fact-check]",
+    "Completely false - no schools perform surgeries [Source: Fact-checkers, 2024]"
+  ],
+  "sources": [
+    {
+      "text": "Campaign rally, 2024; U.S. News fact-check",
+      "type": "news"
+    },
+    {
+      "text": "Fact-checkers, 2024",
+      "type": "news"
+    }
+  ],
+  "metadata": {
+    "featured": false,
+    "priority": 5,
+    "lastUpdated": "2026-01-20T21:00:00.598Z",
+    "status": "active"
+  }
+}

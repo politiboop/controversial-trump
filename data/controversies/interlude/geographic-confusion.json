@@ -1,0 +1,40 @@
+{
+  "id": "geographic-confusion",
+  "title": "Geographic Confusion",
+  "slug": "geographic-confusion",
+  "description": "# Geographic Confusion\n\n- **Iowa/South Dakota mixup:** Thanked supporters in **Sioux City, Iowa** for coming out to **Sioux Falls, South Dakota** [Source: Rally speech, 2023; The Mirror]\n- **South America/South Africa:** Confused South America with South Africa, then doubled down saying South Africa shouldn't be in the G20 [Source: Axios, The Mirror, 2024]",
+  "summary": "- Iowa/South Dakota mixup: Thanked supporters in Sioux City, Iowa for coming out to Sioux Falls, South Dakota \n- South America/South Africa: Confused South America with South Africa, then doubled down saying South Africa shouldn't be in the G20 ",
+  "date": "2020-01-01",
+  "tags": {
+    "timeline": [
+      "campaign-2024"
+    ],
+    "type": [
+      "political"
+    ],
+    "topic": [
+      "character"
+    ],
+    "severity": "verified"
+  },
+  "keyPoints": [
+    "**Iowa/South Dakota mixup:** Thanked supporters in **Sioux City, Iowa** for coming out to **Sioux Falls, South Dakota** [Source: Rally speech, 2023; The Mirror]",
+    "**South America/South Africa:** Confused South America with South Africa, then doubled down saying South Africa shouldn't be in the G20 [Source: Axios, The Mirror, 2024]"
+  ],
+  "sources": [
+    {
+      "text": "Rally speech, 2023; The Mirror",
+      "type": "news"
+    },
+    {
+      "text": "Axios, The Mirror, 2024",
+      "type": "news"
+    }
+  ],
+  "metadata": {
+    "featured": false,
+    "priority": 5,
+    "lastUpdated": "2026-01-20T21:00:00.601Z",
+    "status": "active"
+  }
+}

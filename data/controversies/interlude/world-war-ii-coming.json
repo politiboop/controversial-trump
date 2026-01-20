@@ -1,0 +1,37 @@
+{
+  "id": "world-war-ii-coming",
+  "title": "World War II is Coming",
+  "slug": "world-war-ii-coming",
+  "description": "# World War II is Coming (2023)\n\n- Warned that Biden could **\"plunge the world into World War II\"** [Source: Washington DC summit, 2023; The Mirror]\n- World War II ended in **1945** - nearly 80 years ago\n- Unclear if he meant World War III or was confused about history",
+  "summary": "- Warned that Biden could \"plunge the world into World War II\" \n- World War II ended in 1945 - nearly 80 years ago\n- Unclear if he meant World War III or was confused about history",
+  "date": "1945-01-01",
+  "tags": {
+    "timeline": [
+      "campaign-2024"
+    ],
+    "type": [
+      "political"
+    ],
+    "topic": [
+      "character"
+    ],
+    "severity": "verified"
+  },
+  "keyPoints": [
+    "Warned that Biden could **\"plunge the world into World War II\"** [Source: Washington DC summit, 2023; The Mirror]",
+    "World War II ended in **1945** - nearly 80 years ago",
+    "Unclear if he meant World War III or was confused about history"
+  ],
+  "sources": [
+    {
+      "text": "Washington DC summit, 2023; The Mirror",
+      "type": "news"
+    }
+  ],
+  "metadata": {
+    "featured": false,
+    "priority": 5,
+    "lastUpdated": "2026-01-20T21:00:00.642Z",
+    "status": "active"
+  }
+}

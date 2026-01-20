@@ -1,0 +1,255 @@
+{
+  "timeline": [
+    {
+      "value": "pre-presidency",
+      "label": "Pre-Presidency",
+      "description": "Before January 2017",
+      "icon": "📅",
+      "color": "#64748b"
+    },
+    {
+      "value": "campaign-2016",
+      "label": "2016 Campaign",
+      "description": "2015-2016 presidential campaign",
+      "icon": "🗳️",
+      "color": "#3b82f6"
+    },
+    {
+      "value": "first-term",
+      "label": "First Term",
+      "description": "January 2017 - January 2021",
+      "icon": "1️⃣",
+      "color": "#8b5cf6"
+    },
+    {
+      "value": "campaign-2020",
+      "label": "2020 Campaign",
+      "description": "2020 presidential campaign",
+      "icon": "🗳️",
+      "color": "#06b6d4"
+    },
+    {
+      "value": "campaign-2024",
+      "label": "2024 Campaign",
+      "description": "2023-2024 presidential campaign",
+      "icon": "🗳️",
+      "color": "#10b981"
+    },
+    {
+      "value": "second-term",
+      "label": "Second Term",
+      "description": "January 2025 - Present",
+      "icon": "2️⃣",
+      "color": "#f59e0b"
+    }
+  ],
+  "type": [
+    {
+      "value": "personal",
+      "label": "Personal",
+      "description": "Personal conduct and character issues",
+      "icon": "👤",
+      "color": "#ef4444"
+    },
+    {
+      "value": "political",
+      "label": "Political",
+      "description": "Political actions and statements",
+      "icon": "🏛️",
+      "color": "#3b82f6"
+    },
+    {
+      "value": "legal",
+      "label": "Legal",
+      "description": "Legal issues and court cases",
+      "icon": "⚖️",
+      "color": "#8b5cf6"
+    },
+    {
+      "value": "financial",
+      "label": "Financial",
+      "description": "Money, corruption, and financial conflicts",
+      "icon": "💰",
+      "color": "#10b981"
+    },
+    {
+      "value": "policy",
+      "label": "Policy",
+      "description": "Policy decisions and governance",
+      "icon": "📋",
+      "color": "#f59e0b"
+    },
+    {
+      "value": "character",
+      "label": "Character",
+      "description": "Character and ethical concerns",
+      "icon": "🎭",
+      "color": "#ec4899"
+    }
+  ],
+  "topic": [
+    {
+      "value": "democracy",
+      "label": "Democracy",
+      "description": "Democratic institutions and norms",
+      "icon": "🗽",
+      "color": "#dc2626"
+    },
+    {
+      "value": "corruption",
+      "label": "Corruption",
+      "description": "Corruption and ethics violations",
+      "icon": "💸",
+      "color": "#ea580c"
+    },
+    {
+      "value": "character",
+      "label": "Character",
+      "description": "Character and conduct issues",
+      "icon": "🎭",
+      "color": "#ec4899"
+    },
+    {
+      "value": "foreign-policy",
+      "label": "Foreign Policy",
+      "description": "International relations and diplomacy",
+      "icon": "🌍",
+      "color": "#3b82f6"
+    },
+    {
+      "value": "domestic-policy",
+      "label": "Domestic Policy",
+      "description": "Domestic policy decisions",
+      "icon": "🏠",
+      "color": "#8b5cf6"
+    },
+    {
+      "value": "immigration",
+      "label": "Immigration",
+      "description": "Immigration policy and enforcement",
+      "icon": "🛂",
+      "color": "#f59e0b"
+    },
+    {
+      "value": "justice-system",
+      "label": "Justice System",
+      "description": "DOJ, courts, and rule of law",
+      "icon": "⚖️",
+      "color": "#059669"
+    },
+    {
+      "value": "military",
+      "label": "Military",
+      "description": "Military and veterans issues",
+      "icon": "🎖️",
+      "color": "#0891b2"
+    },
+    {
+      "value": "women",
+      "label": "Women",
+      "description": "Women's issues and gender",
+      "icon": "♀️",
+      "color": "#ec4899"
+    },
+    {
+      "value": "racism",
+      "label": "Racism",
+      "description": "Race and discrimination",
+      "icon": "✊",
+      "color": "#7c3aed"
+    },
+    {
+      "value": "rhetoric",
+      "label": "Rhetoric",
+      "description": "Rhetoric, speech, and statements",
+      "icon": "💬",
+      "color": "#64748b"
+    },
+    {
+      "value": "covid",
+      "label": "COVID-19",
+      "description": "COVID-19 pandemic response",
+      "icon": "🦠",
+      "color": "#dc2626"
+    },
+    {
+      "value": "economy",
+      "label": "Economy",
+      "description": "Economic policy and issues",
+      "icon": "📈",
+      "color": "#10b981"
+    },
+    {
+      "value": "cabinet",
+      "label": "Cabinet",
+      "description": "Cabinet and administration",
+      "icon": "👥",
+      "color": "#f59e0b"
+    },
+    {
+      "value": "environment",
+      "label": "Environment",
+      "description": "Environmental policy",
+      "icon": "🌳",
+      "color": "#059669"
+    },
+    {
+      "value": "healthcare",
+      "label": "Healthcare",
+      "description": "Healthcare policy",
+      "icon": "🏥",
+      "color": "#06b6d4"
+    },
+    {
+      "value": "media",
+      "label": "Media",
+      "description": "Media relations and press freedom",
+      "icon": "📰",
+      "color": "#64748b"
+    },
+    {
+      "value": "pardons",
+      "label": "Pardons",
+      "description": "Pardons and clemency",
+      "icon": "🔓",
+      "color": "#7c3aed"
+    }
+  ],
+  "severity": [
+    {
+      "value": "court-ruling",
+      "label": "Court Ruling",
+      "description": "Established by court verdict or legal ruling",
+      "color": "#dc2626",
+      "priority": 1
+    },
+    {
+      "value": "verified",
+      "label": "Verified",
+      "description": "Verified by multiple independent sources",
+      "color": "#ea580c",
+      "priority": 2
+    },
+    {
+      "value": "opinion",
+      "label": "Expert Opinion",
+      "description": "Based on expert or official opinion",
+      "color": "#ca8a04",
+      "priority": 3
+    },
+    {
+      "value": "disputed",
+      "label": "Disputed",
+      "description": "Disputed claims or allegations",
+      "color": "#65a30d",
+      "priority": 4
+    },
+    {
+      "value": "ongoing",
+      "label": "Ongoing",
+      "description": "Currently ongoing or developing",
+      "color": "#0891b2",
+      "priority": 5
+    }
+  ]
+}
