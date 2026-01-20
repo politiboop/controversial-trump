@@ -104,11 +104,11 @@ When you see **[Context needed]** - Additional context would provide important p
 ### Part II: Character & Conduct Issues
 5. [Unprecedented Lying & "Alternative Facts"](#unprecedented-lying--alternative-facts)
 6. [Broken Promises & Failed Follow-Through](#broken-promises--failed-follow-through)
-7. [Trump-Epstein Relationship & Files Controversy](#trump-epstein-relationship--files-controversy)
-8. [Attacks on Women](#attacks-on-women)
-9. [Systematic Attacks on Black Women](#systematic-attacks-on-black-women)
+7. [Attacks on Women](#attacks-on-women)
+8. [Systematic Attacks on Black Women](#systematic-attacks-on-black-women)
+9. [Mocking Disabled Reporter (2015)](#mocking-disabled-reporter-2015)
 10. [Racist & Xenophobic Statements](#racist--xenophobic-statements)
-11. [Mocking Disabled Reporter (2015)](#mocking-disabled-reporter-2015)
+11. [Trump-Epstein Relationship & Files Controversy](#trump-epstein-relationship--files-controversy)
 
 ### Part III: Administration Chaos & Corruption
 12. [His Own Cabinet Warned America Not to Re-Elect Him](#his-own-cabinet-warned-america-not-to-re-elect-him)
@@ -117,13 +117,22 @@ When you see **[Context needed]** - Additional context would provide important p
 14. [Unqualified & Dangerous Second-Term Cabinet](#unqualified--dangerous-second-term-cabinet)
 
 ### Part IV: Chronological Controversies
-15. [First Term Controversies (2017-2021)](#first-term-controversies-2017-2021)
-16. [Second Term Controversies (2025-Present)](#second-term-controversies-2025-present)
-17. [The Elon Musk / DOGE Debacle (2025)](#the-elon-musk--doge-debacle-2025)
-18. [AI-Generated Videos & Deepfakes (2025)](#ai-generated-videos--deepfakes-2025)
+15. [The Elon Musk / DOGE Debacle (2025)](#the-elon-musk--doge-debacle-2025)
+16. [AI-Generated Videos & Deepfakes (2025)](#ai-generated-videos--deepfakes-2025)
+17. [First Term Controversies (2017-2021)](#first-term-controversies-2017-2021)
+18. [Second Term Controversies (2025-Present)](#second-term-controversies-2025-present)
+    - [Corruption & Financial Conflicts](#corruption--financial-conflicts)
+    - [Pardons & Justice System Weaponization](#pardons--justice-system-weaponization)
+    - [Immigration & Border Enforcement Abuses](#immigration--border-enforcement-abuses)
+    - [Military & Foreign Policy](#military--foreign-policy)
+    - [Governance Failures](#governance-failures)
 
 ### Part V: Ongoing Concerns
 19. [Ongoing / Systemic Concerns](#ongoing--systemic-concerns)
+
+### Additional Resources
+20. [Key Sources & References](#key-sources--references)
+21. [Additional Context & Counterarguments](#additional-context--counterarguments)
 
 ---
 
@@ -1321,6 +1330,18 @@ Trump's second term has been marked by systematic corruption, abuse of the pardo
 - **ABC News:** Trump brought defamation case after George Stephanopoulos inaccurately described E. Jean Carroll jury determination; **ABC settled for $15 million** [Source: Columbia Journalism Review]
 - **CBS/Paramount:** Trump filed **$20 billion lawsuit** accusing "60 Minutes" of selectively editing Harris interview; parties in settlement negotiations [Source: Columbia Journalism Review]
 
+**Immigration Judges Purge - Replacing Experienced Judges with Loyalists**
+
+- **Nearly 100 immigration judges fired in 2025** [Source: [NPR](https://www.npr.org/2026/01/10/nx-s1-5672386/the-trump-administration-fired-nearly-100-immigration-judges-in-2025-whats-next), [New England Public Media](https://www.nepm.org/2026-01-10/the-trump-administration-fired-nearly-100-immigration-judges-in-2025-whats-next)]
+- **At least 19 experienced judges** who had been with the agency for years were terminated in year-end layoffs [Source: [NPR](https://www.npr.org/2026/01/10/nx-s1-5672386/the-trump-administration-fired-nearly-100-immigration-judges-in-2025-whats-next)]
+- **By mid-2025, 17 judges across 10 states** had been fired without cause [Source: Union representatives]
+- Union estimated that **over 100 judges have either been fired or resigned** under current administration's restructuring [Source: [NPR](https://www.npr.org/2026/01/10/nx-s1-5672386/the-trump-administration-fired-nearly-100-immigration-judges-in-2025-whats-next)]
+- **Courts starting 2026 with fewer than half the judges from a year ago** as judges were fired, resigned or were reassigned [Source: [NPR](https://www.npr.org/2026/01/10/nx-s1-5672386/the-trump-administration-fired-nearly-100-immigration-judges-in-2025-whats-next)]
+- Trump administration **hiring inexperienced immigration judges** to replace experienced professionals [Source: [Law Firm 4 Immigrants](https://www.lawfirm4immigrants.com/trump-purge-immigration-judges-his-strategy-of-removing-and-hiring-hundreds-of-inexperienced-judges/)]
+- **San Francisco immigration court being shuttered**, adding to judges' backlog [Source: [NPR](https://www.npr.org/2026/01/13/g-s1-105679/san-francisco-immigration-court-closure)]
+- **Justice Jackson raised concerns** during Supreme Court arguments about "a President come in and fire all the scientists and the doctors and the economists and the PhDs and replacing them with loyalists and people who don't know anything" [Source: [Federal News Network](https://federalnewsnetwork.com/litigation/2025/12/the-supreme-court-weighs-trumps-bid-to-fire-independent-agency-board-members/)]
+- Immigration courts facing massive backlog with fewer experienced judges to handle cases
+
 **Jack Smith Report & Deposition Released (December 2025-January 2025)**
 
 - **December 17, 2025:** Special Counsel Jack Smith testified before House Judiciary Committee in **eight-hour closed-door deposition** [Source: CNN, NPR, PBS]
@@ -1342,71 +1363,6 @@ Trump's second term has been marked by systematic corruption, abuse of the pardo
 #### Immigration & Border Enforcement Abuses
 
 **ICE Enforcement: Shootings, Deaths & Wrongful Detentions of U.S. Citizens**
-
-Trump's second-term immigration enforcement operations have resulted in **at least 16 ICE shooting incidents** since January 2025, **four deaths**, wrongful detentions of U.S. citizens, and deportations of American citizen children—all accompanied by false statements and character assassination from the White House and DHS before investigations were completed.
-
-**Fatal Shooting of Renee Good - Character Assassination Without Investigation (January 7, 2026)**
-- Claims **"Deep State entrapment, media deception"** were responsible
-- Calls attendees **"patriotic Americans"** and **"peaceful protesters"**
-- Characterizes prosecutions as **"political targeting"** by **"weaponized Biden DOJ"**
-- Claims participants were merely **"trespassers"** exercising **"First Amendment rights"**
-- Alleges Democrats orchestrated **"the real insurrection"**
-- Blames Nancy Pelosi for **"catastrophic security failures"**
-- States pardons **"corrected a historic wrong"** and restored **"fairness under the law"**
-- **Contradicts documented evidence:** 5 people died, 140+ police officers injured with traumatic brain injuries, over 1,500 charged with federal crimes, Proud Boys and Oath Keepers convicted of seditious conspiracy, 
-- video evidence of violence and mob chanting "Hang Mike Pence" [Source: See lines 1123-1132 of this document]
-- This represents **official government historical revisionism** - not just Trump statements, but formal White House position
-
-### Drug Kingpin Pardons
-
-- **Ross Ulbricht (Silk Road):** Created dark web marketplace enabling $200M+ in drug sales; 6 murder-for-hire plots
-- **Larry Hoover (Gangster Disciples):** Led Chicago gang responsible for thousands of deaths
-- **Juan Orlando Hernández:** Former Honduras president convicted of accepting $400 tons of cocaine from cartels; turned Honduras into "narco-state"
-- **Sen. Thom Tillis (R):** Hernández pardon "runs counter" to anti-cartel messaging
-
-### Qatar $400M Plane Gift
-
-- Qatar offered Trump customized Boeing 747 worth **$400 million**
-- **Ethics expert Norm Eisen:** "Largest foreign bribe to a president in American history"
-- Qatar controls significant energy resources and hosts major US military base
-
-### March 2025 - "Signalgate" / War Plans Leak
-
-- Defense Secretary Hegseth **shared sensitive military attack plans via Signal**
-- Atlantic editor Jeffrey Goldberg accidentally added to Signal chat
-- Shared real-time Yemen strike details: aircraft types, launch times, targets
-- Messages included: **"THIS IS WHEN THE FIRST BOMBS WILL DEFINITELY DROP"**
-- Hegseth also shared classified info with wife, brother, personal lawyer in separate chat
-- **Pentagon IG:** "Risked compromising sensitive military information," "could have endangered U.S. troops"
-- Hegseth refused IG interview, denied access to personal phone
-- Administration called damning IG report a **"TOTAL exoneration"**
-
-### DOJ Weaponization Against Political Opponents
-
-- Trump shattered norms by installing loyalists at DOJ and inserting himself into prosecutions at agency that has historically operated with independence from president
-- **More than 100 prosecutors and career lawyers resigned** from DOJ since Trump returned to office - **exodus far exceeding normal turnover** [Source: International Bar Association]
-- **September 2025:** Erik Siebert, career federal prosecutor in Virginia, resigned **under pressure** from Trump administration [Source: NPR, CBS News]
-- Siebert balked at bringing criminal charges against **Letitia James and James Comey** after monthslong investigations found insufficient evidence [Source: NPR, CBS News]
-- Trump told reporters in Oval Office he wanted Siebert **"out"** - hours later, Siebert resigned [Source: NPR]
-- Trump replaced Siebert with **Lindsey Halligan**, senior White House aide and Trump personal attorney with **no prior prosecutorial experience** [Source: CNN, NPR, Fox News]
-- Halligan **quickly secured indictments** against Comey and James after Siebert refused [Source: CNN, ABC News]
-- Federal judge ruled Halligan's appointment **unlawful** - violated federal statute limiting interim U.S. attorneys to 120 days [Source: CNN, Slate, NPR]
-- Judge **dismissed both indictments in their entirety** due to unlawful appointment [Source: CNN, Slate]
-- House Judiciary Democrats launched investigation of Siebert's ouster [Source: CBS News]
-- **James Comey (Former FBI Director):** Indicted in Virginia federal court, charged with **making false statements to Congress** and **obstructing Russia probe investigation**; case **dismissed** due to Halligan's unlawful appointment [Source: Axios, ABC News, CNN, NPR]
-- **Letitia James (NY Attorney General):** Indicted **October 9, 2025** on **bank fraud** and **making false statements to financial institution**; James brought **$454M civil fraud case** against Trump [Source: CNN, NBC News]
-- **Adam Schiff (Democratic Senator, lead manager in first Trump impeachment):** DOJ investigating for alleged **insurance fraud** related to Maryland property; AG Pam Bondi named **Ed Martin as special prosecutor**; **prosecutors hesitant to proceed** with charges [Source: CNN, CNBC]
-- **Liz Cheney (Former GOP Representative):** GOP report recommended FBI investigation for alleged **criminal witness tampering** on Jan 6 committee; Trump said Jan 6 committee members **"should go to jail"**; **January 20, 2025:** Biden gave **preemptive pardons** to all Jan 6 committee members/staffers given Trump's threats [Source: NBC News, The Hill, ABC News, NPR]
-- **John Bolton (Former National Security Adviser):** Investigation opened over **critical book** about Trump administration
-- **Jack Smith prosecutors:** **Late January 2025:** DOJ fired **"over a dozen" officials** from Special Counsel Jack Smith's teams; Trump called for **Jack Smith and Merrick Garland to be prosecuted** [Source: ABC News, The Hill]
-- Trump issued executive orders against **law firms involved with investigations** including **Covington & Burling** (provided Jack Smith legal services); by end of March 2025, **four additional law firms** targeted [Source: ABC News]
-- **July 2025:** At Trump's insistence, GOP launched **new January 6 committee** led by Rep. Barry Loudermilk to re-investigate previous committee's work [Source: CNN]
-- FBI agents fired who investigated Trump
-- **Ann Selzer/Des Moines Register:** Trump sued pollster over Iowa poll showing him trailing Harris by 3 points (he won by 13); claimed poll violated Iowa **consumer fraud statute**; **dropped federal lawsuit June 30, 2025**, refiled in state court to **shield from Anti-SLAPP measure** [Source: NBC News, The Hill, Iowa Public Radio, Variety, Deadline]
-- **ABC News:** Trump brought defamation case after George Stephanopoulos inaccurately described E. Jean Carroll jury determination; **ABC settled for $15 million** [Source: Columbia Journalism Review]
-- **CBS/Paramount:** Trump filed **$20 billion lawsuit** accusing "60 Minutes" of selectively editing Harris interview; parties in settlement negotiations [Source: Columbia Journalism Review]
-
-### ICE Enforcement: Shootings, Deaths & Wrongful Detentions of U.S. Citizens
 
 Trump's second-term immigration enforcement operations have resulted in **at least 16 ICE shooting incidents** since January 2025, **four deaths**, wrongful detentions of U.S. citizens, and deportations of American citizen children—all accompanied by false statements and character assassination from the White House and DHS before investigations were completed.
 
@@ -1492,54 +1448,20 @@ Trump's second-term immigration enforcement operations have resulted in **at lea
 - First-year Trump budget allocated **more than $170 billion** over four years for border and interior enforcement [Source: [CBC News](https://www.cbc.ca/news/world/ice-history-trump-administration-9.7037733)]
 - **$75 billion** going to ICE [Source: [CBC News](https://www.cbc.ca/news/world/ice-history-trump-administration-9.7037733)]
 
-### February 2025-Present - Tariff Chaos, Corruption & Lies About Who Pays
+#### Military & Foreign Policy
 
-- Trump repeatedly claimed tariffs are **"paid by other countries"** and foreign governments send checks to U.S. Treasury [Source: Multiple statements, 2025]
-- **Reality:** Tariffs are taxes paid by **U.S. importers**, not foreign countries [Source: NPR, CBS News, Tax Foundation]
-- **Goldman Sachs analysis:** Tariff costs are **40% paid by U.S. consumers, 40% by U.S. businesses, 20% by foreign exporters** [Source: Tax Foundation]
-- **Peterson Institute:** Trump's tariffs cost typical U.S. family **additional $2,600 per year** [Source: NPR, February 2025]
-- Average tax increase of **$1,200 per U.S. household in 2025**, rising to **$1,400 in 2026** [Source: Tax Foundation]
-- Tariffs on imported consumer goods **passed directly to U.S. customers** [Source: CBS News analysis]
-- **February 1, 2025:** Trump imposed **25% tariffs on Canada and Mexico**, **10% on China** [Source: White House, February 2025]
-- **April 2025:** Average U.S. tariff rate rose from **2.5% to as high as 170%**—**highest level in over a century** [Source: Tax Foundation, Congress.gov]
-- **April 2, 2025:** Claimed unprecedented tariff authority under International Emergency Economic Powers Act (IEEPA) [Source: Wikipedia, Harvard Law School analysis]
-- Overall average effective tariff rate: **16.8% as of November 2025** [Source: Tracking the Trump Tariffs]
-- Tariffs on Canada and Mexico **directly violate USMCA** (United States-Mexico-Canada Agreement) that **Trump himself negotiated** in first term [Source: Brookings, Wikipedia]
-- **Mexico's Secretary of Economy Marcelo Ebrard:** Called tariffs a **"flagrant violation"** of USMCA [Source: Brookings analysis]
-- Tariffs signal to world that **"any international agreement with the U.S. is not worth all that much"** [Source: Economic Policy Institute]
-- Raises questions for all U.S. allies about **value of trade agreements with U.S.** [Source: Brookings]
-- Trump **granting tariff exemption deals to wealthy donors and politically connected businesses** [Source: Jacobin, HuffPost, April 2025]
-- **Study from first term:** Companies requesting tariff waivers were **twice as likely to succeed if their CEOs donated to Republicans** [Source: ABC News, Sen. Warren letter]
-- **April 2025:** Trump **suspended tariffs for electronics**—good news for **Elon Musk** (Tesla, Trump super PAC donor) and **Tim Cook** (Apple CEO who donated **$1 million to Trump inauguration**) [Source: HuffPost, Washington Post]
-- Electronics exemption means smartphones, laptops, chips **not subject to 145% China tariffs or 10% baseline tariffs** [Source: CNBC, WHYY]
-- **Apple investment commitment:** Apple won praise from Trump after committing **$500 billion investment and 20,000 U.S. jobs**—echoing pattern from first term when iPhone exempted from China tariffs after **$350 billion commitment** [Source: Washington Post, CNBC]
-- Tech CEOs (Cook, Musk, Zuckerberg, Bezos, Pichai) **assembled behind Trump at January 20 inauguration** [Source: Washington Post]
-- Trump fired **government watchdog that raised alarm** about exemption corruption [Source: HuffPost]
-- **November 4, 2025:** Swiss businessmen met Trump in Oval Office bearing **Rolex table clock and 1kg gold bar engraved with Trump's name** [Source: Bloomberg, Yahoo News, SWI swissinfo.ch]
-- Executives included **Jean-Frédéric Dufour (Rolex CEO)** and **Marwan Shakarchi (MKS PAMP gold refiner chairman)** among others from Richemont, Partners Group, MSC, Mercuria Energy [Source: Fortune, Bloomberg]
-- Swiss business delegation sought tariff reduction from **39% that caused Swiss exports to collapse by nearly one-third** [Source: Yahoo News, CounterPunch]
-- **One week later (November 13):** Trump lowered tariff on Switzerland from **39% to 15%** [Source: SWI swissinfo.ch, Bloomberg]
-- Swiss also promised **$200 billion U.S. investment over next three years** [Source: Yahoo News]
-- **Green Party MPs Raphael Mahaim and Greta Gysin** filed criminal complaint with Swiss prosecutors asking if gifts violated **Swiss Criminal Code** [Source: Bloomberg, Le News]
-- Swiss attorney general's office confirmed receiving **three criminal complaints** and is reviewing them [Source: Bloomberg]
-- **Former Swiss ambassador Daniel Woker:** "There is a sense from some in Switzerland that this was **very close to corruption**" - added "It shows wheeling and dealing but that is **not how we like to think of ourselves**" [Source: CounterPunch]
-- **Former White House ethics lawyer Richard Painter:** Gold Rolex and gold bar given **week before favorable tariff cut "should trigger a congressional investigation"** [Source: Daily Beast, Newsweek]
-- Gifts estimated worth **tens of thousands of Swiss francs** [Source: Bloomberg]
-- Swiss politicians decried **"gold bar diplomacy"** in Trump trade deal [Source: SWI swissinfo.ch]
-- **Sen. Elizabeth Warren:** "There is no tariff policy. It's just **all chaos and corruption**. That's all we have going on" [Source: ABC News, April 2025]
-- Lawmakers wrote expressing concern Trump's trade policy is becoming **"corrupt scheme to enrich administration officials and those loyal to them"** [Source: Sen. Warren letter to administration]
-- Administration's handling of tariffs **"rife with opportunities to unduly influence President Trump and other administration officials"** [Source: Sen. Warren letter]
-- **February 10, 2025:** Trump signed executive order putting **six-month pause on DOJ enforcement of Foreign Corrupt Practices Act (FCPA)**, which prohibits bribery of foreign government officials [Source: Latham & Watkins legal analysis]
-- AG Pam Bondi charged with preparing new enforcement guidelines [Source: FINCHANNEL]
-- Timing of Trump's social media posts on **April 9, 2025** raised **suspicions of insider trading** [Source: FINCHANNEL]
-- If Trump or officials traded on tariff policy knowledge, **could be classified as corruption** - misuse of position for financial benefit [Source: FINCHANNEL, April 2025]
-- As of April 16, 2025, no conclusive evidence exists on insider trading; investigations ongoing [Source: FINCHANNEL]
-- **Wildly inconsistent country-by-country rates:** China (10%, later reduced), Canada/Mexico (25% despite USMCA), India (50% for buying Russian oil), Vietnam (20%), Philippines (19%), Indonesia (19%), South Korea (15%), Japan (15%) [Source: Congress.gov, White House, Trade Compliance Resource Hub]
-- **Inconsistent and historic nature** of tariff decisions **unsettled markets and caused confusion** [Source: Brookings]
-- Trump's **25% tariffs on Canada and Mexico will be "blow to all 3 economies"** [Source: Brookings analysis]
-- Legal challenges consolidated into **Learning Resources v. Trump**; Supreme Court heard oral arguments November 5, 2025, decision expected 2026 [Source: Congress.gov]
+**"Signalgate" / War Plans Leak (March 2025)**
 
-### September 2025-Present - Caribbean Drug Boat Strikes
+- Defense Secretary Hegseth **shared sensitive military attack plans via Signal**
+- Atlantic editor Jeffrey Goldberg accidentally added to Signal chat
+- Shared real-time Yemen strike details: aircraft types, launch times, targets
+- Messages included: **"THIS IS WHEN THE FIRST BOMBS WILL DEFINITELY DROP"**
+- Hegseth also shared classified info with wife, brother, personal lawyer in separate chat
+- **Pentagon IG:** "Risked compromising sensitive military information," "could have endangered U.S. troops"
+- Hegseth refused IG interview, denied access to personal phone
+- Administration called damning IG report a **"TOTAL exoneration"**
+
+**Caribbean Drug Boat Strikes (September 2025-Present)**
 
 - **22+ strikes on boats have killed at least 87 people**
 - **September 2 strike:** After initial strike left two survivors clinging to wreckage, follow-up strike ordered to kill them
@@ -1549,49 +1471,7 @@ Trump's second-term immigration enforcement operations have resulted in **at lea
 - No evidence boats were carrying drugs or posed threat
 - Bipartisan congressional investigations launched
 
-### October-November 2025 - 43-Day Government Shutdown
-
-- **Longest shutdown in US history (43 days)**
-- **670,000 federal workers furloughed**; 750,000+ worked without pay
-- **42 million Americans faced loss of SNAP food benefits**
-- FAA cut air traffic 10% at 40 airports
-- Head Start suspended for 58,600 children
-- CBO estimated **$7 billion loss to economy**
-- Trump held **"Great Gatsby" party at Mar-a-Lago** eve of SNAP suspension
-- Trump golfed half-dozen+ times, visited 6 countries during shutdown
-
-### November 2025 - Fake Electors Pardons
-
-- **77 people involved in 2020 fake electors scheme pardoned**
-- **Rudy Giuliani** - Trump's personal attorney
-- **Mark Meadows** - Former White House Chief of Staff
-- Sidney Powell, John Eastman, Kenneth Chesebro, Jenna Ellis
-
-### December 2025-January 2025 - Jack Smith Report & Deposition Released
-
-- **December 17, 2025:** Special Counsel Jack Smith testified before House Judiciary Committee in **eight-hour closed-door deposition** [Source: CNN, NPR, PBS]
-- **December 31, 2025:** House Judiciary Committee released **255-page transcript and video** of Smith's deposition on New Year's Eve [Source: CNN, NPR]
-- **January 14, 2025:** Justice Department released **Volume 1 of Jack Smith's final report** - 137 pages entitled "Report on Efforts to Interfere with the Lawful Transfer of Power Following the 2020 Presidential Election" [Source: Lawfare, NPR, Axios]
-- Volume 2 regarding classified documents case **remains sealed** by federal judge's order [Source: The Hill, Lawfare]
-- Smith to committee: **"The decision to bring charges against President Trump was mine, but the basis for nine of those charges rests entirely with President Trump and his actions"** [Source: Deposition transcript, PBS]
-- Smith called January 6 **"an attack on the structure of our democracy in which over 140 heroic law enforcement officers were assaulted"** [Source: Deposition transcript]
-- Smith: Trump was **"by a large measure the most culpable and most responsible person in this conspiracy"** [Source: Deposition transcript, NPR]
-- Report conclusion: Evidence would have led to Trump's **conviction at trial**, **"but for Mr. Trump's election and imminent return to the Presidency"** [Source: Final report, NPR, Axios]
-- Report: Trump engaged in **"unprecedented criminal effort"** to overturn 2020 election results [Source: Final report, NBC News, ABC News]
-- Report: Trump knowingly spread **"demonstrably and, in many cases, obviously false"** claims about the election [Source: Final report, NPR]
-- Report: After Pence refused to overturn electoral vote, Trump **"took aim"** at Pence, resulting in rioters chanting **"Where is Pence? Bring Him Out!"** and **"Hang Mike Pence!"** [Source: Final report]
-- Report documented: **140 law enforcement officers assaulted** during Capitol riot; **at least 123 rioters charged** with using deadly weapon or causing serious bodily injury to officers [Source: Final report]
-- Smith stated: **"Nobody within the Department of Justice ever sought to interfere with, or improperly influence, my prosecutorial decision making"** [Source: Final report, ABC News]
-- Smith: **"No historical analog"** for Trump's actions around 2020 election [Source: ABC News]
-- Smith submitted report to DOJ on **January 7, 2025** and resigned on **January 10, 2025** [Source: First Amendment Encyclopedia]
-
-### Golf Spending
-
-- **$71 million spent on golf in 2025**
-- Average cost: **$3.4 million per trip**
-- Taxpayer money flows directly to Trump properties
-
-### January 3, 2026 - Venezuela Military Operation & "We're Going to Run the Country"
+**Venezuela Military Operation & "We're Going to Run the Country" (January 3, 2026)**
 
 - **January 3, 2026:** Trump announced U.S. military operation to capture Venezuelan President Nicolás Maduro [Source: NPR, CBS News, NBC News, January 2026]
 - Trump described **"extraordinary military operation"** using **"overwhelming military power, air land and sea"** to **"launch a spectacular assault"** against **"heavily fortified military fortress in the heart of Caracas"** [Source: war.gov, CBS News]
@@ -1610,10 +1490,59 @@ Trump's second-term immigration enforcement operations have resulted in **at lea
 - **Sen. Mark Warner (D):** "Does this mean any large country can indict the ruler of a smaller adjacent country and take that person out?" [Source: NPR]
 - Raises questions about **sovereignty violations** and **illegal regime change**
 - Setting **dangerous international precedent** for military interventions
-- Trump dismissed **María Corina Machado** (2025 Nobel Peace Prize winner and Venezuelan democratic opposition leader) as **"very nice woman"** who **"doesn't have the support within or the respect within the country"** [Source: CNN, Al Jazeera, January 2026]
+- Trump dismissed **María Corina Machado** (2025 Nobel Peace Prize winner and Venezuelan democratic opposition leader) as **"very nice woman"** who **"doesn't have the support within or the respect within the country"** [Source: [CNN](https://www.cnn.com), [Al Jazeera](https://www.aljazeera.com/news/2026/1/16/venezuelas-machado-gives-trump-her-nobel-peace-prize-is-it-his-now), January 2026]
 - Trump suggested he'd instead partner with **Maduro loyalist Delcy Rodríguez** as interim president [Source: CNN analysis]
 - **CNN:** "Trump doesn't seem interested in working with Venezuela's opposition" [Source: CNN analysis, January 2026]
 - Critics note Trump ignored democratic processes to install preferred leadership
+
+**Nobel Peace Prize Controversy**
+
+- **2025 Nobel Peace Prize** awarded to María Corina Machado for **"tireless work promoting democratic rights for the people of Venezuela"** [Source: [Wikipedia](https://en.wikipedia.org/wiki/2025_Nobel_Peace_Prize)]
+- Trump had **longstanding desire to win Nobel Peace Prize**, repeatedly suggested he deserved it before announcement [Source: Multiple sources]
+- Trump claimed it would be **"big insult" to the US** if he did not win [Source: [The Conversation](https://theconversation.com/donald-trump-would-have-been-an-unsuitable-choice-for-the-2025-nobel-peace-prize-but-he-may-be-a-more-serious-contender-in-2026-267067)]
+- After Machado won, **White House Communications Director Steven Cheung** stated: **"The Nobel Committee proved they place politics over peace"** [Source: [Wikipedia](https://en.wikipedia.org/wiki/2025_Nobel_Peace_Prize)]
+- **Richard Grenell** (Trump's Venezuela envoy) declared the **"Nobel Prize died years ago"** [Source: [Wikipedia](https://en.wikipedia.org/wiki/2025_Nobel_Peace_Prize)]
+- Following U.S. Venezuela invasion, **Machado offered to "share" her Nobel Prize with Trump** to thank him on behalf of Venezuelan people [Source: [Al Jazeera](https://www.aljazeera.com/news/2026/1/16/venezuelas-machado-gives-trump-her-nobel-peace-prize-is-it-his-now), [Axios](https://www.axios.com/2026/01/11/nobel-maria-corina-machado-trump-prize-transfer)]
+- **Nobel Committee rejected** the request, clarifying prize **"cannot be revoked, shared or transferred"** [Source: [NBC News](https://www.nbcnews.com/politics/donald-trump/nobel-institute-indicates-peace-prize-cannot-transferred-mari-corina-m-rcna253371), [Euronews](https://www.euronews.com/my-europe/2026/01/13/fact-check-machado-cant-share-her-peace-prize-with-trump)]
+- Committee reiterated: While ownership of physical medal can change, **the title does not transfer**—Trump is **not a Nobel Peace Prize laureate** [Source: [Axios](https://www.axios.com/2026/01/11/nobel-maria-corina-machado-trump-prize-transfer)]
+- **January 15, 2026:** Machado had lunch meeting with Trump at White House and **physically presented her Nobel Peace Prize medal as a gift** [Source: [NBC News](https://www.nbcnews.com/politics/white-house/venezuelas-opposition-leader-machado-visits-trump-white-house-nobel-rcna253635), [NOTUS](https://www.notus.org/foreign-policy/venezuela-maria-corina-machado-offer-give-nobel-peace-prize-trump)]
+- **Trump confirmed he would keep the medal**, writing on Truth Social: **"Maria presented me with her Nobel Peace Prize for the work I have done"** [Source: [NBC News](https://www.nbcnews.com/politics/white-house/venezuelas-opposition-leader-machado-visits-trump-white-house-nobel-rcna253635)]
+- **Norwegian lawmakers reacted with shock and dismay** over Machado's decision [Source: [CNBC](https://www.cnbc.com/2026/01/16/trump-machado-norway-.html)]
+- **Professor Janne Haaland Matlary** (University of Oslo international politics professor) called it **"completely unheard of," "disrespectful" and "pathetic,"** saying it undermined the value of the prize [Source: [CNBC](https://www.cnbc.com/2026/01/16/trump-machado-norway-.html)]
+- Trump has been **nominated for 2026 Nobel Peace Prize** by various world leaders and American lawmakers; decision to be announced October 2026 [Source: [The Conversation](https://theconversation.com/donald-trump-would-have-been-an-unsuitable-choice-for-the-2025-nobel-peace-prize-but-he-may-be-a-more-serious-contender-in-2026-267067)]
+
+#### Governance Failures
+
+**White House Website Rewrites January 6 History (January 2025)**
+
+- White House created official page at **whitehouse.gov/j6** reframing the Capitol attack
+- Page title: **"January 6: A Date Which Will Live in Infamy"** (echoing Pearl Harbor language)
+- Describes event as **"peaceful protest turned tragedy"**
+- Claims **"Deep State entrapment, media deception"** were responsible
+- Calls attendees **"patriotic Americans"** and **"peaceful protesters"**
+- Characterizes prosecutions as **"political targeting"** by **"weaponized Biden DOJ"**
+- Claims participants were merely **"trespassers"** exercising **"First Amendment rights"**
+- Alleges Democrats orchestrated **"the real insurrection"**
+- Blames Nancy Pelosi for **"catastrophic security failures"**
+- States pardons **"corrected a historic wrong"** and restored **"fairness under the law"**
+- **Contradicts documented evidence:** 5 people died, 140+ police officers injured with traumatic brain injuries, over 1,500 charged with federal crimes, Proud Boys and Oath Keepers convicted of seditious conspiracy, video evidence of violence and mob chanting "Hang Mike Pence" [Source: See First Term Controversies section]
+- This represents **official government historical revisionism** - not just Trump statements, but formal White House position
+
+**43-Day Government Shutdown (October-November 2025)**
+
+- **Longest shutdown in US history (43 days)**
+- **670,000 federal workers furloughed**; 750,000+ worked without pay
+- **42 million Americans faced loss of SNAP food benefits**
+- FAA cut air traffic 10% at 40 airports
+- Head Start suspended for 58,600 children
+- CBO estimated **$7 billion loss to economy**
+- Trump held **"Great Gatsby" party at Mar-a-Lago** eve of SNAP suspension
+- Trump golfed half-dozen+ times, visited 6 countries during shutdown
+
+**Fired Inspectors General**
+
+- Fired **17+ inspectors general on first day**
+- Removed independent watchdogs across federal government
 
 ---
 
@@ -1626,11 +1555,6 @@ Trump's second-term immigration enforcement operations have resulted in **at lea
 - Senators Warren and Reed called for investigation into links to North Korea and Russia
 - Administration terminated investigations into crypto firms that donated to Trump
 - DOJ's National Cryptocurrency Enforcement Team disbanded
-
-### Fired Inspectors General
-
-- Fired **17+ inspectors general on first day**
-- Removed independent watchdogs across federal government
 
 ---
 
