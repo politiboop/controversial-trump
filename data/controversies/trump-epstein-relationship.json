@@ -1,0 +1,37 @@
+{
+  "id": "trump-epstein-relationship",
+  "title": "Trump-Epstein Relationship & Files Controversy",
+  "primaryCategory": "corruption",
+  "severity": "serious",
+  "timeline": "second-term",
+  "date": "2025-01-01",
+  "summary": "Decades-long friendship with Jeffrey Epstein, with released emails showing Epstein wrote Trump 'knew about the girls.' Trump administration initially fought release of DOJ files before judge ordered it.",
+  "keyFacts": [
+    "2002 Trump quote: 'I've known Jeff for fifteen years. Terrific guy... many of them are on the younger side'",
+    "Flight logs show Trump flew on Epstein's plane at least 7 times (1993-1997)",
+    "January 2025: Trump administration fought release of remaining DOJ Epstein files",
+    "Federal judge ordered release over administration objections",
+    "Epstein's emails showed Epstein wrote Trump 'knew about the girls' and 'spent hours at my house'",
+    "Another email: Epstein claimed Trump was 'interested in [victim's name redacted] but she was too old for him'",
+    "Trump's own Attorney General (Bondi) confirmed authenticity of emails to Congress",
+    "Trump appointed Alexander Acosta as Labor Secretary - the prosecutor who gave Epstein controversial sweetheart plea deal in 2008"
+  ],
+  "sources": [
+    {
+      "text": "NY Magazine 2002 interview",
+      "url": "https://nymag.com",
+      "type": "interview"
+    },
+    {
+      "text": "DOJ Epstein files",
+      "url": "https://www.justice.gov",
+      "type": "government"
+    },
+    {
+      "text": "Congressional testimony",
+      "url": "https://www.congress.gov",
+      "type": "government"
+    }
+  ],
+  "specialTags": ["sexual-misconduct", "cover-up"]
+}

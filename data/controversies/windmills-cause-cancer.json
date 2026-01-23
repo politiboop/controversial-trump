@@ -1,0 +1,29 @@
+{
+  "id": "windmills-cause-cancer",
+  "title": "Windmills Cause Cancer",
+  "primaryCategory": "absurd",
+  "severity": "absurd",
+  "timeline": "first-term",
+  "date": "2019-04-02",
+  "summary": "Trump claimed at rally: 'If you have a windmill anywhere near your house, congratulations, your house just went down 75 percent in value. And they say the noise causes cancer.' No scientific evidence supports this.",
+  "keyFacts": [
+    "April 2019 rally: 'If you have a windmill anywhere near your house, congratulations, your house just went down 75 percent in value'",
+    "Continued: 'And they say the noise causes cancer'",
+    "No scientific evidence supports this claim according to American Cancer Society",
+    "Repeated variations of this claim at multiple rallies",
+    "Part of Trump's broader opposition to wind energy"
+  ],
+  "sources": [
+    {
+      "text": "Rally transcript, April 2, 2019",
+      "url": "https://www.factcheck.org",
+      "type": "transcript"
+    },
+    {
+      "text": "American Cancer Society",
+      "url": "https://www.cancer.org",
+      "type": "analysis"
+    }
+  ],
+  "specialTags": ["bizarre", "science-denial"]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "attacks-on-black-women",
+  "title": "Systematic Attacks on Black Women",
+  "primaryCategory": "racism",
+  "severity": "serious",
+  "timeline": "first-term",
+  "date": "2017-01-20",
+  "summary": "Trump repeatedly used 'low IQ' attacks against Black people, a trope that race scholars note plays into historical racist narratives used to justify slavery and deny Black Americans full humanity.",
+  "keyFacts": [
+    "Rep. Maxine Waters: 'Extraordinarily low IQ person,' 'crazy,' 'unhinged'",
+    "Omarosa Manigault Newman: Called 'that dog,' 'crazed, crying lowlife,' 'wacky and deranged'",
+    "April Ryan: 'Nasty,' 'loser,' 'doesn't know what the hell she's doing'",
+    "Abby Phillip (CNN): 'Stupid question' when asking about his loss in 2018 elections",
+    "LeBron James & Don Lemon: 'Dumbest man on television' who 'made Lebron look smart, which isn't easy to do'",
+    "Experts: Comparing Omarosa to 'dog' plays into narrative of 'questioning whether or not blacks are truly human beings' used to justify slavery"
+  ],
+  "sources": [
+    {
+      "text": "Trump Twitter archive",
+      "url": "https://www.thetrumparchive.com",
+      "type": "primary"
+    },
+    {
+      "text": "Critical race theory scholars quoted in Washington Post, CNN",
+      "url": "https://www.washingtonpost.com",
+      "type": "analysis"
+    }
+  ],
+  "specialTags": ["racism", "misogyny"]
+}

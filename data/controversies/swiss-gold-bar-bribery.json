@@ -1,0 +1,39 @@
+{
+  "id": "swiss-gold-bar-bribery",
+  "title": "Swiss Gold Bar & Rolex Bribery - Tariff Corruption",
+  "primaryCategory": "corruption",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-11-04",
+  "summary": "November 4, 2025: Swiss businessmen including Rolex CEO met Trump in Oval Office bearing Rolex table clock and 1kg gold bar engraved with Trump's name. One week later (Nov 13), Trump lowered tariff on Switzerland from 39% to 15%. Former Swiss ambassador: 'very close to corruption.' Former White House ethics lawyer: gifts 'should trigger a congressional investigation.' Swiss prosecutors received three criminal complaints.",
+  "keyFacts": [
+    "November 4, 2025: Swiss businessmen met Trump in Oval Office with Rolex table clock and 1kg gold bar engraved with Trump's name",
+    "Executives included Jean-Frédéric Dufour (Rolex CEO) and Marwan Shakarchi (MKS PAMP gold refiner chairman)",
+    "Swiss business delegation sought tariff reduction from 39% that caused Swiss exports to collapse by nearly one-third",
+    "One week later (November 13): Trump lowered tariff on Switzerland from 39% to 15%",
+    "Swiss also promised $200 billion U.S. investment over next three years",
+    "Swiss Green Party MPs filed criminal complaint; Swiss attorney general's office confirmed receiving three criminal complaints",
+    "Former Swiss ambassador Daniel Woker: 'very close to corruption'",
+    "Former White House ethics lawyer Richard Painter: gifts given week before favorable tariff cut 'should trigger a congressional investigation'",
+    "Gifts estimated worth tens of thousands of Swiss francs",
+    "Swiss politicians decried 'gold bar diplomacy' in Trump trade deal"
+  ],
+  "sources": [
+    {
+      "text": "Bloomberg, Yahoo News, SWI swissinfo.ch",
+      "url": "https://www.bloomberg.com",
+      "type": "news"
+    },
+    {
+      "text": "Former White House ethics lawyer Richard Painter statement",
+      "url": "https://www.thedailybeast.com",
+      "type": "expert"
+    },
+    {
+      "text": "Swiss criminal complaints",
+      "url": "https://www.swissinfo.ch",
+      "type": "legal"
+    }
+  ],
+  "specialTags": ["bribery", "tariffs", "conflicts-of-interest", "foreign-gifts"]
+}

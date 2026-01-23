@@ -1,0 +1,36 @@
+{
+  "id": "charlottesville-fine-people",
+  "title": "Charlottesville 'Very Fine People' Statement",
+  "primaryCategory": "racism",
+  "severity": "serious",
+  "timeline": "first-term",
+  "date": "2017-08-12",
+  "summary": "After white nationalist 'Unite the Right' rally where Heather Heyer was killed by white supremacist driving car into counter-protesters, Trump said 'you had some very fine people, on both sides.' Widely condemned for creating moral equivalence between white supremacists and counter-protesters. Multiple Republicans criticized; resignations from advisory councils followed.",
+  "keyFacts": [
+    "White nationalist 'Unite the Right' rally in Charlottesville, Virginia",
+    "Counter-protester Heather Heyer killed when car drove into crowd by white supremacist",
+    "Trump (August 15): 'You had some very bad people in that group, but you also had people that were very fine people, on both sides'",
+    "Also stated: 'I'm not talking about the neo-Nazis and the white nationalists; they should be condemned totally'",
+    "Widely condemned for creating moral equivalence between white supremacists and counter-protesters",
+    "Multiple Republicans criticized the remarks",
+    "Resignations from White House advisory councils followed"
+  ],
+  "sources": [
+    {
+      "text": "White House transcript, August 15, 2017",
+      "url": "https://www.whitehouse.gov",
+      "type": "government"
+    },
+    {
+      "text": "PolitiFact analysis",
+      "url": "https://www.politifact.com",
+      "type": "fact-check"
+    },
+    {
+      "text": "CNN and Washington Post coverage, August 2017",
+      "url": "https://www.cnn.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["white-supremacy", "charlottesville", "rhetoric"]
+}

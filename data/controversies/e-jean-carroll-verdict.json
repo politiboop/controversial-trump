@@ -1,0 +1,36 @@
+{
+  "id": "e-jean-carroll-verdict",
+  "title": "E. Jean Carroll Verdicts",
+  "primaryCategory": "women",
+  "severity": "serious",
+  "timeline": "second-term",
+  "date": "2023-05-09",
+  "summary": "Civil jury found Trump sexually abused Carroll in 1996. Two verdicts totaling $88+ million for sexual abuse and defamation. Trump denies all allegations and is appealing.",
+  "keyFacts": [
+    "2023 verdict: Civil jury found Trump sexually abused Carroll in 1996 Bergdorf Goodman dressing room",
+    "Judge later stated the finding was 'rape' in common understanding",
+    "$5 million awarded for sexual abuse and defamation (May 2023)",
+    "2024 verdict: $83 million for additional defamation (January 26, 2024)",
+    "Total judgments: $88+ million",
+    "Appeals court upheld verdict in December 2024",
+    "Trump denies ever meeting Carroll, calls allegations 'a hoax and a lie'"
+  ],
+  "sources": [
+    {
+      "text": "U.S. District Court SDNY verdict, May 9, 2023",
+      "url": "https://www.cnn.com/2023/05/09/politics/donald-trump-liable-e-jean-carroll-battery-trial/index.html",
+      "type": "court"
+    },
+    {
+      "text": "Court verdict, January 26, 2024",
+      "url": "https://www.reuters.com/legal/jury-orders-trump-pay-additional-833-million-e-jean-carroll-2024-01-26/",
+      "type": "court"
+    },
+    {
+      "text": "U.S. Court of Appeals 2nd Circuit, December 2024",
+      "url": "https://www.nytimes.com",
+      "type": "court"
+    }
+  ],
+  "specialTags": ["sexual-misconduct", "court-ruling"]
+}

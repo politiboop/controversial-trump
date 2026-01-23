@@ -1,0 +1,36 @@
+{
+  "id": "schedule-f-civil-service-purge",
+  "title": "Schedule F and the Plan to Purge Civil Service",
+  "primaryCategory": "democracy",
+  "severity": "serious",
+  "timeline": "first-term",
+  "date": "2020-10-21",
+  "summary": "Trump signed Executive Order creating 'Schedule F' classification that would strip job protections from tens of thousands of federal employees. Biden revoked it, but Trump vowed to reinstate immediately. Heritage Foundation's Project 2025 called for firing 50,000+ civil servants.",
+  "keyFacts": [
+    "October 2020: Signed Executive Order 13957 creating 'Schedule F' classification",
+    "Would have stripped job protections from tens of thousands of federal employees",
+    "Allowed firing career civil servants and replacing with political appointees",
+    "Biden immediately revoked upon taking office (January 2021)",
+    "Trump vowed to reinstate 'immediately' if re-elected",
+    "Heritage Foundation's Project 2025 called for firing 50,000+ civil servants",
+    "Former officials called it 'the biggest threat to democracy' in Trump's plans"
+  ],
+  "sources": [
+    {
+      "text": "Federal Register, October 21, 2020",
+      "url": "https://www.federalregister.gov",
+      "type": "government"
+    },
+    {
+      "text": "OPM analysis, Brookings Institution",
+      "url": "https://www.brookings.edu",
+      "type": "analysis"
+    },
+    {
+      "text": "Executive Order 14003, January 22, 2021",
+      "url": "https://www.whitehouse.gov",
+      "type": "government"
+    }
+  ],
+  "specialTags": ["civil-service", "deep-state", "project-2025"]
+}

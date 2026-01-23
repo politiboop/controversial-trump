@@ -1,0 +1,46 @@
+{
+  "id": "renee-good-ice-shooting",
+  "title": "Fatal ICE Shooting of Renee Good - Character Assassination",
+  "primaryCategory": "abuse-of-power",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2026-01-07",
+  "summary": "January 7, 2026: ICE agent Jonathan Ross fatally shot Renee Nicole Good, 37-year-old U.S. citizen and mother of three, in Minneapolis. Within hours, DHS Secretary Kristi Noem labeled it 'domestic terrorism' before any investigation. Trump falsely claimed Good 'violently, willfully, and viciously ran over the ICE Officer.' Video evidence shows Good's car did not knock down officer, contradicting both Noem and Trump. Minneapolis Mayor Jacob Frey: DHS claim Good was weaponizing vehicle is 'bullshit.' FBI revoked Minnesota Bureau of Criminal Apprehension's access to evidence. Noem announced deployment of hundreds more federal agents instead of investigating.",
+  "keyFacts": [
+    "January 7, 2026: Renee Nicole Good, 37-year-old U.S. citizen and mother of three, fatally shot by ICE agent Jonathan Ross in Minneapolis",
+    "Good had dropped off her 6-year-old son at school before she was killed",
+    "Video shows Good turning her vehicle's steering wheel to the right, away from the agent, just over one second before first shot",
+    "Within hours of shooting, DHS and Secretary Kristi Noem labeled Good's actions 'domestic terrorism' before any investigation",
+    "Kristi Noem claimed Good 'weaponize(d) her vehicle' and 'attempted to run' over an officer",
+    "Trump falsely claimed Good 'violently, willfully, and viciously ran over the ICE Officer'",
+    "Video evidence shows Good's car did not knock down the officer, contradicting both Noem and Trump's statements",
+    "Minneapolis Mayor Jacob Frey reviewed video and stated regarding DHS claim: 'I want to tell everybody directly that is bullshit'",
+    "Minnesota Governor Tim Walz disputed ICE's account",
+    "Minnesota Attorney General Keith Ellison said Noem's 'domestic terrorism' characterization is 'an abuse of the term'",
+    "FBI revoked Minnesota Bureau of Criminal Apprehension's access to evidence, reversing earlier agreement",
+    "Instead of investigating, Noem announced deployment of hundreds more federal agents to Minneapolis"
+  ],
+  "sources": [
+    {
+      "text": "MPR News, CNN reporting",
+      "url": "https://www.mprnews.org",
+      "type": "news"
+    },
+    {
+      "text": "Washington Post video analysis",
+      "url": "https://www.washingtonpost.com",
+      "type": "investigation"
+    },
+    {
+      "text": "Minneapolis Mayor Jacob Frey statement",
+      "url": "https://www.minneapolismn.gov",
+      "type": "government"
+    },
+    {
+      "text": "PBS NewsHour, PolitiFact analysis",
+      "url": "https://www.pbs.org",
+      "type": "fact-check"
+    }
+  ],
+  "specialTags": ["ice", "police-violence", "character-assassination", "immigration"]
+}

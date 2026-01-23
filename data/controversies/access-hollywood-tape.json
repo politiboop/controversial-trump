@@ -1,0 +1,29 @@
+{
+  "id": "access-hollywood-tape",
+  "title": "Access Hollywood Tape",
+  "primaryCategory": "women",
+  "severity": "serious",
+  "timeline": "pre-2016",
+  "date": "2005-09-01",
+  "summary": "2005 recording revealed Trump bragging about kissing and groping women without consent: 'When you're a star, they let you do it. You can do anything... Grab 'em by the pussy.'",
+  "keyFacts": [
+    "'I just start kissing them. It's like a magnet. Just kiss. I don't even wait.'",
+    "'And when you're a star, they let you do it. You can do anything.'",
+    "'Grab 'em by the pussy. You can do anything.'",
+    "Dismissed as 'locker room talk'",
+    "Recording made public in October 2016 during presidential campaign"
+  ],
+  "sources": [
+    {
+      "text": "Washington Post (released tape), October 7, 2016",
+      "url": "https://www.washingtonpost.com/politics/trump-recorded-having-extremely-lewd-conversation-about-women-in-2005/2016/10/07/3b9ce776-8cb4-11e6-bf8a-3d26847eeed4_story.html",
+      "type": "news"
+    },
+    {
+      "text": "Access Hollywood tape transcript",
+      "url": "https://www.nytimes.com/2016/10/08/us/donald-trump-tape-transcript.html",
+      "type": "transcript"
+    }
+  ],
+  "specialTags": ["sexual-misconduct"]
+}

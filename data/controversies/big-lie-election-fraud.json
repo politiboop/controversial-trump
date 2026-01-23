@@ -1,0 +1,36 @@
+{
+  "id": "big-lie-election-fraud",
+  "title": "The 'Big Lie' - 2020 Election Fraud Claims",
+  "primaryCategory": "democracy",
+  "severity": "catastrophic",
+  "timeline": "first-term",
+  "date": "2020-11-03",
+  "summary": "Trump's false claims about the 2020 election led to 60+ failed lawsuits, culminated in the January 6 Capitol attack, and represent what historians call implementation of Hitler's 'big lie' propaganda technique.",
+  "keyFacts": [
+    "Filed 60+ lawsuits challenging election results; 61 of 62 failed in court",
+    "His own Attorney General William Barr: 'The Department of Justice found no evidence of fraud'",
+    "AP found fewer than 475 potential fraud cases out of 25+ million votes - not enough to change any result",
+    "Republican officials, election officials, and judges all rejected fraud claims",
+    "Directly led to January 6, 2021 Capitol attack that killed 5 and injured 140+ police officers",
+    "CREW found Trump spread election conspiracy theories 526 times on Truth Social (Jan 2023-April 2024)",
+    "Still repeats lie in 2025: Called 2020 'a fake election' at December 2025 Cabinet meeting"
+  ],
+  "sources": [
+    {
+      "text": "Washington Post",
+      "url": "https://www.washingtonpost.com",
+      "type": "news"
+    },
+    {
+      "text": "Associated Press investigation",
+      "url": "https://apnews.com",
+      "type": "investigation"
+    },
+    {
+      "text": "CREW tracking",
+      "url": "https://www.citizensforethics.org",
+      "type": "watchdog"
+    }
+  ],
+  "specialTags": ["election", "jan6-related", "court-ruling"]
+}

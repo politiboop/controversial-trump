@@ -1,0 +1,30 @@
+{
+  "id": "dictator-for-a-day",
+  "title": "'Dictator for a Day' Statement",
+  "primaryCategory": "democracy",
+  "severity": "serious",
+  "timeline": "campaign-2024",
+  "date": "2023-12-05",
+  "summary": "During a Fox News town hall, Trump refused to rule out acting as a dictator, repeatedly saying 'except for Day One' when pressed by Sean Hannity.",
+  "keyFacts": [
+    "Hannity: 'You would never abuse power as retribution against anybody?' Trump: 'Except for Day One'",
+    "Hannity (pressing): 'You're not going to be a dictator, are you?' Trump: 'No, no, no, other than Day One'",
+    "When given multiple opportunities to deny dictatorial ambitions, repeatedly said 'except for Day One'",
+    "Trump: 'We're closing the border and we're drilling, drilling, drilling. After that, I'm not a dictator'",
+    "Democracy experts called it 'the clearest authoritarian threat ever made by an American presidential candidate'",
+    "Later doubled down at rallies, joking about the statement rather than clarifying"
+  ],
+  "sources": [
+    {
+      "text": "Fox News town hall transcript, December 5, 2023",
+      "url": "https://www.foxnews.com",
+      "type": "video"
+    },
+    {
+      "text": "Biden campaign statement",
+      "url": "https://www.cnn.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["authoritarianism"]
+}

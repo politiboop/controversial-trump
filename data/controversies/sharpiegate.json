@@ -1,0 +1,36 @@
+{
+  "id": "sharpiegate",
+  "title": "'Sharpiegate' - Hurricane Dorian Map Altered with Sharpie",
+  "primaryCategory": "character",
+  "severity": "concerning",
+  "timeline": "first-term",
+  "date": "2019-09-01",
+  "summary": "Trump falsely claimed Alabama was in Hurricane Dorian's path. National Weather Service corrected him. Instead of admitting error, Trump displayed official NOAA map altered with black Sharpie extending hurricane path to Alabama. White House pressured federal weather experts to validate false claim.",
+  "keyFacts": [
+    "September 1, 2019: Tweeted Alabama would 'most likely be hit (much) harder than anticipated'",
+    "National Weather Service Birmingham immediately corrected: 'Alabama will NOT see any impacts from #Dorian'",
+    "Trump displayed official NOAA map in Oval Office altered with black Sharpie",
+    "White House pressured federal weather experts to validate Trump's incorrect claim",
+    "Boston Globe: Demonstrated his 'authoritarian need to manipulate the truth'",
+    "Dangerous: Could cause confusion about actual storm path, endanger lives",
+    "#Sharpiegate trended worldwide"
+  ],
+  "sources": [
+    {
+      "text": "Trump tweet, September 1, 2019",
+      "url": "https://twitter.com",
+      "type": "primary"
+    },
+    {
+      "text": "National Weather Service Birmingham",
+      "url": "https://www.weather.gov",
+      "type": "government"
+    },
+    {
+      "text": "Boston Globe analysis",
+      "url": "https://www.bostonglobe.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["dishonesty", "weather"]
+}

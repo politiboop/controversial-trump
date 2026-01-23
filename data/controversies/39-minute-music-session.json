@@ -1,0 +1,30 @@
+{
+  "id": "39-minute-music-session",
+  "title": "The 39-Minute Music Session Town Hall",
+  "primaryCategory": "absurd",
+  "severity": "absurd",
+  "timeline": "campaign-2024",
+  "date": "2024-10-01",
+  "summary": "Trump turned a town hall Q&A into a 39-minute music listening session. Stopped taking questions and just played songs while swaying on stage. Crowd stood confused.",
+  "keyFacts": [
+    "October 2024: Turned town hall Q&A into 39-minute music listening session",
+    "Stopped taking questions and just played songs while swaying on stage",
+    "Crowd stood confused as Trump listened to his playlist",
+    "Event was supposed to be about answering voters' questions",
+    "Went on for 39 minutes before event ended",
+    "Raised questions about his mental state and fitness"
+  ],
+  "sources": [
+    {
+      "text": "Town hall event, Pennsylvania, October 2024",
+      "url": "https://www.axios.com",
+      "type": "news"
+    },
+    {
+      "text": "Video coverage",
+      "url": "https://www.youtube.com",
+      "type": "video"
+    }
+  ],
+  "specialTags": ["bizarre", "campaign"]
+}

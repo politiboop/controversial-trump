@@ -1,0 +1,41 @@
+{
+  "id": "family-separation-policy",
+  "title": "Family Separation Policy ('Zero Tolerance')",
+  "primaryCategory": "abuse-of-power",
+  "severity": "catastrophic",
+  "timeline": "first-term",
+  "date": "2018-04-01",
+  "summary": "'Zero tolerance' policy (April 2018) resulted in systematic separation of thousands of children from parents at border. Children held in detention facilities described as 'cages.' Over 5,400 children separated; hundreds still not reunited years later. Drew bipartisan criticism. Trump ended policy via Executive Order after intense public outcry (June 20, 2018).",
+  "keyFacts": [
+    "'Zero tolerance' policy (April 2018) resulted in systematic separation of thousands of children from parents at border",
+    "Children held in detention facilities, some in what critics described as 'cages'",
+    "Over 5,400 children separated from parents",
+    "Hundreds still not reunited years later",
+    "Drew bipartisan criticism",
+    "Trump ended policy via Executive Order 13841 after intense public outcry (June 20, 2018)",
+    "Policy was active for approximately 2 months before being reversed"
+  ],
+  "sources": [
+    {
+      "text": "DHS memo, April 2018; DOJ announcement",
+      "url": "https://www.dhs.gov",
+      "type": "government"
+    },
+    {
+      "text": "Photos released by CBP, June 2018",
+      "url": "https://www.cbp.gov",
+      "type": "government"
+    },
+    {
+      "text": "DHS Inspector General reports, ACLU tracking, 2018-2024",
+      "url": "https://www.aclu.org",
+      "type": "investigation"
+    },
+    {
+      "text": "Executive Order 13841",
+      "url": "https://www.whitehouse.gov",
+      "type": "government"
+    }
+  ],
+  "specialTags": ["immigration", "children", "human-rights"]
+}

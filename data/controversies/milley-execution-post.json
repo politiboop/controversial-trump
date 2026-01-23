@@ -1,0 +1,30 @@
+{
+  "id": "milley-execution-post",
+  "title": "General Mark Milley 'Execution' Post",
+  "primaryCategory": "abuse-of-power",
+  "severity": "catastrophic",
+  "timeline": "campaign-2024",
+  "date": "2023-09-01",
+  "summary": "Trump suggested America's top general committed treason and that 'in times gone by, the punishment would have been DEATH!' Milley subsequently received death threats and had to take security precautions.",
+  "keyFacts": [
+    "Truth Social post: Milley's calls to China were 'an act so egregious that, in times gone by, the punishment would have been DEATH!'",
+    "Suggested America's top general committed treason for reassuring allies after January 6",
+    "Milley subsequently received death threats; had to take security precautions",
+    "Former officials called it 'witness intimidation' ahead of potential testimony",
+    "Gen. Milley had called Trump 'fascist to the core' and 'the most dangerous person to this country'",
+    "Post came after Milley's retirement speech calling Trump a 'wannabe dictator'"
+  ],
+  "sources": [
+    {
+      "text": "Trump Truth Social, September 2023",
+      "url": "https://truthsocial.com",
+      "type": "primary"
+    },
+    {
+      "text": "NBC News, Atlantic reporting",
+      "url": "https://www.nbcnews.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["violent-rhetoric", "witness-intimidation"]
+}

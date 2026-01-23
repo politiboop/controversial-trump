@@ -1,0 +1,36 @@
+{
+  "id": "unprecedented-lying",
+  "title": "Unprecedented Lying & '30,573 False Claims'",
+  "primaryCategory": "character",
+  "severity": "catastrophic",
+  "timeline": "first-term",
+  "date": "2017-01-20",
+  "summary": "Washington Post documented 30,573 false or misleading claims during Trump's first term alone—an average of 21 per day. The Post created a new 'Bottomless Pinocchio' category for falsehoods repeated 20+ times.",
+  "keyFacts": [
+    "Washington Post documented 30,573 false or misleading claims during first term",
+    "Average of 21 false claims per day; by final year, averaged 39 per day",
+    "Historian Douglas Brinkley: 'No president has ever been a serial liar like Trump'",
+    "Post created 'Bottomless Pinocchio' for falsehoods repeated 20+ times - Trump was only politician to qualify with 14 statements",
+    "Steve Bannon described strategy: 'Flood the zone with shit'",
+    "PolitiFact awarded Trump 'Lie of the Year' in 2015, 2017, and 2019",
+    "CNN fact-checker: Trump 'manages to outlast most of the media's willingness to correct any particular falsehood'"
+  ],
+  "sources": [
+    {
+      "text": "Washington Post Fact Checker Database, January 20, 2021",
+      "url": "https://www.washingtonpost.com/graphics/politics/trump-claims-database/",
+      "type": "database"
+    },
+    {
+      "text": "CNN interview with historian Douglas Brinkley, 2020",
+      "url": "https://www.cnn.com",
+      "type": "interview"
+    },
+    {
+      "text": "PolitiFact Lie of the Year awards",
+      "url": "https://www.politifact.com",
+      "type": "fact-check"
+    }
+  ],
+  "specialTags": ["dishonesty", "propaganda"]
+}

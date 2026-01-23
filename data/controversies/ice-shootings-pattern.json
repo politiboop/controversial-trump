@@ -1,0 +1,45 @@
+{
+  "id": "ice-shootings-pattern",
+  "title": "ICE Shooting Spree - 16 Incidents, 4 Deaths",
+  "primaryCategory": "abuse-of-power",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "At least 16 shooting incidents by federal immigration officials since Trump's second term began. Four deaths and at least seven injuries. Deaths include Keith Porter (43, Los Angeles New Year's Eve), Silverio Villegas González (Chicago suburb), 31-year-old Mexican citizen (Rio Grande City, Texas), and Renee Good (37, Minneapolis U.S. citizen). Former ICE acting director: shootings are 'a direct byproduct' of tactic shift. DHS claimed '1,300% increase in assaults' but blamed 'radical rhetoric by sanctuary politicians.'",
+  "keyFacts": [
+    "At least 16 shooting incidents by federal immigration officials since Trump's second term began",
+    "Four deaths and at least seven injuries",
+    "Seven officer-involved shootings by DHS agents, two fatal",
+    "Keith Porter (43): Fatally shot by off-duty ICE agent on New Year's Eve in Los Angeles",
+    "Silverio Villegas González: Father from Mexico killed in September while reportedly trying to flee in Chicago suburb",
+    "31-year-old Mexican citizen: Killed by border patrol agent in December in Rio Grande City, Texas",
+    "Renee Good (37): U.S. citizen and mother of three killed in Minneapolis January 7, 2026",
+    "Former ICE acting director: shootings are 'a direct byproduct' of tactic shift",
+    "Shootings occurred across country in Chicago, Los Angeles, Minnesota - areas with heightened ICE presence",
+    "DHS claimed '1,300% increase in assaults against ICE officers' and '3,200% increase in vehicular attacks'",
+    "DHS blamed 'radical rhetoric by sanctuary politicians' for attacks"
+  ],
+  "sources": [
+    {
+      "text": "The Trace via Axios",
+      "url": "https://www.axios.com/2026/01/08/dhs-ice-shootings-trump",
+      "type": "investigation"
+    },
+    {
+      "text": "NPR - Former ICE director analysis",
+      "url": "https://www.npr.org",
+      "type": "analysis"
+    },
+    {
+      "text": "The Marshall Project",
+      "url": "https://www.themarshallproject.org",
+      "type": "investigation"
+    },
+    {
+      "text": "DHS statement",
+      "url": "https://www.dhs.gov",
+      "type": "government"
+    }
+  ],
+  "specialTags": ["ice", "police-violence", "immigration"]
+}

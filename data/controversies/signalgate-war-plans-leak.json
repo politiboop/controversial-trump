@@ -1,0 +1,32 @@
+{
+  "id": "signalgate-war-plans-leak",
+  "title": "'Signalgate' - Defense Secretary Leaked War Plans",
+  "primaryCategory": "character",
+  "severity": "serious",
+  "timeline": "second-term",
+  "date": "2025-03-01",
+  "summary": "Defense Secretary Hegseth shared sensitive military attack plans via Signal. Atlantic editor Jeffrey Goldberg accidentally added to Signal chat. Shared real-time Yemen strike details: aircraft types, launch times, targets. Messages included: 'THIS IS WHEN THE FIRST BOMBS WILL DEFINITELY DROP'. Also shared classified info with wife, brother, personal lawyer. Pentagon IG: 'Risked compromising sensitive military information,' 'could have endangered U.S. troops.' Hegseth refused IG interview. Administration called damning IG report a 'TOTAL exoneration.'",
+  "keyFacts": [
+    "Defense Secretary Hegseth shared sensitive military attack plans via Signal",
+    "Atlantic editor Jeffrey Goldberg accidentally added to Signal chat",
+    "Shared real-time Yemen strike details: aircraft types, launch times, targets",
+    "Messages included: 'THIS IS WHEN THE FIRST BOMBS WILL DEFINITELY DROP'",
+    "Hegseth also shared classified info with wife, brother, personal lawyer in separate chat",
+    "Pentagon IG: 'Risked compromising sensitive military information,' 'could have endangered U.S. troops'",
+    "Hegseth refused IG interview, denied access to personal phone",
+    "Administration called damning IG report a 'TOTAL exoneration'"
+  ],
+  "sources": [
+    {
+      "text": "Pentagon Inspector General report",
+      "url": "https://www.dodig.mil",
+      "type": "government"
+    },
+    {
+      "text": "The Atlantic reporting",
+      "url": "https://www.theatlantic.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["classified-info", "national-security", "cabinet"]
+}

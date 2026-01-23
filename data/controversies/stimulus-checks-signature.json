@@ -1,0 +1,43 @@
+{
+  "id": "stimulus-checks-signature",
+  "title": "Trump's Name on Stimulus Checks",
+  "primaryCategory": "narcissism",
+  "severity": "concerning",
+  "timeline": "first-term",
+  "date": "2020-04-01",
+  "summary": "Treasury added 'President Donald J. Trump' to memo line of ~70 million paper stimulus checks - first time in history a president's name appeared on IRS payment. IRS officials said change would 'probably lead to a delay.' Required time-consuming reprogramming. IRS sought legal advice about potential Hatch Act violations. Trump also sent follow-up letters with his signature.",
+  "keyFacts": [
+    "Treasury added 'President Donald J. Trump' to memo line of ~70 million paper stimulus checks",
+    "First time in history a president's name appeared on IRS payment",
+    "Treasury Secretary Mnuchin instructed IRS to add Trump's name",
+    "IRS officials said change would 'probably lead to a delay' in first batch of paper checks",
+    "Required time-consuming reprogramming of computer systems and check redesign",
+    "IRS sought legal advice about potential Hatch Act violations",
+    "Officials concerned about politicizing agency",
+    "Lawyers concluded 'no clear legal prohibition' but concerns remained about precedent",
+    "Trump also sent follow-up letters with his signature to stimulus recipients"
+  ],
+  "sources": [
+    {
+      "text": "ABC News investigation",
+      "url": "https://abcnews.go.com",
+      "type": "investigation"
+    },
+    {
+      "text": "Washington Post reporting",
+      "url": "https://www.washingtonpost.com",
+      "type": "news"
+    },
+    {
+      "text": "Internal emails revealed in ABC News lawsuit",
+      "url": "https://abcnews.go.com",
+      "type": "investigation"
+    },
+    {
+      "text": "Newsweek reporting on Hatch Act concerns",
+      "url": "https://www.newsweek.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["covid", "politicization", "hatch-act"]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "department-of-war-renaming",
+  "title": "Renamed Department of Defense to 'Department of War'",
+  "primaryCategory": "narcissism",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-09-04",
+  "summary": "September 4, 2025: Trump signed executive order renaming Department of Defense to 'Department of War' as 'secondary title.' Defense Secretary Pete Hegseth authorized to use 'Secretary of War' title. DoD website changed to War.gov. Bronze 'Department of War' plaques installed at Pentagon entrances. Congressional Budget Office: rebranding costs $10-125 million taxpayer dollars, 'hundreds of millions' if legally changed. Only Congress can legally rename federal departments. Harry Truman unified military under 'Defense' name in 1949 to move away from militaristic 'War Department' (founded 1789). Critics called move authoritarian branding reverting to pre-1949 militarism.",
+  "keyFacts": [
+    "September 4, 2025: Trump signed executive order renaming DoD to 'Department of War'",
+    "Authorized as 'secondary title' - cannot legally change name without Congress",
+    "Defense Secretary Pete Hegseth authorized to use 'Secretary of War' title",
+    "DoD website changed to War.gov",
+    "'Department of War' name set in bronze at Pentagon entrances",
+    "Agency refers to itself as Department of War in official communications",
+    "Congressional Budget Office estimate: $10-125 million for rebranding",
+    "Cost would grow to 'hundreds of millions' if became legal name",
+    "Only Congress has authority to rename federal departments",
+    "Harry Truman changed 'War Department' to 'Defense' in 1949",
+    "1949 change unified Air Force, Army, Navy under single department",
+    "Original War Department founded in 1789, renamed to move away from militarism",
+    "Critics called move authoritarian reversion to pre-1949 militaristic branding"
+  ],
+  "sources": [
+    {
+      "text": "War.gov - Department of War bronze plaques at Pentagon",
+      "url": "https://www.war.gov/News/News-Stories/Article/Article/4331116/department-of-war-name-set-in-bronze-at-pentagon-entrances/",
+      "type": "government"
+    },
+    {
+      "text": "NPR - Trump signs order to rename Defense Department",
+      "url": "https://www.npr.org/2025/09/04/nx-s1-5529420/trump-department-of-war-department-of-defense",
+      "type": "news"
+    },
+    {
+      "text": "ABC News - Rebranding could cost up to $125M",
+      "url": "https://abcnews.go.com/Politics/department-war-rebranding-cost-125m-hundreds-millions-legal/story?id=129220535",
+      "type": "news"
+    },
+    {
+      "text": "Federal News Network - Executive order to rename DoD",
+      "url": "https://federalnewsnetwork.com/defense-main/2025/09/trump-executive-order-will-rename-the-department-of-defense-as-the-department-of-war/",
+      "type": "news"
+    },
+    {
+      "text": "CBS News - Name change could cost $125 million",
+      "url": "https://www.cbsnews.com/news/changing-defense-department-name-department-of-war-could-cost-up-to-125-million-dollars-cbo/",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["renaming", "military", "pentagon", "taxpayer-money", "executive-order"]
+}

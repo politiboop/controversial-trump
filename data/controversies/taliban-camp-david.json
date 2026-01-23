@@ -1,0 +1,34 @@
+{
+  "id": "taliban-camp-david",
+  "title": "Taliban Camp David Invitation",
+  "primaryCategory": "character",
+  "severity": "concerning",
+  "timeline": "first-term",
+  "date": "2019-09-07",
+  "summary": "Trump invited Taliban leaders to Camp David for peace talks just days before 18th anniversary of 9/11. Taliban responsible for harboring al-Qaeda before 9/11 attacks. Meeting canceled after Taliban claimed responsibility for attack killing US soldier. Rep. Liz Cheney: 'Camp David is where America's leaders met to plan our response to the 9/11 terrorist attacks.'",
+  "keyFacts": [
+    "Trump invited Taliban leaders to Camp David for peace talks",
+    "Planned meeting scheduled for September 8, 2019 - just days before 18th anniversary of 9/11",
+    "Taliban responsible for harboring al-Qaeda before 9/11 attacks",
+    "Meeting canceled after Taliban claimed responsibility for attack killing US soldier",
+    "Rep. Liz Cheney: 'Camp David is where America's leaders met to plan our response to the 9/11 terrorist attacks'"
+  ],
+  "sources": [
+    {
+      "text": "Trump tweets, September 7, 2019",
+      "url": "https://twitter.com",
+      "type": "primary"
+    },
+    {
+      "text": "Washington Post coverage",
+      "url": "https://www.washingtonpost.com",
+      "type": "news"
+    },
+    {
+      "text": "Rep. Liz Cheney statement, September 8, 2019",
+      "url": "https://twitter.com",
+      "type": "government"
+    }
+  ],
+  "specialTags": ["foreign-policy", "terrorism", "afghanistan"]
+}

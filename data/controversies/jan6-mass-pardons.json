@@ -1,0 +1,36 @@
+{
+  "id": "jan6-mass-pardons",
+  "title": "Mass Pardons for January 6 Defendants",
+  "primaryCategory": "democracy",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "~1,500 people granted blanket clemency on Day 1 of second term. Included leaders of Oath Keepers and Proud Boys convicted of seditious conspiracy. Pardoned 600+ people convicted of assaulting law enforcement and 170 convicted of using deadly weapons. Removed restitution requirements costing victims estimated $1.3 billion. Some pardoned individuals later arrested for new violent crimes.",
+  "keyFacts": [
+    "~1,500 people granted blanket clemency on January 20, 2025",
+    "Included leaders of Oath Keepers and Proud Boys convicted of seditious conspiracy",
+    "Pardoned 600+ people convicted of assaulting law enforcement",
+    "170 people pardoned had been convicted of using deadly weapons",
+    "Removed restitution requirements costing victims estimated $1.3 billion",
+    "Capitol Police condemned pardons",
+    "Some pardoned individuals later arrested for new violent crimes"
+  ],
+  "sources": [
+    {
+      "text": "DOJ Jan 6 prosecution database",
+      "url": "https://www.justice.gov",
+      "type": "government"
+    },
+    {
+      "text": "Capitol Police statement",
+      "url": "https://www.uscp.gov",
+      "type": "government"
+    },
+    {
+      "text": "News coverage, January 2025",
+      "url": "https://www.washingtonpost.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["jan6-related", "pardons", "sedition"]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tim-apple",
+  "title": "The 'Tim Apple' Incident",
+  "primaryCategory": "absurd",
+  "severity": "absurd",
+  "timeline": "first-term",
+  "date": "2019-03-06",
+  "summary": "Trump introduced Apple CEO Tim Cook as 'Tim Apple' at advisory board meeting. Later claimed he said 'Tim Cook Apple' very quickly to save time. Video clearly shows he said 'Tim Apple.'",
+  "keyFacts": [
+    "March 2019: At advisory board meeting, introduced Apple CEO Tim Cook as 'Tim Apple'",
+    "Later claimed he said 'Tim Cook Apple' very quickly to save time and words",
+    "Video clearly shows he said 'Tim Apple'",
+    "Became viral moment and meme",
+    "Tim Cook changed his Twitter name to 'Tim  ' (with Apple logo emoji)"
+  ],
+  "sources": [
+    {
+      "text": "Video footage, March 6, 2019",
+      "url": "https://www.youtube.com",
+      "type": "video"
+    },
+    {
+      "text": "Trump tweets",
+      "url": "https://www.thetrumparchive.com",
+      "type": "primary"
+    }
+  ],
+  "specialTags": ["bizarre", "gaffe"]
+}

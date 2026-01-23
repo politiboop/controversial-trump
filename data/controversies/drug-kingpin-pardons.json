@@ -1,0 +1,34 @@
+{
+  "id": "drug-kingpin-pardons",
+  "title": "Drug Kingpin Pardons - Silk Road, Gang Leaders, Narco-State President",
+  "primaryCategory": "character",
+  "severity": "serious",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "Trump pardoned major drug criminals including Ross Ulbricht (Silk Road - $200M+ in drug sales, 6 murder-for-hire plots), Larry Hoover (Gangster Disciples leader responsible for thousands of deaths), and Juan Orlando Hernández (former Honduras president convicted of accepting 400 tons of cocaine from cartels, turned Honduras into 'narco-state'). Sen. Thom Tillis (R): Hernández pardon 'runs counter' to anti-cartel messaging.",
+  "keyFacts": [
+    "Ross Ulbricht (Silk Road): Created dark web marketplace enabling $200M+ in drug sales; 6 murder-for-hire plots",
+    "Larry Hoover (Gangster Disciples): Led Chicago gang responsible for thousands of deaths",
+    "Juan Orlando Hernández: Former Honduras president convicted of accepting 400 tons of cocaine from cartels",
+    "Hernández turned Honduras into 'narco-state'",
+    "Sen. Thom Tillis (R): Hernández pardon 'runs counter' to anti-cartel messaging"
+  ],
+  "sources": [
+    {
+      "text": "Federal court records",
+      "url": "https://www.justice.gov",
+      "type": "legal"
+    },
+    {
+      "text": "Sen. Thom Tillis statement",
+      "url": "https://www.tillis.senate.gov",
+      "type": "government"
+    },
+    {
+      "text": "DOJ conviction records",
+      "url": "https://www.justice.gov",
+      "type": "government"
+    }
+  ],
+  "specialTags": ["pardons", "drug-trafficking", "gangs"]
+}

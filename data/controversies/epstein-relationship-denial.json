@@ -1,0 +1,50 @@
+{
+  "id": "epstein-relationship-denial",
+  "title": "Denies Epstein Friendship Despite Photos and Own Quotes",
+  "primaryCategory": "rewriting-history",
+  "severity": "serious",
+  "timeline": "campaign-2024",
+  "date": "2024-07-15",
+  "summary": "Trump claims he 'was not a fan' of Jeffrey Epstein and 'had a falling out with him.' However, documented evidence shows a close 15-year friendship. 2002 Trump quote: 'I've known Jeff for fifteen years. Terrific guy. He's a lot of fun to be with...he likes beautiful women as much as I do, and many of them are on the younger side.' Flight logs, party photos, and witness accounts document frequent contact. Trump now denies or minimizes this relationship.",
+  "keyFacts": [
+    "1992-2007: Extensive documentation of Trump-Epstein friendship spanning 15 years",
+    "2002 New York Magazine profile: Trump called Epstein 'a terrific guy' who 'likes beautiful women as much as I do, and many of them are on the younger side'",
+    "Flight logs show Trump flew on Epstein's plane at least 7 times",
+    "Multiple photos show Trump and Epstein together at Mar-a-Lago and NYC parties in the 1990s-2000s",
+    "1992 video: Trump and Epstein together at Mar-a-Lago party, laughing and pointing at women",
+    "Epstein had 14 phone numbers for Trump in his contact book",
+    "2019-present: Trump claims 'I was not a fan of his' and 'I had a falling out with him'",
+    "Never explains when or why the 'falling out' occurred - no contemporaneous evidence of it",
+    "2019: Trump suggests Epstein death was suspicious, implies Clintons involved - deflection from own ties",
+    "Epstein accuser Virginia Giuffre says she saw Trump at Epstein's Palm Beach mansion",
+    "Trump banned Epstein from Mar-a-Lago allegedly over hitting on member's daughter, but timeline is murky and no documentation"
+  ],
+  "sources": [
+    {
+      "text": "New York Magazine 2002 profile with Trump quote about Epstein",
+      "url": "https://nymag.com/nymetro/news/people/n_7912/",
+      "type": "news"
+    },
+    {
+      "text": "NBC News: 1992 video of Trump and Epstein at Mar-a-Lago party",
+      "url": "https://www.nbcnews.com/news/us-news/tape-shows-donald-trump-jeffrey-epstein-discussing-women-1992-party-n1030686",
+      "type": "video"
+    },
+    {
+      "text": "Flight logs documenting Trump on Epstein plane",
+      "url": "https://www.insider.com/donald-trump-jeffrey-epstein-flight-logs-unsealed-2021-9",
+      "type": "court"
+    },
+    {
+      "text": "Washington Post: Trump's evolving Epstein story",
+      "url": "https://www.washingtonpost.com/politics/trump-called-epstein-a-terrific-guy-before-denying-relationship-with-him/2019/07/08/a01e0f00-a1be-11e9-bd56-eac6bb02d01d_story.html",
+      "type": "news"
+    },
+    {
+      "text": "Photos of Trump and Epstein together (Getty Images archive)",
+      "url": "https://www.gettyimages.com/photos/donald-trump-jeffrey-epstein",
+      "type": "photos"
+    }
+  ],
+  "specialTags": ["epstein", "documented-denial", "suspicious-associations"]
+}

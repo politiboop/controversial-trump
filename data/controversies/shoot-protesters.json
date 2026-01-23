@@ -1,0 +1,30 @@
+{
+  "id": "shoot-protesters",
+  "title": "Trump Wanted to Shoot American Protesters",
+  "primaryCategory": "abuse-of-power",
+  "severity": "catastrophic",
+  "timeline": "first-term",
+  "date": "2020-06-01",
+  "summary": "Defense Secretary Mark Esper said Trump wanted U.S. troops to shoot American protesters during George Floyd protests. Esper called Trump 'a threat to democracy' and said Trump is 'not fit for office because he puts himself first.'",
+  "keyFacts": [
+    "Trump wanted U.S. troops to shoot American protesters during George Floyd protests",
+    "Mark Esper: 'Trump is not fit for office because he puts himself first'",
+    "Called Trump 'a threat to democracy'",
+    "Warned Trump might use military for political purposes in second term",
+    "Explicitly said he would not vote for Trump",
+    "Famously fired by Trump via Twitter"
+  ],
+  "sources": [
+    {
+      "text": "Mark Esper book and interviews",
+      "url": "https://www.npr.org",
+      "type": "book"
+    },
+    {
+      "text": "Multiple news reports, 2020",
+      "url": "https://www.cnn.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["military", "protests", "george-floyd"]
+}

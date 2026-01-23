@@ -1,0 +1,45 @@
+{
+  "id": "ej-antoni-bls-nomination",
+  "title": "EJ Antoni - BLS Nominee & Jan 6 Participant (Withdrawn)",
+  "primaryCategory": "character",
+  "severity": "serious",
+  "timeline": "second-term",
+  "date": "2025-08-01",
+  "summary": "Trump nominated January 6 participant to oversee nation's employment and inflation data. EJ Antoni, Heritage Foundation economist nominated to lead Bureau of Labor Statistics. Video shows him on both west and east sides of Capitol grounds January 6, 2021. Previously suggested BLS should stop publishing monthly job reports. CNN KFile revealed deleted Twitter account with sexually degrading attacks on Kamala Harris, derogatory remarks about gay people, and conspiracy theories. GOP Sens. Collins and Murkowski declined to meet. Nomination withdrawn September 2025 after mounting opposition.",
+  "keyFacts": [
+    "EJ Antoni - Heritage Foundation economist nominated to lead Bureau of Labor Statistics",
+    "Present at Capitol on January 6, 2021 - Video shows him on both west and east sides of Capitol grounds",
+    "White House claimed he was merely a 'bystander' who was 'in town for meetings'",
+    "Frequent guest on Steve Bannon's 'War Room' podcast",
+    "Previously suggested BLS should stop publishing monthly job reports - wanted quarterly reports instead",
+    "Trump fired previous BLS head claiming she 'rigged' jobs reports",
+    "CNN KFile investigation revealed Antoni operated deleted Twitter account with sexually degrading attacks on Kamala Harris",
+    "Deleted account included derogatory remarks about gay people, and conspiracy theories",
+    "GOP Sens. Susan Collins and Lisa Murkowski declined to meet with Antoni",
+    "Nomination withdrawn September 2025 after mounting opposition",
+    "Raised concerns about politicizing economic statistics and appointing January 6 participants to key positions"
+  ],
+  "sources": [
+    {
+      "text": "NBC News, August 2025",
+      "url": "https://www.nbcnews.com",
+      "type": "news"
+    },
+    {
+      "text": "CNN KFile investigation, August 2025",
+      "url": "https://www.cnn.com/2025/08/12/business/bureau-of-labor-statistics-bls-trump-pick-ej-antoni",
+      "type": "investigation"
+    },
+    {
+      "text": "NBC News - Withdrawal, September 2025",
+      "url": "https://www.nbcnews.com/politics/trump-administration/ej-antoni-nomination-withdraw-trump-bls-rcna234833",
+      "type": "news"
+    },
+    {
+      "text": "Axios reporting",
+      "url": "https://www.axios.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["jan6-related", "cabinet", "economic-policy"]
+}

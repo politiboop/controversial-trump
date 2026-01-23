@@ -1,0 +1,40 @@
+{
+  "id": "french-judge-intimidation-le-pen",
+  "title": "US Embassy Officials Intimidate French Judge Over Marine Le Pen Trial",
+  "primaryCategory": "abuse-of-power",
+  "severity": "serious",
+  "timeline": "second-term",
+  "date": "2025-05-01",
+  "summary": "French magistrate Magali Lafourcade alerted French authorities in May 2025 after two Trump administration emissaries allegedly raised questions about far-right leader Marine Le Pen's trial. Lafourcade said conversation started on human rights but quickly shifted to Le Pen, describing it as effort to cast the case as politically motivated - 'to find, with me or others, elements indicating that this was a purely political trial to stop her running for president.' Two months later, US sanctioned Brazilian judge Alexandre de Moraes who investigated Bolsonaro's attempted coup. French judges in Le Pen case later faced death threats and required police protection.",
+  "keyFacts": [
+    "French magistrate Magali Lafourcade alerted French authorities in May 2025",
+    "Two Trump administration emissaries raised questions about Marine Le Pen's trial",
+    "Lafourcade: Conversation started on human rights but quickly shifted to Le Pen",
+    "Described as effort to cast case as politically motivated",
+    "Emissaries sought 'elements indicating this was a purely political trial to stop her running for president'",
+    "Two months after meeting, US sanctioned Brazilian judge Alexandre de Moraes",
+    "Moraes had led investigation into right-wing former President Bolsonaro's attempted coup",
+    "French judges in Le Pen case later faced death threats",
+    "Judges required police protection amid online threats",
+    "Le Pen convicted of embezzlement for misappropriating EU Parliament funds",
+    "Conviction carries four-year prison sentence and five-year ban from seeking office"
+  ],
+  "sources": [
+    {
+      "text": "Alternet - Trump intimidating foreign judges",
+      "url": "https://www.alternet.org/trump-marine-le-pen/",
+      "type": "news"
+    },
+    {
+      "text": "France 24 - Death threats against judges",
+      "url": "https://www.france24.com/en/france/20250402-french-judges-in-marine-le-pen-case-face-death-threats-police-launch-probe",
+      "type": "news"
+    },
+    {
+      "text": "Euronews - Judge under police protection",
+      "url": "https://www.euronews.com/2025/04/01/judge-who-sentenced-marine-le-pen-under-police-protection-amid-online-threats",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["foreign-policy", "judicial-interference", "authoritarian", "allies"]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "liz-cheney-firing-squad",
+  "title": "Liz Cheney 'Nine Barrels Shooting' Threat",
+  "primaryCategory": "democracy",
+  "severity": "serious",
+  "timeline": "campaign-2024",
+  "date": "2024-11-01",
+  "summary": "Trump suggested Liz Cheney should face 'nine barrels shooting at her' during Arizona campaign rally. Part of pattern of violent rhetoric against political opponents.",
+  "keyFacts": [
+    "Suggested Liz Cheney should face 'nine barrels shooting at her'",
+    "Made during Arizona campaign rally in November 2024",
+    "Part of broader pattern of violent rhetoric against opponents",
+    "Cheney had been vice chair of January 6 Committee investigating Trump",
+    "Widely condemned as incitement to violence against political opponent"
+  ],
+  "sources": [
+    {
+      "text": "Campaign rally Arizona, November 1, 2024",
+      "url": "https://www.cnn.com",
+      "type": "rally"
+    },
+    {
+      "text": "CNN, NBC News coverage",
+      "url": "https://www.nbcnews.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["violent-rhetoric", "jan6-related"]
+}

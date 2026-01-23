@@ -1,0 +1,35 @@
+{
+  "id": "mocking-disabled-reporter",
+  "title": "Mocking Disabled Reporter",
+  "primaryCategory": "racism",
+  "severity": "concerning",
+  "timeline": "pre-2016",
+  "date": "2015-11-24",
+  "summary": "Trump mocked New York Times reporter Serge Kovaleski who has arthrogryposis (limits joint movement) by flailing his arms, altering his voice, and contorting his face at a rally.",
+  "keyFacts": [
+    "Mocked reporter Serge Kovaleski who has arthrogryposis",
+    "Flailed arms, altered voice, contorted face to imitate disability",
+    "Said: 'Now the poor guy, you gotta see this guy'",
+    "Falsely claimed not to know Kovaleski despite years of prior interactions",
+    "Kovaleski said they had been on 'first-name basis for years'",
+    "Bloomberg poll: Voters ranked this Trump's worst offense"
+  ],
+  "sources": [
+    {
+      "text": "Video evidence, November 2015 rally",
+      "url": "https://www.washingtonpost.com",
+      "type": "video"
+    },
+    {
+      "text": "Rally transcript, November 24, 2015",
+      "url": "https://www.nytimes.com",
+      "type": "transcript"
+    },
+    {
+      "text": "Bloomberg Politics poll, December 2015",
+      "url": "https://www.bloomberg.com",
+      "type": "poll"
+    }
+  ],
+  "specialTags": ["ableism"]
+}

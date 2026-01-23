@@ -1,0 +1,38 @@
+{
+  "id": "january-6-capitol-attack",
+  "title": "January 6 Capitol Attack",
+  "primaryCategory": "democracy",
+  "severity": "catastrophic",
+  "timeline": "first-term",
+  "date": "2021-01-06",
+  "summary": "Trump urged supporters to 'fight like hell' before mob stormed the Capitol, resulting in 5 deaths, 140+ injured officers, and his second impeachment for 'incitement of insurrection.'",
+  "keyFacts": [
+    "Urged supporters to march to Capitol and 'fight like hell'",
+    "5 people died in connection with the attack",
+    "140+ police officers injured, including concussions and traumatic brain injuries",
+    "Rioters erected gallows and chanted 'Hang Mike Pence!'",
+    "Trump attacked Pence while mob was hunting him: 'Mike Pence didn't have the courage'",
+    "Impeached for 'incitement of insurrection' (10 Republicans voted to impeach)",
+    "7 Republican senators voted to convict - most bipartisan impeachment vote in history",
+    "Over 1,500 people subsequently charged with federal crimes",
+    "Trump later pardoned ~1,500 January 6 defendants including violent offenders"
+  ],
+  "sources": [
+    {
+      "text": "Trump speech transcript, January 6, 2021",
+      "url": "https://www.npr.org/2021/02/10/966396848/read-trumps-jan-6-speech-a-key-part-of-impeachment-trial",
+      "type": "primary"
+    },
+    {
+      "text": "DC Medical Examiner, DOJ reports",
+      "url": "https://www.justice.gov",
+      "type": "government"
+    },
+    {
+      "text": "House Jan 6 Committee testimony",
+      "url": "https://january6th.house.gov",
+      "type": "government"
+    }
+  ],
+  "specialTags": ["impeachment", "violence", "election"]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "muslim-ban",
+  "title": "Muslim Ban / Travel Ban (Executive Order 13769)",
+  "primaryCategory": "racism",
+  "severity": "serious",
+  "timeline": "first-term",
+  "date": "2017-01-27",
+  "summary": "Trump signed Executive Order banning citizens from 7 Muslim-majority countries for 90 days and suspending refugee resettlement for 120 days. Thousands detained at airports, massive protests erupted nationwide. Multiple federal courts blocked versions. Supreme Court eventually upheld modified version 5-4 in 2018.",
+  "keyFacts": [
+    "Banned citizens from 7 Muslim-majority countries (Iran, Iraq, Libya, Somalia, Sudan, Syria, Yemen) for 90 days",
+    "Suspended refugee resettlement for 120 days; indefinitely banned Syrian refugees",
+    "Thousands of travelers detained at airports; families separated",
+    "Massive protests erupted at airports nationwide",
+    "Multiple federal courts blocked versions of the ban",
+    "Supreme Court eventually upheld modified version 5-4 in 2018 (Trump v. Hawaii)"
+  ],
+  "sources": [
+    {
+      "text": "Executive Order 13769, January 27, 2017",
+      "url": "https://www.whitehouse.gov",
+      "type": "government"
+    },
+    {
+      "text": "ACLU reports, airport monitoring",
+      "url": "https://www.aclu.org",
+      "type": "legal"
+    },
+    {
+      "text": "Trump v. Hawaii, 585 U.S. ___ (2018)",
+      "url": "https://www.supremecourt.gov",
+      "type": "legal"
+    }
+  ],
+  "specialTags": ["immigration", "muslim-ban", "refugees", "supreme-court"]
+}

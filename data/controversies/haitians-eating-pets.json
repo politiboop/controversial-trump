@@ -1,0 +1,36 @@
+{
+  "id": "haitians-eating-pets",
+  "title": "Haitians Eating Pets in Springfield, Ohio",
+  "primaryCategory": "racism",
+  "severity": "serious",
+  "timeline": "campaign-2024",
+  "date": "2024-09-10",
+  "summary": "During presidential debate, Trump claimed Haitian immigrants were 'eating the dogs' and 'eating the cats' in Springfield, Ohio. City officials confirmed it was completely false. JD Vance admitted he 'created' the story.",
+  "keyFacts": [
+    "September 2024 debate: Trump claimed Haitian immigrants in Springfield, Ohio were 'eating the dogs' and 'eating the cats'",
+    "'They're eating the pets of the people that live there'",
+    "City officials, police, and local residents confirmed this was completely false",
+    "JD Vance admitted he 'created' the story to draw attention to immigration",
+    "PolitiFact named it the 2024 'Lie of the Year' - Trump's fourth such award",
+    "Led to bomb threats against Springfield schools and hospitals",
+    "Trump never retracted the claim and repeated it at rallies"
+  ],
+  "sources": [
+    {
+      "text": "Presidential debate, September 10, 2024",
+      "url": "https://www.cnn.com",
+      "type": "debate"
+    },
+    {
+      "text": "Springfield city manager, police statements",
+      "url": "https://www.springfieldohio.gov",
+      "type": "government"
+    },
+    {
+      "text": "PolitiFact, December 2024",
+      "url": "https://www.politifact.com",
+      "type": "fact-check"
+    }
+  ],
+  "specialTags": ["racism", "immigration", "disinformation"]
+}

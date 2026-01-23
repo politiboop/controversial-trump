@@ -1,0 +1,41 @@
+{
+  "id": "ukraine-first-impeachment",
+  "title": "Ukraine Phone Call / First Impeachment",
+  "primaryCategory": "abuse-of-power",
+  "severity": "catastrophic",
+  "timeline": "first-term",
+  "date": "2019-07-25",
+  "summary": "Impeached for abuse of power and obstruction of Congress. Pressured Ukraine to investigate Joe Biden in exchange for military aid. Whistleblower complaint triggered investigation. Acquitted by Republican-controlled Senate with only Romney voting to convict.",
+  "keyFacts": [
+    "Impeached for abuse of power and obstruction of Congress (December 18, 2019)",
+    "Pressured Ukraine to investigate Joe Biden in exchange for military aid",
+    "July 25, 2019 phone call with Ukrainian President Zelensky",
+    "Whistleblower complaint filed August 12, 2019; released September 26, 2019",
+    "Whistleblower complaint triggered investigation",
+    "Acquitted by Republican-controlled Senate (February 5, 2020)",
+    "Only Senator Romney voted to convict"
+  ],
+  "sources": [
+    {
+      "text": "House vote, December 18, 2019; Articles of Impeachment",
+      "url": "https://www.congress.gov",
+      "type": "government"
+    },
+    {
+      "text": "July 25, 2019 phone call transcript",
+      "url": "https://www.whitehouse.gov",
+      "type": "government"
+    },
+    {
+      "text": "Whistleblower complaint",
+      "url": "https://intelligence.house.gov",
+      "type": "government"
+    },
+    {
+      "text": "Senate vote, February 5, 2020",
+      "url": "https://www.senate.gov",
+      "type": "government"
+    }
+  ],
+  "specialTags": ["impeachment", "ukraine", "foreign-policy", "corruption"]
+}

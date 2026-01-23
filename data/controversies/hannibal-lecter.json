@@ -1,0 +1,29 @@
+{
+  "id": "hannibal-lecter",
+  "title": "'The Late, Great Hannibal Lecter'",
+  "primaryCategory": "absurd",
+  "severity": "absurd",
+  "timeline": "campaign-2024",
+  "date": "2024-01-01",
+  "summary": "Trump repeatedly praised Hannibal Lecter - the fictional cannibal serial killer from 'Silence of the Lambs' - calling him 'a wonderful man' and 'the late, great Hannibal Lecter' at rallies.",
+  "keyFacts": [
+    "Repeatedly praised Hannibal Lecter - the fictional cannibal serial killer from 'Silence of the Lambs'",
+    "'The late, great Hannibal Lecter... he's a wonderful man'",
+    "Hannibal Lecter is not a real person and didn't die (because he never existed)",
+    "Used this as part of immigration discussion somehow",
+    "Repeated the reference at multiple rallies throughout 2024"
+  ],
+  "sources": [
+    {
+      "text": "Multiple rally speeches, 2024",
+      "url": "https://www.axios.com",
+      "type": "rally"
+    },
+    {
+      "text": "Washington Post coverage",
+      "url": "https://www.washingtonpost.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["bizarre", "confusion"]
+}

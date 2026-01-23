@@ -1,0 +1,34 @@
+{
+  "id": "43-day-government-shutdown",
+  "title": "43-Day Government Shutdown - Longest in U.S. History",
+  "primaryCategory": "character",
+  "severity": "serious",
+  "timeline": "second-term",
+  "date": "2025-10-01",
+  "summary": "Longest shutdown in US history (43 days). 670,000 federal workers furloughed; 750,000+ worked without pay. 42 million Americans faced loss of SNAP food benefits. FAA cut air traffic 10% at 40 airports. Head Start suspended for 58,600 children. CBO estimated $7 billion loss to economy. Trump held 'Great Gatsby' party at Mar-a-Lago eve of SNAP suspension. Trump golfed half-dozen+ times, visited 6 countries during shutdown.",
+  "keyFacts": [
+    "Longest shutdown in US history (43 days) - October-November 2025",
+    "670,000 federal workers furloughed",
+    "750,000+ worked without pay",
+    "42 million Americans faced loss of SNAP food benefits",
+    "FAA cut air traffic 10% at 40 airports",
+    "Head Start suspended for 58,600 children",
+    "CBO estimated $7 billion loss to economy",
+    "Trump held 'Great Gatsby' party at Mar-a-Lago eve of SNAP suspension",
+    "Trump golfed half-dozen+ times during shutdown",
+    "Trump visited 6 countries during shutdown"
+  ],
+  "sources": [
+    {
+      "text": "Congressional Budget Office analysis",
+      "url": "https://www.cbo.gov",
+      "type": "government"
+    },
+    {
+      "text": "News coverage of shutdown impacts",
+      "url": "https://www.washingtonpost.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["shutdown", "governance-failure"]
+}

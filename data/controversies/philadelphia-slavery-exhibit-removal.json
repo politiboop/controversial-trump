@@ -1,0 +1,51 @@
+{
+  "id": "philadelphia-slavery-exhibit-removal",
+  "title": "Removes Slavery Memorial at George Washington's President's House",
+  "primaryCategory": "rewriting-history",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2026-01-22",
+  "summary": "National Park Service dismantled exhibits about slavery at the President's House Site in Independence National Historical Park after Trump administration directive. Removed memorial honored nine enslaved people owned by George Washington. The exhibits, which opened in 2010 after years of community advocacy, included 'Life Under Slavery' and 'The Dirty Business of Slavery.' Removal part of Executive Order 14253 'Restoring Truth and Sanity to American History' ordering removal of 'disparaging' materials. Philadelphia sued federal government over the erasure. Trump administration provided no explanation or justification.",
+  "keyFacts": [
+    "January 22, 2026: National Park Service crews dismantled slavery exhibits at President's House in Philadelphia",
+    "Removed plaques telling stories of nine enslaved people owned by George Washington who lived at the house",
+    "13 items across six exhibits initially flagged for review; all removed on Thursday",
+    "Removed exhibits included 'Life Under Slavery,' 'The Dirty Business of Slavery,' and others honoring enslaved individuals",
+    "Exhibits opened in 2010 after years of advocacy by community groups",
+    "Removal ordered under Trump's March 27, 2025 Executive Order 14253 'Restoring Truth and Sanity to American History'",
+    "Order directed removal of 'disparaging' materials from Independence Hall ahead of America's 250th birthday",
+    "Philadelphia Mayor Cherelle L. Parker's administration filed lawsuit against Department of Interior and National Park Service",
+    "Lawsuit argues Trump administration 'acted without statutory authority' and 'provided no explanation at all'",
+    "City: 'Defendants have provided no explanation at all for their removal of the historical, educational displays'",
+    "This is literal historical erasure - removing documented facts about American history from a national park",
+    "Part of broader Trump administration effort to whitewash uncomfortable aspects of American history"
+  ],
+  "sources": [
+    {
+      "text": "CNN: Philadelphia sues Trump administration over removal of slavery exhibit",
+      "url": "https://www.cnn.com/2026/01/23/politics/philadelphia-sues-nps-removal-slavery-exhibit",
+      "type": "news"
+    },
+    {
+      "text": "Philadelphia Inquirer: Slavery exhibits at President's House removed following Trump push",
+      "url": "https://www.inquirer.com/politics/nation/presidents-house-independence-park-exhibits-removed-20260122.html",
+      "type": "news"
+    },
+    {
+      "text": "ABC News: Trump admin removes memorial honoring people enslaved by George Washington",
+      "url": "https://abcnews.go/US/trump-admin-removes-memorial-honoring-people-enslaved-george/story?id=129472615",
+      "type": "news"
+    },
+    {
+      "text": "6ABC Philadelphia: Slavery exhibits removed after Trump directive",
+      "url": "https://6abc.com/post/philadelphia-slavery-exhibits-presidents-house-removed-trump-administration-directive/18451011/",
+      "type": "news"
+    },
+    {
+      "text": "NBC News: Philadelphia sues after slavery exhibits taken down from President's House",
+      "url": "https://www.nbcnews.com/news/us-news/philadelphia-sues-slavery-exhibits-taken-presidents-house-site-rcna255535",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["slavery", "historical-erasure", "george-washington", "national-parks", "lawsuit"]
+}

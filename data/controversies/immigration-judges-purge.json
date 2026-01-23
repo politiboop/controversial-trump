@@ -1,0 +1,32 @@
+{
+  "id": "immigration-judges-purge",
+  "title": "Immigration Judges Purge - Replacing Experienced Judges with Loyalists",
+  "primaryCategory": "abuse-of-power",
+  "severity": "serious",
+  "timeline": "second-term",
+  "date": "2025-06-01",
+  "summary": "Nearly 100 immigration judges fired in 2025, with experienced professionals replaced by inexperienced loyalists. Courts starting 2026 with fewer than half the judges from a year ago.",
+  "keyFacts": [
+    "Nearly 100 immigration judges fired in 2025",
+    "At least 19 experienced judges who had been with agency for years terminated",
+    "Union estimated over 100 judges have either been fired or resigned",
+    "Courts starting 2026 with fewer than half the judges from a year ago",
+    "Trump administration hiring inexperienced immigration judges to replace experienced professionals",
+    "San Francisco immigration court being shuttered",
+    "Justice Jackson raised concerns about 'a President come in and fire all the scientists and the doctors... and replacing them with loyalists'",
+    "Immigration courts facing massive backlog with fewer experienced judges"
+  ],
+  "sources": [
+    {
+      "text": "NPR, January 10, 2026",
+      "url": "https://www.npr.org/2026/01/10/nx-s1-5672386/the-trump-administration-fired-nearly-100-immigration-judges-in-2025-whats-next",
+      "type": "news"
+    },
+    {
+      "text": "Supreme Court arguments",
+      "url": "https://federalnewsnetwork.com",
+      "type": "government"
+    }
+  ],
+  "specialTags": ["immigration", "purge"]
+}

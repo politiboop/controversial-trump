@@ -1,0 +1,41 @@
+{
+  "id": "denied-terminate-constitution",
+  "title": "Denied Calling to 'Terminate' Constitution Despite Own Post",
+  "primaryCategory": "rewriting-history",
+  "severity": "serious",
+  "timeline": "campaign-2024",
+  "date": "2023-12-05",
+  "summary": "After posting on Truth Social in December 2022 that 'fraud allows for the termination of all rules, regulations, and articles, even those found in the Constitution,' Trump later denied saying it. When pressed by campaign reporters, claimed he never called to 'terminate' the Constitution. His post remains publicly documented on Truth Social and was widely covered by media at the time.",
+  "keyFacts": [
+    "December 3, 2022: Trump posted on Truth Social calling for 'termination' of Constitution rules due to alleged fraud",
+    "Original quote: 'A Massive Fraud of this type and magnitude allows for the termination of all rules, regulations, and articles, even those found in the Constitution'",
+    "Post was widely covered by major news outlets and condemned by both parties",
+    "Campaign 2024: Repeatedly denied saying it or claimed it was taken out of context",
+    "The post remains documented on Truth Social with screenshots",
+    "Even some Republicans like Rep. Mike Lawler (R-NY) condemned the statement at the time",
+    "Trump's denial contradicts his own documented words"
+  ],
+  "sources": [
+    {
+      "text": "Original Truth Social post - December 3, 2022",
+      "url": "https://truthsocial.com/@realDonaldTrump",
+      "type": "social"
+    },
+    {
+      "text": "ABC News: Trump calls for 'termination' of Constitution",
+      "url": "https://abcnews.go.com/Politics/trump-calls-termination-rules-regulations-articles-constitution/story?id=93751206",
+      "type": "news"
+    },
+    {
+      "text": "Washington Post: Trump denies Constitution 'termination' comments",
+      "url": "https://www.washingtonpost.com/politics/2023/12/05/trump-constitution-denial/",
+      "type": "news"
+    },
+    {
+      "text": "The Hill: GOP lawmakers condemn Trump's Constitution remarks",
+      "url": "https://thehill.com/homenews/house/3759484-gop-lawmakers-condemn-trumps-constitution-remarks/",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["gaslighting", "constitution", "documented-denial"]
+}

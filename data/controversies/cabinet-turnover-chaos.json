@@ -1,0 +1,38 @@
+{
+  "id": "cabinet-turnover-chaos",
+  "title": "Historic Cabinet Turnover & Chaos",
+  "primaryCategory": "character",
+  "severity": "concerning",
+  "timeline": "first-term",
+  "date": "2017-01-20",
+  "summary": "Trump had more turnover than any president since 1980. 91% turnover among senior staff. 4 Chiefs of Staff, 4 National Security Advisers, 14 cabinet secretaries resigned. NPR: highest Cabinet turnover 'going back 100 years.'",
+  "keyFacts": [
+    "91% turnover among senior executive staff by end of term (vs. 78% Reagan, 74% Clinton, 71% Obama)",
+    "85% turnover in 'A Team' advisers",
+    "14 Senate-confirmed cabinet secretaries resigned (more than 5 predecessors combined)",
+    "4 Chiefs of Staff: Reince Priebus, John Kelly, Mick Mulvaney, Mark Meadows",
+    "4 National Security Advisers: Michael Flynn, H.R. McMaster, John Bolton, Robert O'Brien",
+    "NPR: Cabinet turnover was highest 'going back 100 years'",
+    "Turnover rate exceeded five predecessors' full first terms in just 32 months",
+    "Michael Flynn lasted only 24 days - shortest ever National Security Adviser",
+    "Often announced firings via Twitter, adding 'dimension of public humiliation'"
+  ],
+  "sources": [
+    {
+      "text": "Brookings Institution analysis",
+      "url": "https://www.brookings.edu",
+      "type": "analysis"
+    },
+    {
+      "text": "NPR analysis",
+      "url": "https://www.npr.org",
+      "type": "analysis"
+    },
+    {
+      "text": "Harvard Business Review",
+      "url": "https://hbr.org",
+      "type": "analysis"
+    }
+  ],
+  "specialTags": ["chaos", "turnover", "management"]
+}

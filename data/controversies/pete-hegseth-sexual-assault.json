@@ -1,0 +1,40 @@
+{
+  "id": "pete-hegseth-sexual-assault",
+  "title": "Pete Hegseth - Sexual Assault & Drinking Allegations",
+  "primaryCategory": "women",
+  "severity": "serious",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "Trump appointed Fox News host Pete Hegseth as Defense Secretary despite $50,000 sexual assault settlement, allegations of excessive drinking at work, and sworn affidavit from ex-sister-in-law saying he's 'unfit' and ex-wife 'feared for her safety.' Confirmed 51-50, narrowest margin.",
+  "keyFacts": [
+    "$50,000 settlement to woman who accused him of sexual assault at 2017 Republican women's conference",
+    "Police report: Woman said he 'physically blocked her from leaving hotel room,' took her phone, 'remembered saying no a lot'",
+    "Emergency room nurse contacted police after treating woman who 'may have been drugged and raped'",
+    "Multiple allegations of excessive drinking and being intoxicated at work - 'open secret' at Fox News",
+    "Former sister-in-law submitted sworn affidavit: 'Unfit for the position of secretary of defense'",
+    "Affidavit: Ex-wife 'feared for her personal safety,' 'often hid in a closet'",
+    "Affidavit: Ex-wife had code word system to signal she needed help to escape",
+    "Affidavit: Said 'women should not vote or work'",
+    "No experience running large organizations; leads 3 million personnel and $850 billion budget",
+    "Confirmed by narrowest margin: 51-50 with VP Vance casting tiebreaking vote",
+    "Article of impeachment filed December 2025"
+  ],
+  "sources": [
+    {
+      "text": "Police report, 2017",
+      "url": "https://www.washingtonpost.com",
+      "type": "investigation"
+    },
+    {
+      "text": "Sworn affidavit from Danielle Hegseth",
+      "url": "https://www.nytimes.com",
+      "type": "legal"
+    },
+    {
+      "text": "Senate Armed Services Committee",
+      "url": "https://www.armed-services.senate.gov",
+      "type": "government"
+    }
+  ],
+  "specialTags": ["sexual-misconduct", "cabinet", "military"]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "inauguration-crowd-size-lies",
+  "title": "Inauguration Crowd Size Lies - 'Largest Audience Ever'",
+  "primaryCategory": "narcissism",
+  "severity": "concerning",
+  "timeline": "first-term",
+  "date": "2017-01-21",
+  "summary": "On January 21, 2017, White House Press Secretary Sean Spicer falsely claimed 'This was the largest audience to ever witness an inauguration — period — both in person and around the globe.' All figures were less than the 1.8 million who attended Obama's 2009 inaugural. Photographs showed Trump's crowd was noticeably smaller. Washington Post gave Spicer four Pinocchios. PolitiFact rated it 'Pants on Fire.' Spicer later admitted he 'screwed up' - 'There was nobody happy with me that night.'",
+  "keyFacts": [
+    "January 21, 2017: Sean Spicer claimed 'This was the largest audience to ever witness an inauguration — period'",
+    "All Trump administration figures were less than 1.8 million who attended Obama's 2009 inaugural",
+    "Photographs showed Trump's crowd was noticeably smaller than previous inaugurations",
+    "Washington Post Fact Checker gave Spicer four Pinocchios - 'an appalling performance'",
+    "PolitiFact rated the claim 'Pants on Fire'",
+    "Spicer took no questions from reporters after reading the statement",
+    "Spicer later admitted: 'If you ask me for one thing that I probably want a do-over on, that's it'",
+    "'There was nobody happy with me that night,' Spicer recalled",
+    "First major lie from Trump White House - set tone for administration"
+  ],
+  "sources": [
+    {
+      "text": "White House archives - Spicer statement",
+      "url": "https://trumpwhitehouse.archives.gov/briefings-statements/statement-press-secretary-sean-spicer/",
+      "type": "government"
+    },
+    {
+      "text": "Washington Post - Four Pinocchios",
+      "url": "https://www.washingtonpost.com/news/fact-checker/wp/2017/01/22/spicer-earns-four-pinocchios-for-a-series-of-false-claims-on-inauguration-crowd-size/",
+      "type": "fact-check"
+    },
+    {
+      "text": "PolitiFact - Pants on Fire",
+      "url": "https://www.politifact.com/factchecks/2017/jan/22/sean-spicer/trump-had-biggest-inaugural-crowd-ever-metrics-don/",
+      "type": "fact-check"
+    },
+    {
+      "text": "TIME - Spicer regrets comments",
+      "url": "https://time.com/5088900/sean-spicer-screwed-up-inauguration-hitler/",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["lying", "vanity", "crowd-obsession"]
+}

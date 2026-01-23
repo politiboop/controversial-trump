@@ -1,0 +1,36 @@
+{
+  "id": "sedition-democrats-military-orders",
+  "title": "Attacking Democrats for Defending Lawful Military Orders",
+  "primaryCategory": "democracy",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-11-20",
+  "summary": "Six Democratic lawmakers posted video reminding military to refuse illegal orders. Trump accused them of 'seditious behavior,' called for them to be 'arrested and put on trial,' and said sedition is 'punishable by death.' Reposted 'Hang them George Washington would.'",
+  "keyFacts": [
+    "Six Democratic lawmakers reminded military to refuse illegal orders - simply restating existing law",
+    "Trump accused them of 'seditious behavior' and called for them to be 'arrested and put on trial'",
+    "Trump: Sedition is 'punishable by death'",
+    "Reposted message saying 'Hang them George Washington would'",
+    "Legal experts confirm lawmakers were simply restating existing law",
+    "Military law experts: Soldiers are legally required to refuse unlawful orders (UCMJ Article 92)",
+    "Sen. Slotkin received hundreds of death threats, given 24/7 Capitol Police protection"
+  ],
+  "sources": [
+    {
+      "text": "NBC News, Washington Post, November 2025",
+      "url": "https://www.nbcnews.com",
+      "type": "news"
+    },
+    {
+      "text": "Trump Truth Social posts",
+      "url": "https://truthsocial.com",
+      "type": "primary"
+    },
+    {
+      "text": "FactCheck.org, PolitiFact, November 2025",
+      "url": "https://www.factcheck.org",
+      "type": "fact-check"
+    }
+  ],
+  "specialTags": ["violent-rhetoric", "military", "witness-intimidation"]
+}

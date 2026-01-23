@@ -1,0 +1,38 @@
+{
+  "id": "doj-weaponization",
+  "title": "DOJ Weaponization Against Political Opponents",
+  "primaryCategory": "abuse-of-power",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "Trump shattered norms by targeting political opponents through DOJ. More than 100 prosecutors resigned. Career prosecutor forced out and replaced with Trump's personal attorney who quickly indicted Comey and Letitia James.",
+  "keyFacts": [
+    "More than 100 prosecutors and career lawyers resigned from DOJ - far exceeding normal turnover",
+    "September 2025: Career prosecutor Erik Siebert forced to resign after refusing to indict Letitia James and James Comey without evidence",
+    "Trump replaced Siebert with Lindsey Halligan, Trump's personal attorney with no prosecutorial experience",
+    "Halligan quickly secured indictments against Comey and James after Siebert refused",
+    "Federal judge ruled Halligan's appointment unlawful and dismissed both indictments",
+    "Investigations opened against: James Comey, Letitia James, Adam Schiff, Liz Cheney, John Bolton, Jack Smith prosecutors",
+    "Trump sued pollster Ann Selzer over Iowa poll showing him trailing",
+    "Trump sued ABC News, CBS/Paramount over coverage",
+    "Fired FBI agents who investigated Trump"
+  ],
+  "sources": [
+    {
+      "text": "NPR, CBS News, CNN coverage",
+      "url": "https://www.npr.org",
+      "type": "news"
+    },
+    {
+      "text": "Federal court ruling",
+      "url": "https://www.cnn.com",
+      "type": "court"
+    },
+    {
+      "text": "International Bar Association",
+      "url": "https://www.ibanet.org",
+      "type": "analysis"
+    }
+  ],
+  "specialTags": ["weaponization", "rule-of-law"]
+}

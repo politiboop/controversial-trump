@@ -1,0 +1,36 @@
+{
+  "id": "broken-promises",
+  "title": "Broken Promises & Failed Follow-Through",
+  "primaryCategory": "character",
+  "severity": "concerning",
+  "timeline": "first-term",
+  "date": "2017-01-20",
+  "summary": "Trump made grand promises he never delivered: Mexico would pay for the wall (built only 80 miles), 'repeal and replace Obamacare' (failed), $1 trillion infrastructure (never passed), eliminate national debt (added $7.8 trillion).",
+  "keyFacts": [
+    "Border Wall: Promised Mexico would pay, built only 80 miles of new wall, Mexico paid $0, diverted $15 billion from military",
+    "Healthcare: Promised 'repeal and replace Obamacare on Day One' - failed despite Republican control of Congress, never presented comprehensive plan",
+    "Infrastructure: Promised $1 trillion plan - 'Infrastructure Week' became recurring punchline for 4 years, zero major bills passed",
+    "National Debt: Promised to 'eliminate the national debt in 8 years' - added $7.8 trillion in 4 years (40% increase)",
+    "'Drain the Swamp': Appointed over 280 lobbyists, multiple cabinet members resigned in corruption scandals",
+    "Manufacturing Jobs: Lost 60,000 manufacturing jobs even before COVID",
+    "Pattern: 'Coming in two weeks' became go-to delay tactic for things that never materialized"
+  ],
+  "sources": [
+    {
+      "text": "U.S. Customs and Border Protection data",
+      "url": "https://www.cbp.gov",
+      "type": "government"
+    },
+    {
+      "text": "U.S. Treasury Department, Congressional Budget Office",
+      "url": "https://www.treasury.gov",
+      "type": "government"
+    },
+    {
+      "text": "Committee for a Responsible Federal Budget",
+      "url": "https://www.crfb.org",
+      "type": "analysis"
+    }
+  ],
+  "specialTags": ["broken-promises"]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "venezuela-invasion",
+  "title": "Venezuela Military Invasion - 'We're Going to Run the Country'",
+  "primaryCategory": "abuse-of-power",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2026-01-03",
+  "summary": "January 3, 2026: Trump announced U.S. military operation to capture Venezuelan President Nicolás Maduro using 'overwhelming military power, air land and sea' to 'launch a spectacular assault' against 'heavily fortified military fortress in the heart of Caracas.' Venezuelan civilians and service members killed. Trump stated: 'We're going to run the country until such time as we can do a safe, proper and judicious transition.' Did not notify Congress - violates War Powers Resolution. Chatham House: May be 'the moment when Western Europe realizes that the U.S. has abandoned the core values.' Sen. Warner: 'Does this mean any large country can indict the ruler of a smaller adjacent country and take that person out?' Critics call it neo-colonialism and resource extraction disguised as anti-drug operation.",
+  "keyFacts": [
+    "January 3, 2026: Trump announced U.S. military operation to capture Venezuelan President Nicolás Maduro",
+    "Described 'extraordinary military operation' using 'overwhelming military power, air land and sea' to 'launch a spectacular assault'",
+    "Venezuelan casualties: Both civilians and service members killed; large part of Maduro's security team killed",
+    "Maduro charged with drug trafficking and narco-terrorism conspiracies by AG Pam Bondi",
+    "Trump stated: 'We're in charge' when asked who is running Venezuela",
+    "'We're going to run the country until such time as we can do a safe, proper and judicious transition'",
+    "U.S. plans to govern Venezuela with no clear timeline or exit strategy",
+    "Trump: Operation 'won't cost us anything' because U.S. oil companies would invest, 'It's going to make a lot of money'",
+    "Administration serving 'triple goals of crippling Maduro, hitting drug trade routes and getting access to Venezuela oil'",
+    "Administration expressed interest in Venezuela's large deposits of gold and rare earth minerals",
+    "Critics call it neo-colonialism and resource extraction disguised as anti-drug operation",
+    "Did not notify Congress in advance - bucks laws and precedents requiring Congressional notification",
+    "Violates War Powers Resolution requirements",
+    "Chatham House: May be 'the moment when Western Europe realizes that the U.S. has abandoned the core values that united them for the past century'",
+    "Sen. Mark Warner (D): 'Does this mean any large country can indict the ruler of a smaller adjacent country and take that person out?'",
+    "Setting dangerous international precedent for military interventions",
+    "Trump dismissed María Corina Machado (2025 Nobel Peace Prize winner) as 'very nice woman' who 'doesn't have the support'",
+    "Trump suggested partnering with Maduro loyalist Delcy Rodríguez as interim president instead",
+    "CNN: 'Trump doesn't seem interested in working with Venezuela's opposition'"
+  ],
+  "sources": [
+    {
+      "text": "NPR, CBS News, NBC News, January 2026",
+      "url": "https://www.npr.org",
+      "type": "news"
+    },
+    {
+      "text": "Chatham House analysis",
+      "url": "https://www.chathamhouse.org",
+      "type": "expert"
+    },
+    {
+      "text": "Sen. Mark Warner statement",
+      "url": "https://www.warner.senate.gov",
+      "type": "government"
+    },
+    {
+      "text": "CNN, Al Jazeera analysis",
+      "url": "https://www.cnn.com",
+      "type": "analysis"
+    }
+  ],
+  "specialTags": ["foreign-policy", "war-powers", "regime-change", "venezuela"]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "world-liberty-financial-crypto",
+  "title": "World Liberty Financial - Trump Family Crypto Empire",
+  "primaryCategory": "corruption",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "Trump family crypto holdings estimated at $11.6 billion (73% of net worth). Investments from Abu Dhabi state fund and others with foreign ties. Senators Warren and Reed called for investigation into links to North Korea and Russia. Administration terminated investigations into crypto firms that donated to Trump. DOJ's National Cryptocurrency Enforcement Team disbanded.",
+  "keyFacts": [
+    "Trump family crypto holdings estimated at $11.6 billion (73% of net worth)",
+    "Investments from Abu Dhabi state fund and others with foreign ties",
+    "Senators Warren and Reed called for investigation into links to North Korea and Russia",
+    "Administration terminated investigations into crypto firms that donated to Trump",
+    "DOJ's National Cryptocurrency Enforcement Team disbanded"
+  ],
+  "sources": [
+    {
+      "text": "Sen. Warren and Reed investigation request",
+      "url": "https://www.warren.senate.gov",
+      "type": "government"
+    },
+    {
+      "text": "Financial disclosure analysis",
+      "url": "https://www.citizensforethics.org",
+      "type": "analysis"
+    }
+  ],
+  "specialTags": ["cryptocurrency", "conflicts-of-interest", "foreign-money"]
+}

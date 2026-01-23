@@ -1,0 +1,29 @@
+{
+  "id": "qatar-plane-bribe",
+  "title": "Qatar $400M Plane Gift - 'Largest Foreign Bribe'",
+  "primaryCategory": "corruption",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "Qatar offered Trump customized Boeing 747 worth $400 million. Ethics expert Norm Eisen: 'Largest foreign bribe to a president in American history.' Qatar controls significant energy resources and hosts major US military base.",
+  "keyFacts": [
+    "Qatar offered Trump customized Boeing 747 worth $400 million",
+    "Ethics expert Norm Eisen: 'Largest foreign bribe to a president in American history'",
+    "Qatar controls significant energy resources",
+    "Qatar hosts major US military base (Al Udeid Air Base)",
+    "Gift creates massive conflict of interest in US foreign policy toward Qatar"
+  ],
+  "sources": [
+    {
+      "text": "Ethics expert Norm Eisen statement",
+      "url": "https://www.citizensforethics.org",
+      "type": "expert"
+    },
+    {
+      "text": "News reporting on Qatar gift",
+      "url": "https://www.nytimes.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["foreign-bribery", "conflicts-of-interest", "emoluments"]
+}

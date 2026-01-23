@@ -1,0 +1,42 @@
+{
+  "id": "elon-musk-doge-conflicts",
+  "title": "Elon Musk / DOGE - $300 Billion in Conflicts of Interest",
+  "primaryCategory": "corruption",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "Trump gave world's richest man with $300+ billion in federal contracts unprecedented government access and power to slash spending. Ethics expert: 'If he participates... he commits a crime.' Musk later admitted DOGE was only 'somewhat successful' and regretted doing it.",
+  "keyFacts": [
+    "Six companies with $300B+ in federal contracts (SpaceX, Tesla, Starlink, Neuralink, xAI, Boring Company)",
+    "Given 'full and prompt access to all unclassified agency records, software systems, and IT systems'",
+    "White House exempted Musk from filing public financial disclosure",
+    "Trump said Musk would 'identify his own conflicts' - itself a conflict of interest",
+    "Accessed Treasury payment systems (processes trillions of dollars)",
+    "Accessed classified information at USAID",
+    "NLRB investigating SpaceX and Tesla - while DOGE tried to cancel NLRB Buffalo office lease",
+    "SEC suing Musk for securities violations - while DOGE reviewed SEC",
+    "Democrats documented '100 conflicts of interest' in first 100 days",
+    "317,000 federal employees departed in 2025",
+    "Promised trillions in savings; delivered only ~$200 billion",
+    "DOGE officially shuttered by late 2025",
+    "Musk later admitted: 'We were somewhat successful... I don't think so' when asked if he'd do it again"
+  ],
+  "sources": [
+    {
+      "text": "Ethics expert Richard Painter statement",
+      "url": "https://www.citizensforethics.org",
+      "type": "expert"
+    },
+    {
+      "text": "Democrats conflicts report",
+      "url": "https://democrats.house.gov",
+      "type": "government"
+    },
+    {
+      "text": "Musk interviews, 2025",
+      "url": "https://www.axios.com",
+      "type": "interview"
+    }
+  ],
+  "specialTags": ["conflicts-of-interest", "doge", "musk"]
+}

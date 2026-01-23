@@ -1,0 +1,29 @@
+{
+  "id": "nuking-hurricanes",
+  "title": "Nuking Hurricanes",
+  "primaryCategory": "absurd",
+  "severity": "absurd",
+  "timeline": "first-term",
+  "date": "2017-01-20",
+  "summary": "Trump repeatedly suggested dropping nuclear bombs into hurricanes to disrupt them before landfall. NOAA had to publish explainer on why this would be catastrophic (radioactive fallout, wouldn't stop hurricane).",
+  "keyFacts": [
+    "Multiple occasions (2017-2019): Trump repeatedly suggested dropping nuclear bombs into hurricanes",
+    "Reportedly asked senior officials: 'Why don't we nuke them?'",
+    "NOAA had to publish explainer on why this would be catastrophic",
+    "Would spread radioactive fallout, not actually stop the hurricane",
+    "Officials said briefing was interrupted by Trump asking about nukes so often they had to address it"
+  ],
+  "sources": [
+    {
+      "text": "Axios, August 2019; confirmed by multiple officials",
+      "url": "https://www.axios.com",
+      "type": "news"
+    },
+    {
+      "text": "NOAA.gov explainer",
+      "url": "https://www.noaa.gov",
+      "type": "government"
+    }
+  ],
+  "specialTags": ["bizarre"]
+}

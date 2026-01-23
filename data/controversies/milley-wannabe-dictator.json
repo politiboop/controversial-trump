@@ -1,0 +1,36 @@
+{
+  "id": "milley-wannabe-dictator",
+  "title": "Gen. Milley: Trump is 'Fascist to the Core,' 'Wannabe Dictator'",
+  "primaryCategory": "character",
+  "severity": "serious",
+  "timeline": "between-terms",
+  "date": "2023-09-29",
+  "summary": "Highest-ranking military officer Gen. Mark Milley called Trump 'fascist to the core,' 'the most dangerous person to this country,' and a 'wannabe dictator' in retirement speech. Feared being court-martialed if Trump won in 2024.",
+  "keyFacts": [
+    "Called Trump 'fascist to the core'",
+    "Called Trump 'the most dangerous person to this country'",
+    "Retirement speech: Trump was a 'wannabe dictator'",
+    "'We don't take an oath to an individual. We take an oath to the Constitution'",
+    "Told Bob Woodward he feared being court-martialed if Trump won in 2024",
+    "Said he had 'suspicions' about Trump's mental decline",
+    "'Deeply convinced' Trump remained a danger after losing 2020"
+  ],
+  "sources": [
+    {
+      "text": "Bob Woodward's 'War,' 2024",
+      "url": "https://www.simonandschuster.com",
+      "type": "book"
+    },
+    {
+      "text": "Retirement ceremony, September 29, 2023",
+      "url": "https://www.defense.gov",
+      "type": "speech"
+    },
+    {
+      "text": "Bob Woodward's 'Peril,' 2021",
+      "url": "https://www.simonandschuster.com",
+      "type": "book"
+    }
+  ],
+  "specialTags": ["cabinet-warnings", "military", "fascism"]
+}

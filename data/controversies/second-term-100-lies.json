@@ -1,0 +1,37 @@
+{
+  "id": "second-term-100-lies",
+  "title": "100 False Claims in First 100 Days of Second Term",
+  "primaryCategory": "character",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "CNN fact-checked 100 false claims in Trump's first 100 days of second term alone. Includes lies about bacon prices 'quadrupling' (19-21%), grocery prices being 'down' (actually up 2.7%), and mathematically impossible drug price cuts of '900%.'",
+  "keyFacts": [
+    "CNN fact-checked 100 false claims in first 100 days - and that was not comprehensive",
+    "Falsely claimed bacon prices 'quadrupled' under Biden (actual increase: ~19-21%)",
+    "Falsely claimed apple prices 'doubled' under Biden (actual increase: ~7-8%)",
+    "Falsely claimed 'grocery prices are down' (up 2.7% year-over-year)",
+    "Claimed he 'won youth by 36 points' - Harris actually won voters ages 18-24, 25-29, and 30-39",
+    "Claimed drug prices would be cut '200%, 300%, 400%... 900%' - mathematically impossible",
+    "Joint address to Congress (March 2025): Fact-checkers identified 12+ separate lies",
+    "December 2025: 150+ Truth Social posts between 9pm-midnight including conspiracy theories"
+  ],
+  "sources": [
+    {
+      "text": "CNN fact-check database, 2025",
+      "url": "https://www.cnn.com",
+      "type": "fact-check"
+    },
+    {
+      "text": "Consumer Price Index data",
+      "url": "https://www.bls.gov",
+      "type": "data"
+    },
+    {
+      "text": "Election exit polls",
+      "url": "https://www.nbcnews.com",
+      "type": "data"
+    }
+  ],
+  "specialTags": ["dishonesty", "inflation", "economy"]
+}

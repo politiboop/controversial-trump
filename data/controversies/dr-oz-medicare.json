@@ -1,0 +1,39 @@
+{
+  "id": "dr-oz-medicare",
+  "title": "Dr. Oz - TV Personality Running Medicare/Medicaid",
+  "primaryCategory": "corruption",
+  "severity": "serious",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "Trump appointed TV personality Dr. Oz with no government experience to oversee Medicare/Medicaid for 160+ million Americans. British Medical Journal study found 50% of his TV health advice was not supported or refuted by science. Up to $56 million in conflicts of interest.",
+  "keyFacts": [
+    "TV personality with no experience running government agencies or healthcare programs",
+    "Oversees Medicare, Medicaid, CHIP, ACA marketplace for 160+ million Americans",
+    "2014 British Medical Journal study: 50% of his TV health advice was not supported or refuted by scientific evidence",
+    "AMA Journal of Ethics: 'A dangerous rogue unfit for the office of America's doctor'",
+    "150 Pennsylvania physicians called him a 'major threat to public health'",
+    "Up to $56 million invested in companies with direct CMS interests - massive conflict",
+    "Co-founded health benefits company ZorroRX that could profit from CMS decisions",
+    "Class action lawsuit settlement for false advertising of weight-loss products",
+    "Promoted hydroxychloroquine for COVID-19 (debunked)",
+    "Refused to commit to opposing Medicaid cuts under oath"
+  ],
+  "sources": [
+    {
+      "text": "British Medical Journal study, 2014",
+      "url": "https://www.bmj.com",
+      "type": "study"
+    },
+    {
+      "text": "AMA Journal of Ethics",
+      "url": "https://journalofethics.ama-assn.org",
+      "type": "journal"
+    },
+    {
+      "text": "Financial disclosures",
+      "url": "https://www.opensecrets.org",
+      "type": "watchdog"
+    }
+  ],
+  "specialTags": ["conflicts-of-interest", "healthcare", "tv-personality"]
+}

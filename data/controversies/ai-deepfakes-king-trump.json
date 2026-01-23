@@ -1,0 +1,33 @@
+{
+  "id": "ai-deepfakes-king-trump",
+  "title": "AI-Generated Deepfakes & 'King Trump' Video",
+  "primaryCategory": "absurd",
+  "severity": "concerning",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "TIME Magazine: Trump is 'the first world leader to fully deploy AI deepfakes as a core communications strategy.' Shared AI video of 'King Trump' wearing crown, piloting fighter jet, dumping excrement on protesters. Also shared deepfakes of Obama arrested, racist images of Hakeem Jeffries.",
+  "keyFacts": [
+    "TIME Magazine: 'the first world leader to fully deploy AI deepfakes as a core communications strategy'",
+    "AI video showing Trump wearing crown, piloting fighter jet, dumping excrement on protesters",
+    "Deepfake showing Barack Obama being arrested in orange jumpsuit",
+    "Racist AI image depicting Hakeem Jeffries in fake mustache and sombrero",
+    "AI video with falsified Nancy Pelosi voice",
+    "Depicted Adam Schiff and Gavin Newsom in handcuffs being arrested",
+    "Fake Fox News clip promoting imaginary 'MedBeds' that cure all diseases",
+    "All shared on official Truth Social account",
+    "Blurs line between satire and reality"
+  ],
+  "sources": [
+    {
+      "text": "TIME Magazine analysis, 2025",
+      "url": "https://time.com",
+      "type": "analysis"
+    },
+    {
+      "text": "Truth Social posts",
+      "url": "https://truthsocial.com",
+      "type": "primary"
+    }
+  ],
+  "specialTags": ["disinformation", "ai", "deepfakes"]
+}

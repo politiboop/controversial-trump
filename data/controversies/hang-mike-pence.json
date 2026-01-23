@@ -1,0 +1,36 @@
+{
+  "id": "hang-mike-pence",
+  "title": "'Hang Mike Pence' - January 6 Death Threats",
+  "primaryCategory": "democracy",
+  "severity": "catastrophic",
+  "timeline": "first-term",
+  "date": "2021-01-06",
+  "summary": "During Capitol attack, mob erected gallows and chanted 'Hang Mike Pence!' Trump tweeted attack on Pence while mob was hunting him. Cassidy Hutchinson testified Trump said Pence 'deserves it.' Trump never condemned the death threats.",
+  "keyFacts": [
+    "Mob erected gallows outside Capitol and chanted 'Hang Mike Pence!'",
+    "Trump tweeted attack on Pence while mob was hunting him: 'Mike Pence didn't have the courage'",
+    "Secret Service rushed Pence to secure location; came within 40 feet of mob",
+    "Cassidy Hutchinson testified Trump said 'Mike Pence deserves it' or words to that effect",
+    "Trump denied this account on Truth Social",
+    "Never condemned the death threats during the riot",
+    "Later said Pence was 'mortally wounded' politically for not overturning election"
+  ],
+  "sources": [
+    {
+      "text": "Reuters, PBS, video evidence",
+      "url": "https://www.reuters.com",
+      "type": "video"
+    },
+    {
+      "text": "Twitter archive, 2:24 PM EST, Jan 6, 2021",
+      "url": "https://twitter.com",
+      "type": "primary"
+    },
+    {
+      "text": "House Jan 6 Committee hearing testimony, June 28, 2022",
+      "url": "https://january6th.house.gov",
+      "type": "testimony"
+    }
+  ],
+  "specialTags": ["jan6-related", "violent-rhetoric", "pence"]
+}

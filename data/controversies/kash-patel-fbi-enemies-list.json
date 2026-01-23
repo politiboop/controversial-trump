@@ -1,0 +1,39 @@
+{
+  "id": "kash-patel-fbi-enemies-list",
+  "title": "Kash Patel - FBI Director with '60 Enemies' List",
+  "primaryCategory": "abuse-of-power",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "Trump appointed Kash Patel as FBI Director despite Bill Barr saying 'Over my dead body.' Published book with appendix listing 60 'enemies' to target. Promoted QAnon, helped J6 defendants, vowed to 'shut down FBI headquarters' and reopen as 'museum of the deep state.'",
+  "keyFacts": [
+    "Attorney General Bill Barr blocked him from FBI in first term: 'Over my dead body' - said Patel 'had virtually no experience'",
+    "Published book 'Government Gangsters' with appendix listing 60 'enemies' - public servants to target",
+    "Enemies list includes: Bill Barr, Merrick Garland, Bob Mueller, Chris Wray, Lloyd Austin, Joe Biden",
+    "Vowed to 'shut down FBI headquarters on Day 1' and reopen as 'museum of the deep state'",
+    "Founded charity to help January 6 defendants pay legal costs",
+    "Helped produce 'J6 Prison Choir' recording played at Trump rallies",
+    "Promoted QAnon conspiracy theories; signed books with '#WWG1WGA' (QAnon slogan)",
+    "Falsely claimed 'FBI was planning January 6 for a year beforehand'",
+    "People on his 'enemies list' reported relocating families, taking security precautions",
+    "Intensified use of polygraph tests asking FBI employees if they had criticized him"
+  ],
+  "sources": [
+    {
+      "text": "Bill Barr statements",
+      "url": "https://www.cnn.com",
+      "type": "statement"
+    },
+    {
+      "text": "'Government Gangsters' book",
+      "url": "https://www.amazon.com",
+      "type": "book"
+    },
+    {
+      "text": "Sen. Durbin statement",
+      "url": "https://www.durbin.senate.gov",
+      "type": "government"
+    }
+  ],
+  "specialTags": ["fbi", "enemies-list", "qanon", "jan6-related"]
+}

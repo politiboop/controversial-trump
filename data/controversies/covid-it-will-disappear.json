@@ -1,0 +1,31 @@
+{
+  "id": "covid-it-will-disappear",
+  "title": "COVID 'It's Going to Disappear' Disinformation",
+  "primaryCategory": "covid",
+  "severity": "catastrophic",
+  "timeline": "first-term",
+  "date": "2020-02-27",
+  "summary": "Trump repeatedly downplayed COVID-19, claiming 'It's going to disappear. One day—it's like a miracle—it will disappear' and promoted unproven hydroxychloroquine, contributing to public health crisis.",
+  "keyFacts": [
+    "February 2020: 'It's going to disappear. One day—it's like a miracle—it will disappear'",
+    "Repeatedly promoted unproven hydroxychloroquine despite lack of evidence",
+    "Downplayed severity of pandemic even as cases surged",
+    "Contradicted his own health officials and scientists",
+    "Over 1 million Americans died from COVID-19",
+    "Experts say earlier action and consistent messaging could have saved lives",
+    "Pattern of prioritizing political optics over public health"
+  ],
+  "sources": [
+    {
+      "text": "Trump statements, February 2020",
+      "url": "https://www.washingtonpost.com",
+      "type": "news"
+    },
+    {
+      "text": "CDC data on COVID deaths",
+      "url": "https://www.cdc.gov",
+      "type": "data"
+    }
+  ],
+  "specialTags": ["public-health", "disinformation"]
+}

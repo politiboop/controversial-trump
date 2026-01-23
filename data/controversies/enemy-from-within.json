@@ -1,0 +1,35 @@
+{
+  "id": "enemy-from-within",
+  "title": "'Enemy from Within' - Military Against Democrats",
+  "primaryCategory": "democracy",
+  "severity": "catastrophic",
+  "timeline": "campaign-2024",
+  "date": "2024-10-01",
+  "summary": "Trump called Democrats 'enemy from within' and bigger threat than Russia/China. Said military should be used against 'radical left lunatics' on Election Day. Repeatedly suggested Democrats committed treason punishable by death.",
+  "keyFacts": [
+    "'Enemy from within' rhetoric - called Democrats bigger threat than Russia/China",
+    "Said military should be used against 'radical left lunatics' on Election Day",
+    "Repeatedly suggested Democrats committed 'treason' - a capital offense",
+    "Shared posts calling for 'military tribunals' for Democrats",
+    "Retweeted accounts calling for Obama, Clinton, Biden to face 'justice' for 'treason'",
+    "Pattern of dehumanizing political opponents"
+  ],
+  "sources": [
+    {
+      "text": "Fox News interview, October 2024",
+      "url": "https://www.foxnews.com",
+      "type": "interview"
+    },
+    {
+      "text": "ABC News coverage",
+      "url": "https://abcnews.go.com",
+      "type": "news"
+    },
+    {
+      "text": "Truth Social archives, Media Matters documentation",
+      "url": "https://www.mediamatters.org",
+      "type": "watchdog"
+    }
+  ],
+  "specialTags": ["violent-rhetoric", "authoritarianism", "military"]
+}

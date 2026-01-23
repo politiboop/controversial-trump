@@ -1,0 +1,38 @@
+{
+  "id": "musk-nazi-salute",
+  "title": "Musk Nazi Salute at Trump Inauguration",
+  "primaryCategory": "racism",
+  "severity": "serious",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "At Trump inauguration rally, Elon Musk placed hand on heart then extended arm outward with palm down - twice. Widely condemned in Germany where such gestures are illegal. Neo-Nazi groups celebrated it. Rep. Nadler: 'I never imagined we would see... what appears to be a Heil Hitler salute... behind the Presidential seal.'",
+  "keyFacts": [
+    "Placed hand on heart then extended arm outward with palm down - twice",
+    "Said: 'My heart goes out to you. It is thanks to you that the future of civilization is assured'",
+    "Widely condemned in Germany where such gestures are illegal",
+    "Neo-Nazi and white supremacist groups celebrated it as Nazi salute",
+    "Rep. Jerry Nadler: 'I never imagined we would see... what appears to be a Heil Hitler salute... behind the Presidential seal'",
+    "Musk dismissed as 'dirty tricks,' then posted Nazi-themed puns and jokes on X",
+    "Steve Bannon replicated salute at CPAC to applause",
+    "Multiple European political parties demanded Musk be banned from their countries",
+    "Holocaust memorial Yad Vashem chair condemned Musk's comments that there is 'too much focus on past guilt'"
+  ],
+  "sources": [
+    {
+      "text": "Video footage, January 20, 2025",
+      "url": "https://www.youtube.com",
+      "type": "video"
+    },
+    {
+      "text": "Rep. Jerry Nadler statement",
+      "url": "https://nadler.house.gov",
+      "type": "government"
+    },
+    {
+      "text": "International condemnation",
+      "url": "https://www.dw.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["nazi", "white-supremacy", "musk"]
+}

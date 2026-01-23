@@ -1,0 +1,32 @@
+{
+  "id": "caribbean-drug-boat-war-crimes",
+  "title": "Caribbean Drug Boat Strikes - Potential War Crimes",
+  "primaryCategory": "abuse-of-power",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-09-01",
+  "summary": "22+ strikes on boats have killed at least 87 people. September 2 strike: After initial strike left two survivors clinging to wreckage, follow-up strike ordered to kill them. Washington Post: Hegseth gave verbal order to 'kill everybody.' Military manual says firing on shipwrecks is illegal; experts say may constitute war crime. UK stopped sharing intelligence over concerns strikes are illegal. No evidence boats were carrying drugs or posed threat. Bipartisan congressional investigations launched.",
+  "keyFacts": [
+    "22+ strikes on boats have killed at least 87 people",
+    "September 2 strike: After initial strike left two survivors clinging to wreckage, follow-up strike ordered to kill them",
+    "Washington Post: Hegseth gave verbal order to 'kill everybody'",
+    "Military manual says firing on shipwrecks is illegal",
+    "Experts say may constitute war crime",
+    "UK stopped sharing intelligence over concerns strikes are illegal",
+    "No evidence boats were carrying drugs or posed threat",
+    "Bipartisan congressional investigations launched"
+  ],
+  "sources": [
+    {
+      "text": "Washington Post investigation",
+      "url": "https://www.washingtonpost.com",
+      "type": "investigation"
+    },
+    {
+      "text": "Congressional investigation reports",
+      "url": "https://www.congress.gov",
+      "type": "government"
+    }
+  ],
+  "specialTags": ["war-crimes", "military", "extrajudicial-killing"]
+}

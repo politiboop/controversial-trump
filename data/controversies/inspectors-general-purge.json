@@ -1,0 +1,27 @@
+{
+  "id": "inspectors-general-purge",
+  "title": "Fired 17+ Inspectors General on First Day",
+  "primaryCategory": "abuse-of-power",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "Fired 17+ inspectors general on first day of second term. Removed independent watchdogs across federal government.",
+  "keyFacts": [
+    "Fired 17+ inspectors general on first day of second term (January 20, 2025)",
+    "Removed independent watchdogs across federal government",
+    "Eliminated oversight mechanisms designed to prevent corruption and abuse"
+  ],
+  "sources": [
+    {
+      "text": "Government accountability organizations",
+      "url": "https://www.citizensforethics.org",
+      "type": "analysis"
+    },
+    {
+      "text": "Congressional oversight reports",
+      "url": "https://www.congress.gov",
+      "type": "government"
+    }
+  ],
+  "specialTags": ["inspectors-general", "oversight", "accountability"]
+}

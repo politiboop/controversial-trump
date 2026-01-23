@@ -1,0 +1,30 @@
+{
+  "id": "confused-biden-with-obama",
+  "title": "Confused Biden with Obama (Multiple Times)",
+  "primaryCategory": "absurd",
+  "severity": "absurd",
+  "timeline": "campaign-2024",
+  "date": "2023-01-01",
+  "summary": "Trump repeatedly mixed up Barack Obama and Joe Biden during 2023-2024 campaign. Said 'We're beating Obama' in the polls and claimed he was running against Obama in 2024. Also confused Nikki Haley with Nancy Pelosi.",
+  "keyFacts": [
+    "Repeatedly mixed up Barack Obama and Joe Biden during 2023-2024 campaign",
+    "'We're beating Obama' in the polls",
+    "Claimed he was running against Obama in 2024",
+    "Also confused Nikki Haley with Nancy Pelosi when discussing January 6",
+    "Multiple instances across different rallies and interviews",
+    "Raised concerns about cognitive decline"
+  ],
+  "sources": [
+    {
+      "text": "Rally speeches, 2023",
+      "url": "https://www.cnn.com",
+      "type": "rally"
+    },
+    {
+      "text": "The Mirror, CNN coverage",
+      "url": "https://www.mirror.co.uk",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["bizarre", "confusion"]
+}

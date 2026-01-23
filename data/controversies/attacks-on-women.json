@@ -1,0 +1,36 @@
+{
+  "id": "attacks-on-women",
+  "title": "Attacks on Female Journalists & Public Figures",
+  "primaryCategory": "women",
+  "severity": "concerning",
+  "timeline": "first-term",
+  "date": "2015-08-07",
+  "summary": "Trump has a pattern of misogynistic attacks on female journalists and public figures, often using degrading and appearance-based insults.",
+  "keyFacts": [
+    "Megyn Kelly: 'You could see there was blood coming out of her eyes. Blood coming out of her wherever.'",
+    "Mika Brzezinski: 'Low IQ Crazy Mika,' 'bleeding badly from a face-lift'",
+    "Carly Fiorina: 'Look at that face! Would anyone vote for that?'",
+    "Stormy Daniels: 'Horseface'",
+    "Rosie O'Donnell: 'Fat pig,' 'dog,' 'slob,' 'disgusting animal'",
+    "Katy Tur: 'Little Katy,' called her out from rally stage",
+    "Heidi Cruz: Retweeted unflattering photo comparing her to Melania"
+  ],
+  "sources": [
+    {
+      "text": "CNN interview, August 7, 2015",
+      "url": "https://www.cnn.com",
+      "type": "interview"
+    },
+    {
+      "text": "Trump Twitter archive",
+      "url": "https://www.thetrumparchive.com",
+      "type": "primary"
+    },
+    {
+      "text": "Rolling Stone interview, September 2015",
+      "url": "https://www.rollingstone.com",
+      "type": "interview"
+    }
+  ],
+  "specialTags": ["misogyny"]
+}

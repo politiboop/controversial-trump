@@ -1,0 +1,28 @@
+{
+  "id": "boy-scouts-lie",
+  "title": "Boy Scouts Phone Call That Never Happened",
+  "primaryCategory": "character",
+  "severity": "concerning",
+  "timeline": "first-term",
+  "date": "2017-07-24",
+  "summary": "Trump claimed 'head of the Boy Scouts' called to say Trump's speech was 'the greatest speech that was ever made to them.' Boy Scouts confirmed no such call was made. Pattern of fabricating praise and validation.",
+  "keyFacts": [
+    "Claimed 'head of the Boy Scouts' called to say Trump's speech was 'the greatest speech that was ever made to them'",
+    "Boy Scouts confirmed no such call was made",
+    "Part of pattern of fabricating praise and validation",
+    "Speech itself was controversial for being politically inappropriate for Boy Scouts event"
+  ],
+  "sources": [
+    {
+      "text": "Trump statements, July 2017",
+      "url": "https://www.washingtonpost.com",
+      "type": "news"
+    },
+    {
+      "text": "Boy Scouts of America statement",
+      "url": "https://www.scouting.org",
+      "type": "organization"
+    }
+  ],
+  "specialTags": ["dishonesty"]
+}

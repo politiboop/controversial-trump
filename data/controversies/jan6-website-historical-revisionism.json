@@ -1,0 +1,41 @@
+{
+  "id": "jan6-website-historical-revisionism",
+  "title": "White House Website Rewrites January 6 History",
+  "primaryCategory": "rewriting-history",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "White House created official page at whitehouse.gov/j6 reframing the Capitol attack. Page title: 'January 6: A Date Which Will Live in Infamy' (echoing Pearl Harbor). Describes event as 'peaceful protest turned tragedy.' Claims 'Deep State entrapment, media deception' were responsible. Calls attendees 'patriotic Americans' and 'peaceful protesters.' Characterizes prosecutions as 'political targeting.' Alleges Democrats orchestrated 'the real insurrection.' This represents official government historical revisionism - contradicts documented evidence: 5 people died, 140+ police officers injured, over 1,500 charged, Proud Boys/Oath Keepers convicted of seditious conspiracy.",
+  "keyFacts": [
+    "White House created official page at whitehouse.gov/j6 reframing the Capitol attack",
+    "Page title: 'January 6: A Date Which Will Live in Infamy' (echoing Pearl Harbor language)",
+    "Describes event as 'peaceful protest turned tragedy'",
+    "Claims 'Deep State entrapment, media deception' were responsible",
+    "Calls attendees 'patriotic Americans' and 'peaceful protesters'",
+    "Characterizes prosecutions as 'political targeting' by 'weaponized Biden DOJ'",
+    "Claims participants were merely 'trespassers' exercising 'First Amendment rights'",
+    "Alleges Democrats orchestrated 'the real insurrection'",
+    "Blames Nancy Pelosi for 'catastrophic security failures'",
+    "States pardons 'corrected a historic wrong' and restored 'fairness under the law'",
+    "Contradicts documented evidence: 5 people died, 140+ police officers injured with traumatic brain injuries, over 1,500 charged with federal crimes, Proud Boys and Oath Keepers convicted of seditious conspiracy",
+    "This represents official government historical revisionism - not just Trump statements, but formal White House position"
+  ],
+  "sources": [
+    {
+      "text": "White House official page (whitehouse.gov/j6)",
+      "url": "https://www.whitehouse.gov/j6",
+      "type": "government"
+    },
+    {
+      "text": "DOJ Jan 6 prosecution records",
+      "url": "https://www.justice.gov",
+      "type": "government"
+    },
+    {
+      "text": "Capitol Police reports",
+      "url": "https://www.uscp.gov",
+      "type": "government"
+    }
+  ],
+  "specialTags": ["jan6-related", "historical-revisionism", "propaganda"]
+}

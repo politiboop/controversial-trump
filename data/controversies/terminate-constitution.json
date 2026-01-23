@@ -1,0 +1,35 @@
+{
+  "id": "terminate-constitution",
+  "title": "Called for 'Termination' of the Constitution",
+  "primaryCategory": "democracy",
+  "severity": "catastrophic",
+  "timeline": "between-terms",
+  "date": "2022-12-03",
+  "summary": "Trump explicitly called for suspending the Constitution, suggesting he should be immediately reinstated as president or a new election held over his false election fraud claims.",
+  "keyFacts": [
+    "Truth Social post: 'A Massive Fraud of this type and magnitude allows for the termination of all rules, regulations, and articles, even those found in the Constitution'",
+    "Suggested he should be immediately reinstated as president or hold a new election",
+    "Even many Republicans condemned - Mike Pence: 'Anyone who puts himself over the Constitution should never be President'",
+    "White House: 'Attacking [the Constitution] is anathema to the soul of our nation'",
+    "Never retracted or apologized; claimed media 'misrepresented' his words",
+    "Constitutional scholars called it 'the most anti-American statement ever made by a former president'"
+  ],
+  "sources": [
+    {
+      "text": "Trump Truth Social post, December 3, 2022",
+      "url": "https://truthsocial.com",
+      "type": "primary"
+    },
+    {
+      "text": "White House statement",
+      "url": "https://www.whitehouse.gov",
+      "type": "government"
+    },
+    {
+      "text": "CNN coverage",
+      "url": "https://www.cnn.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["constitution", "election"]
+}

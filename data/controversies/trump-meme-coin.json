@@ -1,0 +1,37 @@
+{
+  "id": "trump-meme-coin",
+  "title": "$TRUMP Meme Coin - Cryptocurrency Corruption",
+  "primaryCategory": "corruption",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-01-17",
+  "summary": "Launched cryptocurrency 3 days before inauguration. Trump and affiliates control 80% of coin supply. Soared to $15 billion valuation before crashing 90%. ~764,000 wallets have lost money. Trump family made $320+ million in trading fees. Sen. Chris Murphy: 'Single most corrupt act ever committed by a president.' Allows anonymous foreign money to flow directly to president.",
+  "keyFacts": [
+    "Launched cryptocurrency 3 days before inauguration (January 17, 2025)",
+    "Trump and affiliates control 80% of coin supply",
+    "Soared to $15 billion valuation before crashing 90%",
+    "~764,000 wallets have lost money",
+    "Trump family made $320+ million in trading fees",
+    "Sen. Chris Murphy: 'Single most corrupt act ever committed by a president'",
+    "Allows anonymous foreign money to flow directly to president",
+    "No disclosure of who is buying or where money comes from"
+  ],
+  "sources": [
+    {
+      "text": "Sen. Chris Murphy statement",
+      "url": "https://www.murphy.senate.gov",
+      "type": "government"
+    },
+    {
+      "text": "Cryptocurrency tracking data",
+      "url": "https://www.coindesk.com",
+      "type": "analysis"
+    },
+    {
+      "text": "Financial reporting, January 2025",
+      "url": "https://www.bloomberg.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["cryptocurrency", "conflicts-of-interest", "foreign-money"]
+}

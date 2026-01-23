@@ -1,0 +1,36 @@
+{
+  "id": "praise-for-dictators",
+  "title": "Praise for Dictators and Authoritarians",
+  "primaryCategory": "democracy",
+  "severity": "serious",
+  "timeline": "first-term",
+  "date": "2017-01-20",
+  "summary": "Trump repeatedly praised, defended, and expressed admiration for the world's most brutal dictators including Putin, Kim Jong Un, Xi Jinping, and others.",
+  "keyFacts": [
+    "Putin: Called him 'genius' and 'savvy' for invading Ukraine; sided with Putin over US intelligence at Helsinki",
+    "Kim Jong Un: 'We fell in love' after exchanging letters; called them 'beautiful letters'",
+    "Xi Jinping: 'He's now president for life... I think it's great. Maybe we'll have to give that a shot someday'",
+    "Erdogan (Turkey): 'He does things the right way' after crackdown on dissent",
+    "Duterte (Philippines): Praised his drug war that killed thousands extrajudicially",
+    "el-Sisi (Egypt): 'He's a fantastic guy' despite torture and mass detention",
+    "Orban (Hungary): 'He's a strong man... a smart man' - EU's most autocratic leader"
+  ],
+  "sources": [
+    {
+      "text": "Clay Travis and Buck Sexton Show, February 22, 2022",
+      "url": "https://clayandbuck.com",
+      "type": "interview"
+    },
+    {
+      "text": "West Virginia rally, September 29, 2018",
+      "url": "https://www.washingtonpost.com",
+      "type": "rally"
+    },
+    {
+      "text": "CNN reporting, March 2018",
+      "url": "https://www.cnn.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["foreign-policy", "authoritarianism"]
+}

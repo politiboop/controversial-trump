@@ -1,0 +1,50 @@
+{
+  "id": "economic-record-revisionism",
+  "title": "Rewrites Economic Record - Takes Credit for Obama Gains",
+  "primaryCategory": "rewriting-history",
+  "severity": "concerning",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "Trump claims he 'built the greatest economy in history' and 'rescued' America from economic disaster. In reality, he inherited a strong economy from Obama (75 consecutive months of job growth) and presided over growing inequality. Claims record-low Black unemployment was his achievement when the trend started under Obama. Takes credit for stock market gains that continued Obama-era trajectory. Denies his trade war hurt farmers (required $28B bailout). Rewrites his economic record to exclude COVID crash.",
+  "keyFacts": [
+    "Obama handed Trump an economy with 75 consecutive months of job growth (June 2010-Jan 2017)",
+    "Unemployment fell from 10% (Oct 2009) to 4.7% (Jan 2017) under Obama before Trump took office",
+    "Black unemployment reached record lows under Trump, but followed Obama-era downward trend line",
+    "Stock market gains under Trump averaged 11.8% annually - nearly identical to Obama's second term (11.8%)",
+    "Trump claims he 'saved' the economy; economic data shows continued Obama trends, not a rescue",
+    "GDP growth under Trump (pre-COVID): 2.5% average, lower than several Obama years",
+    "Trump's trade war cost farmers billions; required $28B government bailout - largest in US history",
+    "2020: Economy crashed under Trump (-3.4% GDP), worst since Great Depression",
+    "Trump excludes 2020 from his 'record,' claiming it 'doesn't count' due to COVID",
+    "Wage growth and job creation were actually slower under Trump than Obama's second term",
+    "Manufacturing jobs: Trump promised 'millions'; gained only 414k (pre-COVID), less than Obama's last 3 years"
+  ],
+  "sources": [
+    {
+      "text": "Bureau of Labor Statistics - Employment data",
+      "url": "https://www.bls.gov/",
+      "type": "government"
+    },
+    {
+      "text": "Federal Reserve Economic Data (FRED) - GDP, unemployment trends",
+      "url": "https://fred.stlouisfed.org/",
+      "type": "government"
+    },
+    {
+      "text": "Forbes: Comparing Trump and Obama economic records",
+      "url": "https://www.forbes.com/sites/chuckjones/2020/02/17/obamas-last-three-years-of-job-growth-all-beat-trumps-best-year/",
+      "type": "news"
+    },
+    {
+      "text": "USDA: Farm bailout data from trade war",
+      "url": "https://www.usda.gov/",
+      "type": "government"
+    },
+    {
+      "text": "Washington Post fact-check: Trump's economy vs. Obama's",
+      "url": "https://www.washingtonpost.com/business/2020/09/05/trump-obama-economy/",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["economy", "false-achievements", "obama-comparison"]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "venezuela-oil-offshore-accounts",
+  "title": "Venezuelan Oil Sales in Qatar Offshore Account",
+  "primaryCategory": "corruption",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2026-01-14",
+  "summary": "Trump administration's first sale of Venezuelan oil valued at $500 million, with proceeds held in offshore account in Qatar. Sen. Elizabeth Warren: 'There is no basis in law for a president to set up an offshore account that he controls so that he can sell assets seized by the American military' - calling it 'precisely a move that a corrupt politician would be attracted to.' Trump indicated US would effectively run Venezuela for indeterminate time and take control of up to 50 million barrels of oil. Venezuela owes international creditors as much as $170 billion.",
+  "keyFacts": [
+    "Trump administration's first Venezuelan oil sale valued at $500 million",
+    "Proceeds held in offshore account located in Qatar",
+    "Sen. Elizabeth Warren: 'There is no basis in law for a president to set up an offshore account that he controls'",
+    "Warren called it 'precisely a move that a corrupt politician would be attracted to'",
+    "Trump indicated US would effectively run Venezuela for indeterminate amount of time",
+    "US plans to take control of up to 50 million barrels of Venezuelan oil",
+    "Venezuela owes international bondholders, oil companies and others as much as $170 billion",
+    "Trump signed executive order to block courts or creditors from tapping revenue from oil sales",
+    "Qatar described as 'neutral location' where money can flow freely with US approval",
+    "Trump said US would market and sell Venezuelan oil while distributing proceeds back to Venezuela"
+  ],
+  "sources": [
+    {
+      "text": "CNN Business - Qatar Venezuela oil account",
+      "url": "https://www.cnn.com/2026/01/15/business/qatar-venezuela-oil-sale-account",
+      "type": "news"
+    },
+    {
+      "text": "The New Republic - Offshore account",
+      "url": "https://newrepublic.com/post/205327/trump-money-venezuelan-oil-sale-account",
+      "type": "news"
+    },
+    {
+      "text": "Semafor - $500 million oil deal",
+      "url": "https://www.semafor.com/article/01/14/2026/us-gets-first-500-million-venezuelan-oil-deal-holding-some-proceeds-in-qatar",
+      "type": "news"
+    },
+    {
+      "text": "Sen. Elizabeth Warren statement",
+      "url": "https://www.warren.senate.gov",
+      "type": "government"
+    }
+  ],
+  "specialTags": ["venezuela", "offshore-accounts", "oil", "corruption", "conflicts-of-interest"]
+}

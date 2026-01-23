@@ -1,0 +1,30 @@
+{
+  "id": "charlottesville-very-fine-people",
+  "title": "Charlottesville 'Very Fine People' Statement",
+  "primaryCategory": "racism",
+  "severity": "serious",
+  "timeline": "first-term",
+  "date": "2017-08-15",
+  "summary": "After neo-Nazi 'Unite the Right' rally where Heather Heyer was killed, Trump said there were 'very fine people on both sides,' widely condemned for creating moral equivalence between white supremacists and counter-protesters.",
+  "keyFacts": [
+    "Neo-Nazi 'Unite the Right' rally in Charlottesville where Heather Heyer was killed",
+    "Trump said 'very fine people on both sides'",
+    "Also stated 'I'm not talking about the neo-Nazis and the white nationalists; they should be condemned totally'",
+    "Widely condemned for creating moral equivalence between white supremacists and counter-protesters",
+    "Initial response took two days and was seen as inadequate",
+    "Backlash led to resignation of several business leaders from White House advisory councils"
+  ],
+  "sources": [
+    {
+      "text": "Trump press conference transcript, August 15, 2017",
+      "url": "https://www.politifact.com/article/2019/apr/26/context-trumps-very-fine-people-both-sides-remarks/",
+      "type": "transcript"
+    },
+    {
+      "text": "Washington Post coverage",
+      "url": "https://www.washingtonpost.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["racism", "white-supremacy"]
+}

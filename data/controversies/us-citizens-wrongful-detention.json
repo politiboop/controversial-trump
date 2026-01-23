@@ -1,0 +1,44 @@
+{
+  "id": "us-citizens-wrongful-detention",
+  "title": "Wrongful Detentions & Deportations of U.S. Citizens",
+  "primaryCategory": "abuse-of-power",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "ICE detained and deported U.S. citizens. Two U.S. citizen siblings (ages 4 and 7) deported to Honduras within 24 hours - 4-year-old had late-stage cancer and no medication. At least seven U.S. citizen children deported with parents. Tom Homan confirmed ICE made 'collateral arrests' of 'many' American citizens. Northwestern researcher estimated 1% of all ICE detainees are U.S. citizens. ICE has deported dozens of U.S. citizens.",
+  "keyFacts": [
+    "Debbie Brockman - U.S. citizen and WGN-TV employee detained for seven hours in Chicago on October 10, 2025",
+    "Javier Ramirez - U.S. citizen born in San Bernardino detained by ICE on June 13, 2025",
+    "Jose Roberto Ramirez - Minneapolis-born U.S. citizen taken into custody by ICE in Minnesota on January 8, 2026",
+    "Two U.S. citizen siblings (ages 4 and 7) deported with undocumented mother to Honduras within 24 hours",
+    "4-year-old deportee had late-stage cancer and no medication",
+    "At least seven U.S. citizen children have been deported with their parents",
+    "Tom Homan (Border Czar) confirmed ICE made 'collateral arrests' of 'many' American citizens",
+    "Northwestern University researcher estimated 1% of all ICE detainees are U.S. citizens",
+    "ICE has deported dozens of U.S. citizens, according to reports",
+    "First-year budget allocated more than $170 billion over four years for border enforcement, $75 billion to ICE"
+  ],
+  "sources": [
+    {
+      "text": "PBS NewsHour reporting on deported children",
+      "url": "https://www.pbs.org",
+      "type": "news"
+    },
+    {
+      "text": "Wikipedia - Deaths, detentions and deportations of American citizens",
+      "url": "https://en.wikipedia.org",
+      "type": "reference"
+    },
+    {
+      "text": "KTLA investigation",
+      "url": "https://ktla.com",
+      "type": "investigation"
+    },
+    {
+      "text": "CBC News budget analysis",
+      "url": "https://www.cbc.ca",
+      "type": "analysis"
+    }
+  ],
+  "specialTags": ["ice", "deportation", "children", "immigration"]
+}

@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Build output
+website/build/
+website/.docusaurus/
+
+# Generated data (copied from /data during build)
+website/src/data/
+website/src/categories.json
+website/src/controversyIndex.js
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+nul

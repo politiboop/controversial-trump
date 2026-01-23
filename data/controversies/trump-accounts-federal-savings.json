@@ -1,0 +1,50 @@
+{
+  "id": "trump-accounts-federal-savings",
+  "title": "Trump Accounts - Federal Savings Program Named After President",
+  "primaryCategory": "narcissism",
+  "severity": "serious",
+  "timeline": "second-term",
+  "date": "2025-12-15",
+  "summary": "Trump administration created 'Trump Accounts' - tax-advantaged savings accounts for children with federal government seeding $1,000 for babies born 2025-2028. IRS created official website TrumpAccounts.gov. Program embedded Trump's personal branding into federal tax system and retirement savings infrastructure. Michael Dell donated $1 million in 'landmark' promotion. Available through major brokerages like Vanguard, Schwab, Fidelity. Critics noted unprecedented naming of federal program after sitting president.",
+  "keyFacts": [
+    "Trump administration created 'Trump Accounts' through One Big Beautiful Bill Act",
+    "Federal government seeds $1,000 for every child born 2025-2028 who are U.S. citizens",
+    "Official federal website: TrumpAccounts.gov",
+    "IRS Form 4547 created specifically for Trump Accounts",
+    "Money grows tax-deferred in U.S. stock index funds until child turns 18",
+    "Annual contribution limit of $5,000 until beneficiary reaches 18",
+    "Accounts go live July 4, 2026",
+    "White House press release: 'Landmark Dell Gift Supercharges Trump Accounts'",
+    "Available through Vanguard, Charles Schwab, Fidelity",
+    "Trump's name embedded in federal tax code and retirement savings system",
+    "Unprecedented naming of major federal program after sitting president"
+  ],
+  "sources": [
+    {
+      "text": "IRS - Trump Accounts official page",
+      "url": "https://www.irs.gov/trumpaccounts",
+      "type": "government"
+    },
+    {
+      "text": "IRS - Treasury guidance on Trump Accounts",
+      "url": "https://www.irs.gov/newsroom/treasury-irs-issue-guidance-on-trump-accounts-established-under-the-working-families-tax-cuts-notice-announces-upcoming-regulations",
+      "type": "government"
+    },
+    {
+      "text": "White House - Dell gift supercharges Trump Accounts",
+      "url": "https://www.whitehouse.gov/articles/2025/12/landmark-dell-gift-supercharges-trump-accounts-for-americas-kids/",
+      "type": "government"
+    },
+    {
+      "text": "Saving for College - Trump Accounts explained",
+      "url": "https://www.savingforcollege.com/article/trump-account-tax-deferred-savings-children",
+      "type": "analysis"
+    },
+    {
+      "text": "Charles Schwab - What to Know About Trump Accounts",
+      "url": "https://www.schwab.com/learn/story/trump-accounts",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["federal-programs", "self-branding", "tax-code", "irs"]
+}

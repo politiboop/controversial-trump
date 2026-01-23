@@ -1,0 +1,36 @@
+{
+  "id": "john-kelly-warnings",
+  "title": "John Kelly: Trump 'Has No Idea What America Stands For'",
+  "primaryCategory": "character",
+  "severity": "serious",
+  "timeline": "between-terms",
+  "date": "2023-10-01",
+  "summary": "Trump's longest-serving Chief of Staff, four-star Marine general John Kelly, said Trump 'has no idea what America stands for,' 'admires autocrats and murderous dictators,' and 'has nothing but contempt for our democratic institutions.' Asked about second Trump term: 'God help us.'",
+  "keyFacts": [
+    "'A person that has no idea what America stands for and has no idea what America is all about'",
+    "'A person who admires autocrats and murderous dictators'",
+    "'A person that has nothing but contempt for our democratic institutions, our Constitution, and the rule of law'",
+    "Asked about prospect of second Trump term: 'God help us'",
+    "Confirmed Trump called fallen soldiers 'suckers' and 'losers' (Trump denies)",
+    "Confirmed Trump said Hitler 'did some good things, too' (Trump denies)",
+    "Said Trump falls into 'general definition of fascist'"
+  ],
+  "sources": [
+    {
+      "text": "CNN interview with Jake Tapper, October 2023",
+      "url": "https://www.cnn.com",
+      "type": "interview"
+    },
+    {
+      "text": "New York Times interview, 2023",
+      "url": "https://www.nytimes.com",
+      "type": "interview"
+    },
+    {
+      "text": "The Atlantic reporting, 2020",
+      "url": "https://www.theatlantic.com",
+      "type": "investigation"
+    }
+  ],
+  "specialTags": ["cabinet-warnings", "military", "fascism"]
+}

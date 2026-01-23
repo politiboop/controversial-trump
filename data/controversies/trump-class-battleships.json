@@ -1,0 +1,53 @@
+{
+  "id": "trump-class-battleships",
+  "title": "Trump-Class Navy Battleships Named After President",
+  "primaryCategory": "narcissism",
+  "severity": "serious",
+  "timeline": "second-term",
+  "date": "2025-12-22",
+  "summary": "December 22, 2025: Trump announced at Mar-a-Lago new 'Trump-class battleship' with Navy Secretary and Defense Secretary. Plans for 2 ships initially, total of 10, eventual goal of 20-25 as part of 'Golden Fleet.' Lead ship USS Defiant (BBG-1) would be largest U.S. surface combatant since WWII (880 feet, 30,000-40,000 tons). Navy fact sheet: 'most lethal warship to ever be built.' Cost estimate: $10-15 billion per ship. Analysts expressed doubts ships would enter service - not funded, unprecedented design. Military experts noted battleships obsolete for century. Critics noted naming entire class of warships after sitting president unprecedented.",
+  "keyFacts": [
+    "December 22, 2025: Trump announced 'Trump-class battleship' at Mar-a-Lago",
+    "Entire class of warships named after sitting president",
+    "Lead ship: USS Defiant (BBG-1), not USS Trump",
+    "Plans: 2 ships initially, then 10, eventual goal of 20-25",
+    "Part of 'Golden Fleet' effort",
+    "Would be largest U.S. surface combatant since WWII",
+    "880 feet length, 30,000-40,000 ton displacement",
+    "Navy fact sheet: 'most lethal warship to ever be built'",
+    "Planned capabilities: nuclear cruise missiles, hypersonics, railguns, directed energy weapons",
+    "Cost estimate: $10-15 billion per ship",
+    "Not funded, no budget allocation",
+    "Analysts expressed doubts ships would enter service",
+    "Military experts noted battleships obsolete for century",
+    "Critics noted unprecedented naming of warship class after sitting president"
+  ],
+  "sources": [
+    {
+      "text": "Navy.mil - President Trump Announces New Battleship",
+      "url": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4366856/president-trump-announces-new-battleship/",
+      "type": "government"
+    },
+    {
+      "text": "USNI News - Trump Unveils New Battleship Class",
+      "url": "https://news.usni.org/2025/12/22/trump-unveils-new-battleship-class-proposed-uss-defiant-will-be-largest-u-s-surface-combatant-since-wwii",
+      "type": "news"
+    },
+    {
+      "text": "CNN - Trump's battleship plan could transform Navy or sink it",
+      "url": "https://www.cnn.com/2025/12/23/us/trump-new-battleships-analysis-intl-hnk-ml",
+      "type": "analysis"
+    },
+    {
+      "text": "Military.com - Century of evidence proving battleships obsolete",
+      "url": "https://www.military.com/daily-news/investigations-and-features/2025/12/24/trump-announces-new-class-of-battleships-despite-century-of-evidence-proving-large-warships-are.html",
+      "type": "news"
+    },
+    {
+      "text": "CNBC - Trump-class faces large obstacle: Reality",
+      "url": "https://www.cnbc.com/2025/12/26/trump-class-battleship-uss-defiant-golden-fleet-rail-gun-laser-reality-defense-war-experts-skeptical.html",
+      "type": "analysis"
+    }
+  ],
+  "specialTags": ["military", "navy", "golden-fleet", "mar-a-lago"]
+}

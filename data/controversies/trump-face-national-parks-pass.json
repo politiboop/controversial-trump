@@ -1,0 +1,44 @@
+{
+  "id": "trump-face-national-parks-pass",
+  "title": "Trump's Face Replaces Nature Photos on National Parks Pass",
+  "primaryCategory": "narcissism",
+  "severity": "concerning",
+  "timeline": "second-term",
+  "date": "2025-12-11",
+  "summary": "Interior Department unveiled 2026 America the Beautiful pass featuring Trump's face alongside George Washington instead of usual nature photo. Federal law requires main pass to feature winning photo from National Park Foundation annual photo contest (Glacier National Park for 2026). Center for Biological Diversity filed lawsuit to prevent Trump from 'replacing a beautiful picture of Glacier National Park with a closeup of his own face.' Sparked sticker protests - visitors covered Trump's face with stickers. NPS updated policy: passes 'may no longer be valid' if 'defaced or altered.' Visitors found workaround using card sleeves.",
+  "keyFacts": [
+    "2026 America the Beautiful pass features Trump's face alongside George Washington",
+    "Replaces usual nature photo with Trump closeup",
+    "Federal law requires pass to feature winning photo from National Park Foundation photo contest",
+    "Winning photo for 2026: Glacier National Park in Montana",
+    "Center for Biological Diversity filed lawsuit to stop the change",
+    "Many visitors covered Trump's face with stickers in protest",
+    "NPS updated policy: passes 'may no longer be valid' if 'defaced or altered'",
+    "Visitors found workaround using card sleeves that can be removed when showing pass",
+    "Change sparked backlash from conservationists and park visitors",
+    "Part of broader effort to put Trump's image on federal programs"
+  ],
+  "sources": [
+    {
+      "text": "CNN - Trump face replaces national parks images",
+      "url": "https://www.cnn.com/2025/12/11/politics/trump-face-replace-images-national-parks-passes-lawsuit",
+      "type": "news"
+    },
+    {
+      "text": "Center for Biological Diversity lawsuit",
+      "url": "https://biologicaldiversity.org/w/news/press-releases/lawsuit-challenges-trump-use-of-headshot-on-national-parks-pass-2025-12-10/",
+      "type": "legal"
+    },
+    {
+      "text": "NPR - NPS will void defaced passes",
+      "url": "https://www.npr.org/2026/01/09/nx-s1-5672341/national-park-updates-guidelines-stop-visitors-defacing-trump-picture-pass",
+      "type": "news"
+    },
+    {
+      "text": "Washington Post - Wildlife group sues",
+      "url": "https://www.washingtonpost.com/nation/2025/12/11/national-parks-pass-trump-photo/",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["national-parks", "vanity", "lawsuit"]
+}

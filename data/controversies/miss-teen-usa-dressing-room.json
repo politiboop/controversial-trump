@@ -1,0 +1,38 @@
+{
+  "id": "miss-teen-usa-dressing-room",
+  "title": "Miss Teen USA Dressing Room - Minors Changing",
+  "primaryCategory": "women",
+  "severity": "serious",
+  "timeline": "pre-2016",
+  "date": "1997-01-01",
+  "summary": "Four women who competed in 1997 Miss Teen USA pageant said Trump walked into dressing room while contestants - some as young as 15 - were changing. Mariah Billado (former Miss Vermont Teen USA) recalled Trump saying 'Don't worry, ladies, I've seen it all before.' Fifth contestant later came forward with similar account. Three other women also remembered Trump entering while girls were changing. Trump owned the pageant and said in 2005 Howard Stern interview he would go backstage 'because I'm the owner of the pageant.' Trump campaign denied allegations.",
+  "keyFacts": [
+    "Four women from 1997 Miss Teen USA pageant said Trump walked into dressing room while contestants were changing",
+    "Contestants were as young as 15 years old",
+    "Mariah Billado (former Miss Vermont Teen USA) recalled Trump saying 'Don't worry, ladies, I've seen it all before'",
+    "Fifth contestant later came forward who remembered Trump visiting the dressing room",
+    "Three other women (who asked to remain anonymous) also remembered Trump entering while girls were changing",
+    "2005 Howard Stern interview: Trump said he would go backstage at beauty pageants because 'I'm the owner of the pageant'",
+    "Trump said in interview he would see women with no clothes on backstage",
+    "11 other contestants from 1997 pageant said they 'did not recall' Trump entering dressing room",
+    "Trump campaign denied allegations: 'These accusations have no merit and have already been disproven'"
+  ],
+  "sources": [
+    {
+      "text": "BuzzFeed News investigation - Teen Beauty Queens",
+      "url": "https://www.buzzfeednews.com/article/kendalltaggart/teen-beauty-queens-say-trump-walked-in-on-them-changing",
+      "type": "investigation"
+    },
+    {
+      "text": "Rolling Stone - Timeline of Trump's Creepiness While He Owned Miss Universe",
+      "url": "https://www.rollingstone.com/politics/politics-features/a-timeline-of-donald-trumps-creepiness-while-he-owned-miss-universe-191860/",
+      "type": "analysis"
+    },
+    {
+      "text": "PolitiFact - Allegations about Trump and Miss Teen USA",
+      "url": "https://www.politifact.com/article/2016/oct/18/allegations-about-donald-trump-and-miss-teen-usa-c/",
+      "type": "fact-check"
+    }
+  ],
+  "specialTags": ["sexual-misconduct", "minors", "pageants", "disputed"]
+}

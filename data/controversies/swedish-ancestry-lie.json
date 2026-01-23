@@ -1,0 +1,29 @@
+{
+  "id": "swedish-ancestry-lie",
+  "title": "Decades of Lying About Swedish Ancestry",
+  "primaryCategory": "character",
+  "severity": "disputed",
+  "timeline": "pre-2016",
+  "date": "1980-01-01",
+  "summary": "For decades, Trump claimed his grandfather came from Sweden. Both of Fred Trump's parents were actually German. Fred Trump lied about his ancestry due to anti-German sentiment. Trump perpetuated the family lie for years.",
+  "keyFacts": [
+    "For decades claimed grandfather came from Sweden",
+    "Both of Fred Trump's parents were actually German",
+    "Fred Trump originally lied due to anti-German sentiment in early 20th century",
+    "Trump perpetuated the family lie throughout his business career",
+    "Eventually confirmed German ancestry was true"
+  ],
+  "sources": [
+    {
+      "text": "Family records and genealogy",
+      "url": "https://www.nytimes.com",
+      "type": "investigation"
+    },
+    {
+      "text": "Trump biographies",
+      "url": "https://www.washingtonpost.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["dishonesty", "family"]
+}

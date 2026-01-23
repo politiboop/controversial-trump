@@ -1,0 +1,44 @@
+{
+  "id": "trump-rx-branding",
+  "title": "TrumpRx - Government Prescription Drug Program Named After President",
+  "primaryCategory": "narcissism",
+  "severity": "concerning",
+  "timeline": "second-term",
+  "date": "2025-10-01",
+  "summary": "Trump launched TrumpRx.gov in October 2025 - a government prescription drug program with prominent Trump personal branding. Critics compared it to previous Trump-branded ventures like Trump Steaks, Trump Vodka, Trump Airlines, and Trump Watches. Website allows consumers to purchase drugs at discounted 'most favored nation' prices from participating manufacturers. Nine manufacturers participate including Pfizer, Amgen, Bristol Myers Squibb. Analysts warned consumers with insurance may pay less at pharmacy counter than through TrumpRx, raising questions about usefulness.",
+  "keyFacts": [
+    "TrumpRx.gov launched October 2025 - government prescription drug program with Trump personal branding",
+    "Critics compared to Trump Steaks, Trump Vodka, Trump Airlines, Trump Watches - previous Trump-branded ventures",
+    "Consumers can purchase drugs at 'most favored nation' prices directly from manufacturers",
+    "Nine manufacturers participate: Amgen, Bristol Myers Squibb, Boehringer Ingelheim, Genentech, Gilead Sciences, GSK, Merck, Novartis, Sanofi",
+    "Pfizer was 'first victory scored by administration'",
+    "Example: Amgen's Repatha reduced from $573 to $239",
+    "Example: Bristol Myers Squibb's HIV medication Reyataz reduced from $1,449 to $217",
+    "Example: Boehringer Ingelheim's diabetes medication Jentadeuto reduced from $525 to $55",
+    "Analysts warned consumers with insurance may pay less at pharmacy counter",
+    "Many remain skeptical about true price reductions and affordability"
+  ],
+  "sources": [
+    {
+      "text": "TrumpRx.gov - Official website",
+      "url": "https://trumprx.gov/",
+      "type": "government"
+    },
+    {
+      "text": "ABC News - Trump announces TrumpRx",
+      "url": "https://abcnews.go.com/US/trump-announces-trumprx-website-pharmaceutical-drugs-after-pfizer/story?id=126094779",
+      "type": "news"
+    },
+    {
+      "text": "The American Prospect - Pretend solution",
+      "url": "https://prospect.org/health/2025-10-02-trumprx-pretend-solution-high-drug-prices/",
+      "type": "analysis"
+    },
+    {
+      "text": "Al Jazeera - What is TrumpRx",
+      "url": "https://www.aljazeera.com/news/2025/10/3/what-is-trumps-new-trumprx-website-and-will-it-bring-medicine-prices-down",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["self-branding", "government-programs", "healthcare"]
+}

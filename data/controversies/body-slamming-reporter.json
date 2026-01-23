@@ -1,0 +1,34 @@
+{
+  "id": "body-slamming-reporter",
+  "title": "Promoting Violence Against Media",
+  "primaryCategory": "democracy",
+  "severity": "serious",
+  "timeline": "first-term",
+  "date": "2017-07-02",
+  "summary": "Trump shared video of him body-slamming CNN logo. Praised congressman who body-slammed Guardian reporter. Called press 'enemy of the people' - phrase used by Stalin, Hitler, Mao. Never condemned bomb threats against news organizations after his attacks.",
+  "keyFacts": [
+    "Shared video of him body-slamming CNN logo",
+    "Praised Rep. Greg Gianforte who body-slammed Guardian reporter: 'Any guy that can do a body slam... he's my kind of guy'",
+    "Called press 'enemy of the people' - phrase used by Stalin, Hitler, Mao",
+    "Laughed when supporter suggested 'shooting' migrants at rally",
+    "Never condemned bomb threats against news organizations after his attacks"
+  ],
+  "sources": [
+    {
+      "text": "Twitter post, July 2017",
+      "url": "https://twitter.com",
+      "type": "primary"
+    },
+    {
+      "text": "Montana rally, October 2018",
+      "url": "https://www.cnn.com",
+      "type": "rally"
+    },
+    {
+      "text": "Multiple tweets and rally speeches, 2017-2021",
+      "url": "https://www.washingtonpost.com",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["violent-rhetoric", "press-freedom"]
+}

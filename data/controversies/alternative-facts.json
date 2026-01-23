@@ -1,0 +1,37 @@
+{
+  "id": "alternative-facts",
+  "title": "'Alternative Facts' - Inauguration Crowd Size",
+  "primaryCategory": "character",
+  "severity": "concerning",
+  "timeline": "first-term",
+  "date": "2017-01-21",
+  "summary": "Trump's first official lie as president - claiming 'the largest audience to ever witness an inauguration.' Kellyanne Conway defended false claims as 'alternative facts,' birthing the term.",
+  "keyFacts": [
+    "Trump claimed 'the largest audience to ever witness an inauguration, period, both in person and around the globe'",
+    "Aerial photos showed Obama's 2009 crowd was approximately 3x larger",
+    "Crowd expert estimate: Obama 2009 had 1.8 million; Trump had ~200,000",
+    "Metro ridership: 570,557 for Trump vs. 1.1 million for Obama 2009",
+    "Press Secretary Sean Spicer: 'This was the largest audience to ever witness an inauguration—period'",
+    "Kellyanne Conway defending Spicer: 'Sean Spicer gave alternative facts'",
+    "Chuck Todd: 'Alternative facts are not facts. They're falsehoods.'",
+    "Trump personally directed Spicer to make false claims"
+  ],
+  "sources": [
+    {
+      "text": "Reuters aerial photos",
+      "url": "https://www.reuters.com",
+      "type": "photo"
+    },
+    {
+      "text": "Metro ridership data",
+      "url": "https://www.wmata.com",
+      "type": "data"
+    },
+    {
+      "text": "NBC Meet the Press interview",
+      "url": "https://www.nbcnews.com",
+      "type": "interview"
+    }
+  ],
+  "specialTags": ["dishonesty", "alternative-facts"]
+}

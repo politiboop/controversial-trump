@@ -1,0 +1,38 @@
+{
+  "id": "renee-good-shooting",
+  "title": "Fatal Shooting of Renee Good - Character Assassination Without Investigation",
+  "primaryCategory": "abuse-of-power",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2026-01-07",
+  "summary": "37-year-old U.S. citizen and mother of three fatally shot by ICE. Within hours, DHS and Trump labeled her a 'domestic terrorist' before any investigation. Video evidence contradicted government claims.",
+  "keyFacts": [
+    "Renee Nicole Good, 37-year-old U.S. citizen and mother of three, fatally shot by ICE agent in Minneapolis",
+    "Within hours, DHS Secretary Kristi Noem labeled Good's actions 'an act of domestic terrorism' before any investigation",
+    "Trump falsely claimed Good 'violently, willfully, and viciously ran over the ICE Officer'",
+    "47-second video shows Good's car turning away from agent just over one second before first shot",
+    "Video shows agent able to walk away without assistance, contradicting claim she ran him over",
+    "Minneapolis Mayor Jacob Frey: 'Having seen the video myself, I want to tell everybody directly that is bullshit'",
+    "FBI revoked Minnesota Bureau of Criminal Apprehension's access to evidence",
+    "Part of pattern: At least 16 ICE shooting incidents since January 2025, 4 deaths",
+    "Good's killing was the 9th time ICE agents had opened fire since September 2025"
+  ],
+  "sources": [
+    {
+      "text": "MPR News, CNN, Washington Post",
+      "url": "https://www.mprnews.org/story/2026/01/07/shooting-south-minneapolis-ice-agents-federal-operation",
+      "type": "news"
+    },
+    {
+      "text": "Video evidence",
+      "url": "https://www.washingtonpost.com/investigations/2026/01/09/moments-before-ice-shooting-minneapolis/",
+      "type": "investigation"
+    },
+    {
+      "text": "PBS NewsHour, PolitiFact",
+      "url": "https://www.pbs.org/newshour/politics/experts-question-noem-calling-good-a-domestic-terrorist-heres-what-the-term-means",
+      "type": "fact-check"
+    }
+  ],
+  "specialTags": ["ice-violence", "cover-up", "immigration"]
+}

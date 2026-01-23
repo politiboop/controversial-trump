@@ -1,0 +1,26 @@
+/**
+ * Custom CSS for Trump Controversies Tracker
+ */
+
+:root {
+  --ifm-color-primary: #667eea;
+  --ifm-color-primary-dark: #4f5fe1;
+  --ifm-color-primary-darker: #4250dd;
+  --ifm-color-primary-darkest: #2837c7;
+  --ifm-color-primary-light: #7d9df3;
+  --ifm-color-primary-lighter: #8aacf7;
+  --ifm-color-primary-lightest: #adc9fc;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #8aa0f3;
+  --ifm-color-primary-dark: #6e88ed;
+  --ifm-color-primary-darker: #5f78eb;
+  --ifm-color-primary-darkest: #3d58e3;
+  --ifm-color-primary-light: #a6b8f9;
+  --ifm-color-primary-lighter: #b5c8fb;
+  --ifm-color-primary-lightest: #d3e8ff;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}

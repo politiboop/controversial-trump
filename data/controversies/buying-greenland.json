@@ -1,0 +1,30 @@
+{
+  "id": "buying-greenland",
+  "title": "Buying Greenland",
+  "primaryCategory": "absurd",
+  "severity": "absurd",
+  "timeline": "first-term",
+  "date": "2019-08-01",
+  "summary": "Trump seriously proposed that the United States purchase Greenland from Denmark. When Denmark said it wasn't for sale, Trump canceled state visit and called Danish PM's response 'nasty.'",
+  "keyFacts": [
+    "August 2019: Seriously proposed that United States purchase Greenland from Denmark",
+    "When Denmark said Greenland wasn't for sale, Trump canceled state visit",
+    "Called Danish PM's response 'nasty'",
+    "Greenland is an autonomous territory with its own government - not Denmark's to sell",
+    "Greenland's premier: 'We are not for sale'",
+    "Trump appeared genuinely interested in the real estate transaction"
+  ],
+  "sources": [
+    {
+      "text": "White House statements, August 2019",
+      "url": "https://www.whitehouse.gov",
+      "type": "government"
+    },
+    {
+      "text": "Greenland government official statement, August 2019",
+      "url": "https://www.bbc.com",
+      "type": "government"
+    }
+  ],
+  "specialTags": ["bizarre", "foreign-policy"]
+}

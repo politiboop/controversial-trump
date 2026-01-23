@@ -1,0 +1,43 @@
+{
+  "id": "mount-rushmore-obsession",
+  "title": "Mount Rushmore Face Carving Obsession",
+  "primaryCategory": "narcissism",
+  "severity": "absurd",
+  "timeline": "first-term",
+  "date": "2020-08-01",
+  "summary": "Trump told someone: 'Do you know it's my dream to have my face on Mount Rushmore?' - 'He wasn't laughing, so he was totally serious.' 2020: Trump denied New York Times report about speaking with South Dakota Governor Kristi Noem about adding his face to Mount Rushmore, but said it 'sounds like a good idea to me!' Noem gave Trump a bust of Mount Rushmore that included his face in 2020. 2025: Rep. Anna Paulina Luna filed legislation to carve Trump's face on Mount Rushmore (H.R.792).",
+  "keyFacts": [
+    "Trump previously said: 'Do you know it's my dream to have my face on Mount Rushmore?'",
+    "Witness said 'He wasn't laughing, so he was totally serious'",
+    "2020: Trump denied report about requesting to be added to Mount Rushmore",
+    "Trump added: 'sounds like a good idea to me!'",
+    "Governor Kristi Noem gave Trump a bust of Mount Rushmore that included his face (2020)",
+    "2025: Rep. Anna Paulina Luna filed H.R.792 to direct carving of Trump's figure on Mount Rushmore",
+    "Mount Rushmore features Washington, Jefferson, Theodore Roosevelt, and Lincoln",
+    "Experts say there's no room on the mountain for additional carving",
+    "Would require act of Congress to proceed"
+  ],
+  "sources": [
+    {
+      "text": "CNN - Trump wants face on Mount Rushmore",
+      "url": "https://www.cnn.com/2020/08/10/politics/donald-trump-mt-rushmore-kristi-noem",
+      "type": "news"
+    },
+    {
+      "text": "Congress.gov - H.R.792",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/792",
+      "type": "government"
+    },
+    {
+      "text": "Newsweek - Mount Rushmore bill",
+      "url": "https://www.newsweek.com/donald-trump-mount-rushmore-bill-anna-paulina-luna-2022609",
+      "type": "news"
+    },
+    {
+      "text": "NBC News - No room for Trump",
+      "url": "https://www.nbcnews.com/politics/politics-news/donald-trump-mount-rushmore-no-room-stone-rcna227086",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["vanity", "self-glorification", "monuments"]
+}

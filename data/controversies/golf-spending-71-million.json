@@ -1,0 +1,28 @@
+{
+  "id": "golf-spending-71-million",
+  "title": "Golf Spending - $71 Million in 2025",
+  "primaryCategory": "corruption",
+  "severity": "concerning",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "$71 million spent on golf in 2025. Average cost: $3.4 million per trip. Taxpayer money flows directly to Trump properties.",
+  "keyFacts": [
+    "$71 million spent on golf in 2025",
+    "Average cost: $3.4 million per trip",
+    "Taxpayer money flows directly to Trump properties",
+    "Creates direct financial benefit to Trump from taxpayer funds"
+  ],
+  "sources": [
+    {
+      "text": "Government accountability tracking",
+      "url": "https://www.citizensforethics.org",
+      "type": "analysis"
+    },
+    {
+      "text": "Secret Service budget disclosures",
+      "url": "https://www.dhs.gov",
+      "type": "government"
+    }
+  ],
+  "specialTags": ["emoluments", "golf", "self-dealing"]
+}

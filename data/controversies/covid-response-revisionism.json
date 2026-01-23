@@ -1,0 +1,49 @@
+{
+  "id": "covid-response-revisionism",
+  "title": "Rewriting COVID Response History - Claims 'Nobody Died'",
+  "primaryCategory": "rewriting-history",
+  "severity": "catastrophic",
+  "timeline": "campaign-2024",
+  "date": "2024-09-13",
+  "summary": "Despite over 1 million Americans dying from COVID-19 during and after his presidency, Trump has repeatedly rewritten his pandemic response. Claimed 'we did an amazing job' and suggested 'nobody died.' Denies downplaying the virus despite documented Bob Woodward recordings where he admitted 'I wanted to always play it down.' Falsely claims he never suggested injecting disinfectant despite video evidence. Takes credit for vaccine development while telling supporters not to get vaccinated.",
+  "keyFacts": [
+    "Over 1.1 million Americans died from COVID-19, with approximately 400,000 deaths occurring during Trump's presidency",
+    "Trump repeatedly claimed 'we did an incredible job' and 'saved millions of lives'",
+    "2024 campaign: Suggested at rallies that 'basically nobody died' under his watch",
+    "Denies downplaying virus despite February 2020 Woodward tape: 'I wanted to always play it down. I still like playing it down'",
+    "Claims he never said COVID would 'disappear' - documented saying it 38+ times",
+    "Denies disinfectant injection comment despite April 23, 2020 video evidence at White House briefing",
+    "Takes credit for Operation Warp Speed vaccine while simultaneously casting doubt on vaccines to supporters",
+    "Rewrites timeline: claims he closed borders 'immediately' when China travel restrictions came weeks late and had massive exemptions",
+    "Johns Hopkins data shows US had among worst per-capita death rates in developed world",
+    "Trump disbanded pandemic response team in 2018, denied doing so in 2020"
+  ],
+  "sources": [
+    {
+      "text": "CDC COVID Data Tracker - US Death Toll",
+      "url": "https://covid.cdc.gov/covid-data-tracker/",
+      "type": "government"
+    },
+    {
+      "text": "Bob Woodward Recordings - Trump admits downplaying virus",
+      "url": "https://www.washingtonpost.com/politics/bob-woodward-rage-book-trump/2020/09/09/0368fe3c-efd2-11ea-b4bc-3a2098fc73d4_story.html",
+      "type": "news"
+    },
+    {
+      "text": "Video: Trump disinfectant comments at April 23, 2020 briefing",
+      "url": "https://www.youtube.com/watch?v=33QdTOyXz3w",
+      "type": "video"
+    },
+    {
+      "text": "Trump's pandemic timeline and false claims (Washington Post fact-check)",
+      "url": "https://www.washingtonpost.com/politics/2020/05/01/trumps-false-misleading-claims-about-coronavirus/",
+      "type": "news"
+    },
+    {
+      "text": "Johns Hopkins COVID-19 Dashboard",
+      "url": "https://coronavirus.jhu.edu/map.html",
+      "type": "academic"
+    }
+  ],
+  "specialTags": ["covid", "public-health", "gaslighting", "documented-denial"]
+}
