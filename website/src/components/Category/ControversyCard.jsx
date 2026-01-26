@@ -1,14 +1,23 @@
 import React from 'react';
+import { useHistory } from '@docusaurus/router';
 import styles from './ControversyCard.module.css';
 
 const ControversyCard = ({ controversy, severityLevel, onClick }) => {
+  const history = useHistory();
   const formatDate = (dateStr) => {
     const date = new Date(dateStr);
     return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
   };
 
+  const handleClick = () => {
+    // Navigate to controversy page
+    history.push(`/controversy?id=${controversy.id}`);
+    // Also call onClick if provided (for backwards compatibility)
+    if (onClick) onClick();
+  };
+
   return (
-    <div className={styles.card} onClick={onClick}>
+    <div className={styles.card} onClick={handleClick}>
       {/* Severity Badge */}
       <div className={styles.severityBadge} style={{ backgroundColor: severityLevel.color }}>
         <span className={styles.severityIcon}>{severityLevel.icon}</span>

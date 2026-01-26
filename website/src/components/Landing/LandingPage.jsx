@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import CategoryTile from './CategoryTile';
 import TimelineBar from './TimelineBar';
+import SearchBar from '../Search/SearchBar';
 import styles from './LandingPage.module.css';
 
 // Import data
@@ -55,6 +56,9 @@ const LandingPage = ({ onCategoryClick, onTimelineClick }) => {
           A comprehensive, sourced database of controversies, criticisms, and concerns about
           Donald Trump from his presidency and beyond.
         </p>
+        <div className={styles.searchWrapper}>
+          <SearchBar placeholder="Search controversies..." />
+        </div>
         <div className={styles.heroStats}>
           <div className={styles.stat}>
             <span className={styles.statNumber}>{controversyCount}</span>

@@ -63,10 +63,12 @@ function generateControversyIndex() {
       filename: file.replace('.json', ''),
       id: data.id,
       title: data.title,
+      summary: data.summary,
       primaryCategory: data.primaryCategory,
       severity: data.severity,
       timeline: data.timeline,
-      date: data.date
+      date: data.date,
+      specialTags: data.specialTags || []
     });
   }
 

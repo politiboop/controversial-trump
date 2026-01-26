@@ -84,7 +84,6 @@ const CategoryPage = ({ categoryId, onControversyClick, onBack }) => {
               key={controversy.id}
               controversy={controversy}
               severityLevel={severityLevels[controversy.severity]}
-              onClick={() => onControversyClick(controversy)}
             />
           ))}
         </div>
