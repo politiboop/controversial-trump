@@ -58,6 +58,16 @@ const config = {
             position: 'left',
           },
           {
+            to: '/timeline',
+            label: 'Timeline',
+            position: 'left',
+          },
+          {
+            to: '/search',
+            label: 'Search',
+            position: 'left',
+          },
+          {
             href: 'https://github.com/politiboop/controversial-trump',
             label: 'GitHub',
             position: 'right',

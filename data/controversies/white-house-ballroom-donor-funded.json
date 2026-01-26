@@ -1,0 +1,70 @@
+{
+  "id": "white-house-ballroom-donor-funded",
+  "title": "White House Ballroom Funded by Corporate Donors - $300-400 Million Project",
+  "primaryCategory": "corruption",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-07-01",
+  "summary": "Trump announced $200-400 million White House ballroom expansion, demolishing historic East Wing and replacing it with 89,000 sq ft facility funded entirely by private corporate donors. Construction continued during October 2025 federal government shutdown while federal workers went unpaid. Major donors include tech giants (Apple, Amazon, Google, Microsoft, Meta), defense contractors (Lockheed Martin: $10M+), and companies with massive government contracts. White House released donor list in October 2025 but refused to disclose individual donation amounts. Alphabet pledged $22 million of a settlement. Ethics watchdogs warned privately funding the project gives wealthy donors unfair access to the president. Cost ballooned from $200M to $300M to $400M.",
+  "keyFacts": [
+    "July 2025: White House announced ballroom construction to begin",
+    "89,000-square-foot expansion to replace demolished East Wing",
+    "East Wing demolished in October 2025 - historic building destroyed",
+    "Cost estimate increased from $200 million to $300 million to $400 million",
+    "Construction continued during October 2025 federal government shutdown",
+    "Entirely funded by private corporate donors, not taxpayer money",
+    "October 22, 2025: White House released donor list without individual amounts",
+    "By end of October, $350 million had been raised from private donors",
+    "37 total donors including tech giants and defense contractors",
+    "Major tech donors: Apple, Amazon, Google, Microsoft, Meta, Coinbase, Comcast",
+    "Defense contractor Lockheed Martin contributed more than $10 million",
+    "Alphabet pledged $22 million of a settlement toward construction",
+    "Donations are tax-deductible through nonprofit Trust for the National Mall",
+    "Many donor companies have billions in government contracts",
+    "Ethics watchdogs: privately funding gives wealthy donors unfair presidential access",
+    "Construction proceeded while 800,000 federal workers went unpaid during shutdown"
+  ],
+  "sources": [
+    {
+      "text": "White House: White House Ballroom Construction to Begin",
+      "url": "https://www.whitehouse.gov/briefings-statements/2025/07/the-white-house-announces-white-house-ballroom-construction-to-begin/",
+      "type": "government"
+    },
+    {
+      "text": "ABC News: What we know about the donors funding the White House ballroom",
+      "url": "https://abcnews.go.com/Politics/donors-funding-white-house-ballroom/story?id=126778550",
+      "type": "news"
+    },
+    {
+      "text": "Fortune: Meet all 37 White House ballroom donors funding the $300 million build",
+      "url": "https://fortune.com/2025/10/26/37-white-house-ballroom-donors-funding-300-million-build-tech-ceos-trump/",
+      "type": "news"
+    },
+    {
+      "text": "TIME: Who Is Paying for Trump's $250 Million Ballroom—and What They Might Get in Return",
+      "url": "https://time.com/7327752/trump-white-house-ballroom-funding-donors/",
+      "type": "news"
+    },
+    {
+      "text": "Al Jazeera: Who are the private donors funding Trump's White House ballroom?",
+      "url": "https://www.aljazeera.com/news/2025/10/24/who-are-the-private-donors-funding-trumps-white-house-ballroom",
+      "type": "news"
+    },
+    {
+      "text": "NBC News: See the donor list for Trump ballroom as White House's East Wing is destroyed",
+      "url": "https://www.nbcnews.com/politics/white-house/list-donors-trump-new-white-house-ballroom-east-wing-rcna239481",
+      "type": "news"
+    },
+    {
+      "text": "PBS News: Who's paying for Trump's $300 million ballroom?",
+      "url": "https://www.pbs.org/newshour/politics/whos-paying-for-trumps-300-million-ballroom",
+      "type": "news"
+    },
+    {
+      "text": "CNN: White House releases list of donors for Trump's multi-million-dollar ballroom",
+      "url": "https://www.cnn.com/2025/10/23/politics/ballroom-donors-white-house-trump",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["corruption", "conflicts-of-interest", "donors", "white-house", "government-shutdown"]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "doge-tariff-checks-broken-promises",
+  "title": "Broken Promises: $5,000 DOGE Checks and $2,000 Tariff Rebates Never Sent",
+  "primaryCategory": "character",
+  "severity": "serious",
+  "timeline": "second-term",
+  "date": "2025-02-01",
+  "summary": "Trump administration promoted two separate plans to send checks to American citizens that never materialized. In February 2025, investor James Fishback proposed $5,000 'DOGE Dividend' checks to 80 million taxpaying households, with Trump saying his administration was considering sending 20% of DOGE savings to citizens. In November 2025, Trump promised '$2,000 a person' tariff dividend checks on Truth Social, claiming tariffs were generating enough revenue. Neither plan materialized. By the time Musk left DOGE in May 2025, promised savings hadn't materialized. Republican senators shot down tariff checks as 'insane,' wanting revenue to pay down debt instead. No checks were ever approved or sent despite repeated public promises.",
+  "keyFacts": [
+    "February 2025: Investor James Fishback proposed $5,000 'DOGE Dividend' checks to 80 million households",
+    "Trump said administration was considering plan: 20% of DOGE savings to citizens, 20% to pay down debt",
+    "Musk left DOGE office in May 2025 - promised savings never materialized",
+    "Only small portion of advertised DOGE savings were realized",
+    "No 'DOGE checks' were ever approved or sent to citizens",
+    "November 2025: Trump posted on Truth Social about tariff dividends",
+    "Trump promised '$2,000 a person (not including high income people!)' from tariff revenue",
+    "Neither tariff dividend nor DOGE dividend ever materialized",
+    "President would need Congressional approval for either payment plan",
+    "Multiple Republican senators publicly shot down tariff rebate check plan",
+    "Senators called proposal 'a bad idea,' 'insane'",
+    "Most conservatives wanted tariff revenue to pay down national debt instead",
+    "Trump appeared to forget promising checks when asked about it later",
+    "No timeline or concrete plan was ever established for either payment"
+  ],
+  "sources": [
+    {
+      "text": "Yahoo Finance: Here's all the free money Trump's talked about giving Americans during his second term",
+      "url": "https://www.yahoo.com/news/articles/heres-free-money-trumps-talked-104701558.html",
+      "type": "news"
+    },
+    {
+      "text": "FOX 5 DC: Stimulus payment, tariff dividend fact check",
+      "url": "https://www.fox5dc.com/news/stimulus-payment-december-2025-irs-direct-deposit-relief-payment-tariff-dividend-fact-check",
+      "type": "fact-check"
+    },
+    {
+      "text": "Yahoo News: 'When Did I Do That?' Trump Appears to Forget Promising Americans $2K Checks",
+      "url": "https://www.yahoo.com/news/articles/did-trump-appears-forget-promising-160527560.html",
+      "type": "news"
+    },
+    {
+      "text": "Kiplinger: Are New Trump $2,000 Payments Coming in 2026? What to Know Now",
+      "url": "https://www.kiplinger.com/taxes/are-new-trump-payments-coming",
+      "type": "news"
+    },
+    {
+      "text": "WCNC: Trump sets a possible timeline for his proposed $2,000 rebate checks",
+      "url": "https://www.wcnc.com/article/news/nation-world/trump-2000-checks-tariff-dividend-update-timeline/507-68dd3585-6ae0-4c5e-8ea3-68ab2063c9e5",
+      "type": "news"
+    },
+    {
+      "text": "Money.com: Tariff Checks: Will Trump Actually Send You a $2,000 Rebate?",
+      "url": "https://money.com/tariff-checks-2000-dividend/",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["broken-promises", "doge", "tariffs", "musk", "false-claims"]
+}

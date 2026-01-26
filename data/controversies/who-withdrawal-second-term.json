@@ -1,0 +1,55 @@
+{
+  "id": "who-withdrawal-second-term",
+  "title": "Withdrew United States from World Health Organization (Again)",
+  "primaryCategory": "character",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-01-20",
+  "summary": "Trump signed Executive Order 14155 on his first day in office (January 20, 2025), withdrawing the United States from the World Health Organization for the second time. After the required one-year notice period, the U.S. formally exited WHO on January 22, 2026. All U.S. funding to WHO was terminated, and U.S. personnel were recalled from WHO headquarters and offices worldwide. This was the second withdrawal attempt - Trump began withdrawal in July 2020 during his first presidency, but Biden reversed it in January 2021. Experts warned the withdrawal would hamper global response to disease outbreaks.",
+  "keyFacts": [
+    "January 20, 2025: Trump signed Executive Order 14155 withdrawing from WHO on his first day of second term",
+    "January 22, 2026: United States formally exited WHO after one-year notice period",
+    "Second time Trump withdrew from WHO - first attempt was July 2020, reversed by Biden in January 2021",
+    "All U.S. government funding to WHO terminated",
+    "U.S. personnel and contractors recalled from WHO headquarters in Geneva and worldwide offices",
+    "Trump cited WHO's handling of COVID-19 pandemic and 'lack of accountability, transparency, and independence'",
+    "Claimed U.S. payments were 'unfairly onerous' compared to other countries",
+    "Noted China contributes nearly 90% less than U.S. despite having 300% of U.S. population",
+    "Argentina announced it would also withdraw from WHO in February 2025, following Trump's lead",
+    "Johns Hopkins experts warned withdrawal would hamper global response to outbreaks",
+    "U.S. was WHO's largest single donor before withdrawal"
+  ],
+  "sources": [
+    {
+      "text": "Executive Order 14155 - Withdrawing The United States From The World Health Organization",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/withdrawing-the-united-states-from-the-worldhealth-organization/",
+      "type": "government"
+    },
+    {
+      "text": "HHS Fact Sheet: U.S. Withdrawal from the World Health Organization",
+      "url": "https://www.hhs.gov/press-room/fact-sheet-us-withdrawal-from-the-world-health-organization.html",
+      "type": "government"
+    },
+    {
+      "text": "Al Jazeera: US officially withdraws from the World Health Organization",
+      "url": "https://www.aljazeera.com/news/2026/1/23/us-officially-withdraws-from-the-world-health-organization",
+      "type": "news"
+    },
+    {
+      "text": "The Hill: US officially leaves World Health Organization after Trump order",
+      "url": "https://thehill.com/policy/international/5702306-us-officially-withdraws-from-who/",
+      "type": "news"
+    },
+    {
+      "text": "Johns Hopkins Bloomberg School: The Consequences of the U.S.'s Withdrawal from the WHO",
+      "url": "https://publichealth.jhu.edu/2025/the-consequences-of-the-us-withdrawal-from-the-who",
+      "type": "expert"
+    },
+    {
+      "text": "CBS News: U.S. completes withdrawal from WHO, hampering global response to outbreaks",
+      "url": "https://www.cbsnews.com/news/us-withdraws-world-health-organization/",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["who", "global-health", "executive-order", "pandemic-response"]
+}
