@@ -1,0 +1,56 @@
+{
+  "id": "bondi-minnesota-ice-extortion",
+  "title": "Pam Bondi's Extortion Letter - ICE Withdrawal Conditioned on Voter Rolls, Policy Changes",
+  "primaryCategory": "ice-enforcement",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2026-01-25",
+  "summary": "After fatal shooting of Alex Pretti by Border Patrol, AG Pam Bondi sent letter to Minnesota Governor Tim Walz with three demands before considering ICE withdrawal: hand over state voter rolls for 'compliance review,' provide welfare/Medicaid records for entire state, and repeal all sanctuary policies. Critics call it illegal extortion - conditioning federal law enforcement operations on unrelated policy changes and access to sensitive voter data. Experts say DOJ has no authority to demand state voter rolls or dictate state sanctuary policies. Appears to be attempt to 'take over elections in swing states.'",
+  "keyFacts": [
+    "January 25, 2026: AG Pam Bondi sent letter to Gov. Tim Walz after fatal shooting of Alex Pretti by Border Patrol",
+    "Letter came after third shooting by federal agents in Minnesota in three weeks (two fatal)",
+    "Demand 1: DOJ Civil Rights Division access to state voter rolls to 'confirm' voter registration compliance with federal law",
+    "Demand 2: Share Minnesota's Medicaid and SNAP (food assistance) program records with federal government",
+    "Demand 3: Repeal all 'sanctuary policies,' force detention centers to cooperate with ICE, allow ICE to interview all detainees",
+    "Letter does NOT actually promise ICE withdrawal if demands are met - only vague consideration",
+    "Legal experts: DOJ has no authority to demand state voter rolls without specific evidence of violations",
+    "Senator warns Bondi 'already taking steps to take over elections in swing states'",
+    "Critics call it 'extortion' - conditioning federal operations on unrelated state policy changes",
+    "Minnesota has open carry laws; Pretti was legally armed with valid permit, never drew weapon",
+    "Bondi's letter followed third federal shooting in three weeks, including Pretti who was disarmed then shot 10 times",
+    "This is federal overreach: using ICE operations as leverage to force state policy changes and access voter data"
+  ],
+  "sources": [
+    {
+      "text": "Fox News: Bondi's letter warns Gov. Walz Minnesota must back federal immigration law",
+      "url": "https://www.foxnews.com/politics/read-it-bondi-sends-warning-letter-gov-walz-warning-minnesotas-immigration-policies-endanger-agents",
+      "type": "news"
+    },
+    {
+      "text": "Newsweek: Pam Bondi Offers To Pull ICE out of Minneapolis if Voter Files Handed Over",
+      "url": "https://www.newsweek.com/pam-bondi-ice-minnesota-shooting-tim-walz-letter-voter-files-11413859",
+      "type": "news"
+    },
+    {
+      "text": "The Hill: Pam Bondi seeks action on welfare fraud, immigration in Minnesota after shooting",
+      "url": "https://thehill.com/homenews/state-watch/5705179-bondi-walz-letter-immigration-fraud-voter-rolls/",
+      "type": "news"
+    },
+    {
+      "text": "The Daily Beast: Bondi Faces Fury Over Insane Conditions for ICE Withdrawal",
+      "url": "https://www.thedailybeast.com/bondi-faces-fury-over-insane-conditions-for-ice-withdrawal/",
+      "type": "news"
+    },
+    {
+      "text": "Raw Story: Senator warns Pam Bondi already taking steps to 'take over elections in swing states'",
+      "url": "https://www.rawstory.com/pam-bondi-2675022918/",
+      "type": "news"
+    },
+    {
+      "text": "KSTP: Bondi letter requests access to Minnesota voting and welfare records, repeal of sanctuary policies",
+      "url": "https://kstp.com/kstp-news/top-news/bondi-letter-to-walz-requests-access-to-minnesota-voting-and-welfare-records-repeal-of-santuary-policies/",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["extortion", "voter-suppression", "minnesota", "ice", "federal-overreach"]
+}
