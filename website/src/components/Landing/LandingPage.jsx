@@ -41,6 +41,7 @@ const LandingPage = ({ onCategoryClick, onTimelineClick }) => {
     'character',
     'narcissism',
     'rewriting-history',
+    'ice-enforcement',
     'covid',
     'absurd',
   ];
@@ -60,7 +61,7 @@ const LandingPage = ({ onCategoryClick, onTimelineClick }) => {
             <span className={styles.statLabel}>Controversies Documented</span>
           </div>
           <div className={styles.stat}>
-            <span className={styles.statNumber}>10</span>
+            <span className={styles.statNumber}>11</span>
             <span className={styles.statLabel}>Major Categories</span>
           </div>
           <div className={styles.stat}>

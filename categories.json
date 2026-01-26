@@ -64,6 +64,14 @@
       "color": "#0891b2",
       "examples": ["Jan 6 revisionism", "Denying documented quotes", "Rewriting policy positions"]
     },
+    "ice-enforcement": {
+      "id": "ice-enforcement",
+      "title": "ICE & Immigration Enforcement",
+      "icon": "🚨",
+      "description": "Fatal shootings, wrongful detentions, family separations, and federal immigration enforcement abuses",
+      "color": "#dc2626",
+      "examples": ["Fatal ICE shootings", "US citizens detained", "Family separation"]
+    },
     "covid": {
       "id": "covid",
       "title": "COVID Failures",
