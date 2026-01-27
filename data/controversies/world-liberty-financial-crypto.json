@@ -1,29 +1,67 @@
 {
   "id": "world-liberty-financial-crypto",
-  "title": "World Liberty Financial - Trump Family Crypto Empire",
+  "title": "World Liberty Financial - Trump Family Crypto Empire Worth $11.6 Billion",
   "primaryCategory": "corruption",
   "severity": "catastrophic",
   "timeline": "second-term",
-  "date": "2025-01-20",
-  "summary": "Trump family crypto holdings estimated at $11.6 billion (73% of net worth). Investments from Abu Dhabi state fund and others with foreign ties. Senators Warren and Reed called for investigation into links to North Korea and Russia. Administration terminated investigations into crypto firms that donated to Trump. DOJ's National Cryptocurrency Enforcement Team disbanded.",
+  "date": "2024-09-16",
+  "summary": "August-September 2024: Trump family launched World Liberty Financial, a DeFi (decentralized finance) lending platform, despite Trump previously calling crypto 'a scam.' By 2025, Trump family crypto holdings reached estimated $11.6 billion (73% of net worth), with WLFI token market cap of $3.56 billion. Trumps profited $1 billion, holding $3 billion in unsold tokens. Platform built on Ethereum blockchain, offers WLFI token and USD1 stablecoin. Barron Trump identified as 'DeFi visionary.' Investments from Abu Dhabi state fund and entities with foreign ties. Senators Warren and Reed called for investigation into links to North Korea and Russia. After inauguration, administration terminated investigations into crypto firms that donated to Trump and disbanded DOJ's National Cryptocurrency Enforcement Team. Massive conflicts: president regulating industry where he has billions invested.",
   "keyFacts": [
-    "Trump family crypto holdings estimated at $11.6 billion (73% of net worth)",
-    "Investments from Abu Dhabi state fund and others with foreign ties",
-    "Senators Warren and Reed called for investigation into links to North Korea and Russia",
-    "Administration terminated investigations into crypto firms that donated to Trump",
-    "DOJ's National Cryptocurrency Enforcement Team disbanded"
+    "August 2024: Eric Trump announced World Liberty Financial crypto project",
+    "September 16, 2024: Debuted during two-hour livestream on X Spaces with Trump, his sons, and business partners",
+    "DeFi lending platform built on Aave protocol and Ethereum blockchain",
+    "Allows users to lend and borrow crypto without traditional financial institutions",
+    "18-year-old Barron Trump identified as the project's 'DeFi visionary'",
+    "Led by DeFi builders Chase Herro and Zak Folkman, along with Trump family members",
+    "Two main products: WLFI token and USD1 stablecoin",
+    "October 2025: WLFI token market cap reached $3.56 billion, 43rd largest cryptocurrency",
+    "March 2025: Launched USD1 stablecoin and World Liberty Markets lending platform",
+    "December 2025: Trumps profited $1 billion on proceeds, holding $3 billion in unsold tokens",
+    "Trump family crypto holdings estimated at $11.6 billion (73% of total net worth)",
+    "Total crypto income exceeded $800 million, eclipsing traditional Trump businesses",
+    "Investments from Abu Dhabi state fund and other entities with foreign ties",
+    "Senators Elizabeth Warren and Jack Reed called for investigation into links to North Korea and Russia",
+    "After inauguration, administration terminated investigations into crypto firms that donated to Trump",
+    "DOJ's National Cryptocurrency Enforcement Team disbanded in early 2025",
+    "Massive conflicts of interest: president regulating industry where he has billions invested",
+    "Trump previously called cryptocurrency 'a scam' and 'disaster waiting to happen'"
   ],
   "sources": [
     {
-      "text": "Sen. Warren and Reed investigation request",
+      "text": "Fortune: Trump promotes World Liberty Financial despite calling crypto a 'scam'",
+      "url": "https://fortune.com/2024/09/18/donald-trump-world-liberty-financial-crypto-defi/",
+      "type": "news"
+    },
+    {
+      "text": "Decrypt: What Is World Liberty Financial? The Trump Family DeFi Project Explained",
+      "url": "https://decrypt.co/resources/what-is-world-liberty-financial-the-trump-family-defi-project-explained",
+      "type": "news"
+    },
+    {
+      "text": "PBS NewsHour: How a Trump business deal with a crypto firm exposes potential conflicts of interest",
+      "url": "https://www.pbs.org/newshour/politics/how-a-trump-business-deal-with-a-crypto-firm-exposes-potential-conflicts-of-interest",
+      "type": "news"
+    },
+    {
+      "text": "CBS News: Trump plans to announce the World Liberty Financial crypto exchange",
+      "url": "https://www.cbsnews.com/news/trump-world-liberty-financial-crypto-exchange-what-to-know/",
+      "type": "news"
+    },
+    {
+      "text": "CNBC: New details of Trump family crypto project released, including who can buy in",
+      "url": "https://www.cnbc.com/2024/09/16/trump-crypto-world-liberty-financial.html",
+      "type": "news"
+    },
+    {
+      "text": "Senators Warren and Reed investigation request letter",
       "url": "https://www.warren.senate.gov",
       "type": "government"
     },
     {
-      "text": "Financial disclosure analysis",
-      "url": "https://www.citizensforethics.org",
-      "type": "analysis"
+      "text": "Yahoo Finance: Trump-Affiliated World Liberty Launches Lending Platform—A Conflict Of Interest?",
+      "url": "https://finance.yahoo.com/news/trump-affiliated-world-liberty-launches-150124567.html",
+      "type": "news"
     }
   ],
-  "specialTags": ["cryptocurrency", "conflicts-of-interest", "foreign-money"]
+  "specialTags": ["cryptocurrency", "conflicts-of-interest", "foreign-money", "barron-trump", "defi"]
 }
