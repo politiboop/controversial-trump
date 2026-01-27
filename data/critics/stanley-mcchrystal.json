@@ -1,0 +1,90 @@
+{
+  "id": "stanley-mcchrystal",
+  "name": "Stanley McChrystal",
+  "role": "Commander of U.S. Forces in Afghanistan",
+  "administration": null,
+  "years": "2009-2010",
+  "militaryRank": "General, U.S. Army (Retired)",
+  "category": "military-leader",
+  "subCategory": "general",
+  "photo": null,
+  "summary": "Former four-star general who led Joint Special Operations Command and called Trump 'immoral' and unrepresentative of American values.",
+  "keyStatements": [
+    {
+      "quote": "Trump was 'immoral'",
+      "date": "2018",
+      "source": "ABC News interview",
+      "url": "https://abcnews.go.com"
+    },
+    {
+      "quote": "Our president must be more than a malleable reflection of the public's passions.",
+      "date": "2024",
+      "source": "New York Times op-ed",
+      "context": "Endorsing Kamala Harris",
+      "url": "https://www.nytimes.com"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2003-09",
+      "event": "Took command of Joint Special Operations Command",
+      "significance": "Led elite counterterrorism unit"
+    },
+    {
+      "date": "2009-06-15",
+      "event": "Appointed Commander of U.S. Forces Afghanistan",
+      "significance": "Led Afghanistan war effort"
+    },
+    {
+      "date": "2010-06-23",
+      "event": "Resigned from military",
+      "significance": "Left after Rolling Stone article controversy"
+    },
+    {
+      "date": "2018",
+      "event": "Called Trump immoral",
+      "significance": "High-profile criticism from respected general"
+    },
+    {
+      "date": "2024",
+      "event": "Endorsed Kamala Harris",
+      "significance": "Crossed party lines to oppose Trump"
+    }
+  ],
+  "credibility": {
+    "background": "Four-star general who revolutionized Joint Special Operations Command, credited with killing of Osama bin Laden",
+    "positions": [
+      "Commander, U.S. Forces Afghanistan (2009-2010)",
+      "Commander, Joint Special Operations Command (2003-2008)",
+      "Commander, International Security Assistance Force (2009-2010)"
+    ],
+    "awards": [
+      "Defense Distinguished Service Medal",
+      "Silver Star",
+      "Bronze Star Medal",
+      "Legion of Merit"
+    ]
+  },
+  "oppositionReasons": [
+    "Trump is immoral and self-serving",
+    "Trump does not represent American values",
+    "Harris is better suited to negotiate with foreign leaders",
+    "Harris is more reliable on the international stage"
+  ],
+  "endorsement": "Endorsed Kamala Harris for President in 2024",
+  "sources": [
+    {
+      "title": "Stanley McChrystal calls Trump 'immoral'",
+      "url": "https://abcnews.go.com",
+      "date": "2018",
+      "type": "interview"
+    },
+    {
+      "title": "Op-ed endorsing Kamala Harris",
+      "url": "https://www.nytimes.com",
+      "date": "2024",
+      "type": "opinion"
+    }
+  ],
+  "party": "Independent"
+}

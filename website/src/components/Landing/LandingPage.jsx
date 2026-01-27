@@ -43,7 +43,7 @@ const LandingPage = ({ onCategoryClick, onTimelineClick }) => {
     'narcissism',
     'rewriting-history',
     'ice-enforcement',
-    'covid',
+    'public-health',
     'absurd',
   ];
 

@@ -1,0 +1,92 @@
+{
+  "id": "james-mattis",
+  "name": "James N. Mattis",
+  "role": "Secretary of Defense",
+  "administration": "Trump Administration",
+  "years": "2017-2018",
+  "militaryRank": "General, U.S. Marine Corps (Retired)",
+  "category": "former-cabinet",
+  "subCategory": "military-leader",
+  "photo": null,
+  "summary": "Former Secretary of Defense who resigned over policy disagreements and called Trump a threat to the Constitution.",
+  "keyStatements": [
+    {
+      "quote": "Donald Trump is the first president in my lifetime who does not try to unite the American people — does not even pretend to try. Instead he tries to divide us.",
+      "date": "2020-06",
+      "source": "The Atlantic",
+      "context": "Statement after George Floyd protests and Lafayette Square incident",
+      "url": "https://www.theatlantic.com"
+    },
+    {
+      "quote": "We must reject and hold accountable those in office who would make a mockery of our Constitution.",
+      "date": "2020-06",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com"
+    },
+    {
+      "quote": "I watched [the militarized response to protests] angry and appalled.",
+      "date": "2020-06",
+      "source": "The Atlantic",
+      "context": "Response to Trump's use of military force against peaceful protesters",
+      "url": "https://www.theatlantic.com"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2017-01-20",
+      "event": "Confirmed as Secretary of Defense",
+      "significance": "First Cabinet member confirmed"
+    },
+    {
+      "date": "2018-12-20",
+      "event": "Resigned as Secretary of Defense",
+      "significance": "Resigned over Syria policy disagreement"
+    },
+    {
+      "date": "2020-06",
+      "event": "Published scathing criticism in The Atlantic",
+      "significance": "Broke silence to criticize Trump's divisiveness"
+    },
+    {
+      "date": "2024-10",
+      "event": "Agreed with Milley's fascist assessment",
+      "significance": "Per Bob Woodward's reporting"
+    }
+  ],
+  "credibility": {
+    "background": "Four-star Marine general with 43 years of service, served in Persian Gulf War, Afghanistan, and Iraq",
+    "positions": [
+      "Secretary of Defense (2017-2018)",
+      "Commander, U.S. Central Command (2010-2013)",
+      "Commander, U.S. Joint Forces Command (2007-2009)"
+    ],
+    "awards": [
+      "Defense Distinguished Service Medal (3x)",
+      "Navy Distinguished Service Medal",
+      "Bronze Star Medal",
+      "Purple Heart"
+    ]
+  },
+  "oppositionReasons": [
+    "Trump's policies threatened national security (Syria withdrawal)",
+    "Trump's divisive leadership harmful to country",
+    "Trump violated constitutional rights of citizens",
+    "Trump's use of military against American citizens unconscionable"
+  ],
+  "endorsement": "Did not endorse candidate but implied opposition to Trump",
+  "sources": [
+    {
+      "title": "James Mattis Denounces President Trump, Describes Him as a Threat to the Constitution",
+      "url": "https://www.theatlantic.com",
+      "date": "2020-06-03",
+      "type": "statement"
+    },
+    {
+      "title": "The High-Profile Military Leaders Who Have Come Out Against Donald Trump",
+      "url": "https://www.usnews.com",
+      "date": "2024-10-23",
+      "type": "news"
+    }
+  ],
+  "party": "Independent"
+}

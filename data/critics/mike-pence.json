@@ -1,0 +1,91 @@
+{
+  "id": "mike-pence",
+  "name": "Mike Pence",
+  "role": "Vice President of the United States",
+  "administration": "Trump Administration",
+  "years": "2017-2021",
+  "militaryRank": null,
+  "category": "former-administration",
+  "subCategory": "vice-president",
+  "photo": null,
+  "summary": "Trump's Vice President who refused to overturn the 2020 election and ran against Trump in the 2024 Republican primaries.",
+  "keyStatements": [
+    {
+      "quote": "The American people deserve to know that President Trump asked me to put him over my oath to the Constitution. Anyone who puts himself over the Constitution should never be president of the United States.",
+      "date": "2023-06-07",
+      "source": "BBC News, Presidential Campaign Launch",
+      "url": "https://www.bbc.com"
+    },
+    {
+      "quote": "I believe that anyone who puts themselves over the constitution should never be president of the United States. And anyone who asked someone else to put them over the constitution should never be president of the United States again.",
+      "date": "2023-06-07",
+      "source": "BBC News",
+      "context": "Referencing January 6th and Trump's actions",
+      "url": "https://www.bbc.com"
+    },
+    {
+      "quote": "In each of these cases Donald Trump is pursuing and articulating an agenda that is at odds with the conservative agenda that we governed on during our four years. And that's why I cannot in good conscience endorse Donald Trump in this campaign.",
+      "date": "2023-06-07",
+      "source": "The Hill",
+      "url": "https://thehill.com"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2017-01-20",
+      "event": "Inaugurated as Vice President",
+      "significance": "Became Trump's running mate"
+    },
+    {
+      "date": "2021-01-06",
+      "event": "Refused to overturn election",
+      "significance": "Defied Trump's pressure on January 6th"
+    },
+    {
+      "date": "2021-01-20",
+      "event": "Left office",
+      "significance": "End of term"
+    },
+    {
+      "date": "2023-06-07",
+      "event": "Announced 2024 presidential campaign against Trump",
+      "significance": "Ran in Republican primaries against former boss"
+    },
+    {
+      "date": "2024-03-15",
+      "event": "Said he would not endorse Trump",
+      "significance": "Formally refused to support Trump's candidacy"
+    }
+  ],
+  "credibility": {
+    "background": "Former Vice President, Governor of Indiana, U.S. Representative",
+    "positions": [
+      "Vice President of the United States (2017-2021)",
+      "Governor of Indiana (2013-2017)",
+      "U.S. Representative from Indiana (2001-2013)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump asked him to violate his constitutional oath on January 6",
+    "Trump's agenda at odds with conservative principles",
+    "Trump abandoned oath to 'support and defend the Constitution'",
+    "Fundamental disagreement on character and fitness for office"
+  ],
+  "endorsement": "Ran against Trump in 2024 primaries, refused to endorse him",
+  "sources": [
+    {
+      "title": "Mike Pence Tears into Donald Trump at 2024 Campaign Launch",
+      "url": "https://www.bbc.com/news/world-us-canada-65839793",
+      "date": "2023-06-07",
+      "type": "news"
+    },
+    {
+      "title": "Pence says he won't endorse Trump in 2024 race",
+      "url": "https://thehill.com/homenews/campaign/4535253",
+      "date": "2023-06-07",
+      "type": "news"
+    }
+  ],
+  "party": "Republican"
+}

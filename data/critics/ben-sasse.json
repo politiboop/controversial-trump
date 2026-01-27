@@ -1,0 +1,96 @@
+{
+  "id": "ben-sasse",
+  "name": "Ben Sasse",
+  "role": "U.S. Senator from Nebraska",
+  "administration": null,
+  "years": "2015-2023",
+  "militaryRank": null,
+  "category": "congress",
+  "subCategory": "senator",
+  "photo": null,
+  "summary": "Former Republican Senator and university president who voted to convict Trump in his second impeachment and called Trump's conspiracy theories 'reckless attacks on the foundation of our constitutional Republic.'",
+  "keyStatements": [
+    {
+      "quote": "The president and his allies are playing with fire. They have been asking – first the courts, then state legislatures, now the Congress – to overturn the results of a presidential election. They have unsuccessfully called on judges and are now calling on federal officeholders to invalidate millions and millions of votes. If you make big claims, you had better have the evidence. But the president doesn't and neither do the institutional arsonist members of Congress who will object to the Electoral College vote.",
+      "date": "2021-01-01",
+      "source": "Public statement before January 6",
+      "url": null
+    },
+    {
+      "quote": "The President of the United States summoned this mob, assembled the mob, and lit the flame of this attack.",
+      "date": "2021-02-13",
+      "source": "Explanation of impeachment vote",
+      "url": null
+    },
+    {
+      "quote": "Adults don't point a loaded gun at the heart of legitimate self-government.",
+      "date": "2020",
+      "source": "Public statement",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2015-01-03",
+      "event": "Became U.S. Senator from Nebraska",
+      "significance": "Entered Senate"
+    },
+    {
+      "date": "2016",
+      "event": "Refused to endorse Trump",
+      "significance": "Wrote in Mike Pence for president"
+    },
+    {
+      "date": "2020",
+      "event": "Criticized Trump's election fraud claims",
+      "significance": "Called out conspiracy theories"
+    },
+    {
+      "date": "2021-01-01",
+      "event": "Condemned effort to overturn election",
+      "significance": "Before January 6"
+    },
+    {
+      "date": "2021-02-13",
+      "event": "Voted to convict Trump in second impeachment",
+      "significance": "One of seven Republicans to vote for conviction"
+    },
+    {
+      "date": "2023-01-03",
+      "event": "Left Senate",
+      "significance": "Became University of Florida president"
+    }
+  ],
+  "credibility": {
+    "background": "Former U.S. Senator, university president, historian with PhD from Yale",
+    "positions": [
+      "U.S. Senator from Nebraska (2015-2023)",
+      "President, University of Florida (2023-present)",
+      "President, Midland University (2010-2015)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump summoned and incited January 6 mob",
+    "Trump made reckless attacks on constitutional Republic",
+    "Trump pointed loaded gun at legitimate self-government",
+    "Trump's election fraud claims were baseless",
+    "Trump is institutional arsonist"
+  ],
+  "endorsement": "Voted to convict Trump; did not support Trump in 2016 or 2020",
+  "sources": [
+    {
+      "title": "Ben Sasse explains impeachment vote",
+      "url": "https://www.sasse.senate.gov/impeachment-statement",
+      "date": "2021-02-13",
+      "type": "statement"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

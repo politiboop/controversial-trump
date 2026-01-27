@@ -1,0 +1,89 @@
+{
+  "id": "dick-cheney",
+  "name": "Dick Cheney",
+  "role": "Vice President of the United States",
+  "administration": "George W. Bush Administration",
+  "years": "2001-2009",
+  "militaryRank": null,
+  "category": "former-officials",
+  "subCategory": "vice-president",
+  "photo": null,
+  "summary": "Former Vice President under George W. Bush who called Trump the 'greatest threat to our republic' and endorsed Kamala Harris.",
+  "keyStatements": [
+    {
+      "quote": "In our nation's 246-year history, there has never been an individual who is a greater threat to our republic than Donald Trump.",
+      "date": "2022-08-05",
+      "source": "Campaign video for Liz Cheney",
+      "url": "https://www.theguardian.com"
+    },
+    {
+      "quote": "He tried to steal the last election using lies and violence to keep himself in power after the voters had rejected him. He is a coward. A real man wouldn't lie to his supporters.",
+      "date": "2022-08-05",
+      "source": "Campaign video",
+      "url": "https://www.theguardian.com"
+    },
+    {
+      "quote": "In our nation's history, there has never been an individual who is a greater threat to our republic than Donald Trump. He tried to steal the last election using lies and violence to keep himself in power after the voters had rejected him. He's a coward.",
+      "date": "2024-09-07",
+      "source": "Statement via daughter Liz Cheney",
+      "context": "Announcing he will vote for Kamala Harris",
+      "url": "https://www.npr.org"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2001-01-20",
+      "event": "Inaugurated as Vice President",
+      "significance": "Served under George W. Bush"
+    },
+    {
+      "date": "2009-01-20",
+      "event": "Left office",
+      "significance": "End of term"
+    },
+    {
+      "date": "2022-08-05",
+      "event": "Called Trump greatest threat to republic",
+      "significance": "Unprecedented criticism from former GOP VP"
+    },
+    {
+      "date": "2024-09-07",
+      "event": "Announced he will vote for Kamala Harris",
+      "significance": "Former Republican VP crossing party lines"
+    }
+  ],
+  "credibility": {
+    "background": "Former Vice President, Secretary of Defense, White House Chief of Staff, six-term Congressman",
+    "positions": [
+      "Vice President of the United States (2001-2009)",
+      "Secretary of Defense (1989-1993)",
+      "White House Chief of Staff (1975-1977)",
+      "U.S. Representative from Wyoming (1979-1989)"
+    ],
+    "awards": [
+      "Presidential Medal of Freedom"
+    ]
+  },
+  "oppositionReasons": [
+    "Trump is the greatest threat to the republic in U.S. history",
+    "Trump tried to steal the 2020 election",
+    "Trump used lies and violence to stay in power",
+    "Trump is a coward who lies to supporters"
+  ],
+  "endorsement": "Endorsed Kamala Harris for President in 2024",
+  "sources": [
+    {
+      "title": "Dick Cheney attacks Donald Trump as 'greatest threat to our republic'",
+      "url": "https://www.theguardian.com/us-news/2022/aug/05/dick-cheney-trump-liz-cheney-threat-republic",
+      "date": "2022-08-05",
+      "type": "news"
+    },
+    {
+      "title": "Dick Cheney says he will vote for Harris",
+      "url": "https://www.npr.org/2024/09/07/nx-s1-5104718/dick-cheney-voting-kamala-harris-trump-election",
+      "date": "2024-09-07",
+      "type": "news"
+    }
+  ],
+  "party": "Republican"
+}

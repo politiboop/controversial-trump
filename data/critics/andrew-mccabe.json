@@ -1,0 +1,97 @@
+{
+  "id": "andrew-mccabe",
+  "name": "Andrew McCabe",
+  "role": "Deputy Director of the FBI",
+  "administration": "Trump Administration",
+  "years": "2016-2018",
+  "militaryRank": null,
+  "category": "intelligence-community",
+  "subCategory": "fbi",
+  "photo": null,
+  "summary": "Former FBI Deputy Director who was fired by Trump and later called Trump 'a threat to the rule of law' and warned he governs by 'chaos and division.'",
+  "keyStatements": [
+    {
+      "quote": "I think the president is a threat to the rule of law in this country. I think the president attacks the Justice Department and the FBI as a way of protecting himself.",
+      "date": "2019",
+      "source": "60 Minutes interview",
+      "url": null
+    },
+    {
+      "quote": "The president and his followers have shown that they will say anything and do anything to undermine any investigation.",
+      "date": "2019",
+      "source": "Interview",
+      "url": null
+    },
+    {
+      "quote": "I think it's possible that Donald Trump was working on behalf of Russia.",
+      "date": "2019",
+      "source": "60 Minutes",
+      "context": "On counterintelligence concerns",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2016-01-29",
+      "event": "Became Deputy Director of FBI",
+      "significance": "Under Director Comey"
+    },
+    {
+      "date": "2017-05-09",
+      "event": "Became Acting FBI Director",
+      "significance": "After Comey was fired"
+    },
+    {
+      "date": "2018-01-29",
+      "event": "Stepped down as Deputy Director",
+      "significance": "Planned retirement"
+    },
+    {
+      "date": "2018-03-16",
+      "event": "Fired by Trump",
+      "significance": "Dismissed 26 hours before retirement"
+    },
+    {
+      "date": "2019-02-17",
+      "event": "60 Minutes interview",
+      "significance": "Called Trump threat to rule of law"
+    },
+    {
+      "date": "2020",
+      "event": "Published book 'The Threat'",
+      "significance": "Detailed Trump's attacks on FBI"
+    }
+  ],
+  "credibility": {
+    "background": "Former FBI Deputy Director, 21-year FBI career, led counterterrorism and national security investigations",
+    "positions": [
+      "Deputy Director, FBI (2016-2018)",
+      "Acting Director, FBI (2017)",
+      "Assistant Director, FBI Counterterrorism Division"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is a threat to the rule of law",
+    "Trump attacks Justice Department and FBI to protect himself",
+    "Trump may have been working on behalf of Russia",
+    "Trump will do anything to undermine investigations",
+    "Trump obstructs justice"
+  ],
+  "endorsement": "Opposes Trump's presidency",
+  "sources": [
+    {
+      "title": "Andrew McCabe: Trump is a threat to rule of law",
+      "url": "https://www.cbsnews.com/news/andrew-mccabe-trump-threat-rule-of-law-60-minutes/",
+      "date": "2019-02-17",
+      "type": "interview"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Democrat"
+}

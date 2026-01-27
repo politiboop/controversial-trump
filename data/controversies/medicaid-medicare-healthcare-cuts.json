@@ -1,0 +1,73 @@
+{
+  "id": "medicaid-medicare-healthcare-cuts",
+  "title": "One Big Beautiful Bill - $1 Trillion Healthcare Cuts",
+  "primaryCategory": "public-health",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-07-04",
+  "summary": "Trump signed H.R. 1 (One Big Beautiful Bill) cutting over $1 trillion from health programs - largest rollback of federal support for healthcare in American history. CBO estimates 10 million more uninsured. Cuts $1 trillion from Medicaid through work requirements and provider tax restrictions. Rural hospitals lose 20%+ funding.",
+  "keyFacts": [
+    "Signed July 4, 2025 - cuts over $1 trillion from health programs",
+    "Congressional Budget Office: 10 million more people without health insurance by 2034",
+    "Some estimates show 12 million more uninsured when including ACA marketplace changes",
+    "$1.1 trillion cut from healthcare spending over next decade",
+    "More than $1 trillion of cuts come from Medicaid",
+    "New Medicaid work requirements expected to end coverage for millions who don't meet employment standards",
+    "Provider tax restrictions curtail how states increase Medicaid payments to hospitals and nursing homes",
+    "Rural hospitals lose over 20% of funding in more than half of states",
+    "Hospitals would lose 18% of Medicaid funding - nearly $665 billion over 10 years",
+    "Nine-year ban on implementing improvements to Medicare Savings Programs for lower-income beneficiaries",
+    "Medicines for rare diseases exempted from Medicare drug price negotiations (benefit pharmaceutical companies)",
+    "Law adds $3.4 trillion to deficit despite massive healthcare cuts",
+    "Described as 'devastating' for reproductive health care coverage",
+    "States scrambling to shield hospitals from cuts"
+  ],
+  "sources": [
+    {
+      "text": "CBO: Medicaid cuts will leave 10 million uninsured",
+      "url": "https://www.statnews.com/2025/07/21/cbo-estimate-trump-tax-cut-bill-10-million-uninsured-cuts-medicaid/",
+      "type": "government report"
+    },
+    {
+      "text": "Medicaid cuts will leave millions uninsured, threaten rural hospitals",
+      "url": "https://www.cnbc.com/2025/07/01/how-trump-bill-medicaid-cuts-will-impact-us-health-care.html",
+      "type": "news"
+    },
+    {
+      "text": "How Trump's tax bill will affect Medicaid, ACA plans and hospitals",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/07/02/nx-s1-5453870/senate-republicans-tax-bill-medicaid-health-care",
+      "type": "news"
+    },
+    {
+      "text": "Impact of the Big Bill on Medicare",
+      "url": "https://medicareadvocacy.org/impact-of-the-big-bill-on-medicare/",
+      "type": "advocacy"
+    },
+    {
+      "text": "New Federal Medicaid Cuts Will Devastate Coverage for Reproductive Health Care",
+      "url": "https://www.guttmacher.org/2025/11/new-federal-medicaid-cuts-will-devastate-coverage-reproductive-health-care",
+      "type": "analysis"
+    },
+    {
+      "text": "States scramble to shield hospitals from GOP Medicaid cuts",
+      "url": "https://stateline.org/2025/07/07/states-scramble-to-shield-hospitals-from-gop-medicaid-cuts/",
+      "type": "news"
+    },
+    {
+      "text": "Higher premiums and lost coverage: How Trump's budget changes health care in California",
+      "url": "https://calmatters.org/health/2025/07/federal-budget-health-care-medicaid-medi-cal/",
+      "type": "news"
+    },
+    {
+      "text": "President Trump's One Big Beautiful Bill Makes Changes to Medicaid",
+      "url": "https://www.crowell.com/en/insights/client-alerts/president-trumps-one-big-beautiful-bill-makes-changes-to-medicaid",
+      "type": "legal analysis"
+    },
+    {
+      "text": "Cuts to Medicaid hurt hospitals - why lobbying against them failed",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/07/14/nx-s1-5465119/health-care-lobby-hospitals-medicaid-cuts",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["healthcare", "medicaid", "medicare", "budget-cuts", "rural-hospitals", "uninsured"]
+}

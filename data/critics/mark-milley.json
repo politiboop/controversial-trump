@@ -1,0 +1,90 @@
+{
+  "id": "mark-milley",
+  "name": "Mark A. Milley",
+  "role": "Chairman of the Joint Chiefs of Staff",
+  "administration": "Trump and Biden Administrations",
+  "years": "2019-2023",
+  "militaryRank": "General, U.S. Army (Retired)",
+  "category": "military-leader",
+  "subCategory": "joint-chiefs",
+  "photo": null,
+  "summary": "The nation's highest-ranking military officer who called Trump 'fascist to the core' and 'the most dangerous person to this country.'",
+  "keyStatements": [
+    {
+      "quote": "Trump is a 'fascist to the core' and 'the most dangerous person to this country.'",
+      "date": "2024-10",
+      "source": "Bob Woodward's book 'War'",
+      "url": "https://www.washingtonpost.com"
+    },
+    {
+      "quote": "He's a total fascist. He is now the most dangerous person to this country.",
+      "date": "2024-10",
+      "source": "Bob Woodward's book 'War'",
+      "context": "Assessment after Trump's post-2020 election behavior",
+      "url": "https://www.washingtonpost.com"
+    },
+    {
+      "quote": "I had my 'suspicions' about Trump's mental decline but eventually came to the realization that 'he's a total fascist.'",
+      "date": "2024-10",
+      "source": "Bob Woodward's book 'War'",
+      "url": "https://www.washingtonpost.com"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2019-09-30",
+      "event": "Appointed Chairman of the Joint Chiefs of Staff",
+      "significance": "Became highest-ranking U.S. military officer"
+    },
+    {
+      "date": "2021-01-06",
+      "event": "January 6 Capitol Attack",
+      "significance": "Deeply concerned about Trump's actions"
+    },
+    {
+      "date": "2023-09-30",
+      "event": "Retired from military",
+      "significance": "Completed 43 years of service"
+    },
+    {
+      "date": "2024-10",
+      "event": "Revealed assessment in Woodward book",
+      "significance": "Unprecedented warning from former top military official"
+    }
+  ],
+  "credibility": {
+    "background": "Four-star Army general with over 40 years of service, served under Trump and Biden",
+    "positions": [
+      "Chairman of the Joint Chiefs of Staff (2019-2023)",
+      "Chief of Staff of the Army (2015-2019)",
+      "Commander, International Security Assistance Force Joint Command (2013)"
+    ],
+    "awards": [
+      "Defense Distinguished Service Medal",
+      "Distinguished Service Medal",
+      "Bronze Star Medal"
+    ]
+  },
+  "oppositionReasons": [
+    "Believes Trump is a fascist threat to democracy",
+    "Deeply concerned about Trump's mental state",
+    "Witnessed dangerous behavior after 2020 election",
+    "Feared being court-martialed if Trump won in 2024"
+  ],
+  "endorsement": "Strongly opposed Trump's return to office",
+  "sources": [
+    {
+      "title": "Bob Woodward's 'War' - Milley Quotes",
+      "url": "https://www.washingtonpost.com",
+      "date": "2024-10",
+      "type": "book"
+    },
+    {
+      "title": "The High-Profile Military Leaders Who Have Come Out Against Donald Trump",
+      "url": "https://www.usnews.com",
+      "date": "2024-10-23",
+      "type": "news"
+    }
+  ],
+  "party": "Independent"
+}

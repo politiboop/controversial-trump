@@ -1,0 +1,94 @@
+{
+  "id": "rex-tillerson",
+  "name": "Rex Tillerson",
+  "role": "Secretary of State",
+  "administration": "Trump Administration",
+  "years": "2017-2018",
+  "militaryRank": null,
+  "category": "former-cabinet",
+  "subCategory": "state-department",
+  "photo": null,
+  "summary": "Former Secretary of State and ExxonMobil CEO who was fired by Trump via tweet and later called Trump 'undisciplined' and a 'moron' who doesn't like to read.",
+  "keyStatements": [
+    {
+      "quote": "I will be honest with you, it troubles me deeply as a citizen that the president of the United States wants to weaponize the Department of Justice in order to go after people. That is not how you strengthen democracy, that is how you weaken it.",
+      "date": "2024",
+      "source": "Interview",
+      "url": null
+    },
+    {
+      "quote": "He doesn't like to read. He doesn't read briefing reports. He doesn't like to get into the details of a lot of things. He's pretty undisciplined, doesn't like to read, doesn't read briefing reports, doesn't like to get into the details.",
+      "date": "2018",
+      "source": "Reported comments",
+      "url": null
+    },
+    {
+      "quote": "What was challenging for me coming from the disciplined, highly process-oriented Exxon Mobil corporation is to go to work for a man who is pretty undisciplined, doesn't like to read, doesn't read briefing reports, doesn't like to get into the details of a lot of things.",
+      "date": "2019",
+      "source": "CBS This Morning interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2017-02-01",
+      "event": "Confirmed as Secretary of State",
+      "significance": "Joined Trump cabinet"
+    },
+    {
+      "date": "2017-10",
+      "event": "Reportedly called Trump a 'moron'",
+      "significance": "Denied but did not dispute the substance"
+    },
+    {
+      "date": "2018-03-13",
+      "event": "Fired by Trump via tweet",
+      "significance": "Dismissed without warning"
+    },
+    {
+      "date": "2019",
+      "event": "Gave public interview criticizing Trump",
+      "significance": "Broke silence on Trump's fitness"
+    },
+    {
+      "date": "2024",
+      "event": "Warned about Trump weaponizing DOJ",
+      "significance": "Spoke out against Trump's 2024 plans"
+    }
+  ],
+  "credibility": {
+    "background": "Former Secretary of State, former CEO of ExxonMobil, extensive international business experience",
+    "positions": [
+      "U.S. Secretary of State (2017-2018)",
+      "Chairman and CEO, ExxonMobil (2006-2016)",
+      "President, ExxonMobil (2004-2006)"
+    ],
+    "awards": [
+      "Order of Friendship (Russia)",
+      "Boy Scouts Distinguished Eagle Scout Award"
+    ]
+  },
+  "oppositionReasons": [
+    "Trump is undisciplined and doesn't like to read",
+    "Trump doesn't engage with details or briefings",
+    "Trump wants to weaponize the Department of Justice",
+    "Trump's approach weakens democracy",
+    "Trump lacks the discipline required for the presidency"
+  ],
+  "endorsement": "Opposes Trump's return to office",
+  "sources": [
+    {
+      "title": "Tillerson: Trump 'undisciplined,' doesn't like to read",
+      "url": "https://www.cbsnews.com/news/rex-tillerson-describes-trump-as-undisciplined-doesnt-like-to-read/",
+      "date": "2019",
+      "type": "interview"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

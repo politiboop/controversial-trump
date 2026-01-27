@@ -1,0 +1,101 @@
+{
+  "id": "chris-christie",
+  "name": "Chris Christie",
+  "role": "Governor of New Jersey",
+  "administration": null,
+  "years": "2010-2018",
+  "militaryRank": null,
+  "category": "former-officials",
+  "subCategory": "governor",
+  "photo": null,
+  "summary": "Former Governor of New Jersey and 2024 Republican presidential candidate who became one of Trump's most prominent GOP critics, calling him unfit and warning he will 'burn America to the ground.'",
+  "keyStatements": [
+    {
+      "quote": "He is unfit. And be careful of what you're going to get if you ever give Donald Trump the keys to the White House again, because he will only care about his own conduct and his own benefit. And he will not care about the American people.",
+      "date": "2023",
+      "source": "Campaign speech",
+      "url": null
+    },
+    {
+      "quote": "He's willing to burn it all down to protect himself. He will burn every institution in this country to the ground if it will help him avoid accountability.",
+      "date": "2023",
+      "source": "GOP debate",
+      "url": null
+    },
+    {
+      "quote": "Anyone who's unwilling to say he will not support a convicted felon to be president of the United States is unfit to be president themselves.",
+      "date": "2023",
+      "source": "Campaign statement",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2010-01-19",
+      "event": "Became Governor of New Jersey",
+      "significance": "Elected as Republican governor"
+    },
+    {
+      "date": "2016",
+      "event": "Ran for president, later endorsed Trump",
+      "significance": "Initially rival, became supporter"
+    },
+    {
+      "date": "2016-2020",
+      "event": "Advised Trump campaign and administration",
+      "significance": "Close relationship with Trump"
+    },
+    {
+      "date": "2020",
+      "event": "Helped Trump prepare for debates",
+      "significance": "Contracted COVID from Trump"
+    },
+    {
+      "date": "2021-01-06",
+      "event": "Broke with Trump after January 6",
+      "significance": "Called Trump's actions unacceptable"
+    },
+    {
+      "date": "2023-06-06",
+      "event": "Announced 2024 presidential campaign",
+      "significance": "Ran as anti-Trump Republican"
+    },
+    {
+      "date": "2024-01-10",
+      "event": "Suspended presidential campaign",
+      "significance": "Ended campaign warning about Trump"
+    }
+  ],
+  "credibility": {
+    "background": "Former Governor of New Jersey, U.S. Attorney, 2024 and 2016 Republican presidential candidate",
+    "positions": [
+      "Governor of New Jersey (2010-2018)",
+      "U.S. Attorney for District of New Jersey (2002-2008)",
+      "Republican presidential candidate (2016, 2024)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is unfit for office",
+    "Trump only cares about himself, not the American people",
+    "Trump will burn down American institutions to protect himself",
+    "Trump will avoid accountability at any cost",
+    "Supporting a convicted felon makes one unfit for presidency"
+  ],
+  "endorsement": "Opposes Trump's 2024 campaign, has not endorsed him",
+  "sources": [
+    {
+      "title": "Chris Christie calls Trump unfit at GOP debate",
+      "url": "https://www.politico.com/news/chris-christie-trump-unfit",
+      "date": "2023",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

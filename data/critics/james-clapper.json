@@ -1,0 +1,92 @@
+{
+  "id": "james-clapper",
+  "name": "James Clapper",
+  "role": "Director of National Intelligence",
+  "administration": "Obama Administration",
+  "years": "2010-2017",
+  "militaryRank": "Lieutenant General, U.S. Air Force (Retired)",
+  "category": "intelligence-community",
+  "subCategory": "dni",
+  "photo": null,
+  "summary": "Former Director of National Intelligence and Air Force general who called Trump's behavior with Putin 'very scary' and warned Trump is a threat to national security.",
+  "keyStatements": [
+    {
+      "quote": "I think this past weekend is illustrative of what a great case officer Vladimir Putin is. He knows how to handle an asset, and that's what he's doing with the president.",
+      "date": "2018-07",
+      "source": "CNN interview",
+      "context": "After Helsinki summit",
+      "url": null
+    },
+    {
+      "quote": "I question his fitness to be in this office.",
+      "date": "2017",
+      "source": "Interview",
+      "url": null
+    },
+    {
+      "quote": "I really question his ability to be — his fitness to be — in this office, and I also am beginning to wonder about his motivation for it.",
+      "date": "2017",
+      "source": "CNN interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2010-08-09",
+      "event": "Became Director of National Intelligence",
+      "significance": "Appointed by Obama"
+    },
+    {
+      "date": "2017-01-20",
+      "event": "Left DNI when Trump took office",
+      "significance": "End of tenure"
+    },
+    {
+      "date": "2017",
+      "event": "Questioned Trump's fitness for office",
+      "significance": "Early criticism"
+    },
+    {
+      "date": "2018-07",
+      "event": "Called Trump Putin's asset",
+      "significance": "After Helsinki summit"
+    }
+  ],
+  "credibility": {
+    "background": "Former Director of National Intelligence, Lieutenant General in Air Force, 50+ years in intelligence",
+    "positions": [
+      "Director of National Intelligence (2010-2017)",
+      "Under Secretary of Defense for Intelligence (2007-2010)",
+      "Director, Defense Intelligence Agency (1992-1995)",
+      "Director, National Geospatial-Intelligence Agency (2001-2006)"
+    ],
+    "awards": [
+      "Defense Distinguished Service Medal",
+      "Air Force Distinguished Service Medal",
+      "Legion of Merit"
+    ]
+  },
+  "oppositionReasons": [
+    "Trump's fitness for office is questionable",
+    "Trump behaves like Putin's asset",
+    "Trump's relationship with Putin is dangerous",
+    "Trump threatens national security",
+    "Trump's motivations are concerning"
+  ],
+  "endorsement": "Opposes Trump's presidency",
+  "sources": [
+    {
+      "title": "James Clapper questions Trump's fitness",
+      "url": "https://www.cnn.com/politics/clapper-trump-fitness",
+      "date": "2017",
+      "type": "interview"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Democrat"
+}

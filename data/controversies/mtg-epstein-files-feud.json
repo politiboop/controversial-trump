@@ -1,0 +1,44 @@
+{
+  "id": "mtg-epstein-files-feud",
+  "title": "Marjorie Taylor Greene Fallout Over Epstein Files",
+  "primaryCategory": "abuse-of-power",
+  "severity": "serious",
+  "timeline": "second-term",
+  "date": "2025-11-15",
+  "summary": "Trump's relationship with staunch ally Marjorie Taylor Greene fractured when she refused to follow his lead on releasing Jeffrey Epstein files. MTG claims Trump told her his 'friends will get hurt' if files are released. Trump withdrew endorsement, called her a 'traitor' and 'disgrace,' and vowed to support her primary challenger. MTG resigned from Congress in January 2026 citing this feud.",
+  "keyFacts": [
+    "MTG co-sponsored Epstein Files Transparency Act to release all files related to Jeffrey Epstein",
+    "Trump told MTG that releasing the files would hurt his 'friends' according to MTG",
+    "Trump withdrew his endorsement of MTG, calling her a 'traitor' and 'disgrace to the Republican Party'",
+    "Trump announced he would support a primary challenger against MTG",
+    "MTG resigned from Congress in January 2026, citing the feud with Trump as a primary reason",
+    "MTG claimed Trump was 'protecting powerful people' connected to Epstein",
+    "Trump demanded loyalty over transparency regarding Epstein connections",
+    "Pattern of retaliation against even staunchest allies who disagree on any issue",
+    "MTG had been one of Trump's most vocal supporters before this disagreement",
+    "Feud shows Trump prioritizes protecting associates over anti-trafficking advocacy"
+  ],
+  "sources": [
+    {
+      "text": "Marjorie Taylor Greene's Explosive Claims About Trump and GOP",
+      "url": "https://time.com/7339247/marjorie-taylor-greene-trump-feud-epstein-files-new-claims/",
+      "type": "news"
+    },
+    {
+      "text": "Trump and Marjorie Taylor Greene had a falling out over Epstein. What changed?",
+      "url": "https://www.npr.org/2025/11/20/nx-s1-5612438/trump-and-marjorie-taylor-greene-had-a-falling-out-over-epstein-what-changed",
+      "type": "news"
+    },
+    {
+      "text": "Marjorie Taylor Greene resigns from Congress after Trump feud",
+      "url": "https://www.politico.com/news/2026/01/15/marjorie-taylor-greene-resigns-congress",
+      "type": "news"
+    },
+    {
+      "text": "MTG breaks with Trump over Epstein files: 'The truth matters'",
+      "url": "https://www.axios.com/2025/11/16/marjorie-taylor-greene-trump-epstein-files",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["epstein", "loyalty-test", "dissent", "retaliation", "congress"]
+}

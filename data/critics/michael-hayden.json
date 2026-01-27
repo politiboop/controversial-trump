@@ -1,0 +1,102 @@
+{
+  "id": "michael-hayden",
+  "name": "Michael Hayden",
+  "role": "Director of Central Intelligence",
+  "administration": "George W. Bush and Obama Administrations",
+  "years": "2006-2009",
+  "militaryRank": "General, U.S. Air Force (Retired)",
+  "category": "intelligence-community",
+  "subCategory": "cia-director",
+  "photo": null,
+  "summary": "Former CIA and NSA Director who called Trump's attacks on intelligence community 'disturbing' and warned his rhetoric resembles that used by Nazi Germany.",
+  "keyStatements": [
+    {
+      "quote": "This is how you get Kristallnacht.",
+      "date": "2018",
+      "source": "Twitter",
+      "context": "Comparing Trump's rhetoric to Nazi Germany",
+      "url": null
+    },
+    {
+      "quote": "I would be incredibly concerned if President Trump didn't have people like that around him who push back on some of his ideas. It would be a dangerous situation.",
+      "date": "2018",
+      "source": "Interview",
+      "context": "On adults in the room",
+      "url": null
+    },
+    {
+      "quote": "Trump is a clear and present danger to American national security.",
+      "date": "2020",
+      "source": "Interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1999-03-13",
+      "event": "Became Director of NSA",
+      "significance": "Led National Security Agency"
+    },
+    {
+      "date": "2005-04-21",
+      "event": "Became first Director of National Intelligence",
+      "significance": "Principal Deputy DNI"
+    },
+    {
+      "date": "2006-05-30",
+      "event": "Became CIA Director",
+      "significance": "Confirmed under Bush"
+    },
+    {
+      "date": "2009-02-12",
+      "event": "Left CIA",
+      "significance": "End of tenure"
+    },
+    {
+      "date": "2018",
+      "event": "Compared Trump rhetoric to Nazi Germany",
+      "significance": "Harsh criticism"
+    },
+    {
+      "date": "2020",
+      "event": "Endorsed Joe Biden",
+      "significance": "Supported Democrat"
+    }
+  ],
+  "credibility": {
+    "background": "Former CIA Director, NSA Director, Air Force general, decades in intelligence",
+    "positions": [
+      "Director of Central Intelligence (2006-2009)",
+      "Director, National Security Agency (1999-2005)",
+      "Principal Deputy Director of National Intelligence (2005-2006)"
+    ],
+    "awards": [
+      "Defense Distinguished Service Medal",
+      "Air Force Distinguished Service Medal",
+      "Legion of Merit"
+    ]
+  },
+  "oppositionReasons": [
+    "Trump's rhetoric resembles Nazi Germany",
+    "Trump is a clear and present danger to national security",
+    "Trump attacks intelligence community",
+    "Trump lacks proper advisors",
+    "Trump threatens democratic institutions"
+  ],
+  "endorsement": "Endorsed Joe Biden in 2020",
+  "sources": [
+    {
+      "title": "Michael Hayden compares Trump to Nazi Germany",
+      "url": "https://www.cnn.com/politics/michael-hayden-trump-kristallnacht",
+      "date": "2018",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

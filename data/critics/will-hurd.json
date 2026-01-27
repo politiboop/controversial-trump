@@ -1,0 +1,96 @@
+{
+  "id": "will-hurd",
+  "name": "Will Hurd",
+  "role": "U.S. Representative from Texas",
+  "administration": null,
+  "years": "2015-2021",
+  "militaryRank": null,
+  "category": "congress",
+  "subCategory": "representative",
+  "photo": null,
+  "summary": "Former CIA officer and Republican Congressman who called Trump 'a lawless, selfish, failed politician' and ran against him in the 2024 GOP primary.",
+  "keyStatements": [
+    {
+      "quote": "Donald Trump is a lawless, selfish, failed politician.",
+      "date": "2023",
+      "source": "Campaign launch",
+      "url": null
+    },
+    {
+      "quote": "I will not support Donald Trump. He's not fit to be president.",
+      "date": "2024",
+      "source": "Interview",
+      "url": null
+    },
+    {
+      "quote": "Trump is running to stay out of prison, not to make America great.",
+      "date": "2023",
+      "source": "Campaign statement",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2000-2009",
+      "event": "CIA operations officer",
+      "significance": "Worked in cybersecurity and Middle East"
+    },
+    {
+      "date": "2015-01-03",
+      "event": "Elected to U.S. House",
+      "significance": "Became congressman"
+    },
+    {
+      "date": "2019",
+      "event": "Announced retirement from Congress",
+      "significance": "Would not seek re-election"
+    },
+    {
+      "date": "2021-01-03",
+      "event": "Left Congress",
+      "significance": "Retired after three terms"
+    },
+    {
+      "date": "2023-06-22",
+      "event": "Announced 2024 presidential campaign",
+      "significance": "Ran as anti-Trump Republican"
+    },
+    {
+      "date": "2023-10-09",
+      "event": "Suspended presidential campaign",
+      "significance": "Ended campaign early"
+    }
+  ],
+  "credibility": {
+    "background": "Former CIA operations officer, U.S. Representative, cybersecurity expert",
+    "positions": [
+      "U.S. Representative from Texas (2015-2021)",
+      "CIA Operations Officer (2000-2009)",
+      "Senior Vice President, FusionX"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is lawless, selfish, and failed",
+    "Trump is not fit to be president",
+    "Trump is running to stay out of prison",
+    "Trump divides the country",
+    "Trump lacks integrity"
+  ],
+  "endorsement": "Refuses to support Trump; ran against him in 2024 primary",
+  "sources": [
+    {
+      "title": "Will Hurd calls Trump lawless and selfish",
+      "url": "https://www.politico.com/news/will-hurd-trump-lawless",
+      "date": "2023",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

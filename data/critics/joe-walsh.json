@@ -1,0 +1,107 @@
+{
+  "id": "joe-walsh",
+  "name": "Joe Walsh",
+  "role": "U.S. Representative from Illinois",
+  "administration": null,
+  "years": "2011-2013",
+  "militaryRank": null,
+  "category": "congress",
+  "subCategory": "representative",
+  "photo": null,
+  "summary": "Former Tea Party Congressman and conservative radio host who initially supported Trump but became a vocal critic, challenging him in the 2020 Republican primary and endorsing Joe Biden.",
+  "keyStatements": [
+    {
+      "quote": "Trump is unfit. Trump is a would-be dictator. It's not enough to beat him. He needs to be destroyed.",
+      "date": "2020",
+      "source": "Campaign statement",
+      "url": null
+    },
+    {
+      "quote": "I'm going to do everything I can to help elect Joe Biden as our next president.",
+      "date": "2020-08",
+      "source": "Public statement",
+      "context": "Endorsing Biden after dropping out of GOP primary",
+      "url": null
+    },
+    {
+      "quote": "On January 6, 2021, Donald Trump committed the most un-American act ever by a President. On that day, he ended his legacy. And on that day, he lost me forever.",
+      "date": "2021-01-06",
+      "source": "Social media",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2011-01-03",
+      "event": "Elected to U.S. House of Representatives",
+      "significance": "Tea Party wave election"
+    },
+    {
+      "date": "2013-01-03",
+      "event": "Left Congress after one term",
+      "significance": "Lost re-election bid"
+    },
+    {
+      "date": "2013-2019",
+      "event": "Conservative radio host",
+      "significance": "Built media following"
+    },
+    {
+      "date": "2016",
+      "event": "Supported Trump for president",
+      "significance": "Initial backing"
+    },
+    {
+      "date": "2019-08-25",
+      "event": "Announced primary challenge to Trump",
+      "significance": "Ran against Trump in 2020 GOP primary"
+    },
+    {
+      "date": "2020-02-07",
+      "event": "Dropped out of GOP primary",
+      "significance": "Ended presidential campaign"
+    },
+    {
+      "date": "2020-08",
+      "event": "Endorsed Joe Biden",
+      "significance": "Crossed party lines"
+    },
+    {
+      "date": "2024",
+      "event": "Endorsed Kamala Harris",
+      "significance": "Continued opposition to Trump"
+    }
+  ],
+  "credibility": {
+    "background": "Former U.S. Representative, Tea Party leader, conservative radio host, 2020 Republican primary challenger to Trump",
+    "positions": [
+      "U.S. Representative from Illinois (2011-2013)",
+      "Conservative radio host (2013-2019)",
+      "2020 Republican presidential candidate"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is unfit and a would-be dictator",
+    "Trump's role in January 6 was un-American",
+    "Trump is a threat to democracy",
+    "Trump has corrupted the Republican Party",
+    "Trump needs to be stopped at all costs"
+  ],
+  "endorsement": "Endorsed Kamala Harris for President in 2024",
+  "sources": [
+    {
+      "title": "Joe Walsh endorses Biden",
+      "url": "https://www.cnn.com/2020/08/joe-walsh-endorses-biden",
+      "date": "2020-08",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

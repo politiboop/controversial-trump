@@ -1,0 +1,96 @@
+{
+  "id": "mark-esper",
+  "name": "Mark Esper",
+  "role": "Secretary of Defense",
+  "administration": "Trump Administration",
+  "years": "2019-2020",
+  "militaryRank": "Lieutenant Colonel, U.S. Army (Retired)",
+  "category": "former-cabinet",
+  "subCategory": "defense",
+  "photo": null,
+  "summary": "Former Secretary of Defense who was fired by Trump in a tweet and warned that Trump's mishandling of classified documents placed service members and national security at risk.",
+  "keyStatements": [
+    {
+      "quote": "An irresponsible action that places our service members at risk, places our nation's security at risk.",
+      "date": "2023",
+      "source": "CNN",
+      "context": "After stolen documents were found at Mar-a-Lago",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "quote": "No, and I'll tell you why. Because in my view, any elected leader needs to meet some basic criteria: they need to be able to put country over self, they need to have a certain amount of integrity and principle, they need to be able to reach across the aisle and bring people together and unite the country. Look, Donald Trump doesn't meet those marks for me.",
+      "date": "2022",
+      "source": "Interview",
+      "context": "Asked if he would vote for Trump in 2024",
+      "url": null
+    },
+    {
+      "quote": "There's no way I'll vote for Trump, but every day that Trump does something crazy, the door to voting for Biden opens a little bit more.",
+      "date": "2024-03-30",
+      "source": "Bill Maher show",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2017-11-16",
+      "event": "Confirmed as Secretary of the Army",
+      "significance": "Joined Trump administration"
+    },
+    {
+      "date": "2019-07-23",
+      "event": "Became Secretary of Defense",
+      "significance": "Promoted to lead Pentagon"
+    },
+    {
+      "date": "2020-11-09",
+      "event": "Fired by Trump via tweet",
+      "significance": "Dismissed after resisting Trump's wishes"
+    },
+    {
+      "date": "2022-05-10",
+      "event": "Published memoir 'A Sacred Oath'",
+      "significance": "Detailed conflicts with Trump"
+    },
+    {
+      "date": "2023",
+      "event": "Called Trump a security threat",
+      "significance": "Warned about classified documents danger"
+    }
+  ],
+  "credibility": {
+    "background": "Former Secretary of Defense, Secretary of the Army, and Lieutenant Colonel with extensive defense and national security experience",
+    "positions": [
+      "U.S. Secretary of Defense (2019-2020)",
+      "U.S. Secretary of the Army (2017-2019)",
+      "Vice President of Government Relations, Raytheon (2010-2017)"
+    ],
+    "awards": [
+      "Legion of Merit",
+      "Bronze Star Medal",
+      "Kuwait Liberation Medal"
+    ]
+  },
+  "oppositionReasons": [
+    "Trump places himself over country",
+    "Trump lacks integrity and principle",
+    "Trump cannot unite the country",
+    "Trump's handling of classified documents threatens national security"
+  ],
+  "endorsement": "Will not support Trump in 2024",
+  "sources": [
+    {
+      "title": "Trump's former defense secretary tells Bill Maher he's inching closer to voting for Biden",
+      "url": "https://www.rawstory.com/trump-biden-esper-bill-maher/",
+      "date": "2024-03-30",
+      "type": "interview"
+    },
+    {
+      "title": "These Prominent Republicans Are Speaking Out against Trump's 2024 Run",
+      "url": "https://thehill.com/homenews/state-watch/3744045-these-prominent-republicans-are-speaking-out-against-trumps-2024-run",
+      "date": "2022-11-21",
+      "type": "news"
+    }
+  ],
+  "party": "Republican"
+}

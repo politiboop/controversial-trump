@@ -1,0 +1,96 @@
+{
+  "id": "geoff-duncan",
+  "name": "Geoff Duncan",
+  "role": "Lieutenant Governor of Georgia",
+  "administration": null,
+  "years": "2019-2023",
+  "militaryRank": null,
+  "category": "former-officials",
+  "subCategory": "state-official",
+  "photo": null,
+  "summary": "Former Republican Lieutenant Governor of Georgia who refused Trump's pressure to overturn the 2020 election and endorsed Joe Biden, calling Trump 'morally bankrupt.'",
+  "keyStatements": [
+    {
+      "quote": "I'm committed to beating Donald Trump. And while I'll support policy that I believe in, that doesn't mean I have to support a morally bankrupt human being.",
+      "date": "2024",
+      "source": "CNN interview",
+      "url": null
+    },
+    {
+      "quote": "I'm confident that President Biden is the right person for the job at the right time.",
+      "date": "2024-08",
+      "source": "Democratic National Convention speech",
+      "context": "Endorsing Biden",
+      "url": null
+    },
+    {
+      "quote": "Trump lost Georgia. It's not a political statement. It's just a fact.",
+      "date": "2021",
+      "source": "Public statement",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2019-01-14",
+      "event": "Became Lieutenant Governor of Georgia",
+      "significance": "Elected as Republican"
+    },
+    {
+      "date": "2020-11",
+      "event": "Defended integrity of Georgia election",
+      "significance": "Resisted Trump's pressure"
+    },
+    {
+      "date": "2020-12",
+      "event": "Refused to attend Senate hearing on election fraud",
+      "significance": "Stood up to Trump allies"
+    },
+    {
+      "date": "2021",
+      "event": "Faced primary challenges due to Trump opposition",
+      "significance": "Targeted by Trump"
+    },
+    {
+      "date": "2022",
+      "event": "Declined to run for re-election",
+      "significance": "Left office"
+    },
+    {
+      "date": "2024-08",
+      "event": "Endorsed Joe Biden at DNC",
+      "significance": "Crossed party lines"
+    }
+  ],
+  "credibility": {
+    "background": "Former Lieutenant Governor of Georgia, former state legislator, businessman",
+    "positions": [
+      "Lieutenant Governor of Georgia (2019-2023)",
+      "Georgia State Senator (2012-2019)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is morally bankrupt",
+    "Trump pressured officials to overturn legitimate election",
+    "Trump spreads election lies",
+    "Trump is bad for Republican Party",
+    "Trump must be defeated"
+  ],
+  "endorsement": "Endorsed Joe Biden for President in 2024",
+  "sources": [
+    {
+      "title": "Georgia's Lt. Gov. Geoff Duncan endorses Biden",
+      "url": "https://www.cnn.com/politics/geoff-duncan-biden-endorsement",
+      "date": "2024-08",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "cassidy-hutchinson",
+  "name": "Cassidy Hutchinson",
+  "role": "Special Assistant to the President",
+  "administration": "Trump Administration",
+  "years": "2019-2021",
+  "militaryRank": null,
+  "category": "former-administration",
+  "subCategory": "white-house-staff",
+  "photo": null,
+  "summary": "Former White House aide who served as key witness before the January 6 Committee, providing explosive testimony about Trump's actions during the Capitol attack.",
+  "keyStatements": [
+    {
+      "quote": "I'm fucking furious. We're going to get charged with every crime imaginable.",
+      "date": "2021-01-06",
+      "source": "January 6 Committee testimony",
+      "context": "Trump White House Counsel Pat Cipollone's reaction to January 6",
+      "url": null
+    },
+    {
+      "quote": "The president said something to the effect of, 'I don't fucking care that they have weapons. They're not here to hurt me. Take the fucking mags away. Let my people in. They can march to the Capitol from here.'",
+      "date": "2021-01-06",
+      "source": "January 6 Committee testimony",
+      "context": "Trump's response to armed supporters at rally",
+      "url": null
+    },
+    {
+      "quote": "Donald Trump is the most grave threat we will face to our democracy in our lifetime, and potentially in American history.",
+      "date": "2023",
+      "source": "Book 'Enough'",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2019",
+      "event": "Joined Trump White House",
+      "significance": "Started as intern, rose to senior aide"
+    },
+    {
+      "date": "2020-2021",
+      "event": "Served as aide to Mark Meadows",
+      "significance": "Chief of Staff's special assistant"
+    },
+    {
+      "date": "2021-01-06",
+      "event": "Witnessed events of January 6",
+      "significance": "In White House during Capitol attack"
+    },
+    {
+      "date": "2022-06-28",
+      "event": "Testified before January 6 Committee",
+      "significance": "Provided explosive testimony about Trump"
+    },
+    {
+      "date": "2023",
+      "event": "Published memoir 'Enough'",
+      "significance": "Detailed experiences and Trump's unfitness"
+    },
+    {
+      "date": "2024",
+      "event": "Endorsed Kamala Harris",
+      "significance": "Crossed party lines"
+    }
+  ],
+  "credibility": {
+    "background": "Former White House aide with direct access to Oval Office operations, key January 6 witness",
+    "positions": [
+      "Special Assistant to the President (2019-2021)",
+      "Aide to White House Chief of Staff Mark Meadows (2020-2021)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump knew his supporters were armed on January 6",
+    "Trump wanted armed supporters to march to Capitol",
+    "Trump is the gravest threat to democracy in American history",
+    "Trump's actions on January 6 were impeachable",
+    "Trump prioritized overturning election over Constitution"
+  ],
+  "endorsement": "Endorsed Kamala Harris for President in 2024",
+  "sources": [
+    {
+      "title": "Cassidy Hutchinson's January 6 Committee testimony",
+      "url": "https://www.npr.org/cassidy-hutchinson-testimony",
+      "date": "2022-06-28",
+      "type": "testimony"
+    },
+    {
+      "title": "Cassidy Hutchinson endorses Kamala Harris",
+      "url": "https://www.cnn.com/politics/cassidy-hutchinson-endorses-harris",
+      "date": "2024",
+      "type": "news"
+    }
+  ],
+  "party": "Republican"
+}

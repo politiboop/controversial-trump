@@ -1,0 +1,52 @@
+{
+  "id": "pandemic-preparedness-defunded",
+  "title": "Pandemic Preparedness Gutted - $11.4 Billion in COVID Response Cancelled, Bird Flu Vaccine Contracts Terminated",
+  "primaryCategory": "public-health",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-03-26",
+  "summary": "Trump administration cancelled $11.4 billion in CDC grants to state and community health departments for COVID-19 response, testing, and vaccination. Cancelled $766 million in Moderna contracts for pandemic flu vaccines including H5N1 bird flu. Proposed elimination of Hospital Preparedness Program and cuts to Public Health Emergency Preparedness. Administration justified cuts saying 'COVID-19 pandemic is over' and they won't 'waste billions responding to a non-existent pandemic' - despite ongoing measles, bird flu threats.",
+  "keyFacts": [
+    "CDC cancelled $11.4 billion in grants to state and community health departments",
+    "Funds were supporting COVID testing, vaccination, community health workers, addressing disparities",
+    "Cancelled $766 million in Moderna contracts to develop pandemic flu vaccines",
+    "Moderna contracts included vaccines for H5N1 bird flu that could trigger pandemics",
+    "Federal funds were building framework for stronger responses to measles and bird flu outbreaks",
+    "Cuts affect modernizing data systems, laboratory capacity, bioterrorism preparedness",
+    "Proposed elimination of Hospital Preparedness Program",
+    "Cuts to Public Health Emergency Preparedness Program result in hundreds of millions lost",
+    "Administration: 'COVID-19 pandemic is over, HHS will no longer waste billions responding to non-existent pandemic'",
+    "Global health security budget request decreased by $500 million",
+    "USAID international outbreak response staff dropped from 50 to 6",
+    "Experts warn cuts leave U.S. unprepared for next pandemic or disease outbreak",
+    "Cuts occurred as measles outbreaks increased and H5N1 bird flu threatened humans"
+  ],
+  "sources": [
+    {
+      "text": "Trump administration pulls back billions in Covid-era funding for state, local health departments",
+      "url": "https://www.cnn.com/2025/03/26/health/health-department-grant-cuts-cdc-hhs/index.html",
+      "type": "news"
+    },
+    {
+      "text": "Trump administration axes COVID funding for state, community health departments",
+      "url": "https://www.cidrap.umn.edu/covid-19/trump-administration-axes-covid-funding-state-community-health-departments",
+      "type": "news"
+    },
+    {
+      "text": "The Trump Administration's Foreign Aid Review: Status of Global Health Security/Pandemic Preparedness",
+      "url": "https://www.kff.org/global-health-policy/the-trump-administrations-foreign-aid-review-status-of-global-health-security-pandemic-preparedness/",
+      "type": "analysis"
+    },
+    {
+      "text": "Trump's gutting of public health institutions is setting the stage for our next crisis",
+      "url": "https://www.epi.org/blog/trumps-gutting-of-public-health-institutions-is-setting-the-stage-for-our-next-crisis/",
+      "type": "analysis"
+    },
+    {
+      "text": "Freeze of federal health money, followed by abrupt reversal, sows confusion in states",
+      "url": "https://www.washingtonpost.com/health/2026/01/24/public-health-trump-kennedy-cdc/",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["pandemic", "covid-19", "bird-flu", "h5n1", "emergency-preparedness", "moderna", "vaccine-development"]
+}

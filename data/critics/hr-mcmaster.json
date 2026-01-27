@@ -1,0 +1,87 @@
+{
+  "id": "hr-mcmaster",
+  "name": "H.R. McMaster",
+  "role": "National Security Advisor",
+  "administration": "Trump Administration",
+  "years": "2017-2018",
+  "militaryRank": "Lieutenant General, U.S. Army (Retired)",
+  "category": "former-administration",
+  "subCategory": "military-leader",
+  "photo": null,
+  "summary": "Former National Security Advisor who detailed Trump's dangerous ideas and said he abandoned his constitutional oath on January 6.",
+  "keyStatements": [
+    {
+      "quote": "Trump abandoned his oath to 'support and defend the Constitution,' a president's highest obligation.",
+      "date": "2024",
+      "source": "At War with Ourselves: My Tour of Duty in the Trump White House",
+      "context": "Regarding January 6 Capitol attack",
+      "url": null
+    },
+    {
+      "quote": "Why don't we just bomb the drugs?",
+      "date": "2017-2018",
+      "source": "At War with Ourselves",
+      "context": "Example of outlandish Trump remark about Mexico",
+      "url": null
+    },
+    {
+      "quote": "Why don't we take out the whole North Korean Army during one of their parades?",
+      "date": "2017-2018",
+      "source": "At War with Ourselves",
+      "context": "Example of dangerous Trump proposal",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2017-02-20",
+      "event": "Appointed National Security Advisor",
+      "significance": "Became Trump's second National Security Advisor"
+    },
+    {
+      "date": "2018-04-09",
+      "event": "Left White House",
+      "significance": "Replaced by John Bolton"
+    },
+    {
+      "date": "2024",
+      "event": "Published memoir critical of Trump",
+      "significance": "Detailed dangerous proposals and constitutional violations"
+    }
+  ],
+  "credibility": {
+    "background": "Three-star Army general, veteran of Gulf War, Operation Iraqi Freedom, and Afghanistan",
+    "positions": [
+      "National Security Advisor (2017-2018)",
+      "Director, Army Capabilities Integration Center (2014-2017)",
+      "Commander, Maneuver Center of Excellence (2012-2014)"
+    ],
+    "awards": [
+      "Silver Star",
+      "Bronze Star Medal with Valor",
+      "Purple Heart"
+    ]
+  },
+  "oppositionReasons": [
+    "Trump abandoned his constitutional oath on January 6",
+    "Trump proposed dangerous and outlandish military actions",
+    "Oval Office meetings were exercises in 'competitive sycophancy'",
+    "Trump lacks understanding of national security"
+  ],
+  "endorsement": "Opposes Trump's return to office",
+  "sources": [
+    {
+      "title": "At War with Ourselves: My Tour of Duty in the Trump White House",
+      "url": null,
+      "date": "2024",
+      "type": "book"
+    },
+    {
+      "title": "The High-Profile Military Leaders Who Have Come Out Against Donald Trump",
+      "url": "https://www.usnews.com",
+      "date": "2024-10-23",
+      "type": "news"
+    }
+  ],
+  "party": "Independent"
+}

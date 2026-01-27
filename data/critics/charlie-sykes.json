@@ -1,0 +1,96 @@
+{
+  "id": "charlie-sykes",
+  "name": "Charlie Sykes",
+  "role": "Conservative Radio Host and Commentator",
+  "administration": null,
+  "years": null,
+  "militaryRank": null,
+  "category": "commentators",
+  "subCategory": "conservative-media",
+  "photo": null,
+  "summary": "Influential conservative radio host and editor who became a leading Never Trump voice, calling Trump 'a clear and present danger to American democracy.'",
+  "keyStatements": [
+    {
+      "quote": "Donald Trump is a clear and present danger to American democracy and the rule of law.",
+      "date": "2020",
+      "source": "The Bulwark",
+      "url": null
+    },
+    {
+      "quote": "This is not about policy anymore. This is about whether or not we're going to have a constitutional republic.",
+      "date": "2024",
+      "source": "MSNBC interview",
+      "url": null
+    },
+    {
+      "quote": "Trump has exposed the moral rot at the heart of the Republican Party.",
+      "date": "2020",
+      "source": "Interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1993-2016",
+      "event": "Conservative radio host in Wisconsin",
+      "significance": "Influential voice in conservative media"
+    },
+    {
+      "date": "2016",
+      "event": "Opposed Trump's nomination",
+      "significance": "Became Never Trump leader"
+    },
+    {
+      "date": "2016-12",
+      "event": "Retired from radio",
+      "significance": "Left after 23 years"
+    },
+    {
+      "date": "2018",
+      "event": "Became editor-at-large of The Bulwark",
+      "significance": "Anti-Trump conservative publication"
+    },
+    {
+      "date": "2020",
+      "event": "Endorsed Joe Biden",
+      "significance": "Crossed party lines"
+    },
+    {
+      "date": "2024",
+      "event": "Endorsed Kamala Harris",
+      "significance": "Continued opposition to Trump"
+    }
+  ],
+  "credibility": {
+    "background": "Long-time conservative radio host, author, editor of The Bulwark",
+    "positions": [
+      "Editor-at-Large, The Bulwark (2018-present)",
+      "Conservative radio host, WTMJ (1993-2016)",
+      "MSNBC contributor"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is a clear and present danger to democracy",
+    "Trump threatens constitutional republic",
+    "Trump exposed moral rot in Republican Party",
+    "Trump is authoritarian",
+    "Trump has corrupted conservatism"
+  ],
+  "endorsement": "Endorsed Joe Biden in 2020 and Kamala Harris in 2024",
+  "sources": [
+    {
+      "title": "Charlie Sykes on Trump threat to democracy",
+      "url": "https://www.thebulwark.com",
+      "date": "2020",
+      "type": "article"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Independent"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "mick-mulvaney",
+  "name": "Mick Mulvaney",
+  "role": "White House Chief of Staff",
+  "administration": "Trump Administration",
+  "years": "2019-2020",
+  "militaryRank": null,
+  "category": "former-administration",
+  "subCategory": "chief-of-staff",
+  "photo": null,
+  "summary": "Former Acting White House Chief of Staff who resigned as Special Envoy to Northern Ireland after January 6 and later criticized Trump's fitness for office.",
+  "keyStatements": [
+    {
+      "quote": "I can't do it. I can't stay here. Those who choose to stay, and I have talked with some of them, are choosing to stay because they're worried the president might put someone worse in.",
+      "date": "2021-01-07",
+      "source": "CNBC interview",
+      "context": "On resigning after January 6",
+      "url": null
+    },
+    {
+      "quote": "We didn't sign up for that.",
+      "date": "2021-01-07",
+      "source": "Interview",
+      "context": "On the Capitol attack",
+      "url": null
+    },
+    {
+      "quote": "Trump has lost the confidence of many in the Republican Party.",
+      "date": "2024",
+      "source": "Interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2017-02-16",
+      "event": "Became Director of OMB",
+      "significance": "Joined Trump administration"
+    },
+    {
+      "date": "2019-01-02",
+      "event": "Became Acting White House Chief of Staff",
+      "significance": "Replaced John Kelly"
+    },
+    {
+      "date": "2020-03-06",
+      "event": "Left Chief of Staff role",
+      "significance": "Became Special Envoy to Northern Ireland"
+    },
+    {
+      "date": "2021-01-07",
+      "event": "Resigned as Special Envoy",
+      "significance": "Left after January 6 attack"
+    },
+    {
+      "date": "2024",
+      "event": "Criticized Trump's fitness",
+      "significance": "Continued distancing from Trump"
+    }
+  ],
+  "credibility": {
+    "background": "Former White House Chief of Staff, OMB Director, U.S. Representative, served in multiple Trump roles",
+    "positions": [
+      "Acting White House Chief of Staff (2019-2020)",
+      "Director, Office of Management and Budget (2017-2020)",
+      "U.S. Representative from South Carolina (2011-2017)",
+      "Special Envoy to Northern Ireland (2020-2021)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Could not continue serving after January 6",
+    "Didn't sign up for violence and insurrection",
+    "Trump has lost confidence of Republican Party",
+    "Trump's actions on January 6 crossed a line"
+  ],
+  "endorsement": "Resigned in protest after January 6; has distanced himself from Trump",
+  "sources": [
+    {
+      "title": "Mick Mulvaney resigns after Capitol riot",
+      "url": "https://www.cnbc.com/mick-mulvaney-resigns-january-6",
+      "date": "2021-01-07",
+      "type": "interview"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "asa-hutchinson",
+  "name": "Asa Hutchinson",
+  "role": "Governor of Arkansas",
+  "administration": null,
+  "years": "2015-2023",
+  "militaryRank": null,
+  "category": "former-officials",
+  "subCategory": "governor",
+  "photo": null,
+  "summary": "Former Governor of Arkansas and 2024 Republican presidential candidate who refused to endorse Trump, calling him 'morally disqualified' and unfit for office.",
+  "keyStatements": [
+    {
+      "quote": "I do believe that Donald Trump has disqualified himself with his conduct after the 2020 election. January 6 is a line in the sand for me.",
+      "date": "2023",
+      "source": "Campaign statement",
+      "url": null
+    },
+    {
+      "quote": "Donald Trump is morally disqualified from being president again.",
+      "date": "2023",
+      "source": "Interview",
+      "url": null
+    },
+    {
+      "quote": "I will not support Donald Trump. I think he's unfit for office.",
+      "date": "2024",
+      "source": "Public statement",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2015-01-13",
+      "event": "Became Governor of Arkansas",
+      "significance": "Elected as Republican governor"
+    },
+    {
+      "date": "2023-01-10",
+      "event": "Completed second term as governor",
+      "significance": "Left office"
+    },
+    {
+      "date": "2023-04-02",
+      "event": "Announced 2024 presidential campaign",
+      "significance": "Ran as anti-Trump Republican"
+    },
+    {
+      "date": "2024-01-16",
+      "event": "Suspended presidential campaign",
+      "significance": "Ended campaign after Iowa"
+    },
+    {
+      "date": "2024",
+      "event": "Refused to endorse Trump",
+      "significance": "Maintained opposition"
+    }
+  ],
+  "credibility": {
+    "background": "Former Governor of Arkansas, former Homeland Security official, former U.S. Attorney",
+    "positions": [
+      "Governor of Arkansas (2015-2023)",
+      "Under Secretary for Border and Transportation Security, DHS (2003-2005)",
+      "Administrator, Drug Enforcement Administration (2001-2003)",
+      "U.S. Representative from Arkansas (1997-2001)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is morally disqualified from being president",
+    "Trump's conduct after 2020 election was disqualifying",
+    "January 6 is a line in the sand",
+    "Trump is unfit for office",
+    "Republican Party needs to move past Trump"
+  ],
+  "endorsement": "Refuses to endorse Trump; ran against him in 2024 primary",
+  "sources": [
+    {
+      "title": "Asa Hutchinson: Trump is morally disqualified",
+      "url": "https://www.cnn.com/politics/asa-hutchinson-trump-disqualified",
+      "date": "2023",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

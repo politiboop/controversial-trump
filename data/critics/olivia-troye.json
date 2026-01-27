@@ -1,0 +1,92 @@
+{
+  "id": "olivia-troye",
+  "name": "Olivia Troye",
+  "role": "Homeland Security Advisor to Vice President Pence",
+  "administration": "Trump Administration",
+  "years": "2018-2020",
+  "militaryRank": null,
+  "category": "former-administration",
+  "subCategory": "national-security",
+  "photo": null,
+  "summary": "Former homeland security advisor to Vice President Pence who resigned in protest of Trump's COVID-19 response and endorsed Joe Biden and Kamala Harris.",
+  "keyStatements": [
+    {
+      "quote": "The president's COVID response was deadly and inept. He was more concerned about the economy and his reelection than American lives.",
+      "date": "2020-09",
+      "source": "Video statement",
+      "url": null
+    },
+    {
+      "quote": "If Donald Trump wins a second term, it will be the death of American democracy.",
+      "date": "2024",
+      "source": "Interview",
+      "url": null
+    },
+    {
+      "quote": "I saw firsthand how he would say one thing in private and another in public. He doesn't care about the American people.",
+      "date": "2020",
+      "source": "Public statement",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2018",
+      "event": "Joined Vice President's office",
+      "significance": "Became homeland security advisor"
+    },
+    {
+      "date": "2020",
+      "event": "Served on White House Coronavirus Task Force",
+      "significance": "Witnessed Trump's COVID response firsthand"
+    },
+    {
+      "date": "2020-08",
+      "event": "Resigned from administration",
+      "significance": "Left over Trump's handling of pandemic"
+    },
+    {
+      "date": "2020-09",
+      "event": "Publicly endorsed Joe Biden",
+      "significance": "Released video criticizing Trump"
+    },
+    {
+      "date": "2024",
+      "event": "Endorsed Kamala Harris",
+      "significance": "Continued opposition to Trump"
+    }
+  ],
+  "credibility": {
+    "background": "Former homeland security and counterterrorism advisor, national security professional with experience in DHS and DOD",
+    "positions": [
+      "Homeland Security Advisor to Vice President Pence (2018-2020)",
+      "White House Coronavirus Task Force member (2020)",
+      "Department of Homeland Security official",
+      "Department of Defense official"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump's COVID response was deadly and inept",
+    "Trump prioritized economy and reelection over American lives",
+    "Trump doesn't care about the American people",
+    "Trump says different things in private vs. public",
+    "Trump winning second term would end American democracy"
+  ],
+  "endorsement": "Endorsed Kamala Harris for President in 2024",
+  "sources": [
+    {
+      "title": "Ex-Pence aide Olivia Troye endorses Biden",
+      "url": "https://www.cnn.com/politics/olivia-troye-biden-endorsement",
+      "date": "2020-09",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

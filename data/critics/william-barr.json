@@ -1,0 +1,104 @@
+{
+  "id": "william-barr",
+  "name": "William Barr",
+  "role": "Attorney General",
+  "administration": "Trump Administration",
+  "years": "2019-2020",
+  "militaryRank": null,
+  "category": "former-cabinet",
+  "subCategory": "justice-department",
+  "photo": null,
+  "summary": "Former Attorney General who was one of Trump's most loyal defenders but broke with him after the 2020 election, calling Trump's fraud claims 'bullshit' and later saying Trump is unfit for office.",
+  "keyStatements": [
+    {
+      "quote": "We realized from the beginning it was just bullshit.",
+      "date": "2021",
+      "source": "January 6 Committee testimony",
+      "context": "On Trump's election fraud claims",
+      "url": null
+    },
+    {
+      "quote": "Someone who engaged in that kind of bullying about a process that is fundamental to our system and to our self-government shouldn't be anywhere near the Oval Office.",
+      "date": "2023",
+      "source": "Interview",
+      "context": "On Trump's pressure campaign to overturn 2020 election",
+      "url": null
+    },
+    {
+      "quote": "He's become a consummate narcissist. He has less of an interest in patriotism or policy than he does in himself.",
+      "date": "2024",
+      "source": "Interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2019-02-14",
+      "event": "Confirmed as Attorney General",
+      "significance": "Second time serving as AG (first under George H.W. Bush)"
+    },
+    {
+      "date": "2019-03",
+      "event": "Released summary of Mueller Report",
+      "significance": "Defended Trump"
+    },
+    {
+      "date": "2020-12-01",
+      "event": "Announced no evidence of widespread election fraud",
+      "significance": "First major break with Trump"
+    },
+    {
+      "date": "2020-12-14",
+      "event": "Resigned as Attorney General",
+      "significance": "Left after refusing to back fraud claims"
+    },
+    {
+      "date": "2021",
+      "event": "Testified to January 6 Committee",
+      "significance": "Called fraud claims 'bullshit'"
+    },
+    {
+      "date": "2023",
+      "event": "Said Trump shouldn't be near Oval Office",
+      "significance": "Declared Trump unfit"
+    },
+    {
+      "date": "2024",
+      "event": "Called Trump a 'consummate narcissist'",
+      "significance": "Continued criticism"
+    }
+  ],
+  "credibility": {
+    "background": "Former Attorney General under two presidents, former CIA General Counsel, conservative legal scholar",
+    "positions": [
+      "U.S. Attorney General (2019-2020)",
+      "U.S. Attorney General (1991-1993)",
+      "Deputy Attorney General (1990-1991)",
+      "Assistant Attorney General (1989-1990)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump's election fraud claims were baseless 'bullshit'",
+    "Trump bullied officials to overturn election results",
+    "Trump has become a consummate narcissist",
+    "Trump cares more about himself than patriotism or policy",
+    "Trump is unfit to be near the Oval Office"
+  ],
+  "endorsement": "Says Trump shouldn't be president but will vote for him over Biden/Harris",
+  "sources": [
+    {
+      "title": "Barr: Trump election fraud claims were 'bullshit'",
+      "url": "https://www.washingtonpost.com/politics/2022/06/13/barr-trump-election-fraud-bullshit/",
+      "date": "2022-06-13",
+      "type": "news"
+    },
+    {
+      "title": "Barr says Trump shouldn't be anywhere near Oval Office",
+      "url": "https://www.cnn.com/politics/barr-trump-oval-office",
+      "date": "2023",
+      "type": "interview"
+    }
+  ],
+  "party": "Republican"
+}

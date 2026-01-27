@@ -1,0 +1,100 @@
+{
+  "id": "adam-kinzinger",
+  "name": "Adam Kinzinger",
+  "role": "U.S. Representative from Illinois",
+  "administration": null,
+  "years": "2011-2023",
+  "militaryRank": "Lieutenant Colonel, U.S. Air Force (Reserves)",
+  "category": "congress",
+  "subCategory": "representative",
+  "photo": null,
+  "summary": "Former Republican Congressman and Air Force officer who served on the January 6 Committee and became one of Trump's most vocal GOP critics, endorsing Kamala Harris in 2024.",
+  "keyStatements": [
+    {
+      "quote": "Donald Trump is a weak man pretending to be strong. He is a small man pretending to be big. He's a faithless man pretending to be righteous.",
+      "date": "2022",
+      "source": "January 6 Committee hearing",
+      "url": null
+    },
+    {
+      "quote": "Trump has utterly failed this country.",
+      "date": "2021",
+      "source": "Public statement",
+      "context": "After January 6 attack",
+      "url": null
+    },
+    {
+      "quote": "Country over party. Democracy over demagogues. I'm endorsing Kamala Harris.",
+      "date": "2024",
+      "source": "Social media",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2011-01-03",
+      "event": "Elected to U.S. House of Representatives",
+      "significance": "Began congressional career"
+    },
+    {
+      "date": "2021-01-13",
+      "event": "Voted to impeach Trump",
+      "significance": "One of 10 House Republicans to vote for impeachment after January 6"
+    },
+    {
+      "date": "2021-07-01",
+      "event": "Appointed to January 6 Committee",
+      "significance": "One of two Republicans on the committee"
+    },
+    {
+      "date": "2022-01-03",
+      "event": "Left Republican Party",
+      "significance": "Became independent"
+    },
+    {
+      "date": "2023-01-03",
+      "event": "Left Congress",
+      "significance": "Did not seek re-election"
+    },
+    {
+      "date": "2024",
+      "event": "Endorsed Kamala Harris",
+      "significance": "Crossed party lines to oppose Trump"
+    }
+  ],
+  "credibility": {
+    "background": "U.S. Representative, Lieutenant Colonel in Air Force Reserve, served on January 6 Committee, veteran of Iraq and Afghanistan",
+    "positions": [
+      "U.S. Representative from Illinois (2011-2023)",
+      "Lieutenant Colonel, U.S. Air Force (Reserves)",
+      "Member, January 6 Committee (2021-2023)",
+      "Senior Political Commentator, CNN (2023-present)"
+    ],
+    "awards": [
+      "Air Medal"
+    ]
+  },
+  "oppositionReasons": [
+    "Trump incited the January 6 attack on the Capitol",
+    "Trump is a threat to democracy",
+    "Trump is weak and lacks moral character",
+    "Trump has corrupted the Republican Party",
+    "Trump prioritizes personal power over country"
+  ],
+  "endorsement": "Endorsed Kamala Harris for President in 2024",
+  "sources": [
+    {
+      "title": "Adam Kinzinger endorses Kamala Harris",
+      "url": "https://www.cnn.com/politics/adam-kinzinger-endorses-kamala-harris",
+      "date": "2024",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

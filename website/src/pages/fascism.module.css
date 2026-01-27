@@ -1,0 +1,758 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Alert Banner */
+.alertBanner {
+  background: linear-gradient(135deg, #991b1b 0%, #dc2626 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  margin-bottom: 3rem;
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.alertIcon {
+  font-size: 3rem;
+  flex-shrink: 0;
+}
+
+.alertContent h2 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.8rem;
+}
+
+.alertContent p {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* Introduction */
+.intro {
+  margin-bottom: 3rem;
+}
+
+.intro h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+  color: var(--ifm-color-emphasis-900);
+}
+
+.subtitle {
+  font-size: 1.4rem;
+  color: var(--ifm-color-emphasis-700);
+  margin-bottom: 2rem;
+  font-weight: 500;
+}
+
+.expertQuote {
+  background: var(--ifm-color-emphasis-100);
+  border-left: 4px solid var(--ifm-color-primary);
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 0.25rem;
+}
+
+.expertQuote blockquote {
+  margin: 0 0 1rem 0;
+  font-size: 1.15rem;
+  line-height: 1.7;
+  font-style: italic;
+}
+
+.expertQuote cite {
+  display: block;
+  text-align: right;
+  font-style: normal;
+  color: var(--ifm-color-emphasis-700);
+  font-weight: 600;
+}
+
+.context {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: var(--ifm-color-emphasis-800);
+}
+
+/* Stats Grid */
+.statsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 3rem 0;
+}
+
+.statBox {
+  background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.statNumber {
+  font-size: 3rem;
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+}
+
+.statLabel {
+  font-size: 1rem;
+  line-height: 1.4;
+  font-weight: 500;
+}
+
+/* Section */
+.section {
+  margin: 4rem 0;
+  padding: 2rem 0;
+  border-top: 2px solid var(--ifm-color-emphasis-200);
+}
+
+.sectionTitle {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: var(--ifm-color-emphasis-900);
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.icon {
+  font-size: 2rem;
+}
+
+.sectionIntro {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  margin-bottom: 2rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+/* Characteristics List */
+.characteristicsList {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.characteristic {
+  background: var(--ifm-color-emphasis-100);
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  border-left: 4px solid var(--ifm-color-primary);
+}
+
+.characteristicHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.characteristicHeader h3 {
+  margin: 0;
+  font-size: 1.3rem;
+  color: var(--ifm-color-emphasis-900);
+}
+
+.matchBadge,
+.partialBadge {
+  padding: 0.4rem 0.8rem;
+  border-radius: 1rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.matchBadge {
+  background: #dcfce7;
+  color: #166534;
+  border: 2px solid #166534;
+}
+
+.partialBadge {
+  background: #fef3c7;
+  color: #92400e;
+  border: 2px solid #92400e;
+}
+
+.definition {
+  font-size: 0.95rem;
+  color: var(--ifm-color-emphasis-700);
+  margin-bottom: 0.75rem;
+}
+
+.trumpExample {
+  background: white;
+  padding: 1rem;
+  border-radius: 0.25rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.trumpExample strong {
+  color: var(--ifm-color-primary);
+}
+
+.tally {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%);
+  color: white;
+  border-radius: 0.5rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+/* Rhetorical Comparisons */
+.rhetoricalComparisons {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.comparison {
+  background: var(--ifm-color-emphasis-50);
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  border: 2px solid #dc2626;
+}
+
+.comparison h3 {
+  margin: 0 0 1rem 0;
+  font-size: 1.5rem;
+  color: #dc2626;
+}
+
+.comparisonGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.comparisonSide {
+  background: white;
+  padding: 1.25rem;
+  border-radius: 0.25rem;
+  border-left: 4px solid var(--ifm-color-primary);
+}
+
+.comparisonSide strong {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: var(--ifm-color-emphasis-900);
+  font-size: 1rem;
+}
+
+.comparisonSide p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+.expertNote {
+  background: #fef3c7;
+  padding: 1rem;
+  border-radius: 0.25rem;
+  border-left: 4px solid #f59e0b;
+  font-size: 0.95rem;
+}
+
+.expertNote strong {
+  color: #92400e;
+}
+
+.warningBox {
+  background: #fee2e2;
+  border: 2px solid #dc2626;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  margin-top: 2rem;
+}
+
+.warningBox strong {
+  color: #991b1b;
+}
+
+/* Timeline */
+.timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.timelineRow {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  gap: 1rem;
+  align-items: center;
+  background: var(--ifm-color-emphasis-100);
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.timelineCell {
+  padding: 0.5rem;
+}
+
+.timelineCell strong {
+  color: var(--ifm-color-primary);
+}
+
+.tacticBadge,
+.criticalBadge {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.tacticBadge {
+  background: #dbeafe;
+  color: #1e40af;
+  border: 2px solid #1e40af;
+}
+
+.criticalBadge {
+  background: #fee2e2;
+  color: #991b1b;
+  border: 2px solid #991b1b;
+}
+
+.criticalDifference {
+  background: #dcfce7;
+  border: 2px solid #166534;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  margin-top: 2rem;
+}
+
+.criticalDifference h3 {
+  margin: 0 0 1rem 0;
+  color: #166534;
+  font-size: 1.3rem;
+}
+
+.criticalDifference p {
+  margin: 0;
+  line-height: 1.7;
+}
+
+/* Expert Grid */
+.expertGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.expertCard {
+  background: var(--ifm-color-emphasis-100);
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  border-left: 4px solid var(--ifm-color-primary);
+}
+
+.expertCard h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.3rem;
+  color: var(--ifm-color-emphasis-900);
+}
+
+.credentials {
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-600);
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.quote {
+  font-style: italic;
+  line-height: 1.6;
+  margin-bottom: 0.5rem;
+}
+
+.note {
+  font-size: 0.85rem;
+  color: var(--ifm-color-emphasis-600);
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--ifm-color-emphasis-300);
+}
+
+/* Call to Action */
+.callToAction {
+  background: linear-gradient(135deg, #7c3aed 0%, #6d28d9 100%);
+  color: white;
+  padding: 3rem;
+  border-radius: 0.5rem;
+  margin: 4rem 0;
+}
+
+.callToAction h2 {
+  margin: 0 0 1.5rem 0;
+  font-size: 2rem;
+  color: white;
+}
+
+.callToAction p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin-bottom: 1.5rem;
+}
+
+.finalWarning {
+  background: rgba(255, 255, 255, 0.15);
+  padding: 1.5rem;
+  border-radius: 0.25rem;
+  border-left: 4px solid white;
+  margin-top: 2rem;
+}
+
+.finalWarning p {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+/* Sources */
+.sources {
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 2px solid var(--ifm-color-emphasis-200);
+}
+
+.sources h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.sources ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sources li {
+  margin-bottom: 0.75rem;
+}
+
+.sources a {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.sources a:hover {
+  text-decoration: underline;
+}
+
+/* Anti-Intellectualism Section */
+.expertiseAttacks {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.attackCategory {
+  background: var(--ifm-color-emphasis-100);
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  border-left: 4px solid #dc2626;
+}
+
+.attackCategory h3 {
+  margin: 0 0 1rem 0;
+  font-size: 1.4rem;
+  color: var(--ifm-color-emphasis-900);
+}
+
+.attackList {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.attackItem {
+  background: white;
+  padding: 1rem;
+  border-radius: 0.25rem;
+}
+
+.attackItem strong {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: var(--ifm-color-primary);
+  font-size: 1rem;
+}
+
+.attackItem ul {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.attackItem li {
+  margin-bottom: 0.3rem;
+  line-height: 1.6;
+}
+
+.cultOfPersonality {
+  background: linear-gradient(135deg, #7c3aed 0%, #6d28d9 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  margin-top: 2rem;
+}
+
+.cultOfPersonality h3 {
+  margin: 0 0 1rem 0;
+  font-size: 1.5rem;
+  color: white;
+}
+
+.cultOfPersonality p {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.trumpQuotes {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.trumpQuotes blockquote {
+  background: rgba(255, 255, 255, 0.15);
+  padding: 1rem;
+  border-radius: 0.25rem;
+  border-left: 3px solid white;
+  margin: 0;
+  font-size: 0.95rem;
+  font-style: italic;
+}
+
+/* Fascist Playbook Section */
+.playbookGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.playbookItem {
+  background: var(--ifm-color-emphasis-100);
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  border-left: 4px solid var(--ifm-color-primary);
+}
+
+.playbookItem h3 {
+  margin: 0 0 1rem 0;
+  font-size: 1.3rem;
+  color: var(--ifm-color-emphasis-900);
+}
+
+.playbookContent {
+  font-size: 0.95rem;
+}
+
+.playbookDef {
+  background: #fef3c7;
+  padding: 0.75rem;
+  border-radius: 0.25rem;
+  margin-bottom: 0.75rem;
+  border-left: 3px solid #f59e0b;
+}
+
+.playbookDef strong {
+  color: #92400e;
+}
+
+.playbookTrump {
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: var(--ifm-color-primary);
+}
+
+.playbookContent ul {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.playbookContent li {
+  margin-bottom: 0.3rem;
+  line-height: 1.5;
+}
+
+/* Nazi Parallels Section */
+.naziParallels {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.parallelItem {
+  background: #fee2e2;
+  border: 2px solid #dc2626;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+}
+
+.parallelItem h3 {
+  margin: 0 0 1rem 0;
+  font-size: 1.4rem;
+  color: #991b1b;
+}
+
+.parallelComparison {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.parallelSide {
+  background: white;
+  padding: 1.25rem;
+  border-radius: 0.25rem;
+  border-left: 4px solid #dc2626;
+}
+
+.parallelSide strong {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #991b1b;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.parallelSide p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+.importantCaveat {
+  background: #dcfce7;
+  border: 3px solid #166534;
+  border-radius: 0.5rem;
+  padding: 2rem;
+  margin-top: 2rem;
+}
+
+.importantCaveat h3 {
+  margin: 0 0 1rem 0;
+  color: #166534;
+  font-size: 1.4rem;
+}
+
+.importantCaveat p {
+  margin: 0;
+  line-height: 1.8;
+  font-size: 1.05rem;
+}
+
+.importantCaveat strong {
+  color: #166534;
+}
+
+.importantCaveat em {
+  font-style: italic;
+  color: #166534;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+
+  .intro h1 {
+    font-size: 2rem;
+  }
+
+  .subtitle {
+    font-size: 1.1rem;
+  }
+
+  .alertBanner {
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1.5rem;
+  }
+
+  .alertIcon {
+    font-size: 2rem;
+  }
+
+  .alertContent h2 {
+    font-size: 1.4rem;
+  }
+
+  .alertContent p {
+    font-size: 1rem;
+  }
+
+  .statsGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .sectionTitle {
+    font-size: 1.5rem;
+  }
+
+  .comparisonGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .timelineRow {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+
+  .expertGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .playbookGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .trumpQuotes {
+    grid-template-columns: 1fr;
+  }
+
+  .parallelComparison {
+    grid-template-columns: 1fr;
+  }
+
+  .callToAction {
+    padding: 2rem 1.5rem;
+  }
+
+  .callToAction h2 {
+    font-size: 1.5rem;
+  }
+
+  .finalWarning p {
+    font-size: 1.05rem;
+  }
+
+  .cultOfPersonality {
+    padding: 1.5rem;
+  }
+
+  .importantCaveat {
+    padding: 1.5rem;
+  }
+}

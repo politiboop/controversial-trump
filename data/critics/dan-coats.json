@@ -1,0 +1,63 @@
+{
+  "id": "dan-coats",
+  "name": "Dan Coats",
+  "role": "Director of National Intelligence",
+  "administration": "Trump Administration",
+  "years": "2017-2019",
+  "militaryRank": null,
+  "category": "former-administration",
+  "subCategory": "intelligence",
+  "photo": null,
+  "summary": "Former Director of National Intelligence who warned that Trump's mishandling of classified documents could cost lives.",
+  "keyStatements": [
+    {
+      "quote": "Lives could be lost",
+      "date": "2024-02-26",
+      "source": "Newsweek",
+      "context": "Warning about Trump's alleged possession of classified documents",
+      "url": "https://www.newsweek.com"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2017-03-16",
+      "event": "Confirmed as Director of National Intelligence",
+      "significance": "Became Trump's top intelligence official"
+    },
+    {
+      "date": "2019-08-15",
+      "event": "Left office",
+      "significance": "Resigned after tensions with Trump over intelligence assessments"
+    },
+    {
+      "date": "2024-02-26",
+      "event": "Raised concerns about classified documents",
+      "significance": "Warned about national security risks from Trump's behavior"
+    }
+  ],
+  "credibility": {
+    "background": "Former U.S. Senator and Ambassador to Germany with extensive national security experience",
+    "positions": [
+      "Director of National Intelligence (2017-2019)",
+      "U.S. Senator from Indiana (1989-1999, 2011-2017)",
+      "U.S. Ambassador to Germany (2001-2005)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump's handling of classified documents threatens national security",
+    "Trump's behavior could cost American lives",
+    "Fundamental disagreements over intelligence and security",
+    "Concerns about Trump's relationship with Russia"
+  ],
+  "endorsement": "Endorsed Mike Pence in 2024 primaries",
+  "sources": [
+    {
+      "title": "Ex-Trump aide raises red flag on Donald's behavior: 'Lives could be lost'",
+      "url": "https://www.newsweek.com/dan-coats-raises-red-flag-donald-trump-behavior-lives-could-lost-1873503",
+      "date": "2024-02-26",
+      "type": "news"
+    }
+  ],
+  "party": "Republican"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "michael-cohen",
+  "name": "Michael Cohen",
+  "role": "Personal Attorney to Donald Trump",
+  "administration": null,
+  "years": "2006-2018",
+  "militaryRank": null,
+  "category": "former-associates",
+  "subCategory": "personal-attorney",
+  "photo": null,
+  "summary": "Trump's former personal attorney and 'fixer' who pleaded guilty to campaign finance violations and became a key witness against Trump, calling him a 'racist,' 'conman,' and 'cheat.'",
+  "keyStatements": [
+    {
+      "quote": "He is a racist. He is a conman. He is a cheat.",
+      "date": "2019-02-27",
+      "source": "Congressional testimony",
+      "url": null
+    },
+    {
+      "quote": "I fear that if he loses the election in 2020, there will never be a peaceful transition of power.",
+      "date": "2019-02-27",
+      "source": "Congressional testimony",
+      "url": null
+    },
+    {
+      "quote": "Donald Trump is a man who ran for office to make his brand great, not to make our country great. He had no desire or intention to lead this nation — only to market himself and to build his wealth and power.",
+      "date": "2019-02-27",
+      "source": "Congressional testimony",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2006",
+      "event": "Became Trump's personal attorney",
+      "significance": "Started working for Trump"
+    },
+    {
+      "date": "2016",
+      "event": "Arranged hush money payments",
+      "significance": "Paid Stormy Daniels to influence election"
+    },
+    {
+      "date": "2018-04-09",
+      "event": "FBI raided office and home",
+      "significance": "Investigation into payments began"
+    },
+    {
+      "date": "2018-08-21",
+      "event": "Pleaded guilty to campaign finance violations",
+      "significance": "Implicated Trump in crimes"
+    },
+    {
+      "date": "2018-12-12",
+      "event": "Sentenced to three years in prison",
+      "significance": "Convicted for Trump-related crimes"
+    },
+    {
+      "date": "2019-02-27",
+      "event": "Testified before Congress",
+      "significance": "Called Trump racist, conman, cheat"
+    },
+    {
+      "date": "2024",
+      "event": "Testified in Trump criminal trial",
+      "significance": "Key witness in hush money case"
+    }
+  ],
+  "credibility": {
+    "background": "Former personal attorney to Trump for over a decade, insider to Trump Organization operations",
+    "positions": [
+      "Personal Attorney to Donald Trump (2006-2018)",
+      "Executive Vice President, Trump Organization",
+      "Co-President, Trump Entertainment"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is a racist, conman, and cheat",
+    "Trump ran for office to enrich himself, not serve country",
+    "Trump would not peacefully transfer power if he lost",
+    "Trump directed illegal campaign finance scheme",
+    "Trump has no desire to lead the nation"
+  ],
+  "endorsement": "Opposes Trump and testified against him",
+  "sources": [
+    {
+      "title": "Michael Cohen's congressional testimony",
+      "url": "https://www.npr.org/michael-cohen-testimony-trump",
+      "date": "2019-02-27",
+      "type": "testimony"
+    },
+    {
+      "title": "Michael Cohen testifies in Trump trial",
+      "url": "https://www.cnn.com/politics/michael-cohen-trump-trial",
+      "date": "2024",
+      "type": "news"
+    }
+  ],
+  "party": "Democrat"
+}

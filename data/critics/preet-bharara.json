@@ -1,0 +1,91 @@
+{
+  "id": "preet-bharara",
+  "name": "Preet Bharara",
+  "role": "U.S. Attorney for Southern District of New York",
+  "administration": "Obama Administration",
+  "years": "2009-2017",
+  "militaryRank": null,
+  "category": "former-officials",
+  "subCategory": "prosecutor",
+  "photo": null,
+  "summary": "Former U.S. Attorney who was fired by Trump after refusing to resign and later warned Trump's attacks on justice system are 'authoritarian' and 'dangerous.'",
+  "keyStatements": [
+    {
+      "quote": "The thing that concerns me the most is the attack on institutions. The Justice Department, the FBI, the judiciary, the press. These attacks are authoritarian in nature.",
+      "date": "2018",
+      "source": "Interview",
+      "url": null
+    },
+    {
+      "quote": "I think Donald Trump's unfitness for office is manifest.",
+      "date": "2020",
+      "source": "Podcast",
+      "url": null
+    },
+    {
+      "quote": "What we're seeing is unprecedented. A president who believes he is above the law.",
+      "date": "2019",
+      "source": "Interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2009-08-13",
+      "event": "Became U.S. Attorney for SDNY",
+      "significance": "Nominated by Obama"
+    },
+    {
+      "date": "2017-03-10",
+      "event": "Asked to stay by Trump",
+      "significance": "Trump personally requested he stay"
+    },
+    {
+      "date": "2017-03-11",
+      "event": "Fired by Trump",
+      "significance": "Dismissed day after refusing to resign"
+    },
+    {
+      "date": "2017-present",
+      "event": "Host of 'Stay Tuned with Preet' podcast",
+      "significance": "Commentator on Trump and rule of law"
+    },
+    {
+      "date": "2018",
+      "event": "Warned about Trump's authoritarianism",
+      "significance": "Criticized attacks on institutions"
+    }
+  ],
+  "credibility": {
+    "background": "Former U.S. Attorney for Southern District of New York, renowned prosecutor",
+    "positions": [
+      "U.S. Attorney, Southern District of New York (2009-2017)",
+      "Assistant U.S. Attorney, SDNY (2000-2005)",
+      "Chief Counsel, U.S. Senate Judiciary Committee (2005-2009)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump's attacks on institutions are authoritarian",
+    "Trump's unfitness for office is manifest",
+    "Trump believes he is above the law",
+    "Trump attacks Justice Department and FBI",
+    "Trump undermines rule of law"
+  ],
+  "endorsement": "Opposes Trump's presidency",
+  "sources": [
+    {
+      "title": "Preet Bharara on Trump's authoritarianism",
+      "url": "https://www.cnn.com/politics/preet-bharara-trump-authoritarian",
+      "date": "2018",
+      "type": "interview"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Democrat"
+}

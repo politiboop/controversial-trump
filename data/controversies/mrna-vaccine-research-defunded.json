@@ -1,0 +1,31 @@
+{
+  "id": "mrna-vaccine-research-defunded",
+  "title": "Defunding mRNA Vaccine Research - BARDA Terminates 22 Contracts",
+  "primaryCategory": "public-health",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-08-06",
+  "summary": "BARDA (Biomedical Advanced Research and Development Authority) terminated 22 contracts with university researchers and private companies developing new uses for mRNA technology. Secretary Kennedy claimed shift toward 'whole killed virus' vaccines instead. Public health experts express dismay, noting mRNA technology proved critical for rapid COVID-19 vaccine development and has potential for cancer treatments, flu vaccines, and other medical breakthroughs.",
+  "keyFacts": [
+    "BARDA terminated 22 contracts for mRNA vaccine and technology research",
+    "Contracts included university researchers and private companies",
+    "Research focused on developing new uses for mRNA technology",
+    "HHS Secretary Kennedy claims shifting focus to 'whole killed virus' vaccines",
+    "mRNA technology proved critical for rapid COVID-19 vaccine development",
+    "Technology has potential for cancer treatments, better flu vaccines, other medical breakthroughs",
+    "Public health experts dismayed by defunding of promising research area",
+    "Moderna and Pfizer's mRNA COVID vaccines saved millions of lives globally",
+    "mRNA platform allows faster vaccine development for emerging diseases",
+    "Cuts undermine U.S. leadership in cutting-edge vaccine technology",
+    "Decision made despite mRNA technology's proven success and future potential",
+    "Part of broader anti-vaccine agenda under Kennedy's leadership"
+  ],
+  "sources": [
+    {
+      "text": "Public health experts dismayed by RFK Jr.'s defunding of mRNA vaccine research",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/08/06/nx-s1-5493544/rfk-defunding-mrna-vaccine-research",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["mrna", "vaccines", "barda", "research", "rfk-jr", "covid-19", "cancer-treatment"]
+}

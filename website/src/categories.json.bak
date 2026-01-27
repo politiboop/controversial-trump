@@ -4,9 +4,9 @@
       "id": "democracy",
       "title": "Democracy & Rule of Law",
       "icon": "🗽",
-      "description": "Attacks on the electoral process, democratic institutions, election fraud claims, and authoritarian threats to democracy itself",
+      "description": "Attacks on democratic institutions, election fraud claims, and threats to constitutional norms",
       "color": "#dc2626",
-      "examples": ["Big Lie", "January 6", "Dictator statements", "Voter suppression"]
+      "examples": ["Big Lie", "January 6", "Dictator statements"]
     },
     "women": {
       "id": "women",
@@ -28,25 +28,25 @@
       "id": "corruption",
       "title": "Corruption & Conflicts",
       "icon": "💰",
-      "description": "Financial corruption, bribery, self-dealing, profiting from office, emoluments violations, and conflicts of interest",
+      "description": "Bribery, self-dealing, emoluments violations, and financial corruption",
       "color": "#f59e0b",
-      "examples": ["Meme coin", "Qatar bribe", "Emoluments", "Foreign payments"]
+      "examples": ["Meme coin", "Qatar bribe", "Emoluments"]
     },
     "abuse-of-power": {
       "id": "abuse-of-power",
       "title": "Abuse of Power",
       "icon": "⚖️",
-      "description": "Misusing presidential and executive powers for personal or political gain - DOJ weaponization, retaliation against critics, undermining federal institutions, and executive overreach",
+      "description": "Pardons, DOJ weaponization, inspector general firings, and executive overreach",
       "color": "#8b5cf6",
-      "examples": ["Jan 6 pardons", "DOJ targeting", "IG purges", "Cabinet retaliation", "Fed attacks"]
+      "examples": ["Jan 6 pardons", "DOJ targeting", "IG purges"]
     },
     "character": {
       "id": "character",
       "title": "Character & Dishonesty",
       "icon": "🎭",
-      "description": "Pathological lying, broken promises, fundamental character flaws, and general dishonesty not specifically about power abuse or corruption",
+      "description": "Pathological lying, broken promises, and fundamental character flaws",
       "color": "#64748b",
-      "examples": ["30,000+ lies", "Broken promises", "Alternative facts", "Crowd size lies"]
+      "examples": ["30,000+ lies", "Broken promises", "Alternative facts"]
     },
     "narcissism": {
       "id": "narcissism",

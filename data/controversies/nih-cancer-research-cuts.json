@@ -1,0 +1,59 @@
+{
+  "id": "nih-cancer-research-cuts",
+  "title": "Massive Cuts to NIH and Cancer Research Funding",
+  "primaryCategory": "public-health",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-02-01",
+  "summary": "The Trump administration cut $2.7 billion from NIH funding in early 2025, including a 31% decrease in cancer research. Proposed 2026 budget would slash NIH by 40% ($18 billion) and cut National Cancer Institute by 37% ($2.69 billion). Officials terminated 5,844 already-funded NIH grants in unprecedented move.",
+  "keyFacts": [
+    "$2.7 billion cut from NIH funding in first 3 months of 2025",
+    "Cancer research funding decreased 31% compared to 2024",
+    "5,844 NIH grants and 1,996 NSF grants cancelled or suspended - unprecedented action",
+    "Proposed 2026 budget would cut NIH by nearly $18 billion (40% reduction to $27.5 billion)",
+    "National Cancer Institute budget would drop from $7.22 billion to $4.53 billion (37.3% cut)",
+    "Officials began terminating already-funded grants at NIH in February 2025",
+    "Represents largest rollback of federal support for medical research in American history",
+    "Puts current and future cancer patients at risk according to medical experts",
+    "Leukemia & Lymphoma Society: 'These cuts will have devastating consequences for patients'",
+    "Congress ultimately rejected cuts, increasing NIH budget by $415 million instead"
+  ],
+  "sources": [
+    {
+      "text": "US Senate Minority Staff report on NIH funding cuts",
+      "url": "https://www.statnews.com/2026/01/20/nih-funding-deal-trump-cuts-rejected-budget-boosted-415-million/",
+      "type": "government report"
+    },
+    {
+      "text": "Federal Funding Cuts Hit Cancer Research Despite Public Support",
+      "url": "https://www.onclive.com/view/federal-funding-cuts-hit-cancer-research-despite-public-support",
+      "type": "news"
+    },
+    {
+      "text": "Leukemia & Lymphoma Society Statement on Proposed Budget Cuts",
+      "url": "https://bloodcancerunited.org/resources/newsroom/lls-statement-trump-administrations-proposed-budget-cuts-nih",
+      "type": "statement"
+    },
+    {
+      "text": "Trump Aims to Control NIH Research Priorities and Cut Budget",
+      "url": "https://www.cancertherapyadvisor.com/features/trump-aims-to-control-nih-research-and-cut-budget/",
+      "type": "news"
+    },
+    {
+      "text": "NIH funding cuts put current and future cancer patients at risk",
+      "url": "https://www.axios.com/2025/05/19/nih-cuts-cancer-research-hhs",
+      "type": "news"
+    },
+    {
+      "text": "Trump's proposed budget details drastic cuts to biomedical research",
+      "url": "https://www.science.org/content/article/trump-s-proposed-budget-details-dramatic-cuts-biomedical-research-and-global-health",
+      "type": "news"
+    },
+    {
+      "text": "Living With the Real-World Consequences of Federal Budget Cuts on Cancer Research",
+      "url": "https://ascopost.com/issues/september-10-2025/living-with-the-real-world-consequences-of-federal-budget-cuts-on-cancer-research/",
+      "type": "analysis"
+    }
+  ],
+  "specialTags": ["healthcare", "cancer", "medical-research", "budget-cuts", "public-health"]
+}

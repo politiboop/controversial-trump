@@ -1,0 +1,92 @@
+{
+  "id": "john-brennan",
+  "name": "John Brennan",
+  "role": "Director of Central Intelligence",
+  "administration": "Obama Administration",
+  "years": "2013-2017",
+  "militaryRank": null,
+  "category": "intelligence-community",
+  "subCategory": "cia-director",
+  "photo": null,
+  "summary": "Former CIA Director whose security clearance was revoked by Trump and who called Trump's conduct 'nothing short of treasonous' and a threat to national security.",
+  "keyStatements": [
+    {
+      "quote": "Donald Trump's press conference performance in Helsinki rises to & exceeds the threshold of 'high crimes & misdemeanors.' It was nothing short of treasonous.",
+      "date": "2018-07-16",
+      "source": "Twitter",
+      "context": "After Trump's Helsinki summit with Putin",
+      "url": null
+    },
+    {
+      "quote": "When the full extent of your venality, moral turpitude, and political corruption becomes known, you will take your rightful place as a disgraced demagogue in the dustbin of history.",
+      "date": "2018",
+      "source": "Twitter",
+      "url": null
+    },
+    {
+      "quote": "Trump is drunk on power and he's destroying our democracy.",
+      "date": "2020",
+      "source": "Interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2013-03-08",
+      "event": "Became CIA Director",
+      "significance": "Confirmed under Obama"
+    },
+    {
+      "date": "2017-01-20",
+      "event": "Left CIA when Trump took office",
+      "significance": "End of tenure"
+    },
+    {
+      "date": "2018-07-16",
+      "event": "Called Trump's Helsinki performance treasonous",
+      "significance": "Harsh criticism of Trump"
+    },
+    {
+      "date": "2018-08-15",
+      "event": "Trump revoked his security clearance",
+      "significance": "Retaliation for criticism"
+    },
+    {
+      "date": "2020",
+      "event": "Endorsed Joe Biden",
+      "significance": "Supported Democrat"
+    }
+  ],
+  "credibility": {
+    "background": "Former CIA Director, spent 25 years at CIA, senior intelligence official",
+    "positions": [
+      "Director of Central Intelligence (2013-2017)",
+      "Deputy National Security Advisor (2013)",
+      "Director of National Counterterrorism Center (2004-2005)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump's Helsinki performance was treasonous",
+    "Trump is a disgraced demagogue",
+    "Trump is drunk on power",
+    "Trump is destroying democracy",
+    "Trump threatens national security"
+  ],
+  "endorsement": "Endorsed Joe Biden in 2020",
+  "sources": [
+    {
+      "title": "John Brennan calls Trump treasonous",
+      "url": "https://www.cnn.com/politics/john-brennan-trump-treasonous",
+      "date": "2018-07-16",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Democrat"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "alyssa-farah-griffin",
+  "name": "Alyssa Farah Griffin",
+  "role": "White House Director of Strategic Communications",
+  "administration": "Trump Administration",
+  "years": "2020",
+  "militaryRank": null,
+  "category": "former-administration",
+  "subCategory": "communications",
+  "photo": null,
+  "summary": "Former White House communications director and co-host of The View who called Trump 'erratic' and 'delusional' and endorsed Kamala Harris.",
+  "keyStatements": [
+    {
+      "quote": "I don't think he is fit for the job. I think that he is erratic. I think that he can be delusional. I think that he is a narcissist and cares about himself first and foremost. And I do not want him to be our president again.",
+      "date": "2021-10-04",
+      "source": "ABC News",
+      "url": "https://abcnews.go.com"
+    },
+    {
+      "quote": "I am terrified of Trump running in 2024.",
+      "date": "2021-10-04",
+      "source": "ABC News interview",
+      "url": "https://abcnews.go.com"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2017-01",
+      "event": "Became Press Secretary to Vice President Pence",
+      "significance": "Joined Trump administration"
+    },
+    {
+      "date": "2019",
+      "event": "Became Pentagon Press Secretary",
+      "significance": "Moved to Department of Defense"
+    },
+    {
+      "date": "2020",
+      "event": "Became White House Director of Strategic Communications",
+      "significance": "Senior communications role"
+    },
+    {
+      "date": "2020-12",
+      "event": "Resigned from Trump administration",
+      "significance": "Left before end of term"
+    },
+    {
+      "date": "2021-10-04",
+      "event": "Called Trump unfit for office",
+      "significance": "Public break with former boss"
+    },
+    {
+      "date": "2024-09-03",
+      "event": "Announced support for Kamala Harris",
+      "significance": "Endorsed Democratic candidate"
+    }
+  ],
+  "credibility": {
+    "background": "Former Trump White House official, co-host of The View, Republican communications strategist",
+    "positions": [
+      "White House Director of Strategic Communications (2020)",
+      "Pentagon Press Secretary (2019-2020)",
+      "Press Secretary to Vice President (2017-2019)",
+      "Co-host of The View (2022-present)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is erratic and delusional",
+    "Trump is a narcissist who puts himself first",
+    "Trump is not fit to be president",
+    "Fear of what Trump would do in a second term"
+  ],
+  "endorsement": "Endorsed Kamala Harris for President in 2024",
+  "sources": [
+    {
+      "title": "Ex-Trump Aide Stephanie Grisham Says 'I Am Terrified' of Trump Running in 2024",
+      "url": "https://abcnews.go.com/US/exclusive-trump-aide-stephanie-grisham-terrified-trump-running/story?id=80398083",
+      "date": "2021-10-04",
+      "type": "interview"
+    },
+    {
+      "title": "'The View' Host Ready to Vote Democrat for First Time Ever",
+      "url": "https://www.thedailybeast.com/the-views-alyssa-farah-griffin-leaning-towards-kamala-harris",
+      "date": "2024-09-03",
+      "type": "news"
+    }
+  ],
+  "party": "Republican"
+}

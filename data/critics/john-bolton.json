@@ -1,0 +1,80 @@
+{
+  "id": "john-bolton",
+  "name": "John Bolton",
+  "role": "National Security Advisor",
+  "administration": "Trump Administration",
+  "years": "2018-2019",
+  "militaryRank": null,
+  "category": "former-administration",
+  "subCategory": "national-security",
+  "photo": null,
+  "summary": "Former National Security Advisor who called Trump a 'laughing fool' to world leaders and warned he's dangerous to democracy.",
+  "keyStatements": [
+    {
+      "quote": "It's another example why he's not fit to be president. If anybody wants to know what a Trump administration would look like, when he's pardoning the people who rioted on Jan. 6, I think that's all you need to know.",
+      "date": "2023-05-16",
+      "source": "Politico",
+      "url": "https://www.politico.com"
+    },
+    {
+      "quote": "The damage he did in his first term was reparable. The damage in the second term would be irreparable.",
+      "date": "2023-12-04",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com"
+    },
+    {
+      "quote": "Trump's a 'Laughing Fool' to World Leaders.",
+      "date": "2023-05-16",
+      "source": "Politico",
+      "url": "https://www.politico.com"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2018-04-09",
+      "event": "Appointed National Security Advisor",
+      "significance": "Became Trump's third National Security Advisor"
+    },
+    {
+      "date": "2019-09-10",
+      "event": "Resigned from Trump administration",
+      "significance": "Left over policy disagreements"
+    },
+    {
+      "date": "2020-06-23",
+      "event": "Published 'The Room Where It Happened'",
+      "significance": "Detailed concerns about Trump's foreign policy decisions"
+    }
+  ],
+  "credibility": {
+    "background": "Former U.S. Ambassador to the United Nations, veteran diplomat and foreign policy expert",
+    "positions": [
+      "National Security Advisor (2018-2019)",
+      "U.S. Ambassador to the United Nations (2005-2006)",
+      "Under Secretary of State for Arms Control and International Security (2001-2005)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is unfit to be president",
+    "Trump's actions on January 6 are disqualifying",
+    "Trump's second term would cause irreparable damage",
+    "Trump is viewed as a 'laughing fool' by world leaders"
+  ],
+  "endorsement": "Strongly opposes Trump's 2024 campaign",
+  "sources": [
+    {
+      "title": "Trump's a 'Laughing Fool' to World Leaders, Bolton Says",
+      "url": "https://www.politico.com/news/2023/05/16/donald-trump-fool-world-leaders-00097103",
+      "date": "2023-05-16",
+      "type": "news"
+    },
+    {
+      "title": "Trump Will Abandon Nato",
+      "url": "https://www.theatlantic.com/magazine/archive/2024/01/trump-2024-reelection-pull-out-of-nato-membership/676120/",
+      "date": "2023-12-04",
+      "type": "news"
+    }
+  ],
+  "party": "Republican"
+}

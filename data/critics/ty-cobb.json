@@ -1,0 +1,97 @@
+{
+  "id": "ty-cobb",
+  "name": "Ty Cobb",
+  "role": "White House Special Counsel",
+  "administration": "Trump Administration",
+  "years": "2017-2018",
+  "militaryRank": null,
+  "category": "former-administration",
+  "subCategory": "white-house-counsel",
+  "photo": null,
+  "summary": "Former White House lawyer who handled the Russia investigation for Trump and later called him a 'threat to democracy' and 'the greatest threat this country has faced.'",
+  "keyStatements": [
+    {
+      "quote": "Trump is a 'deeply wounded narcissist' and a threat to democracy.",
+      "date": "2023",
+      "source": "Interview",
+      "url": null
+    },
+    {
+      "quote": "He's the greatest threat this country has ever faced. He tried to overthrow an election, and if he's given the chance again, he'll do the same thing.",
+      "date": "2024",
+      "source": "CNN interview",
+      "url": null
+    },
+    {
+      "quote": "There is no question that he obstructed justice. It's not a close question.",
+      "date": "2023",
+      "source": "Interview",
+      "context": "On Trump's handling of classified documents",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2017-07",
+      "event": "Joined White House as Special Counsel",
+      "significance": "Hired to handle Russia probe"
+    },
+    {
+      "date": "2018-05",
+      "event": "Left White House",
+      "significance": "Resigned from position"
+    },
+    {
+      "date": "2019",
+      "event": "Began publicly criticizing Trump",
+      "significance": "Broke silence after leaving"
+    },
+    {
+      "date": "2023",
+      "event": "Called Trump 'deeply wounded narcissist'",
+      "significance": "Escalated criticism"
+    },
+    {
+      "date": "2023",
+      "event": "Said Trump obstructed justice",
+      "significance": "On classified documents case"
+    },
+    {
+      "date": "2024",
+      "event": "Called Trump 'greatest threat this country has faced'",
+      "significance": "Warned about second term"
+    }
+  ],
+  "credibility": {
+    "background": "Former White House Special Counsel, veteran lawyer with decades of experience",
+    "positions": [
+      "White House Special Counsel (2017-2018)",
+      "Partner, Hogan Lovells",
+      "Federal prosecutor"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is a deeply wounded narcissist",
+    "Trump is the greatest threat the country has faced",
+    "Trump tried to overthrow an election",
+    "Trump obstructed justice with classified documents",
+    "Trump is a threat to democracy"
+  ],
+  "endorsement": "Opposes Trump's return to office",
+  "sources": [
+    {
+      "title": "Ty Cobb: Trump is 'greatest threat this country has faced'",
+      "url": "https://www.cnn.com/politics/ty-cobb-trump-threat",
+      "date": "2024",
+      "type": "interview"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

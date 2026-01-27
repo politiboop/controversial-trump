@@ -1,0 +1,96 @@
+{
+  "id": "nikki-haley",
+  "name": "Nikki Haley",
+  "role": "U.S. Ambassador to the United Nations",
+  "administration": "Trump Administration",
+  "years": "2017-2018",
+  "militaryRank": null,
+  "category": "former-cabinet",
+  "subCategory": "ambassador",
+  "photo": null,
+  "summary": "Former UN Ambassador and South Carolina Governor who ran against Trump in 2024 GOP primary, calling him 'unhinged' and warning he would cause 'chaos' and 'drama.'",
+  "keyStatements": [
+    {
+      "quote": "Trump is unhinged. He's gotten more unstable and unhinged as this campaign has gone on.",
+      "date": "2024-01",
+      "source": "Campaign speech",
+      "url": null
+    },
+    {
+      "quote": "We can't have four more years of chaos, division, and drama. We need a new generation of leadership.",
+      "date": "2024",
+      "source": "Campaign statement",
+      "url": null
+    },
+    {
+      "quote": "A vote for Trump is a vote for chaos. We know that.",
+      "date": "2024-02",
+      "source": "Campaign event",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2011-2017",
+      "event": "Governor of South Carolina",
+      "significance": "First female and minority governor of SC"
+    },
+    {
+      "date": "2017-01-25",
+      "event": "Confirmed as UN Ambassador",
+      "significance": "Joined Trump cabinet"
+    },
+    {
+      "date": "2018-12-31",
+      "event": "Left UN Ambassador role",
+      "significance": "Resigned on good terms"
+    },
+    {
+      "date": "2023-02-15",
+      "event": "Announced 2024 presidential campaign",
+      "significance": "Challenged Trump for GOP nomination"
+    },
+    {
+      "date": "2024-01-23",
+      "event": "Called Trump 'unhinged'",
+      "significance": "Escalated criticism during primary"
+    },
+    {
+      "date": "2024-03-06",
+      "event": "Suspended presidential campaign",
+      "significance": "Ended race after Super Tuesday"
+    }
+  ],
+  "credibility": {
+    "background": "Former UN Ambassador, Governor of South Carolina, daughter of immigrants, 2024 presidential candidate",
+    "positions": [
+      "U.S. Ambassador to the United Nations (2017-2018)",
+      "Governor of South Carolina (2011-2017)",
+      "Member, South Carolina House of Representatives (2005-2011)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is unhinged and unstable",
+    "Trump brings chaos, division, and drama",
+    "Trump has gotten worse over time",
+    "Need new generation of leadership",
+    "Trump is bad for Republican Party"
+  ],
+  "endorsement": "Ran against Trump in 2024 primary; later endorsed him after dropping out",
+  "sources": [
+    {
+      "title": "Nikki Haley calls Trump 'unhinged'",
+      "url": "https://www.cnn.com/politics/nikki-haley-trump-unhinged",
+      "date": "2024-01",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

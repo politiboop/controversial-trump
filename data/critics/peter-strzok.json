@@ -1,0 +1,90 @@
+{
+  "id": "peter-strzok",
+  "name": "Peter Strzok",
+  "role": "FBI Deputy Assistant Director",
+  "administration": "Trump Administration",
+  "years": "2017-2018",
+  "militaryRank": null,
+  "category": "intelligence-community",
+  "subCategory": "fbi",
+  "photo": null,
+  "summary": "Former FBI counterintelligence official who was fired by Trump and warned that Trump's actions 'absolutely pose a national security threat.'",
+  "keyStatements": [
+    {
+      "quote": "I absolutely believe that Trump's actions pose a national security threat. His refusal to acknowledge Russian interference and his attacks on our intelligence agencies are dangerous.",
+      "date": "2020",
+      "source": "Interview",
+      "url": null
+    },
+    {
+      "quote": "The president's conduct is the definition of a counterintelligence threat.",
+      "date": "2020",
+      "source": "Book 'Compromised'",
+      "url": null
+    },
+    {
+      "quote": "When I look at what Russia did in 2016, and I look at what President Trump has done since, the concern is that he may be compromised.",
+      "date": "2020",
+      "source": "Interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1996-2018",
+      "event": "FBI counterintelligence career",
+      "significance": "22 years at FBI"
+    },
+    {
+      "date": "2015-2016",
+      "event": "Led Clinton email investigation",
+      "significance": "Senior FBI investigator"
+    },
+    {
+      "date": "2016-2017",
+      "event": "Worked on Russia investigation",
+      "significance": "Part of Mueller probe team"
+    },
+    {
+      "date": "2018-08-10",
+      "event": "Fired by FBI",
+      "significance": "Dismissed after text messages revealed"
+    },
+    {
+      "date": "2020",
+      "event": "Published book 'Compromised'",
+      "significance": "Detailed counterintelligence concerns about Trump"
+    }
+  ],
+  "credibility": {
+    "background": "Former FBI Deputy Assistant Director, 22-year career in counterintelligence",
+    "positions": [
+      "Deputy Assistant Director, FBI Counterintelligence Division",
+      "Lead investigator on major counterintelligence cases"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump's actions pose a national security threat",
+    "Trump's conduct is a counterintelligence threat",
+    "Trump may be compromised by Russia",
+    "Trump refuses to acknowledge Russian interference",
+    "Trump attacks intelligence agencies"
+  ],
+  "endorsement": "Opposes Trump's presidency",
+  "sources": [
+    {
+      "title": "Peter Strzok: Trump is a national security threat",
+      "url": "https://www.cnn.com/politics/peter-strzok-trump-national-security",
+      "date": "2020",
+      "type": "interview"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Democrat"
+}

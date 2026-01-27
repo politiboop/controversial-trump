@@ -1,0 +1,86 @@
+{
+  "id": "susan-collins",
+  "name": "Susan Collins",
+  "role": "U.S. Senator from Maine",
+  "administration": null,
+  "years": "1997-present",
+  "militaryRank": null,
+  "category": "congress",
+  "subCategory": "senator",
+  "photo": null,
+  "summary": "Moderate Republican Senator from Maine who voted to convict Trump in his first impeachment trial and wrote in Nikki Haley rather than vote for Trump in 2024.",
+  "keyStatements": [
+    {
+      "quote": "The president did, in fact, pressure a foreign government to help him in his reelection. His personal interest in the investigation of a political rival was inseparable from any legitimate foreign policy objective.",
+      "date": "2020-02-05",
+      "source": "Senate Floor Speech",
+      "context": "Explaining her vote in first impeachment (voted to acquit but condemned conduct)",
+      "url": null
+    },
+    {
+      "quote": "January 6th was a terrible, terrible day for our country. And there is no doubt in my mind that the president's actions and his words prior to that day were a contributing factor in what happened.",
+      "date": "2021",
+      "source": "Interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1997-01-03",
+      "event": "Became U.S. Senator from Maine",
+      "significance": "Entered Senate"
+    },
+    {
+      "date": "2016",
+      "event": "Did not endorse Trump for president",
+      "significance": "Early distancing from Trump"
+    },
+    {
+      "date": "2020-02-05",
+      "event": "Voted to acquit in first impeachment",
+      "significance": "But condemned Trump's conduct"
+    },
+    {
+      "date": "2021-02-13",
+      "event": "Voted to convict Trump in second impeachment",
+      "significance": "One of seven Republicans to vote for conviction"
+    },
+    {
+      "date": "2024",
+      "event": "Wrote in Nikki Haley for president",
+      "significance": "Refused to vote for Trump"
+    }
+  ],
+  "credibility": {
+    "background": "Long-serving moderate Republican Senator, known for independent voting record and bipartisan work",
+    "positions": [
+      "U.S. Senator from Maine (1997-present)",
+      "Ranking Member, Senate Aging Committee",
+      "Member, Senate Appropriations Committee",
+      "Member, Senate Intelligence Committee"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump pressured foreign government for personal political gain",
+    "Trump's actions contributed to January 6 attack",
+    "Trump's conduct is unbecoming of the office",
+    "Trump prioritizes personal interest over national interest"
+  ],
+  "endorsement": "Wrote in Nikki Haley in 2024 instead of voting for Trump",
+  "sources": [
+    {
+      "title": "Susan Collins writes in Nikki Haley",
+      "url": "https://www.politico.com/news/susan-collins-nikki-haley-2024",
+      "date": "2024",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

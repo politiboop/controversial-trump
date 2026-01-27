@@ -1,0 +1,385 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.loading {
+  text-align: center;
+  padding: 4rem 2rem;
+  font-size: 1.2rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 2px solid var(--ifm-color-emphasis-200);
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: var(--ifm-color-emphasis-900);
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: var(--ifm-color-emphasis-700);
+  max-width: 800px;
+  margin: 0 auto 2rem;
+  line-height: 1.6;
+}
+
+.stats {
+  display: flex;
+  gap: 3rem;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.statNumber {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--ifm-color-primary);
+}
+
+.statLabel {
+  font-size: 1rem;
+  color: var(--ifm-color-emphasis-700);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.filters {
+  margin-bottom: 2rem;
+}
+
+.searchBox {
+  margin-bottom: 1.5rem;
+}
+
+.filterSection {
+  margin-bottom: 1.5rem;
+}
+
+.filterTitle {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+  color: var(--ifm-color-emphasis-800);
+}
+
+.searchInput {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  border: 2px solid var(--ifm-color-emphasis-300);
+  border-radius: 0.5rem;
+  transition: border-color 0.2s;
+}
+
+.searchInput:focus {
+  outline: none;
+  border-color: var(--ifm-color-primary);
+}
+
+.categoryFilters {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.categoryButton {
+  padding: 0.6rem 1rem;
+  border: 2px solid var(--ifm-color-emphasis-300);
+  background: white;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+.categoryButton:hover {
+  border-color: var(--ifm-color-primary);
+  background: var(--ifm-color-primary-lightest);
+}
+
+.categoryButton.active {
+  background: var(--ifm-color-primary);
+  color: white;
+  border-color: var(--ifm-color-primary);
+}
+
+.partyFilters {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.partyButton {
+  padding: 0.6rem 1rem;
+  border: 2px solid;
+  background: white;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.partyButton:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.partyButton.active {
+  box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.1);
+}
+
+.partyRepublican {
+  background: #fee;
+  color: #c00;
+  border-color: #c00;
+}
+
+.partyRepublican.active {
+  background: #c00;
+  color: white;
+}
+
+.partyDemocrat {
+  background: #eef;
+  color: #00c;
+  border-color: #00c;
+}
+
+.partyDemocrat.active {
+  background: #00c;
+  color: white;
+}
+
+.partyIndependent {
+  background: #f5f0ff;
+  color: #663399;
+  border-color: #663399;
+}
+
+.partyIndependent.active {
+  background: #663399;
+  color: white;
+}
+
+.partyLibertarian {
+  background: #fff5e6;
+  color: #cc6600;
+  border-color: #cc6600;
+}
+
+.partyLibertarian.active {
+  background: #cc6600;
+  color: white;
+}
+
+.results {
+  margin-top: 2rem;
+}
+
+.resultsCount {
+  font-size: 1.1rem;
+  color: var(--ifm-color-emphasis-700);
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+
+.categorySection {
+  margin-bottom: 3rem;
+}
+
+.categoryTitle {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  color: var(--ifm-color-emphasis-900);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.categoryCount {
+  font-size: 1.2rem;
+  color: var(--ifm-color-emphasis-600);
+  font-weight: 500;
+}
+
+.criticGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 1.5rem;
+}
+
+.criticCard {
+  display: block;
+  padding: 1.5rem;
+  background: white;
+  border: 2px solid var(--ifm-color-emphasis-200);
+  border-radius: 0.75rem;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.criticCard:hover {
+  transform: translateY(-4px);
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.criticHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 0.75rem;
+  gap: 0.5rem;
+}
+
+.criticName {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin: 0;
+  color: var(--ifm-color-emphasis-900);
+  flex: 1;
+}
+
+.badges {
+  display: flex;
+  gap: 0.25rem;
+  align-items: center;
+}
+
+.militaryBadge {
+  background: var(--ifm-color-success-lighter);
+  color: var(--ifm-color-success-darker);
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.partyBadge {
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border: 1px solid;
+}
+
+.criticCard .partyRepublican {
+  background: #fee;
+  border-color: #c00;
+}
+
+.criticCard .partyDemocrat {
+  background: #eef;
+  border-color: #00c;
+}
+
+.criticCard .partyIndependent {
+  background: #f5f0ff;
+  border-color: #663399;
+}
+
+.criticCard .partyLibertarian {
+  background: #fff5e6;
+  border-color: #cc6600;
+}
+
+.criticRole {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--ifm-color-primary);
+  margin-bottom: 0.25rem;
+}
+
+.criticAdministration {
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+  margin-bottom: 0.25rem;
+}
+
+.criticYears {
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-600);
+  margin-bottom: 0.75rem;
+}
+
+.criticSummary {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--ifm-color-emphasis-800);
+  margin: 0.75rem 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.criticEndorsement {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--ifm-color-emphasis-200);
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.noResults {
+  text-align: center;
+  padding: 3rem;
+  color: var(--ifm-color-emphasis-600);
+}
+
+.noResults p {
+  font-size: 1.1rem;
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 2rem;
+  }
+
+  .subtitle {
+    font-size: 1rem;
+  }
+
+  .stats {
+    gap: 2rem;
+  }
+
+  .statNumber {
+    font-size: 2rem;
+  }
+
+  .criticGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .categoryFilters {
+    gap: 0.25rem;
+  }
+
+  .categoryButton {
+    font-size: 0.85rem;
+    padding: 0.5rem 0.75rem;
+  }
+}

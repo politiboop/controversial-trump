@@ -1,0 +1,101 @@
+{
+  "id": "george-conway",
+  "name": "George Conway",
+  "role": "Attorney and Conservative Commentator",
+  "administration": null,
+  "years": null,
+  "militaryRank": null,
+  "category": "former-associates",
+  "subCategory": "attorney",
+  "photo": null,
+  "summary": "Conservative attorney and husband of Trump advisor Kellyanne Conway who became one of Trump's fiercest critics, co-founding the Lincoln Project and calling Trump a 'malignant narcissist.'",
+  "keyStatements": [
+    {
+      "quote": "Donald Trump is a cancer on the presidency and on the nation.",
+      "date": "2020",
+      "source": "Lincoln Project",
+      "url": null
+    },
+    {
+      "quote": "He's a malignant narcissist. He meets every single criterion in the DSM-5 for narcissistic personality disorder.",
+      "date": "2020",
+      "source": "Interview",
+      "url": null
+    },
+    {
+      "quote": "I don't think he's fit to be president. I think he's unfit mentally and I think he's unfit morally.",
+      "date": "2019",
+      "source": "Interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2016",
+      "event": "Supported Trump for president",
+      "significance": "Initially backed Trump"
+    },
+    {
+      "date": "2017",
+      "event": "Considered for DOJ positions",
+      "significance": "Trump considered him for roles"
+    },
+    {
+      "date": "2018",
+      "event": "Began publicly criticizing Trump",
+      "significance": "Started anti-Trump advocacy"
+    },
+    {
+      "date": "2019",
+      "event": "Co-founded Checks and Balances group",
+      "significance": "Conservative lawyers against Trump"
+    },
+    {
+      "date": "2019-12",
+      "event": "Co-founded Lincoln Project",
+      "significance": "Anti-Trump Republican PAC"
+    },
+    {
+      "date": "2020",
+      "event": "Endorsed Joe Biden",
+      "significance": "Crossed party lines"
+    },
+    {
+      "date": "2024",
+      "event": "Campaigned against Trump",
+      "significance": "Continued opposition"
+    }
+  ],
+  "credibility": {
+    "background": "Prominent conservative attorney, argued before Supreme Court, co-founder of Lincoln Project",
+    "positions": [
+      "Partner, Wachtell, Lipton, Rosen & Katz",
+      "Co-founder, Lincoln Project",
+      "Co-founder, Checks and Balances"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is a cancer on the presidency",
+    "Trump is a malignant narcissist",
+    "Trump is unfit mentally and morally",
+    "Trump threatens constitutional democracy",
+    "Trump's behavior is psychologically disordered"
+  ],
+  "endorsement": "Endorsed Joe Biden in 2020, opposes Trump in 2024",
+  "sources": [
+    {
+      "title": "George Conway on Trump's narcissism",
+      "url": "https://www.theatlantic.com/george-conway-trump-narcissism",
+      "date": "2020",
+      "type": "interview"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

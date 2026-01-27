@@ -1,0 +1,85 @@
+{
+  "id": "james-stavridis",
+  "name": "James Stavridis",
+  "role": "Supreme Allied Commander of NATO",
+  "administration": null,
+  "years": "2009-2013",
+  "militaryRank": "Admiral, U.S. Navy (Retired)",
+  "category": "military-leader",
+  "subCategory": "nato-commander",
+  "photo": null,
+  "summary": "Former Supreme Allied Commander of NATO who called Trump's use of military force against protesters 'beyond the pale of American norms.'",
+  "keyStatements": [
+    {
+      "quote": "Beyond the pale of American norms",
+      "date": "2020-06",
+      "source": "Time Magazine op-ed",
+      "context": "Criticizing Trump's use of National Guard against Black Lives Matter protesters",
+      "url": "https://time.com"
+    },
+    {
+      "quote": "It was particularly ill-advised to include active duty military personnel in that event.",
+      "date": "2020-06",
+      "source": "Time Magazine",
+      "context": "Regarding Lafayette Square incident",
+      "url": "https://time.com"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2009-07-02",
+      "event": "Appointed Supreme Allied Commander Europe",
+      "significance": "Led NATO's military operations worldwide"
+    },
+    {
+      "date": "2013-05-10",
+      "event": "Retired from Navy",
+      "significance": "Completed 37 years of service"
+    },
+    {
+      "date": "2013-06",
+      "event": "Became Dean of Fletcher School of Law and Diplomacy",
+      "significance": "Continued work on international relations"
+    },
+    {
+      "date": "2020-06",
+      "event": "Condemned Trump's use of military",
+      "significance": "Joined other generals in speaking out"
+    }
+  ],
+  "credibility": {
+    "background": "Four-star admiral who led the NATO alliance in global operations, veteran destroyer squadron commander",
+    "positions": [
+      "Supreme Allied Commander Europe, NATO (2009-2013)",
+      "Commander, U.S. European Command (2009-2013)",
+      "Commander, U.S. Southern Command (2006-2009)"
+    ],
+    "awards": [
+      "Defense Distinguished Service Medal (2x)",
+      "Navy Distinguished Service Medal (4x)",
+      "Vice Admiral James Bond Stockdale Award"
+    ]
+  },
+  "oppositionReasons": [
+    "Trump's use of military against protesters violated American norms",
+    "Combining civil-military force was inappropriate",
+    "Using active duty military in domestic political events was ill-advised",
+    "Actions damaged civil-military relations"
+  ],
+  "endorsement": "Opposes Trump's misuse of military power",
+  "sources": [
+    {
+      "title": "Op-ed on Trump's use of military force",
+      "url": "https://time.com",
+      "date": "2020-06",
+      "type": "op-ed"
+    },
+    {
+      "title": "The High-Profile Military Leaders Who Have Come Out Against Donald Trump",
+      "url": "https://www.usnews.com",
+      "date": "2024-10-23",
+      "type": "news"
+    }
+  ],
+  "party": "Independent"
+}

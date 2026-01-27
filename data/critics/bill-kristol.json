@@ -1,0 +1,96 @@
+{
+  "id": "bill-kristol",
+  "name": "Bill Kristol",
+  "role": "Conservative Commentator and Editor",
+  "administration": null,
+  "years": null,
+  "militaryRank": null,
+  "category": "commentators",
+  "subCategory": "conservative-media",
+  "photo": null,
+  "summary": "Influential conservative commentator and founder of The Weekly Standard who became a leading 'Never Trump' Republican, calling Trump 'unfit' and endorsing Joe Biden.",
+  "keyStatements": [
+    {
+      "quote": "Trump is unfit to be president. He's shown that over and over again.",
+      "date": "2016",
+      "source": "Interview",
+      "url": null
+    },
+    {
+      "quote": "I'm for Biden. Trump has been lawless, corrupt, and incompetent. We need to defeat him decisively.",
+      "date": "2020",
+      "source": "Twitter",
+      "url": null
+    },
+    {
+      "quote": "Conservatives have to choose: Trump or the Constitution. You can't have both.",
+      "date": "2020",
+      "source": "Public statement",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1995",
+      "event": "Founded The Weekly Standard",
+      "significance": "Created influential conservative magazine"
+    },
+    {
+      "date": "2016",
+      "event": "Opposed Trump's nomination",
+      "significance": "Led Never Trump movement"
+    },
+    {
+      "date": "2018",
+      "event": "The Weekly Standard closed",
+      "significance": "Magazine shut down"
+    },
+    {
+      "date": "2019",
+      "event": "Left Republican Party",
+      "significance": "Became independent"
+    },
+    {
+      "date": "2020",
+      "event": "Endorsed Joe Biden",
+      "significance": "Crossed party lines"
+    },
+    {
+      "date": "2024",
+      "event": "Endorsed Kamala Harris",
+      "significance": "Continued opposition to Trump"
+    }
+  ],
+  "credibility": {
+    "background": "Influential conservative intellectual, founded The Weekly Standard, former chief of staff to VP Dan Quayle",
+    "positions": [
+      "Founder and Editor, The Weekly Standard (1995-2018)",
+      "Chief of Staff to Vice President Dan Quayle (1989-1993)",
+      "Director, Defending Democracy Together"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is unfit to be president",
+    "Trump is lawless, corrupt, and incompetent",
+    "Can't support both Trump and the Constitution",
+    "Trump threatens conservative principles",
+    "Trump has damaged the Republican Party"
+  ],
+  "endorsement": "Endorsed Joe Biden in 2020 and Kamala Harris in 2024",
+  "sources": [
+    {
+      "title": "Bill Kristol endorses Biden",
+      "url": "https://www.politico.com/news/bill-kristol-biden-endorsement",
+      "date": "2020",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Independent"
+}

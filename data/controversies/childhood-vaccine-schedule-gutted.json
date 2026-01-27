@@ -1,0 +1,61 @@
+{
+  "id": "childhood-vaccine-schedule-gutted",
+  "title": "CDC Guts Childhood Vaccine Schedule - Drops 6 Vaccines Without Scientific Review",
+  "primaryCategory": "public-health",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2026-01-05",
+  "summary": "Following Trump's December 2025 Presidential Memorandum, CDC reduced universally recommended childhood vaccines from 17 to 11, removing 6 common vaccines. Change enacted without CDC's typical rigorous scientific review process. Major medical groups sued HHS, alleging agencies circumvented normal regulatory processes and violated federal law. Represents massive shift in vaccine policy achieving long-held goal of HHS Secretary RFK Jr., who founded anti-vaccine group Children's Health Defense.",
+  "keyFacts": [
+    "CDC reduced recommended childhood vaccines from 17 to 11 following Trump directive",
+    "6 vaccines removed from universal recommendations",
+    "Change made without CDC's typical rigorous process involving independent scientific reviewers",
+    "December 5, 2025 Presidential Memorandum directed HHS to examine vaccine schedules",
+    "Achieves long-held goal of HHS Secretary Robert F. Kennedy Jr.",
+    "RFK Jr. founded anti-vaccine group Children's Health Defense before presidential run",
+    "American Academy of Pediatrics and major medical groups sued HHS in July",
+    "Lawsuit alleges agencies circumvented normal regulatory processes and violated federal law",
+    "Medical groups say changes 'unlawful and diminished public trust'",
+    "Process bypassed public vetting of evidence by independent scientific reviewers",
+    "Pediatricians and public health experts express alarm at unscientific policy change",
+    "Represents unprecedented politicization of childhood vaccination recommendations"
+  ],
+  "sources": [
+    {
+      "text": "CDC Acts on Presidential Memorandum to Update Childhood Immunization Schedule",
+      "url": "https://www.hhs.gov/press-room/cdc-acts-presidential-memorandum-update-childhood-immunization-schedule.html",
+      "type": "government"
+    },
+    {
+      "text": "Federal health officials slash recommended childhood vaccinations under Trump's directive",
+      "url": "https://www.statnews.com/2026/01/05/childhood-vaccine-schedule-new-cdc-recommendation-11-shots/",
+      "type": "news"
+    },
+    {
+      "text": "Trump administration cuts number of vaccines it recommends for every child",
+      "url": "https://www.pbs.org/newshour/health/trump-administration-cuts-number-of-vaccines-it-recommends-for-every-child",
+      "type": "news"
+    },
+    {
+      "text": "CDC, following Trump's orders, weakens US stance on childhood vaccinations",
+      "url": "https://www.biopharmadive.com/news/HHS-US-childhood-vaccine-schedule-recommendations-kennedy-trump/808788/",
+      "type": "news"
+    },
+    {
+      "text": "US Shrinks Childhood Vaccine Schedule; Drops Six Common Vaccines From CDC Recommendations",
+      "url": "https://healthpolicy-watch.news/us-alters-childhood-vaccine-schedule-drops-six-common-vaccines/",
+      "type": "news"
+    },
+    {
+      "text": "6 shots removed from US childhood vaccine recommendations",
+      "url": "https://cen.acs.org/pharmaceuticals/vaccines/6-shots-removed-US-childhood/104/web/2026/01",
+      "type": "news"
+    },
+    {
+      "text": "Trump administration's plan to shrink vaccine schedule sends health sector scrambling",
+      "url": "https://www.statnews.com/2025/12/23/trump-rfk-vaccine-schedule-healthcare-sector-considers-response/",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["vaccines", "cdc", "children", "rfk-jr", "anti-vaccine", "public-health-emergency"]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "liz-cheney",
+  "name": "Liz Cheney",
+  "role": "U.S. Representative from Wyoming",
+  "administration": null,
+  "years": "2017-2023",
+  "militaryRank": null,
+  "party": "Republican",
+  "category": "congress",
+  "subCategory": "house-republican",
+  "photo": null,
+  "summary": "House Republican Conference Chair who served on the January 6 Committee and endorsed Kamala Harris after losing her primary due to Trump opposition.",
+  "keyStatements": [
+    {
+      "quote": "I don't believe we have the luxury of writing in candidates' names, particularly in swing states.",
+      "date": "2024",
+      "source": "CNN",
+      "context": "Announcing support for Kamala Harris",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "quote": "I will not support Trump if he runs in 2024.",
+      "date": "2021-04-14",
+      "source": "CNN",
+      "url": "https://www.cnn.com"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2017-01-03",
+      "event": "Took office as U.S. Representative",
+      "significance": "Represented Wyoming's at-large congressional district"
+    },
+    {
+      "date": "2019-01-03",
+      "event": "Became House Republican Conference Chair",
+      "significance": "Third-ranking House Republican"
+    },
+    {
+      "date": "2021-05-12",
+      "event": "Removed as Conference Chair",
+      "significance": "Ousted for criticizing Trump over January 6"
+    },
+    {
+      "date": "2021-07-01",
+      "event": "Appointed to January 6 Committee",
+      "significance": "One of two Republicans on the committee"
+    },
+    {
+      "date": "2022-08-16",
+      "event": "Lost Republican primary",
+      "significance": "Defeated by Trump-backed challenger"
+    },
+    {
+      "date": "2024",
+      "event": "Endorsed Kamala Harris",
+      "significance": "Crossed party lines to oppose Trump"
+    }
+  ],
+  "credibility": {
+    "background": "Daughter of Vice President Dick Cheney, conservative Republican with strong GOP credentials",
+    "positions": [
+      "U.S. Representative from Wyoming (2017-2023)",
+      "Chair of the House Republican Conference (2019-2021)",
+      "Vice Chair of the January 6 Committee (2021-2023)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump's role in January 6 insurrection",
+    "Trump's threat to constitutional democracy",
+    "Trump's continued election lies",
+    "Duty to Constitution over party loyalty"
+  ],
+  "endorsement": "Endorsed Kamala Harris for President in 2024",
+  "sources": [
+    {
+      "title": "Liz Cheney says she won't support Trump if he runs in 2024",
+      "url": "https://www.cnn.com/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html",
+      "date": "2021-04-14",
+      "type": "news"
+    }
+  ]
+}

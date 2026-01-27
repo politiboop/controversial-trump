@@ -1,0 +1,92 @@
+{
+  "id": "sally-yates",
+  "name": "Sally Yates",
+  "role": "Acting Attorney General",
+  "administration": "Trump Administration",
+  "years": "2017",
+  "militaryRank": null,
+  "category": "former-administration",
+  "subCategory": "justice-department",
+  "photo": null,
+  "summary": "Former Acting Attorney General who was fired by Trump after refusing to defend his travel ban, warning it was unlawful and unconstitutional.",
+  "keyStatements": [
+    {
+      "quote": "I am responsible for ensuring that the positions we take in court remain consistent with this institution's solemn obligation to always seek justice and stand for what is right. At present, I am not convinced that the defense of the executive order is consistent with these responsibilities nor am I convinced that the executive order is lawful.",
+      "date": "2017-01-30",
+      "source": "Letter to DOJ lawyers",
+      "context": "Refusing to defend travel ban",
+      "url": null
+    },
+    {
+      "quote": "We have to be on guard against a president who doesn't respect the rule of law.",
+      "date": "2020",
+      "source": "Interview",
+      "url": null
+    },
+    {
+      "quote": "The attack on the rule of law is unprecedented and dangerous.",
+      "date": "2020",
+      "source": "Public statement",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2015-01-09",
+      "event": "Became Deputy Attorney General",
+      "significance": "Under Obama"
+    },
+    {
+      "date": "2017-01-20",
+      "event": "Became Acting Attorney General",
+      "significance": "During Trump transition"
+    },
+    {
+      "date": "2017-01-30",
+      "event": "Refused to defend travel ban",
+      "significance": "Defied Trump order"
+    },
+    {
+      "date": "2017-01-30",
+      "event": "Fired by Trump",
+      "significance": "Dismissed same day"
+    },
+    {
+      "date": "2020",
+      "event": "Warned about Trump's attacks on rule of law",
+      "significance": "Continued criticism"
+    }
+  ],
+  "credibility": {
+    "background": "Former Acting Attorney General, former Deputy Attorney General, federal prosecutor",
+    "positions": [
+      "Acting Attorney General (2017)",
+      "Deputy Attorney General (2015-2017)",
+      "U.S. Attorney for Northern District of Georgia (2010-2015)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Travel ban was unlawful and unconstitutional",
+    "Trump doesn't respect the rule of law",
+    "Trump's attack on rule of law is unprecedented",
+    "Trump pressures DOJ for political purposes",
+    "Trump threatens justice system"
+  ],
+  "endorsement": "Opposes Trump's approach to justice and rule of law",
+  "sources": [
+    {
+      "title": "Sally Yates fired after defying Trump",
+      "url": "https://www.nytimes.com/2017/01/30/us/politics/trump-immigration-ban-memo.html",
+      "date": "2017-01-30",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Democrat"
+}

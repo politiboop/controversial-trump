@@ -1,0 +1,81 @@
+{
+  "id": "powell-fed-attacks",
+  "title": "Relentless Attacks on Jerome Powell and Federal Reserve Independence",
+  "primaryCategory": "abuse-of-power",
+  "severity": "catastrophic",
+  "timeline": "first-term",
+  "date": "2019-08-23",
+  "summary": "Trump has repeatedly attacked Federal Reserve Chair Jerome Powell (whom he appointed) and threatened Fed independence, a cornerstone of economic stability. In 2019, asked 'who is our bigger enemy, Jay Powell or Chairman Xi?' In second term, called Powell 'that jerk,' 'stupid person,' and 'major loser.' DOJ launched criminal investigation of Powell in 2026. Trump threatened to fire Powell (legally cannot), discussed it with GOP lawmakers, showed them draft firing letter. Bipartisan group of economists including former Fed chairs condemned attacks as 'unprecedented attempt to undermine' Fed independence. Experts warn attacks could cause higher inflation, mortgage rates, market volatility.",
+  "keyFacts": [
+    "August 2019: Trump tweeted 'who is our bigger enemy, Jay Powell or Chairman Xi [Jinping]?'",
+    "Repeatedly demanded Powell lower interest rates via social media throughout presidency",
+    "Called Powell an 'enemy,' 'fool,' 'incompetent,' 'stupid person,' 'that jerk,' 'major loser'",
+    "2019: Privately discussed with White House counsel possibility of firing Powell",
+    "July 2025: Asked GOP lawmakers if he should fire Powell, showed them draft firing letter",
+    "Trump threatened lawsuit against Powell over Fed headquarters renovation costs",
+    "January 2026: DOJ launched criminal investigation into Powell",
+    "Powell directly connected DOJ probe to Trump's complaints about interest rate decisions",
+    "Powell stated when asked if Trump can fire him: 'Not permitted under the law'",
+    "Fed Chair can only be removed 'for cause' (serious misconduct) under Federal Reserve Act of 1913",
+    "Supreme Court reaffirmed in May 2025 that Trump lacks authority to arbitrarily fire Fed Chair",
+    "13 top economists including Bernanke, Greenspan, Yellen condemned attacks on Fed independence",
+    "Brett House (Columbia): 'assault on Fed independence' means 'higher rates, greater volatility'",
+    "Economists warn attacks could trigger 'severe reaction in markets' and higher mortgage rates",
+    "Mark Zandi (Moody's): 'There's nothing but downside here for investors and consumers'",
+    "Experts: Most public and aggressive presidential attacks on Fed in modern history",
+    "Fed independence established to prevent political manipulation of monetary policy"
+  ],
+  "sources": [
+    {
+      "text": "Trump tweets: 'Who is our bigger enemy,' Fed Chairman Powell or Chinese President Xi?",
+      "url": "https://www.cnbc.com/2019/08/23/trump-tweets-who-is-our-bigger-enemy-fed-chairman-powell-or-chinese-president-xi.html",
+      "type": "news"
+    },
+    {
+      "text": "Trump attacks Powell again amid Fed independence fears: 'That jerk will be gone soon'",
+      "url": "https://www.cnbc.com/2026/01/13/trump-powell-fed-dimon-pirro-doj.html",
+      "type": "news"
+    },
+    {
+      "text": "The Danger of Trump's Attacks Against the Federal Reserve",
+      "url": "https://time.com/7314186/danger-trumps-attacks-federal-reserve/",
+      "type": "analysis"
+    },
+    {
+      "text": "Trump's increasingly aggressive attacks on Powell aren't what you think",
+      "url": "https://www.cnn.com/2025/07/11/business/jerome-powell-trump-fire",
+      "type": "news"
+    },
+    {
+      "text": "Trump keeps pressuring the Fed to cut rates. Here's why its independence matters",
+      "url": "https://www.npr.org/2025/07/30/nx-s1-5482794/trump-powell-federal-reserve-fed-interest-rates-independence",
+      "type": "news"
+    },
+    {
+      "text": "Can Donald Trump legally fire Jerome Powell?",
+      "url": "https://news.northeastern.edu/2025/07/17/donald-trump-fire-jerome-powell-law/",
+      "type": "analysis"
+    },
+    {
+      "text": "Trump asked GOP lawmakers if he should fire Fed Chair Jerome Powell",
+      "url": "https://www.cbsnews.com/news/trump-asked-gop-lawmakers-if-he-should-fire-jerome-powell-sources/",
+      "type": "news"
+    },
+    {
+      "text": "What the Justice Department investigation of Fed Chair Powell may mean for your money",
+      "url": "https://www.cnbc.com/2026/01/12/fed-chair-powell-investigation.html",
+      "type": "news"
+    },
+    {
+      "text": "Five Points on the Trump DOJ's Attack on Fed Chair Jerome Powell",
+      "url": "https://talkingpointsmemo.com/fivepoints/what-to-know-trump-doj-investigation-federal-reserve-jerome-powell",
+      "type": "analysis"
+    },
+    {
+      "text": "Trump Puts Federal Reserve Independence Under Increasing Threat",
+      "url": "https://internationalbanker.com/finance/trump-puts-federal-reserve-independence-under-increasing-threat/",
+      "type": "analysis"
+    }
+  ],
+  "specialTags": ["federal-reserve", "economic-policy", "institutional-norms", "jerome-powell", "doj-weaponization"]
+}

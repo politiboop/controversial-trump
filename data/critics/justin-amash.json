@@ -1,0 +1,95 @@
+{
+  "id": "justin-amash",
+  "name": "Justin Amash",
+  "role": "U.S. Representative from Michigan",
+  "administration": null,
+  "years": "2011-2021",
+  "militaryRank": null,
+  "category": "congress",
+  "subCategory": "representative",
+  "photo": null,
+  "summary": "Former Republican Congressman who became the first GOP House member to call for Trump's impeachment and left the Republican Party, calling Trump 'lawless' and 'corrupt.'",
+  "keyStatements": [
+    {
+      "quote": "President Trump has engaged in impeachable conduct. In fact, I think he's the most flawed man I think I've ever seen in the Oval Office.",
+      "date": "2019-05-18",
+      "source": "Twitter thread",
+      "url": null
+    },
+    {
+      "quote": "The Mueller report describes a consistent effort by the president to use his office to obstruct or otherwise corruptly impede the Russian election interference investigation because it put his interests at risk.",
+      "date": "2019-05-18",
+      "source": "Twitter thread",
+      "url": null
+    },
+    {
+      "quote": "Today, I am declaring my independence and leaving the Republican Party. No matter your circumstance, I'm asking you to join me in rejecting the partisan loyalties and rhetoric that divide and dehumanize us.",
+      "date": "2019-07-04",
+      "source": "Washington Post op-ed",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2011-01-03",
+      "event": "Elected to U.S. House",
+      "significance": "Began congressional career as Republican"
+    },
+    {
+      "date": "2019-05-18",
+      "event": "First GOP House member to call for impeachment",
+      "significance": "Broke with Republican Party over Trump"
+    },
+    {
+      "date": "2019-07-04",
+      "event": "Left Republican Party",
+      "significance": "Became independent"
+    },
+    {
+      "date": "2020-04-28",
+      "event": "Joined Libertarian Party",
+      "significance": "Only Libertarian in Congress"
+    },
+    {
+      "date": "2020",
+      "event": "Explored presidential run against Trump",
+      "significance": "Considered challenging Trump"
+    },
+    {
+      "date": "2021-01-03",
+      "event": "Left Congress",
+      "significance": "Did not seek re-election"
+    }
+  ],
+  "credibility": {
+    "background": "Former U.S. Representative, first Republican to call for Trump's impeachment, constitutional conservative",
+    "positions": [
+      "U.S. Representative from Michigan (2011-2021)",
+      "Member, Michigan State House of Representatives (2009-2011)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump engaged in impeachable conduct",
+    "Trump is the most flawed man in the Oval Office",
+    "Trump obstructed the Russia investigation",
+    "Trump is lawless and corrupt",
+    "Republican Party enabled Trump's behavior"
+  ],
+  "endorsement": "Left Republican Party over Trump; opposed his presidency",
+  "sources": [
+    {
+      "title": "Justin Amash calls for Trump impeachment",
+      "url": "https://www.cnn.com/politics/justin-amash-trump-impeachment",
+      "date": "2019-05-18",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Libertarian"
+}

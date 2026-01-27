@@ -5,7 +5,7 @@ import { useHistory } from '@docusaurus/router';
 import CategoryPage from '../../components/Category/CategoryPage';
 import ControversyDetail from '../../components/Detail/ControversyDetail';
 
-export default function Covid() {
+export default function PublicHealth() {
   const { siteConfig } = useDocusaurusContext();
   const history = useHistory();
   const [selectedControversy, setSelectedControversy] = useState(null);
@@ -23,9 +23,9 @@ export default function Covid() {
   };
 
   return (
-    <Layout title="COVID Failures Controversies" description="COVID controversies">
+    <Layout title="Public Health Controversies" description="Public Health controversies">
       <CategoryPage
-        categoryId="covid"
+        categoryId="public-health"
         onControversyClick={handleControversyClick}
         onBack={handleBack}
       />

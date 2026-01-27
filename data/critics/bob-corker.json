@@ -1,0 +1,92 @@
+{
+  "id": "bob-corker",
+  "name": "Bob Corker",
+  "role": "U.S. Senator from Tennessee",
+  "administration": null,
+  "years": "2007-2019",
+  "militaryRank": null,
+  "category": "congress",
+  "subCategory": "senator",
+  "photo": null,
+  "summary": "Former Republican Senator and Chairman of the Senate Foreign Relations Committee who called the White House under Trump an 'adult day care center' and warned Trump was treating his office like a 'reality show.'",
+  "keyStatements": [
+    {
+      "quote": "It's a shame the White House has become an adult day care center. Someone obviously missed their shift this morning.",
+      "date": "2017-10-08",
+      "source": "Twitter",
+      "context": "After Trump attacked him on social media",
+      "url": null
+    },
+    {
+      "quote": "I think Secretary Tillerson, Secretary Mattis and Chief of Staff Kelly are those people that help separate our country from chaos.",
+      "date": "2017-10-04",
+      "source": "Interview",
+      "url": null
+    },
+    {
+      "quote": "The president has not yet been able to demonstrate the stability nor some of the competence that he needs to demonstrate in order to be successful.",
+      "date": "2017",
+      "source": "Public statement",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2007-01-03",
+      "event": "Became U.S. Senator from Tennessee",
+      "significance": "Entered Senate"
+    },
+    {
+      "date": "2015-01-03",
+      "event": "Became Chairman of Senate Foreign Relations Committee",
+      "significance": "Led foreign policy oversight"
+    },
+    {
+      "date": "2017-10",
+      "event": "Public feud with Trump",
+      "significance": "Criticized Trump's fitness for office"
+    },
+    {
+      "date": "2017-09-26",
+      "event": "Announced retirement from Senate",
+      "significance": "Would not seek re-election"
+    },
+    {
+      "date": "2019-01-03",
+      "event": "Left Senate",
+      "significance": "Retired from politics"
+    }
+  ],
+  "credibility": {
+    "background": "Former U.S. Senator, Chairman of Senate Foreign Relations Committee, former Mayor of Chattanooga, successful businessman",
+    "positions": [
+      "U.S. Senator from Tennessee (2007-2019)",
+      "Chairman, Senate Foreign Relations Committee (2015-2019)",
+      "Mayor of Chattanooga (2001-2005)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump lacks stability and competence",
+    "Trump treats the presidency like a reality show",
+    "Trump's behavior requires 'adult supervision'",
+    "Trump's chaos threatens the country",
+    "Trump lacks the temperament for the office"
+  ],
+  "endorsement": "Has not endorsed Trump for 2024",
+  "sources": [
+    {
+      "title": "Bob Corker's 'adult day care center' tweet",
+      "url": "https://www.cnn.com/2017/10/08/politics/bob-corker-donald-trump-adult-day-care-center/index.html",
+      "date": "2017-10-08",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

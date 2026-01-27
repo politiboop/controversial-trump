@@ -1,0 +1,86 @@
+{
+  "id": "sarah-matthews",
+  "name": "Sarah Matthews",
+  "role": "White House Deputy Press Secretary",
+  "administration": "Trump Administration",
+  "years": "2020-2021",
+  "militaryRank": null,
+  "category": "former-administration",
+  "subCategory": "press-secretary",
+  "photo": null,
+  "summary": "Former White House Deputy Press Secretary who resigned on January 6 and became a key witness before the January 6 Committee, warning Trump is 'unfit for office.'",
+  "keyStatements": [
+    {
+      "quote": "It was obvious that he had no intention of stopping the violence. He was just trying to appease people.",
+      "date": "2022-07-21",
+      "source": "January 6 Committee testimony",
+      "context": "On Trump's January 6 video message",
+      "url": null
+    },
+    {
+      "quote": "I thought that the president needed to tell people to go home. I thought that he was the only person who could do that.",
+      "date": "2022-07-21",
+      "source": "January 6 Committee testimony",
+      "url": null
+    },
+    {
+      "quote": "Trump is unfit for office and should never be president again.",
+      "date": "2024",
+      "source": "Interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2020",
+      "event": "Became Deputy White House Press Secretary",
+      "significance": "Joined Trump administration"
+    },
+    {
+      "date": "2021-01-06",
+      "event": "Resigned immediately after Capitol attack",
+      "significance": "Left over Trump's response to riot"
+    },
+    {
+      "date": "2022-07-21",
+      "event": "Testified before January 6 Committee",
+      "significance": "Provided evidence against Trump"
+    },
+    {
+      "date": "2024",
+      "event": "Endorsed Kamala Harris",
+      "significance": "Crossed party lines"
+    }
+  ],
+  "credibility": {
+    "background": "Former White House Deputy Press Secretary, witnessed January 6 events firsthand",
+    "positions": [
+      "White House Deputy Press Secretary (2020-2021)",
+      "Trump campaign spokesperson (2020)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump had no intention of stopping January 6 violence",
+    "Trump failed to protect the Capitol",
+    "Trump is unfit for office",
+    "Trump should never be president again",
+    "Trump prioritized himself over country"
+  ],
+  "endorsement": "Endorsed Kamala Harris for President in 2024",
+  "sources": [
+    {
+      "title": "Sarah Matthews testifies before January 6 Committee",
+      "url": "https://www.npr.org/sarah-matthews-testimony",
+      "date": "2022-07-21",
+      "type": "testimony"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

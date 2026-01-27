@@ -1,0 +1,86 @@
+{
+  "id": "betsy-devos",
+  "name": "Betsy DeVos",
+  "role": "Secretary of Education",
+  "administration": "Trump Administration",
+  "years": "2017-2021",
+  "militaryRank": null,
+  "category": "former-cabinet",
+  "subCategory": "education",
+  "photo": null,
+  "summary": "Former Education Secretary who resigned after January 6, saying Trump's rhetoric 'inflamed' the violence and there was 'no mistaking the impact your rhetoric had on the situation.'",
+  "keyStatements": [
+    {
+      "quote": "There is no mistaking the impact your rhetoric had on the situation, and it is the inflection point for me.",
+      "date": "2021-01-07",
+      "source": "Resignation letter to Trump",
+      "url": null
+    },
+    {
+      "quote": "We should be highlighting and celebrating your Administration's many accomplishments on behalf of the American people. Instead, we are left to clean up the mess caused by violent protesters overrunning the U.S. Capitol in an attempt to undermine the people's business.",
+      "date": "2021-01-07",
+      "source": "Resignation letter",
+      "url": null
+    },
+    {
+      "quote": "Impressionable children are watching all of this, and they are learning from us.",
+      "date": "2021-01-07",
+      "source": "Resignation letter",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2017-02-07",
+      "event": "Confirmed as Education Secretary",
+      "significance": "Joined Trump cabinet after controversial confirmation"
+    },
+    {
+      "date": "2017-2020",
+      "event": "Implemented education policies",
+      "significance": "Focused on school choice"
+    },
+    {
+      "date": "2021-01-07",
+      "event": "Resigned after January 6",
+      "significance": "Submitted resignation effective January 8"
+    },
+    {
+      "date": "2021-01-08",
+      "event": "Resignation took effect",
+      "significance": "Left before end of term"
+    }
+  ],
+  "credibility": {
+    "background": "Former Education Secretary, education reform advocate, businesswoman, Republican donor",
+    "positions": [
+      "U.S. Secretary of Education (2017-2021)",
+      "Chairman, American Federation for Children",
+      "Chairman, Windquest Group"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump's rhetoric inflamed January 6 violence",
+    "Trump's impact on the situation was unmistakable",
+    "Trump set bad example for children",
+    "Trump caused mess instead of celebrating accomplishments",
+    "Could not continue serving after January 6"
+  ],
+  "endorsement": "Resigned in protest after January 6",
+  "sources": [
+    {
+      "title": "Betsy DeVos resignation letter",
+      "url": "https://www.wsj.com/articles/education-secretary-betsy-devos-resigns-11609988629",
+      "date": "2021-01-07",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

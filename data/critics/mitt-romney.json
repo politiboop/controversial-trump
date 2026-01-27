@@ -1,0 +1,99 @@
+{
+  "id": "mitt-romney",
+  "name": "Mitt Romney",
+  "role": "U.S. Senator from Utah",
+  "administration": null,
+  "years": "2019-2025",
+  "militaryRank": null,
+  "category": "congress",
+  "subCategory": "senator",
+  "photo": null,
+  "summary": "Former Republican presidential nominee and U.S. Senator who became Trump's most prominent GOP critic in Congress, voting to convict him in both impeachment trials.",
+  "keyStatements": [
+    {
+      "quote": "He is not fit for office. He should not be president again. He's not only unfit for office, but I can't imagine that the American people would elect him for re-election.",
+      "date": "2023-09-19",
+      "source": "Interview",
+      "url": null
+    },
+    {
+      "quote": "I believe that the president's conduct was wrong and egregious. The president asked a foreign government to investigate his political rival. The president withheld vital military funds from that government to press it to do so.",
+      "date": "2020-02-05",
+      "source": "Senate Floor Speech",
+      "context": "Voting to convict Trump in first impeachment",
+      "url": null
+    },
+    {
+      "quote": "A great party has lost its way.",
+      "date": "2021",
+      "source": "Public statement",
+      "context": "On the state of the Republican Party under Trump",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2012-11-06",
+      "event": "Lost presidential election to Barack Obama",
+      "significance": "Republican presidential nominee"
+    },
+    {
+      "date": "2019-01-03",
+      "event": "Sworn in as U.S. Senator from Utah",
+      "significance": "Entered Senate during Trump presidency"
+    },
+    {
+      "date": "2020-02-05",
+      "event": "Voted to convict Trump in first impeachment",
+      "significance": "Only Republican to vote for conviction"
+    },
+    {
+      "date": "2021-02-13",
+      "event": "Voted to convict Trump in second impeachment",
+      "significance": "One of seven Republicans to vote for conviction"
+    },
+    {
+      "date": "2023-09-13",
+      "event": "Announced retirement from Senate",
+      "significance": "Will not seek re-election in 2024"
+    },
+    {
+      "date": "2024",
+      "event": "Did not vote for Trump in 2024 election",
+      "significance": "Continued opposition to Trump candidacy"
+    }
+  ],
+  "credibility": {
+    "background": "Former Governor of Massachusetts, Republican presidential nominee, U.S. Senator, successful businessman",
+    "positions": [
+      "U.S. Senator from Utah (2019-2025)",
+      "Governor of Massachusetts (2003-2007)",
+      "Republican Presidential Nominee (2012)",
+      "CEO of Bain Capital"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is not fit for office",
+    "Trump's conduct in withholding aid to Ukraine was wrong",
+    "Trump's role in January 6 attack on Capitol",
+    "Trump has corrupted the Republican Party",
+    "Trump lacks character and integrity for the presidency"
+  ],
+  "endorsement": "Did not vote for Trump in 2024",
+  "sources": [
+    {
+      "title": "Romney says Trump is 'not fit for office'",
+      "url": "https://thehill.com/homenews/senate/4214098-romney-trump-not-fit-for-office/",
+      "date": "2023-09-19",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "fred-upton",
+  "name": "Fred Upton",
+  "role": "U.S. Representative from Michigan",
+  "administration": null,
+  "years": "1987-2023",
+  "militaryRank": null,
+  "category": "congress",
+  "subCategory": "representative",
+  "photo": null,
+  "summary": "Long-serving Republican Congressman who voted to impeach Trump after January 6 and retired after Trump endorsed his primary opponent.",
+  "keyStatements": [
+    {
+      "quote": "The Congress must hold President Trump to account and send a clear message that our country cannot and will not tolerate any effort by any President to impede the peaceful transfer of power from one President to the next.",
+      "date": "2021-01-13",
+      "source": "Statement explaining impeachment vote",
+      "url": null
+    },
+    {
+      "quote": "There was simply no excuse for the events of January 6th. The President's actions that day were simply unacceptable and warrant impeachment.",
+      "date": "2021-01-13",
+      "source": "Public statement",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1987-01-03",
+      "event": "Elected to U.S. House",
+      "significance": "Began 36-year congressional career"
+    },
+    {
+      "date": "2011-2017",
+      "event": "Chaired House Energy and Commerce Committee",
+      "significance": "Senior Republican leadership"
+    },
+    {
+      "date": "2021-01-13",
+      "event": "Voted to impeach Trump",
+      "significance": "One of 10 House Republicans to vote for impeachment"
+    },
+    {
+      "date": "2022",
+      "event": "Trump endorsed primary opponent",
+      "significance": "Targeted for removal"
+    },
+    {
+      "date": "2022-04-05",
+      "event": "Announced retirement",
+      "significance": "Would not seek re-election"
+    },
+    {
+      "date": "2023-01-03",
+      "event": "Left Congress",
+      "significance": "Retired after 36 years"
+    }
+  ],
+  "credibility": {
+    "background": "Long-serving Republican Congressman, former committee chairman, moderate voice in GOP",
+    "positions": [
+      "U.S. Representative from Michigan (1987-2023)",
+      "Chairman, House Energy and Commerce Committee (2011-2017)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump's actions on January 6 were unacceptable",
+    "Trump impeded peaceful transfer of power",
+    "Trump's conduct warranted impeachment",
+    "Trump attacked anyone who stood up to him",
+    "Trump corrupted the Republican Party"
+  ],
+  "endorsement": "Voted to impeach Trump, retired rather than face Trump-backed challenger",
+  "sources": [
+    {
+      "title": "Fred Upton explains impeachment vote",
+      "url": "https://upton.house.gov/news/impeachment-statement",
+      "date": "2021-01-13",
+      "type": "statement"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

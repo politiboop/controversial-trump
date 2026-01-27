@@ -1,0 +1,80 @@
+{
+  "id": "elaine-chao",
+  "name": "Elaine Chao",
+  "role": "Secretary of Transportation",
+  "administration": "Trump Administration",
+  "years": "2017-2021",
+  "militaryRank": null,
+  "category": "former-cabinet",
+  "subCategory": "transportation",
+  "photo": null,
+  "summary": "Former Transportation Secretary and wife of Mitch McConnell who resigned after January 6, calling the attack 'entirely avoidable' and condemning Trump's role.",
+  "keyStatements": [
+    {
+      "quote": "Yesterday, our country experienced a traumatic and entirely avoidable event as supporters of the President stormed the Capitol building following a rally he addressed. As I'm sure is the case with many of you, it has deeply troubled me in a way that I simply cannot set aside.",
+      "date": "2021-01-07",
+      "source": "Resignation letter",
+      "url": null
+    },
+    {
+      "quote": "It has been the honor of a lifetime to serve the U.S. Department of Transportation.",
+      "date": "2021-01-07",
+      "source": "Resignation letter",
+      "context": "Resigning effective January 11",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2001-2009",
+      "event": "Secretary of Labor under George W. Bush",
+      "significance": "First Asian-American woman in Cabinet"
+    },
+    {
+      "date": "2017-01-31",
+      "event": "Confirmed as Transportation Secretary",
+      "significance": "Joined Trump cabinet"
+    },
+    {
+      "date": "2021-01-07",
+      "event": "Resigned after January 6",
+      "significance": "First cabinet member to resign after attack"
+    },
+    {
+      "date": "2021-01-11",
+      "event": "Resignation took effect",
+      "significance": "Left before end of term"
+    }
+  ],
+  "credibility": {
+    "background": "Former Transportation Secretary, former Labor Secretary, first Asian-American woman in Cabinet",
+    "positions": [
+      "U.S. Secretary of Transportation (2017-2021)",
+      "U.S. Secretary of Labor (2001-2009)",
+      "Director, Peace Corps (1991-1992)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "January 6 attack was entirely avoidable",
+    "Trump's role in the attack was deeply troubling",
+    "Trump's actions violated oath of office",
+    "Could not continue serving after January 6"
+  ],
+  "endorsement": "Resigned in protest after January 6",
+  "sources": [
+    {
+      "title": "Elaine Chao resigns after Capitol riot",
+      "url": "https://www.politico.com/news/elaine-chao-resigns-january-6",
+      "date": "2021-01-07",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "jeff-flake",
+  "name": "Jeff Flake",
+  "role": "U.S. Senator from Arizona",
+  "administration": null,
+  "years": "2013-2019",
+  "militaryRank": null,
+  "category": "congress",
+  "subCategory": "senator",
+  "photo": null,
+  "summary": "Former Republican Senator who became an early Trump critic, retired rather than face a Trump-backed primary challenger, and later endorsed Kamala Harris.",
+  "keyStatements": [
+    {
+      "quote": "We must never regard as 'normal' the regular and casual undermining of our democratic norms and ideals. We must never meekly accept the daily sundering of our country - the personal attacks, the threats against principles, freedoms, and institutions, the flagrant disregard for truth or decency.",
+      "date": "2017-10-24",
+      "source": "Senate Floor Speech",
+      "context": "Announcing retirement from Senate",
+      "url": null
+    },
+    {
+      "quote": "Country over party. That has been my governing principle throughout my career. And it is something I have tried to instill in my children. For that reason, I'm endorsing Kamala Harris.",
+      "date": "2024",
+      "source": "Public statement",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2001-01-03",
+      "event": "Elected to U.S. House of Representatives",
+      "significance": "Began congressional career"
+    },
+    {
+      "date": "2013-01-03",
+      "event": "Became U.S. Senator from Arizona",
+      "significance": "Moved to Senate"
+    },
+    {
+      "date": "2017-07-25",
+      "event": "Published book 'Conscience of a Conservative'",
+      "significance": "Criticized Trump's leadership"
+    },
+    {
+      "date": "2017-10-24",
+      "event": "Announced retirement from Senate",
+      "significance": "Delivered scathing floor speech against Trump"
+    },
+    {
+      "date": "2019-01-03",
+      "event": "Left Senate",
+      "significance": "Retired from politics"
+    },
+    {
+      "date": "2020",
+      "event": "Endorsed Joe Biden",
+      "significance": "First time voting for Democrat for president"
+    },
+    {
+      "date": "2021",
+      "event": "Became U.S. Ambassador to Turkey",
+      "significance": "Nominated by Biden"
+    },
+    {
+      "date": "2024",
+      "event": "Endorsed Kamala Harris",
+      "significance": "Continued opposition to Trump"
+    }
+  ],
+  "credibility": {
+    "background": "Former U.S. Senator and Representative, U.S. Ambassador to Turkey",
+    "positions": [
+      "U.S. Senator from Arizona (2013-2019)",
+      "U.S. Representative from Arizona (2001-2013)",
+      "U.S. Ambassador to Turkey (2021-present)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump undermines democratic norms and ideals",
+    "Trump makes personal attacks and threats against institutions",
+    "Trump has flagrant disregard for truth and decency",
+    "Trump has damaged the Republican Party",
+    "Trump prioritizes personal loyalty over country"
+  ],
+  "endorsement": "Endorsed Kamala Harris for President in 2024",
+  "sources": [
+    {
+      "title": "Jeff Flake's Senate retirement speech",
+      "url": "https://www.washingtonpost.com/news/the-fix/wp/2017/10/24/jeff-flakes-remarkable-retirement-speech-annotated/",
+      "date": "2017-10-24",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

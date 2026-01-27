@@ -58,8 +58,13 @@ const config = {
             position: 'left',
           },
           {
-            to: '/timeline',
-            label: 'Timeline',
+            to: '/fascism',
+            label: 'Fascism Warning',
+            position: 'left',
+          },
+          {
+            to: '/critics',
+            label: 'Critics',
             position: 'left',
           },
           {
@@ -83,6 +88,18 @@ const config = {
               {
                 label: 'Home',
                 to: '/',
+              },
+              {
+                label: 'Fascism Warning',
+                to: '/fascism',
+              },
+              {
+                label: 'Critics',
+                to: '/critics',
+              },
+              {
+                label: 'Search',
+                to: '/search',
               },
             ],
           },

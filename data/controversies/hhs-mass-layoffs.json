@@ -1,0 +1,54 @@
+{
+  "id": "hhs-mass-layoffs",
+  "title": "Mass Layoffs at HHS Health Agencies - 20,000+ Public Health Workers Cut",
+  "primaryCategory": "public-health",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-04-01",
+  "summary": "Trump administration slashed approximately 20,000 positions across HHS health agencies (25% reduction from 82,000 to 62,000 staff). FDA lost 3,500 positions including entire communications team and 800+ drug evaluation staffers. CDC lost 2,400 positions including disease detectives. NIH cut 1,200 positions. Cuts eliminated veterinarians, toxicologists, microbiologists, Lead Poisoning Prevention Branch, and FDA's Division of Food Processing Science. Stakeholders warn FDA's food safety capacity disproportionately weakened.",
+  "keyFacts": [
+    "HHS staff reduced from 82,000 to 62,000 - nearly 25% reduction (20,000 positions)",
+    "FDA: 3,500 positions eliminated including entire communications team",
+    "FDA: 800+ staffers laid off from Center for Drug Evaluation and Research",
+    "CDC: 2,400 positions cut including nearly half of latest class of 'disease detectives'",
+    "NIH: 1,200 positions eliminated",
+    "CMS: 300 positions cut",
+    "SAMHSA (Substance Abuse and Mental Health Services Administration) hit with cuts",
+    "ASPR (Administration for Strategic Preparedness and Response) cut",
+    "Eliminated: CDC's Lead Poisoning Prevention Branch",
+    "Eliminated: FDA's Division of Food Processing Science and Technology",
+    "Cut veterinarians, toxicologists, microbiologists across agencies",
+    "Hundreds of CDC 'disease detectives' fired then reinstated after public outcry",
+    "Stakeholders warn FDA's food safety capacity disproportionately weakened",
+    "Major cuts to contracts and spending alongside personnel reductions",
+    "About 5,200 total positions cut across public health agencies"
+  ],
+  "sources": [
+    {
+      "text": "Robert F. Kennedy Jr Faces Senate Inquiry Over Deep Cuts to HHS Impacting FDA, CDC, NIH, CMS",
+      "url": "https://www.ajmc.com/view/robert-f-kennedy-jr-faces-senate-inquiry-over-deep-cuts-to-hhs-impacting-fda-cdc-nih-cms",
+      "type": "news"
+    },
+    {
+      "text": "Hundreds of CDC 'disease detectives' fired—then reinstated—in mass layoffs tied to Trump shutdown",
+      "url": "https://fortune.com/2025/10/14/cdc-disease-detectives-government-shutdown-layoffs-trump/",
+      "type": "news"
+    },
+    {
+      "text": "Timeline: How Trump is roiling science and health",
+      "url": "https://www.statnews.com/2025/04/24/trump-100-days-timeline-science-health-nih-cdc-fda-hhs/",
+      "type": "news"
+    },
+    {
+      "text": "A 2025 Timeline of U.S. Federal Food Safety Changes Under the Trump Admin",
+      "url": "https://www.food-safety.com/articles/11004-a-2025-timeline-of-us-federal-food-safety-changes-under-the-trump-admin",
+      "type": "analysis"
+    },
+    {
+      "text": "HHS Budget Hearings Chart New Direction for Public Health",
+      "url": "https://www.astho.org/communications/blog/2025/hhs-budget-hearings-chart-new-direction-for-public-health/",
+      "type": "analysis"
+    }
+  ],
+  "specialTags": ["layoffs", "hhs", "fda", "cdc", "nih", "food-safety", "disease-detectives", "public-health-capacity"]
+}

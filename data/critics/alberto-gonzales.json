@@ -1,0 +1,86 @@
+{
+  "id": "alberto-gonzales",
+  "name": "Alberto Gonzales",
+  "role": "Attorney General",
+  "administration": "George W. Bush Administration",
+  "years": "2005-2007",
+  "militaryRank": null,
+  "category": "former-officials",
+  "subCategory": "attorney-general",
+  "photo": null,
+  "summary": "Former Attorney General under George W. Bush who endorsed Kamala Harris, saying Trump 'has little respect for the Constitution' and has 'crossed many lines.'",
+  "keyStatements": [
+    {
+      "quote": "Trump has little respect for the Constitution and has crossed many, many lines that are troubling. It's very clear he doesn't have the temperament to serve as President of the United States.",
+      "date": "2024",
+      "source": "Statement endorsing Harris",
+      "url": null
+    },
+    {
+      "quote": "I'm endorsing Kamala Harris for President. This is not a decision I make lightly, but it's one I make based on deep concerns about where Donald Trump would take our country.",
+      "date": "2024-08",
+      "source": "Public statement",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2001-2005",
+      "event": "White House Counsel",
+      "significance": "Advised President Bush"
+    },
+    {
+      "date": "2005-02-03",
+      "event": "Became Attorney General",
+      "significance": "First Hispanic Attorney General"
+    },
+    {
+      "date": "2007-09-17",
+      "event": "Resigned as Attorney General",
+      "significance": "Left Bush administration"
+    },
+    {
+      "date": "2016",
+      "event": "Declined to endorse Trump",
+      "significance": "Broke with GOP nominee"
+    },
+    {
+      "date": "2024-08",
+      "event": "Endorsed Kamala Harris",
+      "significance": "Crossed party lines"
+    }
+  ],
+  "credibility": {
+    "background": "Former U.S. Attorney General, White House Counsel, first Hispanic to serve as Attorney General",
+    "positions": [
+      "U.S. Attorney General (2005-2007)",
+      "White House Counsel (2001-2005)",
+      "Texas Secretary of State (1997-1999)",
+      "Justice, Texas Supreme Court (1999-2001)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump has little respect for the Constitution",
+    "Trump has crossed many troubling lines",
+    "Trump doesn't have the temperament to serve as president",
+    "Trump would take the country in dangerous direction",
+    "Trump threatens constitutional norms"
+  ],
+  "endorsement": "Endorsed Kamala Harris for President in 2024",
+  "sources": [
+    {
+      "title": "Alberto Gonzales endorses Kamala Harris",
+      "url": "https://thehill.com/homenews/campaign/alberto-gonzales-endorses-harris",
+      "date": "2024-08",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

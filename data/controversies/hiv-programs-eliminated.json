@@ -1,0 +1,67 @@
+{
+  "id": "hiv-programs-eliminated",
+  "title": "Elimination of HIV Prevention Programs and Research - Reversing Decades of Progress",
+  "primaryCategory": "public-health",
+  "severity": "catastrophic",
+  "timeline": "second-term",
+  "date": "2025-04-07",
+  "summary": "Trump administration eliminated Trump's own first-term signature HIV initiative 'Ending the HIV/AIDS Epidemic,' gutted CDC HIV prevention branches, terminated 200+ HIV/AIDS research grants, cut Ryan White program by $239 million, and ended 15-year AIDS vaccine development project. Experts warn cuts threaten to reverse decades of progress against HIV/AIDS epidemic.",
+  "keyFacts": [
+    "Trump's own signature HIV initiative from first term, 'Ending the HIV/AIDS Epidemic (EHE),' eliminated",
+    "CDC reductions gutted branches responsible for HIV prevention services",
+    "More than 200 federal grants for HIV and AIDS research abruptly terminated",
+    "Ryan White HIV/AIDS program budget cut by $239 million (to $2.4 billion)",
+    "Eliminated support for dental services, AIDS Education and Training Centers, and demonstration programs",
+    "Late May 2025: Ended AIDS vaccine project that had been developing for nearly 15 years",
+    "Cut national at-home HIV testing program",
+    "Eliminated expert guidance on preventing infant HIV infections",
+    "Ended long-running HIV surveys and statistical analysis to estimate national HIV incidence",
+    "Cut guidelines on HIV prevention drugs (PrEP)",
+    "Experts warn cuts threaten to reverse decades of progress in fighting HIV/AIDS",
+    "HIV prevention division being considered for complete elimination",
+    "Cuts undermine U.S. goal to end the HIV epidemic"
+  ],
+  "sources": [
+    {
+      "text": "Trump cuts to HIV prevention programs threaten to reverse gains",
+      "url": "https://www.statnews.com/2025/04/07/hiv-aids-prevention-hhs-cuts-stalls-progress/",
+      "type": "news"
+    },
+    {
+      "text": "Scaling Back the Nation's HIV Response? What the Trump Administration's HHS Budget May Do",
+      "url": "https://www.kff.org/quick-take/scaling-back-the-nations-hiv-response-what-the-trump-administrations-hhs-budget-may-do/",
+      "type": "analysis"
+    },
+    {
+      "text": "Trump Budget Ends All CDC HIV Prevention Programs",
+      "url": "https://hivhep.org/press-releases/trump-budget-ends-all-cdc-hiv-prevention-programs-while-maintaining-care-treatment-and-prep/",
+      "type": "news"
+    },
+    {
+      "text": "Trump administration cuts program that was developing a promising new HIV vaccine",
+      "url": "https://www.npr.org/2025/06/11/nx-s1-5421326/trump-administration-cuts-program-that-was-developing-a-promising-new-hiv-vaccine",
+      "type": "news"
+    },
+    {
+      "text": "Trump team guts AIDS-eradication programme and slashes HIV research grants",
+      "url": "https://www.nature.com/articles/d41586-025-00969-5",
+      "type": "news"
+    },
+    {
+      "text": "Deep cuts to HIV research could halt decades of progress, scientists say",
+      "url": "https://www.washingtonpost.com/health/2025/04/04/hiv-trump-cuts-prep/",
+      "type": "news"
+    },
+    {
+      "text": "How federal funding cuts are undermining HIV prevention, PrEP access, and U.S. goal to end the epidemic",
+      "url": "https://www.healthbeat.org/2025/04/15/hiv-trump-funding-cuts-prep-prevention/",
+      "type": "analysis"
+    },
+    {
+      "text": "Elimination of HIV Prevention Division Being Considered by Trump Administration",
+      "url": "https://www.ajmc.com/view/elimination-of-hiv-prevention-division-being-considered-by-trump-administration",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["hiv", "aids", "public-health", "research-cuts", "prevention", "ryan-white"]
+}

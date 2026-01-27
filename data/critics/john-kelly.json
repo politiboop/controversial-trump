@@ -1,0 +1,86 @@
+{
+  "id": "john-kelly",
+  "name": "John F. Kelly",
+  "role": "White House Chief of Staff",
+  "administration": "Trump Administration",
+  "years": "2017-2019",
+  "militaryRank": "General, U.S. Marine Corps (Retired)",
+  "category": "former-cabinet",
+  "subCategory": "military-leader",
+  "photo": null,
+  "summary": "Trump's longest-serving Chief of Staff who called him a fascist and detailed his admiration for Adolf Hitler.",
+  "keyStatements": [
+    {
+      "quote": "Certainly the former president is in the far-right area, he's certainly an authoritarian, admires people who are dictators — he has said that. So he certainly falls into the general definition of fascist, for sure.",
+      "date": "2024-10-22",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "quote": "He said on numerous occasions that Hitler 'did some good things, too.'",
+      "date": "2024-10-22",
+      "source": "The New York Times",
+      "context": "Detailing Trump's fascination with Hitler",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "quote": "He used the terms 'suckers' and 'losers' to describe soldiers who died in the line of fire.",
+      "date": "2024-10-22",
+      "source": "The Atlantic",
+      "context": "Confirming Trump's disdain for injured veterans",
+      "url": "https://www.theatlantic.com"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2017-07-31",
+      "event": "Appointed White House Chief of Staff",
+      "significance": "Became Trump's longest-serving Chief of Staff"
+    },
+    {
+      "date": "2019-01-02",
+      "event": "Left White House",
+      "significance": "Departed after 18 months of service"
+    },
+    {
+      "date": "2024-10-22",
+      "event": "Called Trump a fascist in NYT interview",
+      "significance": "Unprecedented criticism from former Chief of Staff"
+    }
+  ],
+  "credibility": {
+    "background": "Four-star Marine general with 46 years of service, Gold Star father",
+    "positions": [
+      "White House Chief of Staff (2017-2019)",
+      "Secretary of Homeland Security (2017)",
+      "Commander, U.S. Southern Command (2012-2016)"
+    ],
+    "awards": [
+      "Defense Distinguished Service Medal",
+      "Silver Star",
+      "Bronze Star"
+    ]
+  },
+  "oppositionReasons": [
+    "Believes Trump meets the definition of fascist",
+    "Concerned about Trump's admiration for dictators",
+    "Witnessed Trump's disrespect for military service members",
+    "Saw Trump's lack of understanding of history and rule of law"
+  ],
+  "endorsement": "Did not endorse any candidate but urged voters to consider Trump unfit",
+  "sources": [
+    {
+      "title": "John Kelly Confirms Trump Called Dead Soldiers 'Suckers' and 'Losers'",
+      "url": "https://www.theatlantic.com",
+      "date": "2024-10-22",
+      "type": "interview"
+    },
+    {
+      "title": "Trump's Longest-Serving Chief of Staff Calls Him a Fascist",
+      "url": "https://www.nytimes.com",
+      "date": "2024-10-22",
+      "type": "interview"
+    }
+  ],
+  "party": "Independent"
+}

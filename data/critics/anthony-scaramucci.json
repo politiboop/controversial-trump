@@ -1,0 +1,96 @@
+{
+  "id": "anthony-scaramucci",
+  "name": "Anthony Scaramucci",
+  "role": "White House Communications Director",
+  "administration": "Trump Administration",
+  "years": "2017",
+  "militaryRank": null,
+  "category": "former-administration",
+  "subCategory": "communications",
+  "photo": null,
+  "summary": "Former White House Communications Director who served only 11 days before being fired and became a fierce Trump critic, founding 'Republicans Against Trump' PAC.",
+  "keyStatements": [
+    {
+      "quote": "He's a full-blown fascist. He's now going to use authoritarian tactics on us.",
+      "date": "2024",
+      "source": "Interview",
+      "url": null
+    },
+    {
+      "quote": "For the life of me, I don't understand why working-class people vote for this man. He's never worked a day in his life.",
+      "date": "2020",
+      "source": "Public statement",
+      "url": null
+    },
+    {
+      "quote": "Trump is a clear and present danger to American democracy.",
+      "date": "2020",
+      "source": "Interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2017-07-21",
+      "event": "Appointed White House Communications Director",
+      "significance": "Joined Trump administration"
+    },
+    {
+      "date": "2017-07-31",
+      "event": "Fired after 11 days",
+      "significance": "Shortest tenure in the role"
+    },
+    {
+      "date": "2019",
+      "event": "Became vocal Trump critic",
+      "significance": "Began publicly opposing Trump"
+    },
+    {
+      "date": "2020",
+      "event": "Founded 'Right Side PAC' against Trump",
+      "significance": "Created anti-Trump Republican PAC"
+    },
+    {
+      "date": "2020-08",
+      "event": "Endorsed Joe Biden",
+      "significance": "Crossed party lines"
+    },
+    {
+      "date": "2024",
+      "event": "Called Trump a 'full-blown fascist'",
+      "significance": "Escalated criticism"
+    }
+  ],
+  "credibility": {
+    "background": "Former White House Communications Director, hedge fund manager, financier",
+    "positions": [
+      "White House Communications Director (2017)",
+      "Founder, SkyBridge Capital",
+      "Goldman Sachs investment banker"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is a full-blown fascist",
+    "Trump will use authoritarian tactics",
+    "Trump is a clear and present danger to democracy",
+    "Trump has never worked and doesn't understand working people",
+    "Trump is unfit for office"
+  ],
+  "endorsement": "Endorsed Joe Biden in 2020, opposes Trump in 2024",
+  "sources": [
+    {
+      "title": "Anthony Scaramucci calls Trump a fascist",
+      "url": "https://www.newsweek.com/anthony-scaramucci-trump-fascist",
+      "date": "2024",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

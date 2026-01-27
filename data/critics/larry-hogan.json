@@ -1,0 +1,105 @@
+{
+  "id": "larry-hogan",
+  "name": "Larry Hogan",
+  "role": "Governor of Maryland",
+  "administration": null,
+  "years": "2015-2023",
+  "militaryRank": null,
+  "category": "former-officials",
+  "subCategory": "governor",
+  "photo": null,
+  "summary": "Popular Republican Governor of Maryland who never voted for Trump, called him 'unhinged,' and wrote in Ronald Reagan rather than support Trump in 2024.",
+  "keyStatements": [
+    {
+      "quote": "Donald Trump is an unhinged lunatic who is not fit to be president of the United States.",
+      "date": "2024",
+      "source": "Interview",
+      "url": null
+    },
+    {
+      "quote": "I think Donald Trump is a disaster for the Republican Party and for the country.",
+      "date": "2023",
+      "source": "Public statement",
+      "url": null
+    },
+    {
+      "quote": "I've never voted for Donald Trump and I certainly won't start now.",
+      "date": "2024",
+      "source": "Interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2015-01-21",
+      "event": "Became Governor of Maryland",
+      "significance": "Elected as Republican in blue state"
+    },
+    {
+      "date": "2016",
+      "event": "Did not vote for Trump",
+      "significance": "Wrote in his father's name"
+    },
+    {
+      "date": "2018",
+      "event": "Re-elected governor",
+      "significance": "Won by large margin despite Trump"
+    },
+    {
+      "date": "2020",
+      "event": "Wrote in Ronald Reagan for president",
+      "significance": "Refused to support Trump"
+    },
+    {
+      "date": "2021",
+      "event": "Published book critical of Trump",
+      "significance": "Detailed opposition to Trump"
+    },
+    {
+      "date": "2023-01-18",
+      "event": "Completed second term as governor",
+      "significance": "Left office"
+    },
+    {
+      "date": "2024",
+      "event": "Called Trump 'unhinged lunatic'",
+      "significance": "Escalated criticism"
+    },
+    {
+      "date": "2024",
+      "event": "Wrote in Ronald Reagan again",
+      "significance": "Refused to vote for Trump"
+    }
+  ],
+  "credibility": {
+    "background": "Popular two-term Republican Governor of Democratic-leaning Maryland, businessman",
+    "positions": [
+      "Governor of Maryland (2015-2023)",
+      "Chair, National Governors Association (2019-2020)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is an unhinged lunatic",
+    "Trump is not fit to be president",
+    "Trump is a disaster for the Republican Party and country",
+    "Trump lacks the character for the office",
+    "Trump divides rather than unites"
+  ],
+  "endorsement": "Has never voted for Trump; wrote in Ronald Reagan in 2024",
+  "sources": [
+    {
+      "title": "Larry Hogan calls Trump 'unhinged lunatic'",
+      "url": "https://thehill.com/homenews/campaign/larry-hogan-trump-unhinged",
+      "date": "2024",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

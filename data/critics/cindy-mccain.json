@@ -1,0 +1,96 @@
+{
+  "id": "cindy-mccain",
+  "name": "Cindy McCain",
+  "role": "Widow of Senator John McCain",
+  "administration": null,
+  "years": null,
+  "militaryRank": null,
+  "category": "former-associates",
+  "subCategory": "political-family",
+  "photo": null,
+  "summary": "Widow of Senator John McCain who endorsed Joe Biden in 2020, saying 'we need supported leaders who will bring respect back to the White House.'",
+  "keyStatements": [
+    {
+      "quote": "My husband John lived by a code: country first. We are Republicans, yes, but Americans foremost. There's only one candidate in this race who stands up for our values as a nation, and that is Joe Biden.",
+      "date": "2020-09",
+      "source": "Video endorsement",
+      "url": null
+    },
+    {
+      "quote": "I decided to endorse Joe Biden because we need supported leaders who will bring respect back to the White House.",
+      "date": "2020-09",
+      "source": "Public statement",
+      "url": null
+    },
+    {
+      "quote": "Trump has no empathy. He attacks everyone. We need someone who actually cares about people.",
+      "date": "2020",
+      "source": "Interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1980",
+      "event": "Married John McCain",
+      "significance": "Became political spouse"
+    },
+    {
+      "date": "2008",
+      "event": "Campaigned during McCain's presidential run",
+      "significance": "Active in Republican politics"
+    },
+    {
+      "date": "2015-2018",
+      "event": "Witnessed Trump's attacks on her husband",
+      "significance": "Trump repeatedly insulted McCain"
+    },
+    {
+      "date": "2018-08-25",
+      "event": "Husband John McCain died",
+      "significance": "Trump not invited to funeral"
+    },
+    {
+      "date": "2020-09",
+      "event": "Endorsed Joe Biden",
+      "significance": "First time endorsing Democrat"
+    },
+    {
+      "date": "2021",
+      "event": "Appointed U.S. Ambassador to UN Agencies",
+      "significance": "Nominated by Biden"
+    }
+  ],
+  "credibility": {
+    "background": "Widow of Senator John McCain, businesswoman, humanitarian, U.S. Ambassador",
+    "positions": [
+      "U.S. Ambassador to UN Agencies for Food and Agriculture (2021-present)",
+      "Chair, McCain Institute",
+      "Board Chair, Hensley Beverage Company"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump attacked her late husband repeatedly",
+    "Trump has no empathy",
+    "Trump attacks everyone",
+    "Trump doesn't care about people",
+    "Need leaders who bring respect back to White House"
+  ],
+  "endorsement": "Endorsed Joe Biden in 2020",
+  "sources": [
+    {
+      "title": "Cindy McCain endorses Joe Biden",
+      "url": "https://www.cnn.com/politics/cindy-mccain-endorses-biden",
+      "date": "2020-09",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

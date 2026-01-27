@@ -1,0 +1,90 @@
+{
+  "id": "stephanie-grisham",
+  "name": "Stephanie Grisham",
+  "role": "White House Press Secretary",
+  "administration": "Trump Administration",
+  "years": "2019-2020",
+  "militaryRank": null,
+  "category": "former-administration",
+  "subCategory": "press-secretary",
+  "photo": null,
+  "summary": "Former White House Press Secretary and Chief of Staff to the First Lady who endorsed Kamala Harris and warned Americans are 'terrified' of Trump.",
+  "keyStatements": [
+    {
+      "quote": "I don't think he is fit for the job. I think that he is erratic. I think that he can be delusional. I think that he is a narcissist and cares about himself first and foremost. And I do not want him to be our president again.",
+      "date": "2021-10-04",
+      "source": "ABC News",
+      "url": "https://abcnews.go.com"
+    },
+    {
+      "quote": "I am terrified of Trump running in 2024.",
+      "date": "2021-10-04",
+      "source": "ABC News exclusive interview",
+      "url": "https://abcnews.go.com"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2017",
+      "event": "Joined Trump administration",
+      "significance": "Initially worked for First Lady's office"
+    },
+    {
+      "date": "2019-06-25",
+      "event": "Became White House Press Secretary",
+      "significance": "Never held a press briefing during tenure"
+    },
+    {
+      "date": "2020-04-07",
+      "event": "Became Chief of Staff to First Lady",
+      "significance": "Moved back to East Wing"
+    },
+    {
+      "date": "2021-01-06",
+      "event": "Resigned on January 6",
+      "significance": "Left immediately after Capitol attack"
+    },
+    {
+      "date": "2021-10-04",
+      "event": "Publicly denounced Trump",
+      "significance": "Called him unfit for office"
+    },
+    {
+      "date": "2024",
+      "event": "Endorsed Kamala Harris",
+      "significance": "Crossed party lines"
+    }
+  ],
+  "credibility": {
+    "background": "Former White House Press Secretary, Chief of Staff to First Lady Melania Trump, insider to Trump family operations",
+    "positions": [
+      "White House Communications Director (2020-2021)",
+      "Chief of Staff to the First Lady (2020-2021)",
+      "White House Press Secretary (2019-2020)",
+      "Press Secretary to the Vice President (2017-2019)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is erratic and delusional",
+    "Trump is a narcissist who puts himself first",
+    "Trump is not fit to be president",
+    "January 6 was a breaking point"
+  ],
+  "endorsement": "Endorsed Kamala Harris for President in 2024",
+  "sources": [
+    {
+      "title": "Ex-Trump Aide Stephanie Grisham Says 'I Am Terrified' of Trump Running in 2024",
+      "url": "https://abcnews.go.com/US/exclusive-trump-aide-stephanie-grisham-terrified-trump-running/story?id=80398083",
+      "date": "2021-10-04",
+      "type": "news"
+    },
+    {
+      "title": "Harris team launches GOP group with endorsements from ex-Trump officials",
+      "url": "https://thehill.com/homenews/campaign/4809725-kamala-harris-campaign-gop-initiative-prominent-republican-voices/",
+      "date": "2024-08-04",
+      "type": "news"
+    }
+  ],
+  "party": "Republican"
+}

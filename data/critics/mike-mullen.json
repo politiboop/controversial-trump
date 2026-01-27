@@ -1,0 +1,79 @@
+{
+  "id": "mike-mullen",
+  "name": "Mike Mullen",
+  "role": "Chairman of the Joint Chiefs of Staff",
+  "administration": "George W. Bush and Barack Obama Administrations",
+  "years": "2007-2011",
+  "militaryRank": "Admiral, U.S. Navy (Retired)",
+  "category": "military-leader",
+  "subCategory": "joint-chiefs",
+  "photo": null,
+  "summary": "Former Chairman of the Joint Chiefs who condemned Trump's use of military force against peaceful protesters and warned against politicizing the armed forces.",
+  "keyStatements": [
+    {
+      "quote": "He laid bare his disdain for the rights of peaceful protest in this country, gave succor to the leaders of other countries who take comfort in our domestic strife, and risked further politicizing the men and women of our armed forces.",
+      "date": "2020-06",
+      "source": "The Atlantic",
+      "context": "Criticizing Trump's Lafayette Square photo op",
+      "url": "https://www.theatlantic.com"
+    },
+    {
+      "quote": "Fellow Americans are not the enemy, and must never become so.",
+      "date": "2020-06",
+      "source": "The Atlantic op-ed",
+      "url": "https://www.theatlantic.com"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2007-10-01",
+      "event": "Became Chairman of Joint Chiefs of Staff",
+      "significance": "Appointed by President George W. Bush"
+    },
+    {
+      "date": "2011-09-30",
+      "event": "Completed service as Chairman",
+      "significance": "Served under both Bush and Obama"
+    },
+    {
+      "date": "2020-06",
+      "event": "Published op-ed condemning Trump",
+      "significance": "Broke tradition of military silence on political matters"
+    }
+  ],
+  "credibility": {
+    "background": "Four-star admiral who served as the nation's highest-ranking military officer",
+    "positions": [
+      "Chairman of the Joint Chiefs of Staff (2007-2011)",
+      "Chief of Naval Operations (2005-2007)",
+      "Vice Chief of Naval Operations (2004-2005)"
+    ],
+    "awards": [
+      "Defense Distinguished Service Medal",
+      "Navy Distinguished Service Medal",
+      "Legion of Merit"
+    ]
+  },
+  "oppositionReasons": [
+    "Trump's use of military against peaceful protesters was unconstitutional",
+    "Trump showed disdain for rights of peaceful protest",
+    "Trump risked politicizing the armed forces",
+    "Trump's actions gave comfort to autocratic foreign leaders"
+  ],
+  "endorsement": "Opposes Trump's approach to civil-military relations",
+  "sources": [
+    {
+      "title": "I Cannot Remain Silent",
+      "url": "https://www.theatlantic.com",
+      "date": "2020-06",
+      "type": "op-ed"
+    },
+    {
+      "title": "The High-Profile Military Leaders Who Have Come Out Against Donald Trump",
+      "url": "https://www.usnews.com",
+      "date": "2024-10-23",
+      "type": "news"
+    }
+  ],
+  "party": "Independent"
+}

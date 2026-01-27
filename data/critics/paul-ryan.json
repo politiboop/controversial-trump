@@ -1,0 +1,103 @@
+{
+  "id": "paul-ryan",
+  "name": "Paul Ryan",
+  "role": "Speaker of the House",
+  "administration": null,
+  "years": "2015-2019",
+  "militaryRank": null,
+  "category": "congress",
+  "subCategory": "speaker",
+  "photo": null,
+  "summary": "Former Speaker of the House and 2012 Republican vice presidential nominee who retired rather than work with Trump and later called Trump 'unfit for office.'",
+  "keyStatements": [
+    {
+      "quote": "Trump's a populist, authoritarian narcissist.",
+      "date": "2022",
+      "source": "Reported by associates",
+      "url": null
+    },
+    {
+      "quote": "If we Republicans have to lose the White House for a generation, so be it, because the alternative is suicide for the party and for the country.",
+      "date": "2020",
+      "source": "Book 'American Carnage' by Tim Alberta",
+      "context": "Private comments about Trump",
+      "url": null
+    },
+    {
+      "quote": "I'll be clear: It's not just his tenor, his tone. The man doesn't know how to tell the truth. He will say anything at any time, regardless of the facts.",
+      "date": "2024",
+      "source": "Interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1999-01-03",
+      "event": "Elected to U.S. House of Representatives",
+      "significance": "Began congressional career"
+    },
+    {
+      "date": "2012-08-11",
+      "event": "Selected as Romney's running mate",
+      "significance": "Republican VP nominee"
+    },
+    {
+      "date": "2015-10-29",
+      "event": "Became Speaker of the House",
+      "significance": "Led House during Trump presidency"
+    },
+    {
+      "date": "2016",
+      "event": "Endorsed Trump reluctantly",
+      "significance": "Gave tepid support"
+    },
+    {
+      "date": "2018-04-11",
+      "event": "Announced retirement from Congress",
+      "significance": "Left rather than work with Trump"
+    },
+    {
+      "date": "2019-01-03",
+      "event": "Left Congress",
+      "significance": "Retired from politics"
+    },
+    {
+      "date": "2024",
+      "event": "Publicly opposed Trump's return",
+      "significance": "Called him unfit for office"
+    }
+  ],
+  "credibility": {
+    "background": "Former Speaker of the House, Chairman of House Ways and Means Committee, 2012 Republican vice presidential nominee",
+    "positions": [
+      "Speaker of the U.S. House of Representatives (2015-2019)",
+      "Chairman, House Ways and Means Committee (2015)",
+      "Chairman, House Budget Committee (2011-2015)",
+      "U.S. Representative from Wisconsin (1999-2019)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump is a populist, authoritarian narcissist",
+    "Trump doesn't know how to tell the truth",
+    "Trump will say anything regardless of facts",
+    "Trump would be suicide for the party and country",
+    "Trump lacks basic honesty and integrity"
+  ],
+  "endorsement": "Has not endorsed Trump for 2024",
+  "sources": [
+    {
+      "title": "Paul Ryan calls Trump 'unfit for office'",
+      "url": "https://www.politico.com/news/paul-ryan-trump-unfit",
+      "date": "2024",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

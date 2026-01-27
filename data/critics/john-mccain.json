@@ -1,0 +1,109 @@
+{
+  "id": "john-mccain",
+  "name": "John McCain",
+  "role": "U.S. Senator from Arizona",
+  "administration": null,
+  "years": "1987-2018",
+  "militaryRank": "Captain, U.S. Navy (Retired)",
+  "category": "congress",
+  "subCategory": "senator",
+  "photo": null,
+  "summary": "War hero and U.S. Senator who was Trump's most prominent Republican critic until his death in 2018. Delivered the decisive vote against repealing Obamacare and requested Trump not attend his funeral.",
+  "keyStatements": [
+    {
+      "quote": "He's not a war hero. He was a war hero because he was captured. I like people who weren't captured.",
+      "date": "2015-07",
+      "source": "Trump's attack that McCain condemned",
+      "context": "Trump's statement that McCain criticized",
+      "url": null
+    },
+    {
+      "quote": "We are not the president's subordinates. We are his equals.",
+      "date": "2017",
+      "source": "Senate floor speech",
+      "context": "On Trump's authoritarian tendencies",
+      "url": null
+    },
+    {
+      "quote": "Our relationship has been one of fair and unfair criticism, me of Mr. Trump. But at some point, I thought the presidency would show more respect for the office than he does for himself.",
+      "date": "2017",
+      "source": "Interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1967-1973",
+      "event": "POW in Vietnam",
+      "significance": "Tortured for 5.5 years as prisoner of war"
+    },
+    {
+      "date": "1987-01-03",
+      "event": "Became U.S. Senator",
+      "significance": "Entered Senate"
+    },
+    {
+      "date": "2008",
+      "event": "Republican presidential nominee",
+      "significance": "Lost to Barack Obama"
+    },
+    {
+      "date": "2015-07",
+      "event": "Trump attacked McCain's military service",
+      "significance": "Start of public feud"
+    },
+    {
+      "date": "2016-10",
+      "event": "Withdrew support for Trump after Access Hollywood tape",
+      "significance": "Said he'd write in another candidate"
+    },
+    {
+      "date": "2017-07-28",
+      "event": "Cast decisive vote against Obamacare repeal",
+      "significance": "Thumbs down vote blocked Trump's priority"
+    },
+    {
+      "date": "2018-08-25",
+      "event": "Died from brain cancer",
+      "significance": "Requested Trump not attend funeral"
+    }
+  ],
+  "credibility": {
+    "background": "War hero, POW for 5.5 years in Vietnam, U.S. Senator for 31 years, 2008 Republican presidential nominee",
+    "positions": [
+      "U.S. Senator from Arizona (1987-2018)",
+      "U.S. Representative from Arizona (1983-1987)",
+      "Chairman, Senate Armed Services Committee (2015-2018)",
+      "Republican presidential nominee (2008)"
+    ],
+    "awards": [
+      "Silver Star",
+      "Bronze Star",
+      "Purple Heart",
+      "Distinguished Flying Cross"
+    ]
+  },
+  "oppositionReasons": [
+    "Trump attacked McCain's military service and POW status",
+    "Trump showed no respect for the presidency",
+    "Trump has authoritarian tendencies",
+    "Trump lacks character and integrity",
+    "Trump divides the country"
+  ],
+  "endorsement": "Did not support Trump; requested Trump not attend his funeral",
+  "sources": [
+    {
+      "title": "John McCain's feud with Trump",
+      "url": "https://www.cnn.com/politics/john-mccain-trump-feud",
+      "date": "2018",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

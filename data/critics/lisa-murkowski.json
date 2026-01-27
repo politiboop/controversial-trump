@@ -1,0 +1,91 @@
+{
+  "id": "lisa-murkowski",
+  "name": "Lisa Murkowski",
+  "role": "U.S. Senator from Alaska",
+  "administration": null,
+  "years": "2002-present",
+  "militaryRank": null,
+  "category": "congress",
+  "subCategory": "senator",
+  "photo": null,
+  "summary": "Republican Senator from Alaska who voted to convict Trump in his second impeachment trial and endorsed Nikki Haley in the 2024 Republican primary instead of Trump.",
+  "keyStatements": [
+    {
+      "quote": "I cannot vote to convict the former president on this article of impeachment... But I did not come to a decision on this. I made a commitment to Alaskans that I would carefully consider the case that was put before me and make a decision based on the facts.",
+      "date": "2021-02-13",
+      "source": "Senate statement",
+      "context": "On second impeachment vote",
+      "url": null
+    },
+    {
+      "quote": "I will not vote for Donald Trump.",
+      "date": "2024",
+      "source": "Interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2002-12-20",
+      "event": "Appointed to U.S. Senate",
+      "significance": "Succeeded her father Frank Murkowski"
+    },
+    {
+      "date": "2016",
+      "event": "Withdrew support for Trump after Access Hollywood tape",
+      "significance": "Early break with Trump"
+    },
+    {
+      "date": "2017-07-28",
+      "event": "Voted against Obamacare repeal",
+      "significance": "Defied Trump and GOP leadership"
+    },
+    {
+      "date": "2018-10-05",
+      "event": "Voted against Brett Kavanaugh confirmation",
+      "significance": "Opposed Trump Supreme Court nominee"
+    },
+    {
+      "date": "2021-02-13",
+      "event": "Voted to convict Trump in second impeachment",
+      "significance": "One of seven Republicans to vote for conviction"
+    },
+    {
+      "date": "2024",
+      "event": "Endorsed Nikki Haley in GOP primary",
+      "significance": "Publicly rejected Trump candidacy"
+    }
+  ],
+  "credibility": {
+    "background": "Long-serving U.S. Senator known for independent streak, member of key Senate committees",
+    "positions": [
+      "U.S. Senator from Alaska (2002-present)",
+      "Member, Senate Energy and Natural Resources Committee",
+      "Member, Senate Appropriations Committee",
+      "Member, Senate Indian Affairs Committee"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump's role in January 6 attack warranted conviction",
+    "Trump's conduct and character are disqualifying",
+    "Trump lacks the temperament for the presidency",
+    "Trump divides rather than unites the country"
+  ],
+  "endorsement": "Endorsed Nikki Haley in 2024 Republican primary; will not vote for Trump",
+  "sources": [
+    {
+      "title": "Murkowski says she will not vote for Trump",
+      "url": "https://www.cnn.com/politics/murkowski-trump-2024",
+      "date": "2024",
+      "type": "news"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

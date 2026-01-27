@@ -1,0 +1,62 @@
+{
+  "id": "fluoride-ban-push",
+  "title": "Push to Remove Fluoride from Water and Supplements Despite Decades of Safety Data",
+  "primaryCategory": "public-health",
+  "severity": "serious",
+  "timeline": "second-term",
+  "date": "2025-05-13",
+  "summary": "HHS Secretary Kennedy called fluoride a 'dangerous neurotoxin' and pushed to remove it from drinking water and supplements, contradicting decades of scientific consensus on its safety and efficacy for dental health. FDA moved to phase out fluoride supplements for children's teeth. Utah became first state to ban fluoride in public drinking water. Kennedy announced task force to scrutinize fluoride use and ordered CDC to stop recommending it. Dental and public health experts warn removal threatens children's oral health, particularly in underserved communities.",
+  "keyFacts": [
+    "HHS Secretary Robert F. Kennedy Jr. called fluoride a 'dangerous neurotoxin'",
+    "Kennedy claimed fluoride tied to a range of health dangers despite scientific consensus on safety",
+    "May 2025: FDA announced plans to phase out fluoride-containing supplements for children's teeth",
+    "October 2025: FDA concluded fluoride supplements 'should not be used in children under age 3'",
+    "March 2025: Utah became first state to ban fluoride in public drinking water",
+    "Kennedy announced task force to scrutinize fluoride's use",
+    "Kennedy ordered CDC to stop recommending fluoride",
+    "Water fluoridation credited with massive reductions in tooth decay since 1940s-1960s",
+    "CDC named water fluoridation one of 10 great public health achievements of 20th century",
+    "Decades of research support fluoride safety and efficacy for dental health",
+    "Dental health experts warn removal particularly harms children in underserved communities",
+    "Scientific consensus: fluoride at recommended levels is safe and prevents cavities",
+    "Policy change driven by ideology rather than science"
+  ],
+  "sources": [
+    {
+      "text": "RFK Jr. says Trump will remove fluoride from drinking water. Here's what to know",
+      "url": "https://fortune.com/well/2025/03/28/rfk-jr-fluoride-drinking-water-removed-trump/",
+      "type": "news"
+    },
+    {
+      "text": "FDA and RFK Jr. aim to remove fluoride supplements used to protect kids' teeth",
+      "url": "https://www.pbs.org/newshour/health/fda-and-rfk-jr-aim-to-remove-fluoride-supplements-used-to-protect-kids-teeth",
+      "type": "news"
+    },
+    {
+      "text": "FDA moves to restrict fluoride supplements as part of MAHA agenda",
+      "url": "https://www.cnn.com/2025/10/31/health/fluoride-supplement-restrictions-fda",
+      "type": "news"
+    },
+    {
+      "text": "FDA moves to take prescription fluoride supplements off the market",
+      "url": "https://www.cnn.com/2025/05/13/health/fluoride-supplement-ban-fda",
+      "type": "news"
+    },
+    {
+      "text": "RFK Jr. wants fluoride out of drinking water. What the science says.",
+      "url": "https://www.washingtonpost.com/health/2024/11/04/fluoride-drinking-water-science-rfk-jr-trump/",
+      "type": "analysis"
+    },
+    {
+      "text": "Safety of fluoride supplements, and freedom of choice, debated at FDA meeting",
+      "url": "https://www.statnews.com/2025/07/24/fluoride-supplement-policy-clash-health-freedom-vs-regulation/",
+      "type": "news"
+    },
+    {
+      "text": "FDA alleges fluoride supplements cause gut harms. Scientists aren't convinced",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/05/13/g-s1-66476/fda-fluoride-prescription-ingestible-treatments",
+      "type": "news"
+    }
+  ],
+  "specialTags": ["fluoride", "water-fluoridation", "dental-health", "rfk-jr", "anti-science", "public-health"]
+}

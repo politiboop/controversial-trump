@@ -1,0 +1,96 @@
+{
+  "id": "matthew-pottinger",
+  "name": "Matthew Pottinger",
+  "role": "Deputy National Security Advisor",
+  "administration": "Trump Administration",
+  "years": "2019-2021",
+  "militaryRank": "Major, U.S. Marine Corps (Retired)",
+  "category": "former-administration",
+  "subCategory": "national-security",
+  "photo": null,
+  "summary": "Former Deputy National Security Advisor and Marine who resigned on January 6 and testified before the January 6 Committee that Trump's conduct was 'un-American.'",
+  "keyStatements": [
+    {
+      "quote": "I thought that the president's statements were inconsistent with his duty to preserve, protect, and defend the Constitution.",
+      "date": "2022",
+      "source": "January 6 Committee testimony",
+      "context": "On why he resigned",
+      "url": null
+    },
+    {
+      "quote": "What I saw on January 6 was un-American and unconstitutional.",
+      "date": "2022",
+      "source": "January 6 Committee testimony",
+      "url": null
+    },
+    {
+      "quote": "Trump should not be trusted with classified information or military power again.",
+      "date": "2024",
+      "source": "Interview",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2017",
+      "event": "Joined National Security Council",
+      "significance": "Became Asia director"
+    },
+    {
+      "date": "2019-09",
+      "event": "Became Deputy National Security Advisor",
+      "significance": "Senior NSC role"
+    },
+    {
+      "date": "2021-01-06",
+      "event": "Resigned on January 6",
+      "significance": "Left immediately after Capitol attack"
+    },
+    {
+      "date": "2022",
+      "event": "Testified before January 6 Committee",
+      "significance": "Provided evidence against Trump"
+    },
+    {
+      "date": "2024",
+      "event": "Warned against Trump handling classified info",
+      "significance": "Continued opposition"
+    }
+  ],
+  "credibility": {
+    "background": "Former Deputy National Security Advisor, Marine Corps veteran, former journalist in China",
+    "positions": [
+      "Deputy National Security Advisor (2019-2021)",
+      "Senior Director for Asia, NSC (2018-2019)",
+      "Director for China, NSC (2017-2018)",
+      "U.S. Marine Corps officer"
+    ],
+    "awards": [
+      "Bronze Star",
+      "Combat Action Ribbon"
+    ]
+  },
+  "oppositionReasons": [
+    "Trump's January 6 conduct was un-American",
+    "Trump violated his constitutional duty",
+    "Trump should not have access to classified information",
+    "Trump should not have military power",
+    "Trump cannot be trusted with national security"
+  ],
+  "endorsement": "Opposes Trump's return to office",
+  "sources": [
+    {
+      "title": "Matthew Pottinger testifies before January 6 Committee",
+      "url": "https://www.cnn.com/politics/matthew-pottinger-testimony",
+      "date": "2022",
+      "type": "testimony"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Republican"
+}

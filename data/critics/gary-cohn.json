@@ -1,0 +1,91 @@
+{
+  "id": "gary-cohn",
+  "name": "Gary Cohn",
+  "role": "Director of the National Economic Council",
+  "administration": "Trump Administration",
+  "years": "2017-2018",
+  "militaryRank": null,
+  "category": "former-administration",
+  "subCategory": "economic-policy",
+  "photo": null,
+  "summary": "Former Director of National Economic Council and Goldman Sachs president who resigned after Trump's Charlottesville response and later said Trump is 'not worth it' for the country.",
+  "keyStatements": [
+    {
+      "quote": "Citizens standing up for equality and freedom can never be equated with white supremacists, neo-Nazis, and the KKK.",
+      "date": "2017-08",
+      "source": "Financial Times interview",
+      "context": "After Trump's 'both sides' Charlottesville comment",
+      "url": null
+    },
+    {
+      "quote": "This administration can and must do better in consistently and unequivocally condemning these groups and do everything we can to heal the deep divisions that exist in our communities.",
+      "date": "2017-08",
+      "source": "Financial Times interview",
+      "url": null
+    },
+    {
+      "quote": "Trump is just not worth it for the country.",
+      "date": "2024",
+      "source": "Reported statement",
+      "url": null
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2017-01-20",
+      "event": "Became Director of National Economic Council",
+      "significance": "Joined Trump administration"
+    },
+    {
+      "date": "2017-08",
+      "event": "Nearly resigned after Charlottesville",
+      "significance": "Criticized Trump's 'both sides' comment"
+    },
+    {
+      "date": "2018-03-06",
+      "event": "Resigned from White House",
+      "significance": "Left over steel and aluminum tariffs"
+    },
+    {
+      "date": "2020",
+      "event": "Did not endorse Trump for re-election",
+      "significance": "Distanced himself from Trump"
+    },
+    {
+      "date": "2024",
+      "event": "Said Trump is 'not worth it'",
+      "significance": "Opposes Trump's return"
+    }
+  ],
+  "credibility": {
+    "background": "Former Director of National Economic Council, former President and COO of Goldman Sachs",
+    "positions": [
+      "Director, National Economic Council (2017-2018)",
+      "President and COO, Goldman Sachs (2006-2017)"
+    ],
+    "awards": []
+  },
+  "oppositionReasons": [
+    "Trump equated white supremacists with anti-racism protesters",
+    "Trump failed to consistently condemn hate groups",
+    "Trump's economic policies were misguided",
+    "Trump is not worth it for the country",
+    "Trump divides rather than heals"
+  ],
+  "endorsement": "Has not endorsed Trump for 2024",
+  "sources": [
+    {
+      "title": "Gary Cohn condemns Trump's Charlottesville response",
+      "url": "https://www.ft.com/content/gary-cohn-charlottesville",
+      "date": "2017-08",
+      "type": "interview"
+    },
+    {
+      "title": "List of Republicans who oppose Donald Trump's 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_oppose_Donald_Trump%27s_2024_presidential_campaign",
+      "date": "2024",
+      "type": "reference"
+    }
+  ],
+  "party": "Democrat"
+}
