@@ -68,6 +68,41 @@
   font-weight: 600;
 }
 
+/* Sort Controls */
+.sortControls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: var(--ifm-color-emphasis-100);
+  border-radius: 0.5rem;
+}
+
+.sortLabel {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--ifm-color-emphasis-800);
+}
+
+.sortSelect {
+  padding: 0.5rem 0.75rem;
+  border: 2px solid var(--ifm-color-emphasis-300);
+  border-radius: 0.5rem;
+  font-size: 0.95rem;
+  background: white;
+  cursor: pointer;
+  transition: all 0.2s;
+  flex: 1;
+  max-width: 250px;
+}
+
+.sortSelect:focus {
+  outline: none;
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 0 0 3px var(--ifm-color-primary-lightest);
+}
+
 /* Grid */
 .grid {
   display: grid;

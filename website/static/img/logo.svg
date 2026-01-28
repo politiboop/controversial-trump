@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background circle with gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- Main circle background -->
+  <circle cx="100" cy="100" r="95" fill="url(#bgGradient)" filter="url(#shadow)"/>
+
+  <!-- Document icon -->
+  <g>
+    <!-- Document background -->
+    <rect x="55" y="40" width="90" height="120" rx="6" fill="#ffffff" filter="url(#shadow)"/>
+
+    <!-- Red accent header -->
+    <rect x="55" y="40" width="90" height="18" rx="6" fill="#dc2626"/>
+
+    <!-- Document title area (darker red) -->
+    <rect x="55" y="40" width="90" height="12" rx="6" fill="#b91c1c"/>
+
+    <!-- List lines -->
+    <rect x="70" y="70" width="60" height="5" rx="2.5" fill="#2563eb" opacity="0.8"/>
+    <rect x="70" y="85" width="50" height="5" rx="2.5" fill="#2563eb" opacity="0.7"/>
+    <rect x="70" y="100" width="55" height="5" rx="2.5" fill="#2563eb" opacity="0.8"/>
+    <rect x="70" y="115" width="45" height="5" rx="2.5" fill="#2563eb" opacity="0.7"/>
+    <rect x="70" y="130" width="52" height="5" rx="2.5" fill="#2563eb" opacity="0.8"/>
+    <rect x="70" y="145" width="48" height="5" rx="2.5" fill="#2563eb" opacity="0.7"/>
+  </g>
+
+  <!-- Warning badge -->
+  <circle cx="130" cy="145" r="18" fill="#dc2626" filter="url(#shadow)"/>
+  <circle cx="130" cy="145" r="15" fill="#ef4444"/>
+  <text x="130" y="155" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial, sans-serif">!</text>
+</svg>

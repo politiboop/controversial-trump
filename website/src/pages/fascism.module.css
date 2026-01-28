@@ -671,6 +671,164 @@
   color: #166534;
 }
 
+/* Constitutional Violations Section */
+.constitutionalViolations {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.violationCategory {
+  background: var(--ifm-color-emphasis-100);
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  border-left: 4px solid #dc2626;
+}
+
+.violationCategory h3 {
+  margin: 0 0 1rem 0;
+  font-size: 1.4rem;
+  color: var(--ifm-color-emphasis-900);
+}
+
+.violationBox {
+  background: white;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  border: 2px solid var(--ifm-color-emphasis-300);
+}
+
+.clauseText {
+  background: #eff6ff;
+  padding: 1rem;
+  border-radius: 0.25rem;
+  margin-bottom: 1rem;
+  border-left: 4px solid #3b82f6;
+}
+
+.clauseText strong {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #1e40af;
+  font-size: 1rem;
+}
+
+.clauseText p {
+  margin: 0;
+  font-style: italic;
+  line-height: 1.7;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.violationContent {
+  margin-top: 1rem;
+}
+
+.violationContent strong {
+  display: block;
+  margin-bottom: 0.75rem;
+  color: #dc2626;
+  font-size: 1.05rem;
+}
+
+.violationContent ul {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.violationContent li {
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
+}
+
+.violationContent li strong {
+  display: inline;
+  color: var(--ifm-color-primary);
+  font-size: inherit;
+  margin: 0;
+}
+
+.legalScholarsBox {
+  background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  margin-top: 2rem;
+}
+
+.legalScholarsBox h3 {
+  margin: 0 0 1rem 0;
+  font-size: 1.5rem;
+  color: white;
+}
+
+.legalScholarsBox blockquote {
+  background: rgba(255, 255, 255, 0.15);
+  padding: 1.25rem;
+  border-radius: 0.25rem;
+  border-left: 4px solid white;
+  margin: 1rem 0;
+  font-style: italic;
+  line-height: 1.7;
+}
+
+.legalScholarsBox p {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.scholarNote {
+  font-size: 0.95rem !important;
+  opacity: 0.9;
+  font-style: italic;
+}
+
+.constitutionQuote {
+  background: #fee2e2;
+  border: 3px solid #dc2626;
+  border-radius: 0.5rem;
+  padding: 2rem;
+  margin-top: 2rem;
+}
+
+.constitutionQuote h3 {
+  margin: 0 0 1rem 0;
+  color: #991b1b;
+  font-size: 1.5rem;
+}
+
+.constitutionQuote blockquote {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 0.25rem;
+  border-left: 4px solid #dc2626;
+  margin: 1rem 0;
+  font-size: 1.15rem;
+  line-height: 1.7;
+  font-style: italic;
+  color: #991b1b;
+  font-weight: 600;
+}
+
+.constitutionQuote cite {
+  display: block;
+  text-align: right;
+  margin-top: 0.5rem;
+  font-style: normal;
+  color: var(--ifm-color-emphasis-700);
+  font-weight: 600;
+}
+
+.quoteContext {
+  margin: 1rem 0 0 0;
+  line-height: 1.7;
+  font-size: 1.05rem;
+}
+
+.quoteContext strong {
+  color: #991b1b;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .container {
@@ -754,5 +912,17 @@
 
   .importantCaveat {
     padding: 1.5rem;
+  }
+
+  .legalScholarsBox {
+    padding: 1.5rem;
+  }
+
+  .constitutionQuote {
+    padding: 1.5rem;
+  }
+
+  .constitutionQuote blockquote {
+    font-size: 1.05rem;
   }
 }

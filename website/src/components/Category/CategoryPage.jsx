@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import ControversyCard from './ControversyCard';
+import Breadcrumbs from '../Breadcrumbs/Breadcrumbs';
 import styles from './CategoryPage.module.css';
 
 // Import data
@@ -9,6 +10,7 @@ import { controversyIndex } from '../../data/controversyIndex';
 const CategoryPage = ({ categoryId, onControversyClick, onBack }) => {
   const [controversies, setControversies] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [sortBy, setSortBy] = useState('date-desc');
 
   const category = categoriesData.categories[categoryId];
   const severityLevels = categoriesData.severityLevels;
@@ -47,12 +49,49 @@ const CategoryPage = ({ categoryId, onControversyClick, onBack }) => {
     loadControversies();
   }, [categoryId]);
 
+  // Sort controversies
+  const sortedControversies = React.useMemo(() => {
+    const sorted = [...controversies];
+
+    switch (sortBy) {
+      case 'date-desc':
+        sorted.sort((a, b) => new Date(b.date) - new Date(a.date));
+        break;
+      case 'date-asc':
+        sorted.sort((a, b) => new Date(a.date) - new Date(b.date));
+        break;
+      case 'severity':
+        sorted.sort((a, b) => {
+          const order = { catastrophic: 0, serious: 1, concerning: 2, disputed: 3, absurd: 4 };
+          return order[a.severity] - order[b.severity];
+        });
+        break;
+      case 'sources':
+        sorted.sort((a, b) => (b.sources?.length || 0) - (a.sources?.length || 0));
+        break;
+      case 'title-asc':
+        sorted.sort((a, b) => a.title.localeCompare(b.title));
+        break;
+      default:
+        break;
+    }
+
+    return sorted;
+  }, [controversies, sortBy]);
+
   if (!category) {
     return <div>Category not found</div>;
   }
 
   return (
     <div className={styles.container}>
+      <Breadcrumbs
+        crumbs={[
+          { label: 'Home', path: '/' },
+          { label: category.title, path: `/category/${categoryId}` }
+        ]}
+      />
+
       {/* Header */}
       <div className={styles.header} style={{ borderColor: category.color }}>
         <button onClick={onBack} className={styles.backButton}>
@@ -72,6 +111,25 @@ const CategoryPage = ({ categoryId, onControversyClick, onBack }) => {
         </div>
       </div>
 
+      {/* Sort Controls */}
+      {!loading && controversies.length > 1 && (
+        <div className={styles.sortControls}>
+          <label htmlFor="sort-select" className={styles.sortLabel}>Sort by:</label>
+          <select
+            id="sort-select"
+            value={sortBy}
+            onChange={(e) => setSortBy(e.target.value)}
+            className={styles.sortSelect}
+          >
+            <option value="date-desc">Newest First</option>
+            <option value="date-asc">Oldest First</option>
+            <option value="severity">Most Severe First</option>
+            <option value="sources">Most Sources First</option>
+            <option value="title-asc">Title (A-Z)</option>
+          </select>
+        </div>
+      )}
+
       {/* Controversies Grid */}
       {loading ? (
         <div className={styles.loading}>Loading controversies...</div>
@@ -79,7 +137,7 @@ const CategoryPage = ({ categoryId, onControversyClick, onBack }) => {
         <div className={styles.empty}>No controversies found in this category.</div>
       ) : (
         <div className={styles.grid}>
-          {controversies.map((controversy) => (
+          {sortedControversies.map((controversy) => (
             <ControversyCard
               key={controversy.id}
               controversy={controversy}

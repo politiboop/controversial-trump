@@ -901,6 +901,210 @@ export default function Fascism() {
           </div>
         </section>
 
+        {/* Constitutional Violations */}
+        <section className={styles.section}>
+          <h2 className={styles.sectionTitle}>
+            <span className={styles.icon}>⚖️</span>
+            Violations of the U.S. Constitution
+          </h2>
+          <p className={styles.sectionIntro}>
+            Beyond fascist parallels, Trump has systematically violated the Constitution—the foundational document he swore to "preserve, protect and defend." A New York Times survey found that <strong>34 out of 35 legal scholars</strong> agree Trump is a "lawless authoritarian" who undercuts the Constitution and rule of law.
+          </p>
+
+          <div className={styles.constitutionalViolations}>
+            <div className={styles.violationCategory}>
+              <h3>💰 Emoluments Clauses (Article I, Section 9 & Article II, Section 1)</h3>
+              <div className={styles.violationBox}>
+                <div className={styles.clauseText}>
+                  <strong>What the Constitution Says:</strong>
+                  <p><em>"No Person holding any Office of Profit or Trust under [the United States], shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State."</em></p>
+                </div>
+                <div className={styles.violationContent}>
+                  <strong>Trump's Violations:</strong>
+                  <ul>
+                    <li><strong>$7.8 million from foreign governments:</strong> January 2024 report found Trump accepted payments from at least 20 foreign governments while in office—including China, Saudi Arabia, UAE, Qatar, Kuwait, and Malaysia</li>
+                    <li><strong>Trump Tower foreign payments:</strong> At least 5 foreign governments pay $2 million per month combined for units in Trump World Tower</li>
+                    <li><strong>No Congressional approval:</strong> Never sought or received Congressional consent for any foreign payments</li>
+                    <li><strong>Hotel profits from foreign governments:</strong> Foreign officials stayed at Trump International Hotel to curry favor</li>
+                    <li><strong>Saudi Arabia hosted LIV Golf at Trump courses:</strong> Millions in payments from Saudi government</li>
+                    <li><strong>January 2025 second term:</strong> Trump organized business interests to facilitate receipt of foreign gifts—in violation from day one</li>
+                    <li><strong>January 2024 demand:</strong> Rep. Jamie Raskin demanded Trump return the $7.8 million; Trump refused</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div className={styles.violationCategory}>
+              <h3>🗣️ First Amendment (Freedom of Speech and Press)</h3>
+              <div className={styles.violationBox}>
+                <div className={styles.clauseText}>
+                  <strong>What the Constitution Says:</strong>
+                  <p><em>"Congress shall make no law...abridging the freedom of speech, or of the press..."</em></p>
+                </div>
+                <div className={styles.violationContent}>
+                  <strong>Trump's Violations:</strong>
+                  <ul>
+                    <li><strong>Called press "enemy of the people":</strong> Direct attack on free press using Stalinist/Nazi language</li>
+                    <li><strong>$20 billion lawsuit against CBS News:</strong> Attempting to financially destroy news organization for critical coverage</li>
+                    <li><strong>FCC investigation of NPR/PBS:</strong> Ordered investigation calling them "communist" for unfavorable coverage</li>
+                    <li><strong>Restricted White House press pool:</strong> Hand-picked only friendly journalists</li>
+                    <li><strong>Cancelled news agency contracts:</strong> AP, Reuters, AFP removed from Voice of America</li>
+                    <li><strong>Proposed defunding CPB:</strong> $1.1 billion cut to public broadcasting</li>
+                    <li><strong>ICE kidnapping of protesters:</strong> Peaceful protesters detained and deported for exercising First Amendment rights</li>
+                    <li><strong>Pro-Palestinian activists targeted:</strong> Arrested and deported for political speech (Mahmoud Khalil case)</li>
+                    <li><strong>Threats against lawmakers:</strong> Attacked Congress members for speech criticizing him</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div className={styles.violationCategory}>
+              <h3>⚖️ Due Process (5th and 14th Amendments)</h3>
+              <div className={styles.violationBox}>
+                <div className={styles.clauseText}>
+                  <strong>What the Constitution Says:</strong>
+                  <p><em>"No person shall...be deprived of life, liberty, or property, without due process of law..."</em></p>
+                </div>
+                <div className={styles.violationContent}>
+                  <strong>Trump's Violations:</strong>
+                  <ul>
+                    <li><strong>Alien Enemies Act deportations:</strong> Used 1798 law to deport people without due process, hearings, or legal representation</li>
+                    <li><strong>Guantanamo/CECOT detentions:</strong> Sent 50+ to Guantanamo, 250+ to El Salvador's CECOT without trial</li>
+                    <li><strong>Abrego Garcia case:</strong> Deported despite unanimous Supreme Court ruling declaring it illegal</li>
+                    <li><strong>Mahmoud Khalil deportation:</strong> U.S. citizen's husband deported with no criminal charges, couldn't attend son's birth</li>
+                    <li><strong>Family separations:</strong> Separated thousands of children from parents without due process</li>
+                    <li><strong>Mass deportations without hearings:</strong> ICE acting as "secret police" with summary removals</li>
+                    <li><strong>Immigration registry requirement:</strong> Forces registration creating database for persecution without legal protections</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div className={styles.violationCategory}>
+              <h3>⚔️ Separation of Powers (Articles I, II, III)</h3>
+              <div className={styles.violationBox}>
+                <div className={styles.clauseText}>
+                  <strong>What the Constitution Says:</strong>
+                  <p><em>The Constitution establishes three co-equal branches of government with checks and balances to prevent tyranny.</em></p>
+                </div>
+                <div className={styles.violationContent}>
+                  <strong>Trump's Violations:</strong>
+                  <ul>
+                    <li><strong>Defied Congressional subpoenas:</strong> Refused to comply with oversight investigations, instructed aides to ignore subpoenas</li>
+                    <li><strong>Attacked judicial independence:</strong> Called judges "so-called judges," threatened judges and their families</li>
+                    <li><strong>Firing of Inspector Generals:</strong> Removed independent watchdogs meant to check executive branch corruption</li>
+                    <li><strong>229 executive orders in first year:</strong> Bypassed Congress to centralize power in executive</li>
+                    <li><strong>Emergency declaration abuse:</strong> Declared "national emergency" to bypass Congressional appropriations for border wall</li>
+                    <li><strong>War Powers violations:</strong> Military actions without Congressional authorization</li>
+                    <li><strong>DOJ weaponization:</strong> Used Department of Justice against political enemies rather than impartial law enforcement</li>
+                    <li><strong>Pardons for political allies:</strong> Abused pardon power to protect co-conspirators</li>
+                    <li><strong>Federal Reserve attacks:</strong> Attempted to undermine independent central bank, threatened to fire Fed Chair</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div className={styles.violationCategory}>
+              <h3>🔍 Obstruction of Justice (Article II)</h3>
+              <div className={styles.violationBox}>
+                <div className={styles.clauseText}>
+                  <strong>What the Constitution Says:</strong>
+                  <p><em>The President must "take Care that the Laws be faithfully executed" and cannot obstruct justice.</em></p>
+                </div>
+                <div className={styles.violationContent}>
+                  <strong>Trump's Violations:</strong>
+                  <ul>
+                    <li><strong>Mueller Report:</strong> Identified 10 instances of potential obstruction of justice</li>
+                    <li><strong>Fired FBI Director Comey:</strong> Admitted it was because of "Russia thing"</li>
+                    <li><strong>Pressured DOJ to drop investigations:</strong> Demanded investigations into political opponents</li>
+                    <li><strong>Witness tampering:</strong> Threatened witnesses via Twitter/Truth Social</li>
+                    <li><strong>Dangled pardons:</strong> Offered pardons to discourage testimony against him</li>
+                    <li><strong>Destroyed evidence:</strong> Torn up official documents, flushed papers down toilet</li>
+                    <li><strong>Fired prosecutors investigating him:</strong> Removed U.S. Attorneys handling Trump cases</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div className={styles.violationCategory}>
+              <h3>📜 Presidential Records Act</h3>
+              <div className={styles.violationBox}>
+                <div className={styles.clauseText}>
+                  <strong>What the Law Says:</strong>
+                  <p><em>Presidential records are property of the United States government and must be preserved.</em></p>
+                </div>
+                <div className={styles.violationContent}>
+                  <strong>Trump's Violations:</strong>
+                  <ul>
+                    <li><strong>Mar-a-Lago classified documents:</strong> Removed and stored classified documents at personal residence</li>
+                    <li><strong>Obstruction of document retrieval:</strong> Refused to return documents, hid them from investigators</li>
+                    <li><strong>Destroyed official records:</strong> Ripped up documents that had to be taped back together by staff</li>
+                    <li><strong>Flushed documents:</strong> Witnesses report flushing torn papers down toilet</li>
+                    <li><strong>No official records of meetings:</strong> Met with Putin and Kim Jong-Un with no records or interpreters</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div className={styles.violationCategory}>
+              <h3>⚖️ Two Impeachments</h3>
+              <div className={styles.violationBox}>
+                <div className={styles.violationContent}>
+                  <strong>First Impeachment (2019):</strong>
+                  <ul>
+                    <li><strong>Abuse of Power:</strong> Withheld military aid to Ukraine to pressure investigation of political rival (Biden)</li>
+                    <li><strong>Obstruction of Congress:</strong> Refused all subpoenas and document requests</li>
+                    <li><strong>Result:</strong> Impeached by House, acquitted by Senate along party lines</li>
+                  </ul>
+                  <strong>Second Impeachment (2021):</strong>
+                  <ul>
+                    <li><strong>Incitement of Insurrection:</strong> Incited January 6 Capitol attack to overturn election</li>
+                    <li><strong>Result:</strong> Impeached by House (bipartisan vote), acquitted by Senate</li>
+                    <li><strong>Historic:</strong> Only president impeached twice; 7 Republicans voted to convict</li>
+                  </ul>
+                  <strong>Third Impeachment Campaign (2025):</strong>
+                  <ul>
+                    <li><strong>"Impeach Trump Again" campaign:</strong> Launched January 20, 2025 (Inauguration Day)</li>
+                    <li><strong>Rep. Shri Thanedar resolution:</strong> Includes article on "bribery and corruption" citing Emoluments Clause</li>
+                    <li><strong>Greenland crisis (2026):</strong> Rep. Don Bacon predicted Republican support for impeachment if Trump invades Greenland</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div className={styles.violationCategory}>
+              <h3>⚖️ Other Constitutional and Legal Violations</h3>
+              <div className={styles.violationBox}>
+                <div className={styles.violationContent}>
+                  <ul>
+                    <li><strong>Hatch Act:</strong> Repeatedly violated prohibition on using federal office for campaign purposes (Rose Garden RNC speech, official acts for political gain)</li>
+                    <li><strong>Equal Protection Clause:</strong> Muslim ban targeted based on religion; immigration enforcement disproportionately targets people of color</li>
+                    <li><strong>Birthright Citizenship:</strong> Attempted to end birthright citizenship via executive order (violates 14th Amendment)</li>
+                    <li><strong>Peaceful Transfer of Power:</strong> Refused to commit to peaceful transfer; incited January 6 to prevent Biden certification</li>
+                    <li><strong>Appointment Clause:</strong> "Acting" officials serving for extended periods without Senate confirmation</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className={styles.legalScholarsBox}>
+            <h3>What Legal Scholars Say:</h3>
+            <blockquote>
+              "The New York Times asked 35 legal scholars to identify the most significant unconstitutional or unlawful actions by Trump's administration. Scholars from across the ideological spectrum pointed to numerous ways in which Donald Trump and his administration are undercutting the Constitution and the rule of law."
+            </blockquote>
+            <p><strong>Result: 34 out of 35 agreed Trump is a "lawless authoritarian"</strong></p>
+            <p className={styles.scholarNote}>Only exception: Harvard Law Professor Adrian Vermeule, who blamed "overreaching district judges" instead.</p>
+          </div>
+
+          <div className={styles.constitutionQuote}>
+            <h3>Trump on the Constitution:</h3>
+            <blockquote>"A Massive Fraud of this type and magnitude allows for the termination of all rules, regulations, and articles, even those found in the Constitution."</blockquote>
+            <cite>— Donald Trump, December 2022, after losing 2020 election</cite>
+            <p className={styles.quoteContext}>Trump literally called for <strong>"termination"</strong> of the Constitution because he lost an election. This is not hyperbole—it's a direct quote advocating for the destruction of America's founding document.</p>
+          </div>
+        </section>
+
         {/* Expert Warnings */}
         <section className={styles.section}>
           <h2 className={styles.sectionTitle}>

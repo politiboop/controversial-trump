@@ -15,8 +15,11 @@ export default function SearchPage() {
   const [loading, setLoading] = useState(true);
   const [query, setQuery] = useState('');
   const [searchHistory, setSearchHistory] = useState([]);
+  const [selectedSeverity, setSelectedSeverity] = useState('all');
+  const [selectedCategory, setSelectedCategory] = useState('all');
 
   const severityLevels = categoriesData.severityLevels;
+  const categories = categoriesData.categories;
 
   // Load search history from localStorage on mount
   useEffect(() => {
@@ -116,6 +119,13 @@ export default function SearchPage() {
     }
   };
 
+  // Apply filters to results
+  const filteredResults = results.filter(controversy => {
+    const matchesSeverity = selectedSeverity === 'all' || controversy.severity === selectedSeverity;
+    const matchesCategory = selectedCategory === 'all' || controversy.primaryCategory === selectedCategory;
+    return matchesSeverity && matchesCategory;
+  });
+
   const handleBack = () => {
     history.push('/');
   };
@@ -132,6 +142,52 @@ export default function SearchPage() {
 
         <div className={styles.searchSection}>
           <SearchBar autoFocus />
+
+          {results.length > 0 && (
+            <div className={styles.filters}>
+              <div className={styles.filterGroup}>
+                <label htmlFor="severity">Filter by Severity:</label>
+                <select
+                  id="severity"
+                  value={selectedSeverity}
+                  onChange={(e) => setSelectedSeverity(e.target.value)}
+                  className={styles.filterSelect}
+                >
+                  <option value="all">All Severities ({results.length})</option>
+                  {Object.entries(severityLevels).map(([key, sev]) => {
+                    const count = results.filter(c => c.severity === key).length;
+                    if (count === 0) return null;
+                    return (
+                      <option key={key} value={key}>
+                        {sev.icon} {sev.label} ({count})
+                      </option>
+                    );
+                  })}
+                </select>
+              </div>
+
+              <div className={styles.filterGroup}>
+                <label htmlFor="category">Filter by Category:</label>
+                <select
+                  id="category"
+                  value={selectedCategory}
+                  onChange={(e) => setSelectedCategory(e.target.value)}
+                  className={styles.filterSelect}
+                >
+                  <option value="all">All Categories ({results.length})</option>
+                  {Object.entries(categories).map(([key, cat]) => {
+                    const count = results.filter(c => c.primaryCategory === key).length;
+                    if (count === 0) return null;
+                    return (
+                      <option key={key} value={key}>
+                        {cat.icon} {cat.title} ({count})
+                      </option>
+                    );
+                  })}
+                </select>
+              </div>
+            </div>
+          )}
         </div>
 
         {loading ? (
@@ -181,12 +237,16 @@ export default function SearchPage() {
           <>
             <div className={styles.resultsHeader}>
               <p className={styles.resultsCount}>
-                Found {results.length} {results.length === 1 ? 'controversy' : 'controversies'} matching "{query}"
+                {filteredResults.length === results.length ? (
+                  <>Found {results.length} {results.length === 1 ? 'controversy' : 'controversies'} matching "{query}"</>
+                ) : (
+                  <>Showing {filteredResults.length} of {results.length} {results.length === 1 ? 'controversy' : 'controversies'} matching "{query}"</>
+                )}
               </p>
             </div>
 
             <div className={styles.resultsGrid}>
-              {results.map((controversy) => (
+              {filteredResults.map((controversy) => (
                 <div key={controversy.id} className={styles.resultWrapper}>
                   {controversy.matchFields && controversy.matchFields.length > 0 && (
                     <div className={styles.matchInfo}>

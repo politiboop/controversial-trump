@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Trump Controversies Tracker',
   tagline: 'A comprehensive, sourced database of controversies',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
   url: 'https://controversial-trump.vercel.app',
@@ -58,6 +58,16 @@ const config = {
             position: 'left',
           },
           {
+            to: '/browse',
+            label: 'Browse All',
+            position: 'left',
+          },
+          {
+            to: '/timeline',
+            label: 'Timeline',
+            position: 'left',
+          },
+          {
             to: '/fascism',
             label: 'Fascism Warning',
             position: 'left',
@@ -70,6 +80,11 @@ const config = {
           {
             to: '/search',
             label: 'Search',
+            position: 'left',
+          },
+          {
+            to: '/tags',
+            label: 'Tags',
             position: 'left',
           },
           {
@@ -90,6 +105,14 @@ const config = {
                 to: '/',
               },
               {
+                label: 'Browse All',
+                to: '/browse',
+              },
+              {
+                label: 'Timeline',
+                to: '/timeline',
+              },
+              {
                 label: 'Fascism Warning',
                 to: '/fascism',
               },
@@ -100,6 +123,10 @@ const config = {
               {
                 label: 'Search',
                 to: '/search',
+              },
+              {
+                label: 'Tags',
+                to: '/tags',
               },
             ],
           },

@@ -1,7 +1,10 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import Layout from '@theme/Layout';
 import { useHistory, useLocation } from '@docusaurus/router';
+import Breadcrumbs from '../components/Breadcrumbs/Breadcrumbs';
 import styles from './critic.module.css';
+import { controversyIndex } from '../data/controversyIndex';
+import categoriesData from '../categories.json';
 
 export default function CriticPage() {
   const location = useLocation();
@@ -54,6 +57,26 @@ export default function CriticPage() {
     return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
   };
 
+  // Find related controversies - search for critic's name in controversy data
+  const relatedControversies = useMemo(() => {
+    if (!critic) return [];
+
+    const nameWords = critic.name.toLowerCase().split(' ');
+    const lastName = nameWords[nameWords.length - 1];
+
+    return controversyIndex.filter(controversy => {
+      const searchText = `${controversy.title} ${controversy.summary}`.toLowerCase();
+
+      // Check if full name or last name appears in title/summary
+      return searchText.includes(critic.name.toLowerCase()) ||
+             (lastName.length > 3 && searchText.includes(lastName));
+    });
+  }, [critic]);
+
+  const handleControversyClick = (id) => {
+    history.push(`/controversy?id=${id}`);
+  };
+
   if (loading) {
     return (
       <Layout title="Loading..." description="Loading critic profile">
@@ -100,6 +123,13 @@ export default function CriticPage() {
       </head>
 
       <div className={styles.container}>
+        <Breadcrumbs
+          crumbs={[
+            { label: 'Home', path: '/' },
+            { label: 'Critics', path: '/critics' },
+            { label: critic.name, path: `/critic?id=${critic.id}` }
+          ]}
+        />
         {/* Header */}
         <div className={styles.header}>
           <button onClick={handleBack} className={styles.backButton}>
@@ -252,6 +282,67 @@ export default function CriticPage() {
             <section className={styles.section}>
               <h2 className={styles.sectionTitle}>Electoral Position</h2>
               <p className={styles.endorsement}>{critic.endorsement}</p>
+            </section>
+          )}
+
+          {/* Related Controversies */}
+          {relatedControversies.length > 0 && (
+            <section className={styles.section}>
+              <h2 className={styles.sectionTitle}>
+                Related Controversies ({relatedControversies.length})
+              </h2>
+              <p className={styles.sectionIntro}>
+                Controversies where {critic.name} is mentioned or played a significant role
+              </p>
+              <div className={styles.controversiesGrid}>
+                {relatedControversies.map((controversy) => {
+                  const categoryData = categoriesData.categories[controversy.primaryCategory];
+                  const severityData = categoriesData.severityLevels[controversy.severity];
+
+                  return (
+                    <div
+                      key={controversy.id}
+                      className={styles.controversyCard}
+                      onClick={() => handleControversyClick(controversy.id)}
+                    >
+                      <div className={styles.cardHeader}>
+                        <h3 className={styles.cardTitle}>{controversy.title}</h3>
+                        {severityData && (
+                          <span
+                            className={styles.severityBadge}
+                            style={{
+                              backgroundColor: severityData.color + '20',
+                              color: severityData.color,
+                              borderColor: severityData.color
+                            }}
+                          >
+                            {severityData.icon} {severityData.label}
+                          </span>
+                        )}
+                      </div>
+
+                      <p className={styles.cardSummary}>
+                        {controversy.summary.length > 200
+                          ? controversy.summary.substring(0, 200) + '...'
+                          : controversy.summary}
+                      </p>
+
+                      <div className={styles.cardMeta}>
+                        {categoryData && (
+                          <span className={styles.metaBadge} style={{ color: categoryData.color }}>
+                            {categoryData.icon} {categoryData.title}
+                          </span>
+                        )}
+                        {controversy.date && (
+                          <span className={styles.metaBadge}>
+                            📅 {new Date(controversy.date).toLocaleDateString()}
+                          </span>
+                        )}
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
             </section>
           )}
 

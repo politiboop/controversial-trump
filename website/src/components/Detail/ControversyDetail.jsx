@@ -1,13 +1,39 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useMemo } from 'react';
 import styles from './ControversyDetail.module.css';
 
 // Import data
 import categoriesData from '../../categories.json';
+import { controversyIndex } from '../../data/controversyIndex';
 
 const ControversyDetail = ({ controversy, onClose }) => {
   const severityLevel = categoriesData.severityLevels[controversy.severity];
   const category = categoriesData.categories[controversy.primaryCategory];
   const timeline = categoriesData.timelines[controversy.timeline];
+
+  // Find related controversies based on shared tags or category
+  const relatedControversies = useMemo(() => {
+    if (!controversy) return [];
+
+    return controversyIndex
+      .filter(c => {
+        // Don't include the current controversy
+        if (c.id === controversy.id) return false;
+
+        // Check if they share the same category
+        if (c.primaryCategory === controversy.primaryCategory) return true;
+
+        // Check if they share any tags
+        if (controversy.specialTags && c.specialTags) {
+          const sharedTags = c.specialTags.some(tag =>
+            controversy.specialTags.includes(tag)
+          );
+          if (sharedTags) return true;
+        }
+
+        return false;
+      })
+      .slice(0, 6); // Limit to 6 related controversies
+  }, [controversy]);
 
   const formatDate = (dateStr) => {
     const date = new Date(dateStr);
@@ -115,10 +141,62 @@ const ControversyDetail = ({ controversy, onClose }) => {
               <h2 className={styles.sectionTitle}>Tags</h2>
               <div className={styles.tags}>
                 {controversy.specialTags.map((tag, idx) => (
-                  <span key={idx} className={styles.tag}>
+                  <a
+                    key={idx}
+                    href={`/tags?tag=${encodeURIComponent(tag)}`}
+                    className={styles.tag}
+                    onClick={(e) => {
+                      e.stopPropagation();
+                    }}
+                  >
                     {tag}
-                  </span>
+                  </a>
                 ))}
+              </div>
+            </section>
+          )}
+
+          {/* Related Controversies */}
+          {relatedControversies.length > 0 && (
+            <section className={styles.section}>
+              <h2 className={styles.sectionTitle}>
+                Related Controversies ({relatedControversies.length})
+              </h2>
+              <p className={styles.sectionIntro}>
+                Other controversies in the same category or with shared tags
+              </p>
+              <div className={styles.relatedGrid}>
+                {relatedControversies.map((related) => {
+                  const relatedSeverity = categoriesData.severityLevels[related.severity];
+                  return (
+                    <a
+                      key={related.id}
+                      href={`/controversy?id=${related.id}`}
+                      className={styles.relatedCard}
+                      onClick={(e) => e.stopPropagation()}
+                    >
+                      <div className={styles.relatedHeader}>
+                        <h4 className={styles.relatedTitle}>{related.title}</h4>
+                        {relatedSeverity && (
+                          <span
+                            className={styles.relatedSeverityBadge}
+                            style={{
+                              backgroundColor: relatedSeverity.color + '30',
+                              color: relatedSeverity.color
+                            }}
+                          >
+                            {relatedSeverity.icon}
+                          </span>
+                        )}
+                      </div>
+                      <p className={styles.relatedSummary}>
+                        {related.summary.length > 100
+                          ? related.summary.substring(0, 100) + '...'
+                          : related.summary}
+                      </p>
+                    </a>
+                  );
+                })}
               </div>
             </section>
           )}
