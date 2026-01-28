@@ -16,14 +16,19 @@
   ],
   "sources": [
     {
-      "text": "Mark Esper book and interviews",
-      "url": "https://www.npr.org",
-      "type": "book"
+      "text": "NPR: Former Pentagon chief Esper says Trump asked about shooting protesters",
+      "url": "https://www.npr.org/2022/05/09/1097517470/trump-esper-book-defense-secretary",
+      "type": "interview"
     },
     {
-      "text": "Multiple news reports, 2020",
-      "url": "https://www.cnn.com",
-      "type": "news"
+      "text": "CNN: Esper says Trump suggested shooting protesters after George Floyd's death",
+      "url": "https://www.cnn.com/videos/politics/2022/05/09/mark-esper-new-book-trump-floyd-vpx.cnn",
+      "type": "video"
+    },
+    {
+      "text": "CBS News: Trump suggested shooting protesters, former defense secretary Mark Esper says",
+      "url": "https://www.cbsnews.com/news/donald-trump-mark-esper-sacred-oath-60-minutes-2022-05-08/",
+      "type": "interview"
     }
   ],
   "specialTags": ["military", "protests", "george-floyd"]

@@ -16,9 +16,19 @@
   ],
   "sources": [
     {
-      "text": "Photos, August 21, 2017",
-      "url": "https://www.cnn.com",
-      "type": "photo"
+      "text": "CNN: Yes, Donald Trump really did look into the sky during the solar eclipse",
+      "url": "https://www.cnn.com/2017/08/21/politics/trump-solar-eclipse/index.html",
+      "type": "news"
+    },
+    {
+      "text": "NBC News: Total Eclipse - Trump Ignores Pleas of 'Don't Look!' to Stare Directly at the Sun",
+      "url": "https://www.nbcnews.com/politics/white-house/total-eclipse-trump-peeked-n794621",
+      "type": "news"
+    },
+    {
+      "text": "Snopes: Trump Stared Directly at Sun During 2017 Solar Eclipse?",
+      "url": "https://www.snopes.com/fact-check/trump-solar-eclipse-2017/",
+      "type": "fact-check"
     }
   ],
   "specialTags": ["bizarre"]

@@ -15,13 +15,23 @@
   ],
   "sources": [
     {
-      "text": "Multiple rally speeches, 2024",
-      "url": "https://www.axios.com",
-      "type": "rally"
+      "text": "Rolling Stone: Why Is Trump So Obsessed With Hannibal Lecter?: A Complete Timeline",
+      "url": "https://www.rollingstone.com/politics/politics-features/donald-trump-hannibal-lecter-timeline-1235070008/",
+      "type": "analysis"
     },
     {
-      "text": "Washington Post coverage",
-      "url": "https://www.washingtonpost.com",
+      "text": "The Hill: Donald Trump's Hannibal Lecter remarks leave Anthony Hopkins 'shocked and appalled'",
+      "url": "https://thehill.com/blogs/in-the-know/4778013-trump-hannibal-lecter-anthony-hopkins/",
+      "type": "news"
+    },
+    {
+      "text": "Washington Times: Donald Trump praises fictional serial killer Hannibal Lecter as 'a wonderful man'",
+      "url": "https://www.washingtontimes.com/news/2024/may/13/donald-trump-praises-fictional-serial-killer-hanni/",
+      "type": "news"
+    },
+    {
+      "text": "Rolling Stone: Trump Says He'd Deport 'Anti-American' Protesters in Bizarre Rally Speech",
+      "url": "https://www.rollingstone.com/politics/politics-news/donald-trump-deport-protesters-hannibal-lecter-new-jersey-rally-1235019174/",
       "type": "news"
     }
   ],

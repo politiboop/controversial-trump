@@ -17,14 +17,24 @@
   ],
   "sources": [
     {
-      "text": "Speech transcript, July 4, 2019",
-      "url": "https://www.whitehouse.gov",
-      "type": "transcript"
+      "text": "TIME: President Trump Said Revolutionary War Troops 'Took Over the Airports'",
+      "url": "https://time.com/5620936/donald-trump-revolutionary-war-airports/",
+      "type": "news"
     },
     {
-      "text": "Video footage",
-      "url": "https://www.youtube.com",
-      "type": "video"
+      "text": "NBC News: Trump blames teleprompter for Revolutionary War 'airports' flub",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-blames-teleprompter-revolutionary-war-airports-flub-n1026931",
+      "type": "news"
+    },
+    {
+      "text": "CNN: Trump blames teleprompter for snafu about 'airports' during Revolutionary War",
+      "url": "https://www.cnn.com/2019/07/05/politics/revolutionary-war-airport-trump",
+      "type": "news"
+    },
+    {
+      "text": "Snopes: Did Trump Say Revolutionary War Troops Took Over Airports?",
+      "url": "https://www.snopes.com/fact-check/trump-revolutionary-war-airports/",
+      "type": "fact-check"
     }
   ],
   "specialTags": ["bizarre", "history"]

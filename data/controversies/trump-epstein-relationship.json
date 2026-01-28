@@ -18,19 +18,24 @@
   ],
   "sources": [
     {
-      "text": "NY Magazine 2002 interview",
-      "url": "https://nymag.com",
-      "type": "interview"
+      "text": "Wikipedia: Relationship between Donald Trump and Jeffrey Epstein",
+      "url": "https://en.wikipedia.org/wiki/Relationship_between_Donald_Trump_and_Jeffrey_Epstein",
+      "type": "reference"
     },
     {
-      "text": "DOJ Epstein files",
-      "url": "https://www.justice.gov",
-      "type": "government"
+      "text": "Snopes: Trump once called Epstein 'terrific guy' who likes women 'on the younger side'",
+      "url": "https://www.snopes.com/fact-check/trump-epstein-terrific-guy-quote/",
+      "type": "fact-check"
     },
     {
-      "text": "Congressional testimony",
-      "url": "https://www.congress.gov",
-      "type": "government"
+      "text": "NBC News: Trump and Epstein: What the so-called 'Epstein Files' say about their relationship",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-epstein-called-epstein-files-say-relationship-rcna161354",
+      "type": "news"
+    },
+    {
+      "text": "CNN: Exclusive: Newly discovered photos and video shed fresh light on Trump's ties to Jeffrey Epstein",
+      "url": "https://www.cnn.com/2025/07/22/politics/kfile-trump-epstein-photos-footage",
+      "type": "investigation"
     }
   ],
   "specialTags": ["sexual-misconduct", "cover-up"]

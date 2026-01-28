@@ -29,24 +29,24 @@
   ],
   "sources": [
     {
-      "text": "NPR, CBS News, NBC News, January 2026",
-      "url": "https://www.npr.org",
+      "text": "NPR: 'We are going to run the country,' Trump says after strike on Venezuela",
+      "url": "https://www.npr.org/2026/01/03/g-s1-104329/explosions-caracas-venezuela",
       "type": "news"
     },
     {
-      "text": "Chatham House analysis",
-      "url": "https://www.chathamhouse.org",
-      "type": "expert"
+      "text": "NPR: Trump says U.S. will 'run' Venezuela and sell seized oil in remarks on the strikes",
+      "url": "https://www.npr.org/2026/01/03/g-s1-104346/trump-venezuela-maduro-press-conference",
+      "type": "news"
     },
     {
-      "text": "Sen. Mark Warner statement",
-      "url": "https://www.warner.senate.gov",
-      "type": "government"
+      "text": "NBC News: Trump says U.S. will govern Venezuela until there's a 'proper transition'",
+      "url": "https://www.nbcnews.com/politics/white-house/trump-venezuela-nicolas-maduro-strikes-run-country-transition-military-rcna252044",
+      "type": "news"
     },
     {
-      "text": "CNN, Al Jazeera analysis",
-      "url": "https://www.cnn.com",
-      "type": "analysis"
+      "text": "Wikipedia: 2026 United States intervention in Venezuela",
+      "url": "https://en.wikipedia.org/wiki/2026_United_States_strikes_in_Venezuela",
+      "type": "reference"
     }
   ],
   "specialTags": ["foreign-policy", "war-powers", "regime-change", "venezuela"]

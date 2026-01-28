@@ -17,14 +17,19 @@
   ],
   "sources": [
     {
-      "text": "NPR, CNN, January 2025",
-      "url": "https://www.npr.org",
+      "text": "NPR: Trump offers long-promised pardons to some 1,500 January 6 rioters",
+      "url": "https://www.npr.org/2025/01/20/g-s1-36809/trump-pardons-january-6-riot",
       "type": "news"
     },
     {
-      "text": "DOJ Jan 6 prosecution database",
-      "url": "https://www.justice.gov",
+      "text": "DOJ: President Trump's Proclamation Granting Pardons",
+      "url": "https://www.justice.gov/pardon/president-trumps-proclamation-granting-pardons-and-commutations-sentences-certain-offenses",
       "type": "government"
+    },
+    {
+      "text": "Wikipedia: Pardon of January 6 United States Capitol attack defendants",
+      "url": "https://en.wikipedia.org/wiki/Pardon_of_January_6_United_States_Capitol_attack_defendants",
+      "type": "reference"
     }
   ],
   "specialTags": ["pardons", "jan6-related"]

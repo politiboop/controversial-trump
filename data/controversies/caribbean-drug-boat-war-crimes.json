@@ -18,14 +18,24 @@
   ],
   "sources": [
     {
-      "text": "Washington Post investigation",
-      "url": "https://www.washingtonpost.com",
+      "text": "Washington Post: Hegseth order on first Caribbean boat strike: Kill them all",
+      "url": "https://www.washingtonpost.com/national-security/2025/11/28/hegseth-kill-them-all-survivors-boat-strike/",
       "type": "investigation"
     },
     {
-      "text": "Congressional investigation reports",
-      "url": "https://www.congress.gov",
-      "type": "government"
+      "text": "NPR: Did the Trump administration commit a war crime in its attack on a Venezuelan boat?",
+      "url": "https://www.npr.org/2025/12/03/nx-s1-5630324/did-the-trump-administration-commit-a-war-crime-in-its-attack-on-a-venezuelan-boat",
+      "type": "news"
+    },
+    {
+      "text": "CBS News: Trump's Venezuela boat strikes fuel war crimes allegations. Are they legal?",
+      "url": "https://www.cbsnews.com/news/trump-hegseth-venezuela-boat-strikes-war-crimes-are-they-legal/",
+      "type": "news"
+    },
+    {
+      "text": "The Hill: Hegseth boat strike fallout, war crime allegations: What to know",
+      "url": "https://thehill.com/policy/defense/5628265-hegseth-boat-strike-order-congress-trump/",
+      "type": "news"
     }
   ],
   "specialTags": ["war-crimes", "military", "extrajudicial-killing"]

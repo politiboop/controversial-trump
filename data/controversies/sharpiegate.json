@@ -17,18 +17,23 @@
   ],
   "sources": [
     {
-      "text": "Trump tweet, September 1, 2019",
-      "url": "https://twitter.com",
-      "type": "primary"
+      "text": "Wikipedia: Hurricane Dorian–Alabama controversy",
+      "url": "https://en.wikipedia.org/wiki/Hurricane_Dorian%E2%80%93Alabama_controversy",
+      "type": "reference"
     },
     {
-      "text": "National Weather Service Birmingham",
-      "url": "https://www.weather.gov",
-      "type": "government"
+      "text": "CNN: Washington Post: Trump was the one who altered Dorian trajectory map with Sharpie",
+      "url": "https://www.cnn.com/2019/09/06/politics/trump-sharpie-hurricane-dorian-alabama",
+      "type": "news"
     },
     {
-      "text": "Boston Globe analysis",
-      "url": "https://www.bostonglobe.com",
+      "text": "NPR: Sharpiegate Blossoms Into A Full-Fledged Political Crisis",
+      "url": "https://www.npr.org/2019/09/10/759296457/sharpiegate-blossoms-into-a-full-fledged-political-crisis",
+      "type": "news"
+    },
+    {
+      "text": "NBC News: The Sharpie is mightier: Trump mocked after that map of Dorian's path",
+      "url": "https://www.nbcnews.com/politics/donald-trump/sharpie-mightier-trump-mocked-after-map-dorian-s-path-n1049966",
       "type": "news"
     }
   ],

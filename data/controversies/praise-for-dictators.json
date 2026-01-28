@@ -17,19 +17,24 @@
   ],
   "sources": [
     {
-      "text": "Clay Travis and Buck Sexton Show, February 22, 2022",
-      "url": "https://clayandbuck.com",
-      "type": "interview"
-    },
-    {
-      "text": "West Virginia rally, September 29, 2018",
-      "url": "https://www.washingtonpost.com",
-      "type": "rally"
-    },
-    {
-      "text": "CNN reporting, March 2018",
-      "url": "https://www.cnn.com",
+      "text": "CNN: 15 times Donald Trump praised authoritarian rulers",
+      "url": "https://www.cnn.com/2019/07/02/politics/donald-trump-dictators-kim-jong-un-vladimir-putin",
       "type": "news"
+    },
+    {
+      "text": "Washington Post: Trump praises authoritarian leaders Putin, Xi, Kim at Bronx rally",
+      "url": "https://www.washingtonpost.com/politics/2024/05/24/trump-rally-bronx-putin-kim-jong-un/",
+      "type": "news"
+    },
+    {
+      "text": "NPR Opinion: A President In Praise Of Strongmen And Dictators",
+      "url": "https://www.npr.org/2018/10/20/659024594/opinion-a-president-in-praise-of-strongmen-and-dictators",
+      "type": "analysis"
+    },
+    {
+      "text": "CNN Opinion: Trump's praise of dictators tells us all we need to know",
+      "url": "https://www.cnn.com/2024/03/14/opinions/trump-dictators-putin-xi-erdogan-ben-ghiat/index.html",
+      "type": "analysis"
     }
   ],
   "specialTags": ["foreign-policy", "authoritarianism"]

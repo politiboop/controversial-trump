@@ -18,17 +18,27 @@
   "sources": [
     {
       "text": "Reuters, PBS, video evidence",
-      "url": "https://www.reuters.com",
+      "url": "https://www.pbs.org/newshour/politics/watch-video-shows-capitol-mob-calling-for-the-death-of-the-vice-president-plaskett-says",
       "type": "video"
     },
     {
-      "text": "Twitter archive, 2:24 PM EST, Jan 6, 2021",
-      "url": "https://twitter.com",
-      "type": "primary"
+      "text": "Wikipedia: January 6 United States Capitol attack",
+      "url": "https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack",
+      "type": "reference"
+    },
+    {
+      "text": "Newsweek: Donald Trump Tweeted Attack on Mike Pence Minutes After Hearing VP Was Fleeing Capitol Rioters",
+      "url": "https://www.newsweek.com/donald-trump-tweeted-attack-mike-pence-minutes-capitol-rioters-1568568",
+      "type": "news"
+    },
+    {
+      "text": "TIME: Jan. 6 Panel Details Trump's Pressure Campaign Against Pence",
+      "url": "https://time.com/6188551/pence-pressure-jan-6-trump/",
+      "type": "news"
     },
     {
       "text": "House Jan 6 Committee hearing testimony, June 28, 2022",
-      "url": "https://january6th.house.gov",
+      "url": "https://www.pbs.org/newshour/politics/watch-white-house-aide-says-trumps-tweets-about-pence-on-jan-6-were-unpatriotic",
       "type": "testimony"
     }
   ],

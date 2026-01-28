@@ -17,19 +17,24 @@
   ],
   "sources": [
     {
-      "text": "New York Times, May 1989",
-      "url": "https://www.nytimes.com",
+      "text": "NPR: The Central Park Five and Trump, explained",
+      "url": "https://www.npr.org/2024/09/11/nx-s1-5108632/central-park-five-trump-debate",
       "type": "news"
     },
     {
-      "text": "DNA exoneration, 2002",
-      "url": "https://www.nytimes.com",
+      "text": "TIME: President Trump Refuses to Apologize for His Central Park Five Ad",
+      "url": "https://time.com/5609622/trump-central-park-five-apology/",
       "type": "news"
     },
     {
-      "text": "CNN interview, 2016",
-      "url": "https://www.cnn.com",
-      "type": "interview"
+      "text": "NBC News: Donald Trump Says Central Park Five Are Guilty, Despite DNA Evidence",
+      "url": "https://www.nbcnews.com/politics/2016-election/donald-trump-says-central-park-five-are-guilty-despite-dna-n661941",
+      "type": "news"
+    },
+    {
+      "text": "PolitiFact: Did Donald Trump ever apologize to the Central Park Five?",
+      "url": "https://www.politifact.com/article/2023/jul/25/did-donald-trump-ever-apologize-central/",
+      "type": "fact-check"
     }
   ],
   "specialTags": ["racism", "criminal-justice"]

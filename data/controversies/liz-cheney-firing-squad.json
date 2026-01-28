@@ -15,14 +15,24 @@
   ],
   "sources": [
     {
-      "text": "Campaign rally Arizona, November 1, 2024",
-      "url": "https://www.cnn.com",
-      "type": "rally"
+      "text": "CNN: Trump says 'war hawk' Liz Cheney should be fired upon in escalation of violent rhetoric",
+      "url": "https://www.cnn.com/2024/11/01/politics/donald-trump-liz-cheney-war-hawk-battle",
+      "type": "news"
     },
     {
-      "text": "CNN, NBC News coverage",
-      "url": "https://www.nbcnews.com",
+      "text": "NBC News: Trump attacks Liz Cheney, says she wouldn't be a 'war hawk' if 'guns are trained on her face'",
+      "url": "https://www.nbcnews.com/politics/2024-election/trump-liz-cheney-war-hawk-guns-pointed-rcna178349",
       "type": "news"
+    },
+    {
+      "text": "Axios: Arizona AG to investigate Trump's Liz Cheney comment as potential death threat",
+      "url": "https://www.axios.com/2024/11/01/trump-cheney-death-threat-investigation",
+      "type": "news"
+    },
+    {
+      "text": "Al Jazeera: In Context - What Trump said about Cheney facing a firing squad",
+      "url": "https://www.aljazeera.com/features/2024/11/2/in-context-what-trump-said-about-cheney-facing-a-firing-squad",
+      "type": "analysis"
     }
   ],
   "specialTags": ["violent-rhetoric", "jan6-related"]

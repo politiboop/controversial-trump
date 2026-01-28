@@ -14,14 +14,19 @@
   ],
   "sources": [
     {
-      "text": "Government accountability tracking",
-      "url": "https://www.citizensforethics.org",
+      "text": "CREW: Trump's term 2 corruption by the numbers: More golf trips, more foreign visitors and more profits",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-term-2-corruption-by-the-numbers-more-golf-trips-more-foreign-visitors-and-more-profits/",
       "type": "analysis"
     },
     {
-      "text": "Secret Service budget disclosures",
-      "url": "https://www.dhs.gov",
-      "type": "government"
+      "text": "CREW: Secret Service spent nearly $100k at Trump properties",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/secret-service-has-spent-nearly-100k-at-trump-properties/",
+      "type": "investigation"
+    },
+    {
+      "text": "American Oversight: Tracking Taxpayer Spending at Trump Properties",
+      "url": "https://americanoversight.org/tracking-taxpayer-spending-at-trump-properties/",
+      "type": "investigation"
     }
   ],
   "specialTags": ["emoluments", "golf", "self-dealing"]

@@ -17,19 +17,24 @@
   ],
   "sources": [
     {
-      "text": "NBC News, Washington Post, November 2025",
-      "url": "https://www.nbcnews.com",
+      "text": "NBC News: Trump accuses Democrats of 'seditious behavior, punishable by death'",
+      "url": "https://www.nbcnews.com/politics/white-house/trump-democrats-death-penalty-sedition-military-orders-rcna245003",
       "type": "news"
     },
     {
-      "text": "Trump Truth Social posts",
-      "url": "https://truthsocial.com",
-      "type": "primary"
+      "text": "Washington Post: Trump: Democrats 'traitors' for telling military not to follow unlawful orders",
+      "url": "https://www.washingtonpost.com/politics/2025/11/20/trump-democrats-seditious-behavior/",
+      "type": "news"
     },
     {
-      "text": "FactCheck.org, PolitiFact, November 2025",
-      "url": "https://www.factcheck.org",
+      "text": "PolitiFact: Trump said Democrats' call to military amounts to sedition. Experts say that's doubtful",
+      "url": "https://www.politifact.com/article/2025/nov/20/trump-military-video-unlawful-orders-sedition/",
       "type": "fact-check"
+    },
+    {
+      "text": "CBS News: Accusations of 'sedition' spark uproar - Here's what the law says",
+      "url": "https://www.cbsnews.com/news/sedition-uproar-video-refusing-illegal-orders-trump-what-the-law-says/",
+      "type": "news"
     }
   ],
   "specialTags": ["violent-rhetoric", "military", "witness-intimidation"]

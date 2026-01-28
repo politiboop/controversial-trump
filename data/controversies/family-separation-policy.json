@@ -18,22 +18,27 @@
   "sources": [
     {
       "text": "DHS memo, April 2018; DOJ announcement",
-      "url": "https://www.dhs.gov",
+      "url": "https://www.congress.gov/crs-product/R45266",
       "type": "government"
     },
     {
-      "text": "Photos released by CBP, June 2018",
-      "url": "https://www.cbp.gov",
-      "type": "government"
+      "text": "NPR: Family Separation And 'Zero Tolerance' At The Border",
+      "url": "https://www.npr.org/2018/06/19/621065383/what-we-know-family-separation-and-zero-tolerance-at-the-border",
+      "type": "news"
+    },
+    {
+      "text": "CBS News: Drawings by children who were held in border facilities show them in cages",
+      "url": "https://www.cbsnews.com/news/migrant-children-drawings-held-in-border-patrol-facilities-show-cage-like-conditions/",
+      "type": "news"
     },
     {
       "text": "DHS Inspector General reports, ACLU tracking, 2018-2024",
-      "url": "https://www.aclu.org",
+      "url": "https://www.oig.dhs.gov/sites/default/files/assets/2018-10/OIG-18-84-Sep18.pdf",
       "type": "investigation"
     },
     {
       "text": "Executive Order 13841",
-      "url": "https://www.whitehouse.gov",
+      "url": "https://trumpwhitehouse.archives.gov/presidential-actions/affording-congress-opportunity-address-family-separation/",
       "type": "government"
     }
   ],

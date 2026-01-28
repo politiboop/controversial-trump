@@ -15,14 +15,24 @@
   ],
   "sources": [
     {
-      "text": "Family records and genealogy",
-      "url": "https://www.nytimes.com",
+      "text": "The Daily Beast: Donald Trump Even Lies About Being Swedish (He's Actually German)",
+      "url": "https://www.thedailybeast.com/donald-trump-even-lies-about-being-swedish-hes-actually-german/",
+      "type": "news"
+    },
+    {
+      "text": "Forward: Donald Trump's Lies About German Ancestry Made It Into The Art Of The Deal",
+      "url": "https://forward.com/fast-forward/348251/donald-trumps-family-hid-german-roots-especially-when-selling-to-jews/",
       "type": "investigation"
     },
     {
-      "text": "Trump biographies",
-      "url": "https://www.washingtonpost.com",
-      "type": "news"
+      "text": "PolitiFact: German, Scottish, Swedish – What has Donald Trump said about his ancestry?",
+      "url": "https://www.politifact.com/article/2024/aug/07/german-scottish-swedish-what-has-donald-trump-said/",
+      "type": "fact-check"
+    },
+    {
+      "text": "Wikipedia: Trump family",
+      "url": "https://en.wikipedia.org/wiki/Trump_family",
+      "type": "reference"
     }
   ],
   "specialTags": ["dishonesty", "family"]

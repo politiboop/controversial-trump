@@ -16,14 +16,24 @@
   ],
   "sources": [
     {
-      "text": "The Atlantic, June 2020",
-      "url": "https://www.theatlantic.com",
+      "text": "NPR: READ: The Full Statement From Jim Mattis",
+      "url": "https://www.npr.org/2020/06/04/869262728/read-the-full-statement-from-jim-mattis",
       "type": "statement"
     },
     {
-      "text": "Bob Woodward books",
-      "url": "https://www.simonandschuster.com",
-      "type": "book"
+      "text": "Axios: Former Defense Secretary James Mattis condemns Trump as a threat to the Constitution",
+      "url": "https://www.axios.com/2020/06/03/james-mattis-trump-protests",
+      "type": "news"
+    },
+    {
+      "text": "CNN: James Mattis' incredible excoriation of Trump, annotated",
+      "url": "https://www.cnn.com/2020/06/04/politics/mattis-trump-statement-annotated",
+      "type": "news"
+    },
+    {
+      "text": "NBC News: A rebuke like no other: Mattis sees Trump as threat to Constitution",
+      "url": "https://www.nbcnews.com/msnbc/rachel-maddow-show/rebuke-no-other-mattis-sees-trump-threat-constitution-ncna1224601",
+      "type": "news"
     }
   ],
   "specialTags": ["cabinet-warnings", "military", "constitution"]

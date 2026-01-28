@@ -13,14 +13,19 @@
   ],
   "sources": [
     {
-      "text": "Government accountability organizations",
-      "url": "https://www.citizensforethics.org",
+      "text": "CREW: How Trump is dismantling our democracy",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-reports/how-president-trump-is-dismantling-our-democracy-one-piece-at-a-time/",
       "type": "analysis"
     },
     {
-      "text": "Congressional oversight reports",
-      "url": "https://www.congress.gov",
-      "type": "government"
+      "text": "NPR: Trump uses mass firing to remove inspectors general",
+      "url": "https://www.npr.org/2025/01/25/g-s1-44771/trump-fires-inspectors-general",
+      "type": "news"
+    },
+    {
+      "text": "Wikipedia: 2025 dismissals of U.S. inspectors general",
+      "url": "https://en.wikipedia.org/wiki/2025_dismissals_of_U.S._inspectors_general",
+      "type": "reference"
     }
   ],
   "specialTags": ["inspectors-general", "oversight", "accountability"]

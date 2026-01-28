@@ -16,14 +16,24 @@
   ],
   "sources": [
     {
-      "text": "Town hall event, Pennsylvania, October 2024",
-      "url": "https://www.axios.com",
+      "text": "Washington Post: Trump sways and bops to music for 39 minutes in bizarre town hall episode",
+      "url": "https://www.washingtonpost.com/politics/2024/10/14/trump-music-sways-town-hall/",
       "type": "news"
     },
     {
-      "text": "Video coverage",
-      "url": "https://www.youtube.com",
-      "type": "video"
+      "text": "NBC News: Trump turns political event into surreal listening party",
+      "url": "https://www.nbcnews.com/politics/2024-election/trump-turns-political-event-surreal-listening-party-rcna175442",
+      "type": "news"
+    },
+    {
+      "text": "Wikipedia: Donald Trump town hall meeting in Oaks, Pennsylvania",
+      "url": "https://en.wikipedia.org/wiki/Donald_Trump_town_hall_meeting_in_Oaks,_Pennsylvania",
+      "type": "reference"
+    },
+    {
+      "text": "MSNBC: 'Let's just listen to music': Trump's town hall event gets weird",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/lets-just-listen-music-trumps-townhall-event-gets-weird-rcna175449",
+      "type": "news"
     }
   ],
   "specialTags": ["bizarre", "campaign"]

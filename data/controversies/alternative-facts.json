@@ -18,19 +18,24 @@
   ],
   "sources": [
     {
-      "text": "Reuters aerial photos",
-      "url": "https://www.reuters.com",
-      "type": "photo"
+      "text": "Wikipedia: Alternative facts",
+      "url": "https://en.wikipedia.org/wiki/Alternative_facts",
+      "type": "reference"
     },
     {
-      "text": "Metro ridership data",
-      "url": "https://www.wmata.com",
-      "type": "data"
-    },
-    {
-      "text": "NBC Meet the Press interview",
-      "url": "https://www.nbcnews.com",
+      "text": "NBC News: Conway: WH Spokesman Gave 'Alternative Facts' on Inauguration Crowd",
+      "url": "https://www.nbcnews.com/storyline/meet-the-press-70-years/wh-spokesman-gave-alternative-facts-inauguration-crowd-n710466",
       "type": "interview"
+    },
+    {
+      "text": "CNN: Conway: Trump White House offered 'alternative facts'",
+      "url": "https://www.cnn.com/2017/01/22/politics/kellyanne-conway-alternative-facts",
+      "type": "news"
+    },
+    {
+      "text": "Washington Post: How Kellyanne Conway ushered in the era of 'alternative facts'",
+      "url": "https://www.washingtonpost.com/news/the-fix/wp/2017/01/22/how-kellyanne-conway-ushered-in-the-era-of-alternative-facts/",
+      "type": "analysis"
     }
   ],
   "specialTags": ["dishonesty", "alternative-facts"]

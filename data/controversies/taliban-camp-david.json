@@ -15,19 +15,24 @@
   ],
   "sources": [
     {
-      "text": "Trump tweets, September 7, 2019",
-      "url": "https://twitter.com",
-      "type": "primary"
-    },
-    {
-      "text": "Washington Post coverage",
-      "url": "https://www.washingtonpost.com",
+      "text": "CNN: Trump overruled advisers, VP on Taliban Camp David meeting",
+      "url": "https://www.cnn.com/2019/09/09/politics/camp-david-donald-trump-mike-pence-taliban/index.html",
       "type": "news"
     },
     {
-      "text": "Rep. Liz Cheney statement, September 8, 2019",
-      "url": "https://twitter.com",
-      "type": "government"
+      "text": "ABC News: Trump cancels secret meeting with the Taliban at Camp David after deadly bombings",
+      "url": "https://abcnews.go.com/Politics/president-trump-cancels-secret-meeting-taliban-camp-david/story?id=65465259",
+      "type": "news"
+    },
+    {
+      "text": "NPR: At Camp David, Trump Sought The Mantle Of History. But Afghanistan Is Different",
+      "url": "https://www.npr.org/2019/09/10/759268550/at-camp-david-trump-sought-the-mantle-of-history-but-afghanistan-is-different",
+      "type": "analysis"
+    },
+    {
+      "text": "NBC News: Pompeo defends plan to host Taliban leaders at Camp David",
+      "url": "https://www.nbcnews.com/politics/donald-trump/pompeo-defends-plan-host-taliban-leaders-camp-david-n1051211",
+      "type": "news"
     }
   ],
   "specialTags": ["foreign-policy", "terrorism", "afghanistan"]

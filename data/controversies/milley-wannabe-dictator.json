@@ -17,19 +17,24 @@
   ],
   "sources": [
     {
-      "text": "Bob Woodward's 'War,' 2024",
-      "url": "https://www.simonandschuster.com",
-      "type": "book"
+      "text": "Washington Post: Mark Milley warned Donald Trump is 'fascist to the core' in Woodward book",
+      "url": "https://www.washingtonpost.com/nation/2024/10/12/mark-milley-donald-trump-fascist/",
+      "type": "news"
     },
     {
-      "text": "Retirement ceremony, September 29, 2023",
-      "url": "https://www.defense.gov",
-      "type": "speech"
+      "text": "Axios: Trump's top general calls former president 'fascist' and 'dangerous' threat",
+      "url": "https://www.axios.com/2024/10/11/mark-milley-trump-fascist-bob-woodward-book",
+      "type": "news"
     },
     {
-      "text": "Bob Woodward's 'Peril,' 2021",
-      "url": "https://www.simonandschuster.com",
-      "type": "book"
+      "text": "The Hill: Milley calls Trump 'a fascist to the core' in new Woodward book",
+      "url": "https://thehill.com/policy/defense/4929487-trump-dangerous-milley-woodward/",
+      "type": "news"
+    },
+    {
+      "text": "HuffPost: Retired Gen. Mark Milley Calls Trump 'A Total Fascist'",
+      "url": "https://www.huffpost.com/entry/mark-milley-trump-total-fascist-bob-woodward-book_n_670996ade4b03acb5636d49b",
+      "type": "news"
     }
   ],
   "specialTags": ["cabinet-warnings", "military", "fascism"]

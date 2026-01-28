@@ -16,19 +16,24 @@
   ],
   "sources": [
     {
-      "text": "Video evidence, November 2015 rally",
-      "url": "https://www.washingtonpost.com",
+      "text": "Washington Post Video: Trump mocks physically handicapped reporter",
+      "url": "https://www.washingtonpost.com/video/politics/trump-mocks-physically-handicapped-reporter/2015/11/25/9e92b950-93d6-11e5-befa-99ceebcbb272_video.html",
       "type": "video"
     },
     {
-      "text": "Rally transcript, November 24, 2015",
-      "url": "https://www.nytimes.com",
-      "type": "transcript"
+      "text": "Washington Post: Trump draws scornful rebuke for mocking reporter with disability",
+      "url": "https://www.washingtonpost.com/news/post-politics/wp/2015/11/25/trump-blasted-by-new-york-times-after-mocking-reporter-with-disability/",
+      "type": "news"
     },
     {
-      "text": "Bloomberg Politics poll, December 2015",
-      "url": "https://www.bloomberg.com",
-      "type": "poll"
+      "text": "NBC News: Donald Trump Criticized After He Appears to Mock Reporter Serge Kovaleski",
+      "url": "https://www.nbcnews.com/politics/2016-election/new-york-times-slams-donald-trump-after-he-appears-mock-n470016",
+      "type": "news"
+    },
+    {
+      "text": "Wikipedia: Serge F. Kovaleski",
+      "url": "https://en.wikipedia.org/wiki/Serge_F._Kovaleski",
+      "type": "reference"
     }
   ],
   "specialTags": ["ableism"]

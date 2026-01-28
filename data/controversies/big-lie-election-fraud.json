@@ -18,17 +18,17 @@
   "sources": [
     {
       "text": "Washington Post",
-      "url": "https://www.washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/judges-trump-election-lawsuits/2020/12/12/e3a57224-3a72-11eb-98c4-25dc9f4987e8_story.html",
       "type": "news"
     },
     {
       "text": "Associated Press investigation",
-      "url": "https://apnews.com",
+      "url": "https://apnews.com/article/voter-fraud-election-2020-joe-biden-donald-trump-7fcb6f134e528fee8237c7601db3328f",
       "type": "investigation"
     },
     {
-      "text": "CREW tracking",
-      "url": "https://www.citizensforethics.org",
+      "text": "CREW: Donald Trump has spread 2020 election conspiracy theories 500 times on Truth Social",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/donald-trump-has-spread-2020-election-conspiracy-theories-500-times-on-truth-social/",
       "type": "watchdog"
     }
   ],

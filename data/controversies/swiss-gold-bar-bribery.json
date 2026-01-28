@@ -20,19 +20,24 @@
   ],
   "sources": [
     {
-      "text": "Bloomberg, Yahoo News, SWI swissinfo.ch",
-      "url": "https://www.bloomberg.com",
+      "text": "Bloomberg: Rolex, Gold Gifts to Trump Spur Call for Swiss Investigation",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-28/swiss-lawmakers-file-criminal-complaint-over-trump-tariff-gifts",
       "type": "news"
     },
     {
-      "text": "Former White House ethics lawyer Richard Painter statement",
-      "url": "https://www.thedailybeast.com",
+      "text": "Daily Beast: Ex-White House Ethics Chief Richard Painter Says Trump's Switzerland Gold Gifts Look Like a 'Bribe'",
+      "url": "https://www.thedailybeast.com/ex-white-house-ethics-chief-richard-painter-says-donald-trumps-switzerland-gold-gifts-look-like-a-bribe/",
       "type": "expert"
     },
     {
-      "text": "Swiss criminal complaints",
-      "url": "https://www.swissinfo.ch",
+      "text": "SWI swissinfo.ch: Criminal report against Swiss gold bar US trade delegation",
+      "url": "https://www.swissinfo.ch/eng/global-trade/swiss-lawsuit-against-gold-bar-us-trade-delegation/90520895",
       "type": "legal"
+    },
+    {
+      "text": "NPR: A Rolex, a gold bar, a trade deal and the ethics of presidential gifts",
+      "url": "https://www.npr.org/2025/11/14/nx-s1-5609341/a-rolex-a-gold-bar-a-trade-deal-and-the-ethics-of-presidential-gifts",
+      "type": "news"
     }
   ],
   "specialTags": ["bribery", "tariffs", "conflicts-of-interest", "foreign-gifts"]

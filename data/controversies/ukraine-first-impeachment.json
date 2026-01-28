@@ -18,23 +18,33 @@
   "sources": [
     {
       "text": "House vote, December 18, 2019; Articles of Impeachment",
-      "url": "https://www.congress.gov",
+      "url": "https://www.congress.gov/116/bills/hres755/BILLS-116hres755enr.pdf",
       "type": "government"
     },
     {
       "text": "July 25, 2019 phone call transcript",
-      "url": "https://www.whitehouse.gov",
+      "url": "https://www.npr.org/2019/09/25/764052120/read-transcript-of-president-trumps-call-with-ukraine-s-leader",
       "type": "government"
     },
     {
       "text": "Whistleblower complaint",
-      "url": "https://intelligence.house.gov",
+      "url": "https://www.cbsnews.com/news/the-whistleblower-complaint-read-full-text-whistleblower-memo-trump-ukraine-call-described-cbs-news-exclusive/",
       "type": "government"
     },
     {
-      "text": "Senate vote, February 5, 2020",
-      "url": "https://www.senate.gov",
-      "type": "government"
+      "text": "NPR: Senate Acquits Trump, With Romney As Sole Republican Voting Guilty",
+      "url": "https://www.npr.org/2020/02/05/801695409/watch-live-trump-on-brink-of-acquittal-by-u-s-senate",
+      "type": "news"
+    },
+    {
+      "text": "Wikipedia: First impeachment of Donald Trump",
+      "url": "https://en.wikipedia.org/wiki/First_impeachment_of_Donald_Trump",
+      "type": "reference"
+    },
+    {
+      "text": "ABC News: Invoking his faith, an emotional Mitt Romney explains vote to convict Trump",
+      "url": "https://abcnews.go.com/Politics/invoking-faith-emotional-mitt-romney-announces-hell-vote/story?id=68779768",
+      "type": "news"
     }
   ],
   "specialTags": ["impeachment", "ukraine", "foreign-policy", "corruption"]

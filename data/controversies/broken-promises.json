@@ -17,19 +17,24 @@
   ],
   "sources": [
     {
-      "text": "U.S. Customs and Border Protection data",
-      "url": "https://www.cbp.gov",
-      "type": "government"
+      "text": "PolitiFact Trump-O-Meter: Build a wall, and make Mexico pay for it",
+      "url": "https://www.politifact.com/truth-o-meter/promises/trumpometer/promise/1397/build-wall-and-make-mexico-pay-it/",
+      "type": "fact-check"
     },
     {
-      "text": "U.S. Treasury Department, Congressional Budget Office",
-      "url": "https://www.treasury.gov",
-      "type": "government"
+      "text": "NBC News: Fact check: Mexico never paid for it. But what about Trump's other border wall promises?",
+      "url": "https://www.nbcnews.com/politics/donald-trump/fact-check-mexico-never-paid-it-what-about-trump-s-n1253983",
+      "type": "fact-check"
     },
     {
-      "text": "Committee for a Responsible Federal Budget",
-      "url": "https://www.crfb.org",
+      "text": "Committee for a Responsible Federal Budget: How Much Did President Trump Add to the Debt?",
+      "url": "https://www.crfb.org/blogs/how-much-did-president-trump-add-debt",
       "type": "analysis"
+    },
+    {
+      "text": "Wikipedia: Efforts to repeal the Affordable Care Act",
+      "url": "https://en.wikipedia.org/wiki/Efforts_to_repeal_the_Affordable_Care_Act",
+      "type": "reference"
     }
   ],
   "specialTags": ["broken-promises"]

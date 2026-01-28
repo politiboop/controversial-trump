@@ -21,8 +21,13 @@
       "type": "transcript"
     },
     {
-      "text": "Washington Post coverage",
-      "url": "https://www.washingtonpost.com",
+      "text": "Washington Post: What Trump said with his 'very fine people' comments vs. what he meant",
+      "url": "https://www.washingtonpost.com/politics/2024/06/28/what-trump-said-with-his-very-fine-people-comments-vs-what-he-meant/",
+      "type": "news"
+    },
+    {
+      "text": "ABC News: Trump said 'blame on both sides' in Charlottesville",
+      "url": "https://abcnews.go.com/Politics/trump-blame-sides-charlottesville-now-anniversary-puts-spot/story?id=57141612",
       "type": "news"
     }
   ],

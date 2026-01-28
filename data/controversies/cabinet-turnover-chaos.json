@@ -19,19 +19,24 @@
   ],
   "sources": [
     {
-      "text": "Brookings Institution analysis",
-      "url": "https://www.brookings.edu",
+      "text": "Brookings Institution: Tracking turnover in the Trump administration",
+      "url": "https://www.brookings.edu/articles/tracking-turnover-in-the-trump-administration/",
       "type": "analysis"
     },
     {
-      "text": "NPR analysis",
-      "url": "https://www.npr.org",
-      "type": "analysis"
+      "text": "NPR: Trump Cabinet Turnover Sets Record Going Back 100 Years",
+      "url": "https://www.npr.org/2018/03/19/594164065/trump-cabinet-turnover-sets-record-going-back-100-years",
+      "type": "news"
     },
     {
-      "text": "Harvard Business Review",
-      "url": "https://hbr.org",
-      "type": "analysis"
+      "text": "Statista: Chart: How Does Trump's Turnover Compare?",
+      "url": "https://www.statista.com/chart/15071/how-does-trumps-turnover-compare-to-other-presidents/",
+      "type": "data"
+    },
+    {
+      "text": "Wikipedia: Government hiring and personnel of Donald Trump",
+      "url": "https://en.wikipedia.org/wiki/Government_hiring_and_personnel_of_Donald_Trump",
+      "type": "reference"
     }
   ],
   "specialTags": ["chaos", "turnover", "management"]

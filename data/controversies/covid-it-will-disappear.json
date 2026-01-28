@@ -18,13 +18,23 @@
   "sources": [
     {
       "text": "Trump statements, February 2020",
-      "url": "https://www.washingtonpost.com",
+      "url": "https://www.washingtonpost.com/graphics/2020/politics/trump-coronavirus-statements/",
       "type": "news"
     },
     {
-      "text": "CDC data on COVID deaths",
-      "url": "https://www.cdc.gov",
+      "text": "CDC COVID Data Tracker",
+      "url": "https://covid.cdc.gov/covid-data-tracker/",
       "type": "data"
+    },
+    {
+      "text": "CDC: Provisional COVID-19 Mortality Surveillance",
+      "url": "https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm",
+      "type": "data"
+    },
+    {
+      "text": "Wikipedia: COVID-19 pandemic in the United States",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States",
+      "type": "reference"
     }
   ],
   "specialTags": ["public-health", "disinformation"]

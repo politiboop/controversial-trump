@@ -18,14 +18,19 @@
   ],
   "sources": [
     {
-      "text": "NPR, January 10, 2026",
+      "text": "NPR: The Trump administration fired nearly 100 immigration judges in 2025. What's next?",
       "url": "https://www.npr.org/2026/01/10/nx-s1-5672386/the-trump-administration-fired-nearly-100-immigration-judges-in-2025-whats-next",
       "type": "news"
     },
     {
-      "text": "Supreme Court arguments",
-      "url": "https://federalnewsnetwork.com",
-      "type": "government"
+      "text": "Federal News Network: Supreme Court weighs Trump's bid to fire independent agency board members",
+      "url": "https://federalnewsnetwork.com/litigation/2025/12/the-supreme-court-weighs-trumps-bid-to-fire-independent-agency-board-members/",
+      "type": "news"
+    },
+    {
+      "text": "Grabien: Justice Jackson warns Trump replacing scientists, doctors with 'loyalists' not in Americans' best interest",
+      "url": "https://grabien.com/story?id=560260",
+      "type": "news"
     }
   ],
   "specialTags": ["immigration", "purge"]

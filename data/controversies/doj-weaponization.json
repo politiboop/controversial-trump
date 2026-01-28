@@ -20,17 +20,17 @@
   "sources": [
     {
       "text": "NPR, CBS News, CNN coverage",
-      "url": "https://www.npr.org",
+      "url": "https://www.npr.org/2025/11/24/g-s1-98612/trump-us-attorney-lindsey-halligan",
       "type": "news"
     },
     {
       "text": "Federal court ruling",
-      "url": "https://www.cnn.com",
+      "url": "https://www.cnn.com/2025/11/24/politics/james-comey-letitia-james-indictments-dismissed",
       "type": "court"
     },
     {
-      "text": "International Bar Association",
-      "url": "https://www.ibanet.org",
+      "text": "International Bar Association: US presidency - weaponised Department of Justice investigations prompt concerns over independence",
+      "url": "https://www.ibanet.org/US-presidency-weaponised-Department-of-Justice-investigations-prompt-concerns-over-independence",
       "type": "analysis"
     }
   ],

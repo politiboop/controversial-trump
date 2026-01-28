@@ -27,18 +27,23 @@
     },
     {
       "text": "NPR - Former ICE director analysis",
-      "url": "https://www.npr.org",
+      "url": "https://www.npr.org/2026/01/09/nx-s1-5671722/ice-shootings-are-a-direct-byproduct-of-tactic-shift-ex-ice-acting-director-says",
       "type": "analysis"
     },
     {
       "text": "The Marshall Project",
-      "url": "https://www.themarshallproject.org",
+      "url": "https://www.themarshallproject.org/2026/01/07/ice-minneapolis-shooting-renee-good",
       "type": "investigation"
     },
     {
-      "text": "DHS statement",
-      "url": "https://www.dhs.gov",
+      "text": "DHS: Radical Rhetoric by Sanctuary Politicians Leads to Unprecedented 1,300% Increase in Assaults Against ICE Officers",
+      "url": "https://www.dhs.gov/news/2026/01/08/radical-rhetoric-sanctuary-politicians-leads-unprecedented-1300-increase-assaults",
       "type": "government"
+    },
+    {
+      "text": "NPR: White House claims 'more than 1,000%' rise in assaults on ICE agents, data says otherwise",
+      "url": "https://www.npr.org/2025/10/10/nx-s1-5565146/white-house-claims-more-than-1-000-rise-in-assaults-on-ice-agents-data-says-otherwise",
+      "type": "fact-check"
     }
   ],
   "specialTags": ["ice", "police-violence", "immigration"]

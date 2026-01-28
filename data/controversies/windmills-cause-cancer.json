@@ -15,14 +15,24 @@
   ],
   "sources": [
     {
-      "text": "Rally transcript, April 2, 2019",
-      "url": "https://www.factcheck.org",
-      "type": "transcript"
+      "text": "FactCheck.org: Trump's Faulty Wind Power Claims",
+      "url": "https://www.factcheck.org/2019/04/trumps-faulty-wind-power-claims/",
+      "type": "fact-check"
     },
     {
-      "text": "American Cancer Society",
-      "url": "https://www.cancer.org",
-      "type": "analysis"
+      "text": "PolitiFact: Donald Trump's ridiculous link between cancer, wind turbines",
+      "url": "https://www.politifact.com/factchecks/2019/apr/08/donald-trump/republicans-dismiss-trumps-windmill-and-cancer-cla/",
+      "type": "fact-check"
+    },
+    {
+      "text": "CNN: Windmills and Trump: The President's war on wind technology continues",
+      "url": "https://www.cnn.com/2019/04/03/politics/trumps-war-on-windmills-now-includes-wild-cancer-claim",
+      "type": "news"
+    },
+    {
+      "text": "Check Your Fact: Fact-Checking Trump's Comment On Wind Farms And Cancer",
+      "url": "https://checkyourfact.com/2019/04/09/fact-check-trump-wind-turbine-cancer/",
+      "type": "fact-check"
     }
   ],
   "specialTags": ["bizarre", "science-denial"]

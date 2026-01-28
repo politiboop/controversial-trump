@@ -27,9 +27,14 @@
       "type": "court"
     },
     {
-      "text": "U.S. Court of Appeals 2nd Circuit, December 2024",
-      "url": "https://www.nytimes.com",
+      "text": "NBC News: Appeals court upholds $5 million E. Jean Carroll verdict against Trump",
+      "url": "https://www.nbcnews.com/politics/donald-trump/appeals-court-upholds-5-million-e-jean-carroll-verdict-trump-rcna185745",
       "type": "court"
+    },
+    {
+      "text": "Wikipedia: E. Jean Carroll v. Donald J. Trump",
+      "url": "https://en.wikipedia.org/wiki/E._Jean_Carroll_v._Donald_J._Trump",
+      "type": "reference"
     }
   ],
   "specialTags": ["sexual-misconduct", "court-ruling"]

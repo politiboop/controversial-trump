@@ -15,19 +15,19 @@
   ],
   "sources": [
     {
-      "text": "Federal court records",
-      "url": "https://www.justice.gov",
-      "type": "legal"
+      "text": "NPR: Trump pardons drug kingpins even as he escalates U.S. drug war rhetoric",
+      "url": "https://www.npr.org/2025/05/31/nx-s1-5415939/trump-pardons-drug-kingpins-even-as-he-escalates-the-u-s-drug-war",
+      "type": "news"
     },
     {
-      "text": "Sen. Thom Tillis statement",
-      "url": "https://www.tillis.senate.gov",
-      "type": "government"
+      "text": "Washington Post: Trump pardons major drug traffickers despite his anti-drug rhetoric",
+      "url": "https://www.washingtonpost.com/politics/2025/12/07/trump-drugs-pardons-hernandez-venezuela/",
+      "type": "news"
     },
     {
-      "text": "DOJ conviction records",
-      "url": "https://www.justice.gov",
-      "type": "government"
+      "text": "Complex: Here's All The Drug Dealers Donald Trump Has Pardoned",
+      "url": "https://www.complex.com/life/a/backwoodsaltar/drug-dealers-donald-trump-pardoned",
+      "type": "news"
     }
   ],
   "specialTags": ["pardons", "drug-trafficking", "gangs"]

@@ -20,19 +20,19 @@
   ],
   "sources": [
     {
-      "text": "Bill Barr statements",
-      "url": "https://www.cnn.com",
-      "type": "statement"
+      "text": "CNN: Who is Kash Patel, Trump's pick for FBI director?",
+      "url": "https://www.cnn.com/2024/12/02/politics/who-is-kash-patel-trump-fbi-director/index.html",
+      "type": "news"
     },
     {
-      "text": "'Government Gangsters' book",
-      "url": "https://www.amazon.com",
-      "type": "book"
+      "text": "CNN: People on Kash Patel's so-called 'enemies list' taking precautions",
+      "url": "https://www.cnn.com/2025/01/30/politics/kash-patel-critics-fbi-takeover/index.html",
+      "type": "news"
     },
     {
-      "text": "Sen. Durbin statement",
-      "url": "https://www.durbin.senate.gov",
-      "type": "government"
+      "text": "Newsweek: Kash Patel's 'government gangsters' who could be targeted",
+      "url": "https://www.newsweek.com/kash-patel-list-officials-targeted-fbi-doj-trump-1994417",
+      "type": "news"
     }
   ],
   "specialTags": ["fbi", "enemies-list", "qanon", "jan6-related"]

@@ -16,13 +16,18 @@
   ],
   "sources": [
     {
-      "text": "Trump Truth Social, September 2023",
-      "url": "https://truthsocial.com",
-      "type": "primary"
+      "text": "CNBC: Trump and GOP Rep. Gosar suggest Joint Chiefs boss Mark Milley deserves death",
+      "url": "https://www.cnbc.com/2023/09/25/trump-paul-gosar-suggest-gen-mark-milley-deserves-death.html",
+      "type": "news"
     },
     {
-      "text": "NBC News, Atlantic reporting",
-      "url": "https://www.nbcnews.com",
+      "text": "CNN: Mark Milley says Trump disrespected US military with execution comment",
+      "url": "https://www.cnn.com/2023/09/28/politics/milley-donald-trump-execution-comment/index.html",
+      "type": "news"
+    },
+    {
+      "text": "Military.com: Gen. Mark Milley Says He Has Taken 'Measures' to Protect Family",
+      "url": "https://www.military.com/daily-news/2023/09/28/gen-mark-milley-says-he-has-taken-measures-protect-family-after-trump-suggests-he-should-be-executed.html",
       "type": "news"
     }
   ],

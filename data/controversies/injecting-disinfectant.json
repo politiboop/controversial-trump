@@ -18,18 +18,28 @@
   "sources": [
     {
       "text": "White House briefing video transcript, April 23, 2020",
-      "url": "https://www.whitehouse.gov",
+      "url": "https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-vice-president-pence-members-coronavirus-task-force-press-briefing-31/",
       "type": "video"
     },
     {
       "text": "Emergency statements from Lysol, Clorox, April 2020",
-      "url": "https://www.cnn.com",
+      "url": "https://www.cnn.com/2020/04/23/politics/fact-check-coronavirus-briefing-april-23/index.html",
       "type": "news"
     },
     {
-      "text": "CDC poison control data",
-      "url": "https://www.cdc.gov",
+      "text": "CDC MMWR: Cleaning and Disinfectant Chemical Exposures and Temporal Associations with COVID-19",
+      "url": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6916e1.htm",
       "type": "data"
+    },
+    {
+      "text": "NPR: NYC Poison Control Sees Uptick In Calls After Trump's Disinfectant Comments",
+      "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/04/25/845015236/nyc-poison-control-sees-uptick-in-calls-after-trumps-disinfectant-comments",
+      "type": "news"
+    },
+    {
+      "text": "The Hill: Calls to poison control centers spike after Trump disinfectant comments",
+      "url": "https://thehill.com/policy/healthcare/494744-poison-control-centers-report-increase-in-calls-pertaining-to-exposure-to/",
+      "type": "news"
     }
   ],
   "specialTags": ["public-health", "dangerous"]

@@ -20,18 +20,23 @@
   ],
   "sources": [
     {
-      "text": "British Medical Journal study, 2014",
-      "url": "https://www.bmj.com",
-      "type": "study"
+      "text": "Washington Post: Half of Dr. Oz's medical advice is baseless or wrong, study says",
+      "url": "https://www.washingtonpost.com/news/morning-mix/wp/2014/12/19/half-of-dr-ozs-medical-advice-is-baseless-or-wrong-study-says/",
+      "type": "news"
     },
     {
-      "text": "AMA Journal of Ethics",
-      "url": "https://journalofethics.ama-assn.org",
+      "text": "ResearchGate: The Case of Dr. Oz - Ethics, Evidence, and Does Professional Self-Regulation Work? (AMA Journal of Ethics)",
+      "url": "https://www.researchgate.net/publication/320876152_The_Case_of_Dr_Oz_Ethics_Evidence_and_Does_Professional_Self-Regulation_Work",
       "type": "journal"
     },
     {
-      "text": "Financial disclosures",
-      "url": "https://www.opensecrets.org",
+      "text": "NPR: Dr. Oz invested in businesses regulated by agency Trump wants him to run",
+      "url": "https://www.npr.org/sections/shots-health-news/2024/11/22/nx-s1-5201663/trump-dr-oz-investments-cms",
+      "type": "news"
+    },
+    {
+      "text": "Common Dreams: Dr. Oz Had Up to Tens of Millions Invested in Companies Involved With CMS",
+      "url": "https://www.commondreams.org/news/dr-oz",
       "type": "watchdog"
     }
   ],

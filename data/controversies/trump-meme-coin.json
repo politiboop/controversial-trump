@@ -18,18 +18,23 @@
   ],
   "sources": [
     {
-      "text": "Sen. Chris Murphy statement",
-      "url": "https://www.murphy.senate.gov",
+      "text": "Sen. Chris Murphy: 'The most corrupt thing a president has ever done'",
+      "url": "https://www.murphy.senate.gov/newsroom/in-the-news/the-most-corrupt-thing-a-president-has-ever-done",
       "type": "government"
     },
     {
-      "text": "Cryptocurrency tracking data",
-      "url": "https://www.coindesk.com",
-      "type": "analysis"
+      "text": "Sen. Murphy introduces legislation to prohibit presidents from profiting off meme coins",
+      "url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-introduces-new-legislation-to-prohibit-presidents-from-profiting-off-meme-coins-while-in-office",
+      "type": "government"
     },
     {
-      "text": "Financial reporting, January 2025",
-      "url": "https://www.bloomberg.com",
+      "text": "Decrypt: 'Most Corrupt Act': Sen. Chris Murphy Moves to Ban Trump From Shilling Meme Coin",
+      "url": "https://decrypt.co/318085/most-corrupt-act-sen-chris-murphy-moves-to-ban-trump-shilling-meme-coin",
+      "type": "news"
+    },
+    {
+      "text": "The Hill: Senate Democrat slams Trump's 'grift' meme coins",
+      "url": "https://thehill.com/policy/technology/5180612-senate-democrat-slams-trumps-grift-meme-coins/",
       "type": "news"
     }
   ],

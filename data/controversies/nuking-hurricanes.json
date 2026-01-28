@@ -15,14 +15,24 @@
   ],
   "sources": [
     {
-      "text": "Axios, August 2019; confirmed by multiple officials",
-      "url": "https://www.axios.com",
+      "text": "Axios: Trump suggested dropping nuclear bombs into hurricanes to stop them from hitting the U.S.",
+      "url": "https://www.axios.com/2019/08/25/trump-nuclear-bombs-hurricanes",
       "type": "news"
     },
     {
-      "text": "NOAA.gov explainer",
-      "url": "https://www.noaa.gov",
-      "type": "government"
+      "text": "CNN: Axios: Trump floated the idea of using nuclear bombs to stop hurricanes headed for US",
+      "url": "https://www.cnn.com/2019/08/26/politics/donald-trump-nuclear-bombs-hurricanes",
+      "type": "news"
+    },
+    {
+      "text": "PolitiFact: Can a nuclear bomb stop a hurricane? No, it's a myth that has persisted for decades",
+      "url": "https://www.politifact.com/article/2019/aug/26/can-nuclear-bomb-stop-hurricane-no-its-myth-has-pe/",
+      "type": "fact-check"
+    },
+    {
+      "text": "Snopes: Did Trump Ask Advisers About 'Nuking' Hurricanes?",
+      "url": "https://www.snopes.com/fact-check/trump-nuke-hurricanes/",
+      "type": "fact-check"
     }
   ],
   "specialTags": ["bizarre"]

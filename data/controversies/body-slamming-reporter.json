@@ -15,18 +15,23 @@
   ],
   "sources": [
     {
-      "text": "Twitter post, July 2017",
-      "url": "https://twitter.com",
-      "type": "primary"
+      "text": "CNN: Trump says he has no regrets about praising congressman for assaulting reporter",
+      "url": "https://www.cnn.com/2018/10/18/politics/trump-rally-gianforte-my-guy/index.html",
+      "type": "news"
     },
     {
-      "text": "Montana rally, October 2018",
-      "url": "https://www.cnn.com",
+      "text": "CBS News: Trump rally in Montana: President backs Greg Gianforte for body slam",
+      "url": "https://www.cbsnews.com/news/trump-rally-montana-thursday-backs-greg-gianforte-body-slam-guardian-reporter-my-guy-2018-10-18/",
       "type": "rally"
     },
     {
-      "text": "Multiple tweets and rally speeches, 2017-2021",
-      "url": "https://www.washingtonpost.com",
+      "text": "NBC News: Trump praises Montana congressman for assaulting reporter: 'He's my guy'",
+      "url": "https://www.nbcnews.com/politics/politics-news/trump-praises-montana-congressman-who-assaulted-reporter-n921911",
+      "type": "news"
+    },
+    {
+      "text": "Washington Post: We knew Trump wouldn't condemn a congressman for assaulting a reporter. Now, he celebrates it",
+      "url": "https://www.washingtonpost.com/politics/2018/10/19/we-knew-trump-doesnt-condemn-congressman-assaulting-reporter-now-he-celebrates-it/",
       "type": "news"
     }
   ],

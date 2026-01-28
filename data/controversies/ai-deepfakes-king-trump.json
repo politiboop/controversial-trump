@@ -19,14 +19,24 @@
   ],
   "sources": [
     {
-      "text": "TIME Magazine analysis, 2025",
-      "url": "https://time.com",
+      "text": "TIME: How Trump's Use of AI Videos Is Changing His Political Playbook",
+      "url": "https://time.com/7327317/trump-ai-video-political-weapon/",
       "type": "analysis"
     },
     {
-      "text": "Truth Social posts",
-      "url": "https://truthsocial.com",
-      "type": "primary"
+      "text": "NBC News: On Truth Social, Trump has embraced AI media to attack foes and boost his image",
+      "url": "https://www.nbcnews.com/tech/internet/truth-social-trump-embraced-ai-media-attack-foes-boost-image-rcna234978",
+      "type": "news"
+    },
+    {
+      "text": "France24: 'AI president': Trump deepfakes glorify himself, trash rivals",
+      "url": "https://www.france24.com/en/live-news/20251106-ai-president-trump-deepfakes-glorify-himself-trash-rivals",
+      "type": "news"
+    },
+    {
+      "text": "NBC News: Trump posts AI video showing him dumping on No Kings protesters",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-posts-ai-video-dumping-no-kings-protesters-rcna238521",
+      "type": "news"
     }
   ],
   "specialTags": ["disinformation", "ai", "deepfakes"]

@@ -15,14 +15,24 @@
   ],
   "sources": [
     {
-      "text": "Ethics expert Norm Eisen statement",
-      "url": "https://www.citizensforethics.org",
+      "text": "NPR: Trump administration officially accepts jet from Qatar",
+      "url": "https://www.npr.org/2025/05/21/nx-s1-5406420/trump-accepts-qatar-plane-air-force-one",
+      "type": "news"
+    },
+    {
+      "text": "The Hill: Ex-White House lawyer Norm Eisen: Trump's Qatari jet gift likely violates rules",
+      "url": "https://thehill.com/homenews/administration/5297095-norman-eisen-donald-trump-qatari-jet/",
       "type": "expert"
     },
     {
-      "text": "News reporting on Qatar gift",
-      "url": "https://www.nytimes.com",
+      "text": "TIME: Trump Doubles Down on Plan to Accept Qatar's Plane Gift",
+      "url": "https://time.com/7285325/trump-qatar-plane-gift-air-force-one-controversy-response/",
       "type": "news"
+    },
+    {
+      "text": "FactCheck.org: Unwrapping Qatar's $400 Million Winged Gift to Trump",
+      "url": "https://www.factcheck.org/2025/05/unwrapping-qatars-400-million-winged-gift-to-trump/",
+      "type": "fact-check"
     }
   ],
   "specialTags": ["foreign-bribery", "conflicts-of-interest", "emoluments"]

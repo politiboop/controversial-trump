@@ -17,19 +17,19 @@
   ],
   "sources": [
     {
-      "text": "Presidential debate, September 10, 2024",
-      "url": "https://www.cnn.com",
-      "type": "debate"
-    },
-    {
-      "text": "Springfield city manager, police statements",
-      "url": "https://www.springfieldohio.gov",
-      "type": "government"
-    },
-    {
-      "text": "PolitiFact, December 2024",
-      "url": "https://www.politifact.com",
+      "text": "PolitiFact: 'They're eating the pets': Trump, Vance earn PolitiFact's Lie of the Year",
+      "url": "https://www.politifact.com/article/2024/dec/17/theyre-eating-the-pets-trump-vance-earn-politifact/",
       "type": "fact-check"
+    },
+    {
+      "text": "PolitiFact: Trump repeats baseless claims that Haitian immigrants in Ohio are eating pets",
+      "url": "https://www.politifact.com/factchecks/2024/sep/11/donald-trump/trump-repeats-baseless-claims-that-haitian-immigra/",
+      "type": "fact-check"
+    },
+    {
+      "text": "PBS News: WATCH: Trump amplifies false racist rumor about Ohio's Haitian immigrants in debate",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-amplifies-false-racist-rumor-about-ohios-haitian-immigrants-in-debate",
+      "type": "news"
     }
   ],
   "specialTags": ["racism", "immigration", "disinformation"]

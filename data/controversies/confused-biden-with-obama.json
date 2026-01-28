@@ -16,13 +16,23 @@
   ],
   "sources": [
     {
-      "text": "Rally speeches, 2023",
-      "url": "https://www.cnn.com",
-      "type": "rally"
+      "text": "NBC News: Trump confuses Nikki Haley with Nancy Pelosi when talking about Jan. 6",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-confuses-nikki-haley-pelosi-talking-jan-6-rcna134863",
+      "type": "news"
     },
     {
-      "text": "The Mirror, CNN coverage",
-      "url": "https://www.mirror.co.uk",
+      "text": "CNN: Haley questions Trump's mental fitness after he confuses her with Nancy Pelosi",
+      "url": "https://www.cnn.com/2024/01/20/politics/nikki-haley-donald-trump-mental-fitness/index.html",
+      "type": "news"
+    },
+    {
+      "text": "The Hill: Trump's verbal confusions give opening to Haley",
+      "url": "https://thehill.com/homenews/campaign/4420830-trumps-verbal-confusions-give-opening-to-haley/",
+      "type": "news"
+    },
+    {
+      "text": "Rolling Stone: Trump Insists He Confused Pelosi with Haley on Purpose",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-sarcastic-confusing-nikki-haley-nancy-pelosi-1234968703/",
       "type": "news"
     }
   ],

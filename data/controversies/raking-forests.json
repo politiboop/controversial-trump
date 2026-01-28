@@ -16,14 +16,24 @@
   ],
   "sources": [
     {
-      "text": "Press conference, November 17, 2018",
-      "url": "https://www.whitehouse.gov",
-      "type": "transcript"
+      "text": "FactCheck.org: Trump Repeatedly Errs on California Wildfires",
+      "url": "https://www.factcheck.org/2018/11/trump-repeatedly-errs-on-california-wildfires/",
+      "type": "fact-check"
     },
     {
-      "text": "Finnish media interviews, November 2018",
-      "url": "https://www.bbc.com",
+      "text": "CBS News: President Trump says raking can prevent fires: Finland's President Sauli Niinistö denies the conversation",
+      "url": "https://www.cbsnews.com/news/finland-president-sauli-niinisto-denies-telling-donald-trump-the-country-rakes-forests/",
       "type": "news"
+    },
+    {
+      "text": "CNN: 'Make America Rake Again': Confusion in Finland over Trump's wildfire comments",
+      "url": "https://www.cnn.com/2018/11/18/politics/finnish-president-trump-raking-forest-fires/index.html",
+      "type": "news"
+    },
+    {
+      "text": "CBS News: Trump says raking forests could help prevent wildfires",
+      "url": "https://www.cbsnews.com/video/trump-says-raking-forests-could-help-prevent-wildfires/",
+      "type": "video"
     }
   ],
   "specialTags": ["bizarre", "climate"]

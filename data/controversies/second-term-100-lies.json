@@ -18,19 +18,19 @@
   ],
   "sources": [
     {
-      "text": "CNN fact-check database, 2025",
-      "url": "https://www.cnn.com",
+      "text": "CNN: Fact check: Debunking 100 Trump false claims from his first 100 days",
+      "url": "https://www.cnn.com/politics/fact-check-trump-false-claims-debunked",
       "type": "fact-check"
     },
     {
-      "text": "Consumer Price Index data",
-      "url": "https://www.bls.gov",
-      "type": "data"
+      "text": "PolitiFact: 100 PolitiFact fact-checks from President Donald Trump's first 100 days",
+      "url": "https://www.politifact.com/article/2025/apr/29/trump-100-days-fact-checks/",
+      "type": "fact-check"
     },
     {
-      "text": "Election exit polls",
-      "url": "https://www.nbcnews.com",
-      "type": "data"
+      "text": "Wikipedia: False or misleading statements by Donald Trump (second term)",
+      "url": "https://en.wikipedia.org/wiki/False_or_misleading_statements_by_Donald_Trump_(second_term)",
+      "type": "reference"
     }
   ],
   "specialTags": ["dishonesty", "inflation", "economy"]

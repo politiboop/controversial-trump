@@ -16,14 +16,24 @@
   ],
   "sources": [
     {
-      "text": "Washington Post, NBC News, January 2018",
+      "text": "Washington Post: Trump attacks protections for immigrants from 'shithole countries'",
       "url": "https://www.washingtonpost.com/politics/trump-attacks-protections-for-immigrants-from-shithole-countries-in-oval-office-meeting/2018/01/11/bfc0725c-f711-11e7-91af-31ac729add94_story.html",
       "type": "news"
     },
     {
-      "text": "Senator statements",
-      "url": "https://www.cnn.com",
+      "text": "CNN: Sen. Dick Durbin asserts Trump said 'shithole countries'",
+      "url": "https://www.cnn.com/2018/01/16/politics/jake-tapper-dick-durbin-interview-cnntv/index.html",
       "type": "testimony"
+    },
+    {
+      "text": "NPR: Trump Denies 'Shithole Countries' Remark; Top Democrat Says He Said It",
+      "url": "https://www.npr.org/2018/01/12/577598401/in-morning-tweet-trump-denies-calling-african-countries-by-a-vulgar-slur",
+      "type": "news"
+    },
+    {
+      "text": "CNN: Almost eight years later, Trump confirms he used the phrase 'shithole countries'",
+      "url": "https://www.cnn.com/2025/12/10/politics/donald-trump-shithole-countries-phrase",
+      "type": "news"
     }
   ],
   "specialTags": ["racism", "immigration"]

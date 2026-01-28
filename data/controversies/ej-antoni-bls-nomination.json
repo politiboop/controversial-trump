@@ -21,8 +21,8 @@
   ],
   "sources": [
     {
-      "text": "NBC News, August 2025",
-      "url": "https://www.nbcnews.com",
+      "text": "NBC News: Trump Bureau of Labor Statistics nominee was a 'bystander' outside Capitol on Jan. 6, White House says",
+      "url": "https://www.nbcnews.com/politics/justice-department/trump-bureau-labor-statistics-nominee-ej-antoni-jan-6-bystander-rcna224645",
       "type": "news"
     },
     {
@@ -36,9 +36,9 @@
       "type": "news"
     },
     {
-      "text": "Axios reporting",
-      "url": "https://www.axios.com",
-      "type": "news"
+      "text": "MSNBC: With new accusations, Trump's labor statistics nominee E.J. Antoni goes from bad to worse",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/ej-antoni-labor-statistics-trump-nominee-bls-rcna229399",
+      "type": "analysis"
     }
   ],
   "specialTags": ["jan6-related", "cabinet", "economic-policy"]

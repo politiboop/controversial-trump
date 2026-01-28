@@ -16,19 +16,19 @@
   ],
   "sources": [
     {
-      "text": "Trump Truth Social post, December 3, 2022",
-      "url": "https://truthsocial.com",
-      "type": "primary"
-    },
-    {
-      "text": "White House statement",
-      "url": "https://www.whitehouse.gov",
-      "type": "government"
-    },
-    {
-      "text": "CNN coverage",
-      "url": "https://www.cnn.com",
+      "text": "CNN: Trump calls for the termination of the Constitution in Truth Social post",
+      "url": "https://www.cnn.com/2022/12/03/politics/trump-constitution-truth-social",
       "type": "news"
+    },
+    {
+      "text": "NBC News: Top Republicans stay silent on Trump's call to terminate the Constitution",
+      "url": "https://www.nbcnews.com/politics/politics-news/top-republicans-stay-silent-trumps-call-terminate-constitution-rcna60019",
+      "type": "news"
+    },
+    {
+      "text": "CREW: 9 out of 10 Republicans silent on Trump's calls to terminate the Constitution",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-reports/9-out-of-10-republicans-silent-on-trumps-calls-to-terminate-the-constitution/",
+      "type": "analysis"
     }
   ],
   "specialTags": ["constitution", "election"]

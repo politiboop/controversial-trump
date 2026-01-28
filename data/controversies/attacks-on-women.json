@@ -17,19 +17,24 @@
   ],
   "sources": [
     {
-      "text": "CNN interview, August 7, 2015",
-      "url": "https://www.cnn.com",
-      "type": "interview"
+      "text": "CNN: Donald Trump's 'blood' comment about Megyn Kelly draws outrage",
+      "url": "https://www.cnn.com/2015/08/08/politics/donald-trump-cnn-megyn-kelly-comment",
+      "type": "news"
     },
     {
-      "text": "Trump Twitter archive",
-      "url": "https://www.thetrumparchive.com",
-      "type": "primary"
+      "text": "Washington Post: Trump says Fox's Megyn Kelly had 'blood coming out of her wherever'",
+      "url": "https://www.washingtonpost.com/news/post-politics/wp/2015/08/07/trump-says-foxs-megyn-kelly-had-blood-coming-out-of-her-wherever/",
+      "type": "news"
     },
     {
-      "text": "Rolling Stone interview, September 2015",
-      "url": "https://www.rollingstone.com",
-      "type": "interview"
+      "text": "The Daily Beast: Trump: Megyn Kelly Has 'Blood Coming Out of Her Wherever'",
+      "url": "https://www.thedailybeast.com/trump-megyn-kelly-has-blood-coming-out-of-her-wherever/",
+      "type": "news"
+    },
+    {
+      "text": "ABC News: 'Horseface, 'crazy,' 'low IQ': Trump's history of insulting women",
+      "url": "https://abcnews.go.com/Politics/trumps-long-history-calling-women-crazy-attacking-appearances/story?id=48348956",
+      "type": "analysis"
     }
   ],
   "specialTags": ["misogyny"]

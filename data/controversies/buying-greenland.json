@@ -16,14 +16,24 @@
   ],
   "sources": [
     {
-      "text": "White House statements, August 2019",
-      "url": "https://www.whitehouse.gov",
-      "type": "government"
+      "text": "NPR: Trump Skips Visit To Denmark, Calls Danish Leader 'Nasty' For Greenland Sale Rebuff",
+      "url": "https://www.npr.org/2019/08/21/752989771/trump-to-skip-visiting-denmark-after-prime-minister-says-greenland-not-for-sale",
+      "type": "news"
     },
     {
-      "text": "Greenland government official statement, August 2019",
-      "url": "https://www.bbc.com",
-      "type": "government"
+      "text": "NBC News: Trump calls Danish PM 'nasty' for her comments on Greenland sale",
+      "url": "https://www.nbcnews.com/politics/politics-news/danish-pm-says-she-was-surprised-learn-trump-canceled-trip-n1044771",
+      "type": "news"
+    },
+    {
+      "text": "Wikipedia: Proposed United States acquisition of Greenland",
+      "url": "https://en.wikipedia.org/wiki/Proposed_United_States_acquisition_of_Greenland",
+      "type": "reference"
+    },
+    {
+      "text": "Al Jazeera: Trump cancels visit to Denmark after PM rejects sale of Greenland",
+      "url": "https://www.aljazeera.com/news/2019/8/21/trump-cancels-visit-to-denmark-after-pm-rejects-sale-of-greenland",
+      "type": "news"
     }
   ],
   "specialTags": ["bizarre", "foreign-policy"]

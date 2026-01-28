@@ -17,19 +17,24 @@
   ],
   "sources": [
     {
-      "text": "CNN interview with Jake Tapper, October 2023",
-      "url": "https://www.cnn.com",
+      "text": "CNN: John Kelly says Donald Trump fits 'fascist' definition and prefers 'dictator approach'",
+      "url": "https://www.cnn.com/2024/10/22/politics/trump-fascist-john-kelly/index.html",
       "type": "interview"
     },
     {
-      "text": "New York Times interview, 2023",
-      "url": "https://www.nytimes.com",
+      "text": "Axios: John Kelly tells NYT Trump said: 'Hitler did some good things'",
+      "url": "https://www.axios.com/2024/10/23/john-kelly-trump-hitler",
+      "type": "news"
+    },
+    {
+      "text": "NBC News: John Kelly says Donald Trump meets the definition of a 'fascist'",
+      "url": "https://www.nbcnews.com/politics/2024-election/john-kelly-says-donald-trump-meets-definition-fascist-rcna176706",
       "type": "interview"
     },
     {
-      "text": "The Atlantic reporting, 2020",
-      "url": "https://www.theatlantic.com",
-      "type": "investigation"
+      "text": "PBS News: What John Kelly said about Trump's praise of Hitler and fascist tendencies",
+      "url": "https://www.pbs.org/newshour/show/what-john-kelly-said-about-trumps-praise-of-hitler-and-fascist-tendencies",
+      "type": "news"
     }
   ],
   "specialTags": ["cabinet-warnings", "military", "fascism"]

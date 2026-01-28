@@ -16,13 +16,28 @@
   ],
   "sources": [
     {
-      "text": "Trump Twitter archive",
-      "url": "https://www.thetrumparchive.com",
-      "type": "primary"
+      "text": "ABC News: Trump calls Waters 'extraordinarily low IQ person'",
+      "url": "https://abcnews.go.com/Politics/trump-calls-waters-extremely-low-iq-person-wake/story?id=56140886",
+      "type": "news"
     },
     {
-      "text": "Critical race theory scholars quoted in Washington Post, CNN",
-      "url": "https://www.washingtonpost.com",
+      "text": "WGBH: 'Low IQ,' 'SPECTACULAR,' 'Dog': How Trump Tweets About African-Americans",
+      "url": "https://www.wgbh.org/news/national/2018-09-10/low-iq-spectacular-dog-how-trump-tweets-about-african-americans",
+      "type": "analysis"
+    },
+    {
+      "text": "ABC News: Why some see Trump's attacks on Omarosa and other African-Americans as racially loaded",
+      "url": "https://abcnews.go.com/US/trumps-attacks-omarosa-african-americans-racially-loaded/story?id=57192523",
+      "type": "news"
+    },
+    {
+      "text": "NPR: Trump Calls Harris A 'Monster,' Reviving A Pattern Of Attacking Women Of Color",
+      "url": "https://www.npr.org/2020/10/09/921884531/trump-calls-harris-a-monster-reviving-a-pattern-of-attacking-women-of-color",
+      "type": "analysis"
+    },
+    {
+      "text": "African Elements: The Coded Racism Behind Trump's 'Low IQ' Attacks",
+      "url": "https://www.africanelements.org/news/the-coded-racism-behind-trumps-low-iq-attacks/",
       "type": "analysis"
     }
   ],

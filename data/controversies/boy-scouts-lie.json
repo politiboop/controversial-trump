@@ -14,14 +14,19 @@
   ],
   "sources": [
     {
-      "text": "Trump statements, July 2017",
-      "url": "https://www.washingtonpost.com",
+      "text": "Washington Post: Trump says the Boy Scouts called to tell him his speech was the 'greatest.' He appears to have imagined this.",
+      "url": "https://www.washingtonpost.com/news/the-fix/wp/2017/08/02/trump-says-the-boy-scouts-head-told-him-his-speech-was-the-greatest-he-appears-to-have-exaggerated-or-imagined-this/",
       "type": "news"
     },
     {
-      "text": "Boy Scouts of America statement",
-      "url": "https://www.scouting.org",
-      "type": "organization"
+      "text": "TIME: Boy Scouts 'Unaware' of Call Trump Said He Received From Organization Praising Jamboree Speech",
+      "url": "https://time.com/4883422/donald-trump-boy-scouts-wall-street-journal-transcript/",
+      "type": "news"
+    },
+    {
+      "text": "ABC News: Trump citing phone calls with Boy Scouts and Mexico they say never happened",
+      "url": "https://abcnews.go.com/US/boy-scouts-deny-leaders-called-trump-congratulate-jamboree/story?id=48991194",
+      "type": "news"
     }
   ],
   "specialTags": ["dishonesty"]

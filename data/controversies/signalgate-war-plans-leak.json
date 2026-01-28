@@ -18,14 +18,24 @@
   ],
   "sources": [
     {
-      "text": "Pentagon Inspector General report",
-      "url": "https://www.dodig.mil",
+      "text": "PBS News: Read the full report on Hegseth's use of Signal from the Pentagon inspector general",
+      "url": "https://www.pbs.org/newshour/world/read-the-full-report-on-hegseths-use-of-signal-from-the-pentagon-inspector-general",
       "type": "government"
     },
     {
-      "text": "The Atlantic reporting",
-      "url": "https://www.theatlantic.com",
+      "text": "CNN: Why the new 'Signalgate' IG report is so damning for Pete Hegseth",
+      "url": "https://www.cnn.com/2025/12/04/politics/signalgate-report-pete-hegseth-scandal",
       "type": "news"
+    },
+    {
+      "text": "ABC News: Pentagon IG finds Hegseth could have endangered troops with Signal chat",
+      "url": "https://abcnews.go.com/Politics/pentagon-ig-concluded-hegseth-risked-exposing-classified-info/story?id=128079227",
+      "type": "news"
+    },
+    {
+      "text": "NPR: Jeffrey Goldberg, journalist at the center of Signalgate, on Pentagon's new report",
+      "url": "https://www.npr.org/2025/12/04/nx-s1-5631515/jeffrey-goldberg-journalist-at-the-center-of-signalgate-on-pentagons-new-report",
+      "type": "interview"
     }
   ],
   "specialTags": ["classified-info", "national-security", "cabinet"]

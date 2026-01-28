@@ -23,22 +23,27 @@
   "sources": [
     {
       "text": "MPR News, CNN reporting",
-      "url": "https://www.mprnews.org",
+      "url": "https://www.mprnews.org/story/2026/01/07/shooting-south-minneapolis-ice-agents-federal-operation",
       "type": "news"
     },
     {
       "text": "Washington Post video analysis",
-      "url": "https://www.washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/2026/01/09/moments-before-ice-shooting-minneapolis/",
       "type": "investigation"
     },
     {
-      "text": "Minneapolis Mayor Jacob Frey statement",
-      "url": "https://www.minneapolismn.gov",
+      "text": "City of Minneapolis: Minneapolis responds to fatal shooting of woman by federal agent",
+      "url": "https://www.minneapolismn.gov/news/2026/january/fatal-shooting-response/",
       "type": "government"
     },
     {
+      "text": "Wikipedia: Killing of Renée Good",
+      "url": "https://en.wikipedia.org/wiki/Killing_of_Ren%C3%A9e_Good",
+      "type": "reference"
+    },
+    {
       "text": "PBS NewsHour, PolitiFact analysis",
-      "url": "https://www.pbs.org",
+      "url": "https://www.pbs.org/newshour/politics/experts-question-noem-calling-good-a-domestic-terrorist-heres-what-the-term-means",
       "type": "fact-check"
     }
   ],

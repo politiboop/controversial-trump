@@ -15,14 +15,24 @@
   ],
   "sources": [
     {
-      "text": "Video footage, March 6, 2019",
-      "url": "https://www.youtube.com",
-      "type": "video"
+      "text": "ABC News: Trump claims he called Apple CEO Tim Cook 'Tim Apple' to 'save time & words'",
+      "url": "https://abcnews.go.com/Politics/apple-ceo-tim-cook-goofs-president-trumps-gaffe/story?id=61536535",
+      "type": "news"
     },
     {
-      "text": "Trump tweets",
-      "url": "https://www.thetrumparchive.com",
-      "type": "primary"
+      "text": "Washington Post: Trump called Tim Cook 'Tim Apple,' and the Apple CEO is leaning into it",
+      "url": "https://www.washingtonpost.com/technology/2019/03/07/trump-called-tim-cook-tim-apple-apple-ceo-is-leaning-into-it/",
+      "type": "news"
+    },
+    {
+      "text": "CNBC: President Trump calls Apple CEO 'Tim Apple' instead of Tim Cook",
+      "url": "https://www.cnbc.com/2019/03/06/president-trump-calls-apple-ceo-tim-apple-instead-of-tim-cook.html",
+      "type": "news"
+    },
+    {
+      "text": "Washington Post: Video of Trump calling Tim Cook 'Tim Apple'",
+      "url": "https://www.washingtonpost.com/video/politics/watch-trump-call-apple-ceo-tim-cook-tim-apple/2019/03/07/e10ba39b-4dfd-4566-ad32-899c1a759ecb_video.html",
+      "type": "video"
     }
   ],
   "specialTags": ["bizarre", "gaffe"]

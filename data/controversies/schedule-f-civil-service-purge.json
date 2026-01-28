@@ -17,18 +17,23 @@
   ],
   "sources": [
     {
-      "text": "Federal Register, October 21, 2020",
-      "url": "https://www.federalregister.gov",
+      "text": "Trump White House Archives: Executive Order on Creating Schedule F In The Excepted Service",
+      "url": "https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-creating-schedule-f-excepted-service/",
       "type": "government"
     },
     {
-      "text": "OPM analysis, Brookings Institution",
-      "url": "https://www.brookings.edu",
-      "type": "analysis"
+      "text": "Wikipedia: Schedule F appointment",
+      "url": "https://en.wikipedia.org/wiki/Schedule_F_appointment",
+      "type": "reference"
     },
     {
-      "text": "Executive Order 14003, January 22, 2021",
-      "url": "https://www.whitehouse.gov",
+      "text": "GAO: Civil Service: Agency Responses and Perspectives on Former Executive Order",
+      "url": "https://www.gao.gov/products/gao-22-105504",
+      "type": "government"
+    },
+    {
+      "text": "White House (2025): Restoring Accountability To Policy-Influencing Positions",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/",
       "type": "government"
     }
   ],

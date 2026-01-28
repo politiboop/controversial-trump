@@ -21,19 +21,24 @@
   ],
   "sources": [
     {
-      "text": "Police report, 2017",
-      "url": "https://www.washingtonpost.com",
+      "text": "NPR: Pete Hegseth: Police report lays out details, timeline of sexual assault allegation",
+      "url": "https://www.npr.org/2024/11/21/nx-s1-5199630/police-report-gives-details-timeline-of-the-sexual-assault-claim-against-pete-hegseth",
       "type": "investigation"
     },
     {
-      "text": "Sworn affidavit from Danielle Hegseth",
-      "url": "https://www.nytimes.com",
-      "type": "legal"
+      "text": "CNN: Pete Hegseth paid $50,000 to a woman alleging 2017 sexual assault",
+      "url": "https://www.cnn.com/2025/01/23/politics/pete-hegseth-payment-woman-sexual-assault-allegation",
+      "type": "news"
     },
     {
-      "text": "Senate Armed Services Committee",
-      "url": "https://www.armed-services.senate.gov",
-      "type": "government"
+      "text": "CBS News: Police report details woman's 2017 allegations against Pete Hegseth",
+      "url": "https://www.cbsnews.com/news/pete-hegseth-police-report-details-womans-allegations/",
+      "type": "investigation"
+    },
+    {
+      "text": "NBC News: Police report details alleged sexual assault by Trump's defense pick Pete Hegseth",
+      "url": "https://www.nbcnews.com/politics/politics-news/police-report-details-alleged-sexual-assault-trumps-defense-pick-pete-rcna181137",
+      "type": "investigation"
     }
   ],
   "specialTags": ["sexual-misconduct", "cabinet", "military"]

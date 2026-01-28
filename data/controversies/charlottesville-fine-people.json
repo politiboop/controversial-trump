@@ -17,19 +17,24 @@
   ],
   "sources": [
     {
-      "text": "White House transcript, August 15, 2017",
-      "url": "https://www.whitehouse.gov",
+      "text": "NPR Transcript: Trump Shifts Tone Again On White Nationalist Rally In Charlottesville",
+      "url": "https://www.npr.org/2017/08/15/543769884/transcript-trump-shifts-tone-again-on-white-nationalist-rally-in-charlottesville",
       "type": "government"
     },
     {
-      "text": "PolitiFact analysis",
-      "url": "https://www.politifact.com",
+      "text": "PolitiFact: In Context: Donald Trump's 'very fine people on both sides' remarks (transcript)",
+      "url": "https://www.politifact.com/article/2019/apr/26/context-trumps-very-fine-people-both-sides-remarks/",
       "type": "fact-check"
     },
     {
-      "text": "CNN and Washington Post coverage, August 2017",
-      "url": "https://www.cnn.com",
-      "type": "news"
+      "text": "CNBC: Read the transcript of Donald Trump's jaw-dropping press conference",
+      "url": "https://www.cnbc.com/2017/08/15/read-the-transcript-of-donald-trumps-jaw-dropping-press-conference.html",
+      "type": "transcript"
+    },
+    {
+      "text": "Wikipedia: Unite the Right rally",
+      "url": "https://en.wikipedia.org/wiki/Unite_the_Right_rally",
+      "type": "reference"
     }
   ],
   "specialTags": ["white-supremacy", "charlottesville", "rhetoric"]

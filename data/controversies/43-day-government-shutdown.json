@@ -1,32 +1,40 @@
 {
   "id": "43-day-government-shutdown",
-  "title": "43-Day Government Shutdown - Longest in U.S. History",
+  "title": "35-Day Government Shutdown - Longest in U.S. History",
   "primaryCategory": "character",
   "severity": "serious",
-  "timeline": "second-term",
-  "date": "2025-10-01",
-  "summary": "Longest shutdown in US history (43 days). 670,000 federal workers furloughed; 750,000+ worked without pay. 42 million Americans faced loss of SNAP food benefits. FAA cut air traffic 10% at 40 airports. Head Start suspended for 58,600 children. CBO estimated $7 billion loss to economy. Trump held 'Great Gatsby' party at Mar-a-Lago eve of SNAP suspension. Trump golfed half-dozen+ times, visited 6 countries during shutdown.",
+  "timeline": "first-term",
+  "date": "2018-12-22",
+  "summary": "Longest shutdown in US history (35 days). 380,000 federal workers furloughed; 420,000 worked without pay. CBO estimated $11 billion loss to economy including $3 billion permanent. Started over border wall funding demand. Trump ended it after travel delays from air traffic controllers calling out sick.",
   "keyFacts": [
-    "Longest shutdown in US history (43 days) - October-November 2025",
-    "670,000 federal workers furloughed",
-    "750,000+ worked without pay",
-    "42 million Americans faced loss of SNAP food benefits",
-    "FAA cut air traffic 10% at 40 airports",
-    "Head Start suspended for 58,600 children",
-    "CBO estimated $7 billion loss to economy",
-    "Trump held 'Great Gatsby' party at Mar-a-Lago eve of SNAP suspension",
-    "Trump golfed half-dozen+ times during shutdown",
-    "Trump visited 6 countries during shutdown"
+    "Longest shutdown in US history (35 days) - Dec 22, 2018 to Jan 25, 2019",
+    "380,000 federal workers furloughed",
+    "420,000 additional workers worked without pay - 800,000 total affected",
+    "Started over Trump's demand for border wall funding",
+    "CBO estimated $11 billion loss to economy, $3 billion permanent",
+    "Widespread travel delays from air traffic controllers calling out sick",
+    "Ended Jan 25, 2019 after mounting pressure including from his own party",
+    "Trump agreed to 3-week funding bill without border wall funds"
   ],
   "sources": [
     {
-      "text": "Congressional Budget Office analysis",
-      "url": "https://www.cbo.gov",
-      "type": "government"
+      "text": "Wikipedia: 2018–2019 United States federal government shutdown",
+      "url": "https://en.wikipedia.org/wiki/2018%E2%80%932019_United_States_federal_government_shutdown",
+      "type": "reference"
     },
     {
-      "text": "News coverage of shutdown impacts",
-      "url": "https://www.washingtonpost.com",
+      "text": "NBC News: At 36 days, the government shutdown is now the longest in history",
+      "url": "https://www.nbcnews.com/politics/politics-news/35-days-government-shutdown-record-longest-history-election-day-rcna241576",
+      "type": "news"
+    },
+    {
+      "text": "NPR: The government shutdown is now the longest in U.S. history",
+      "url": "https://www.npr.org/2025/11/05/nx-s1-5598315/government-shutdown-longest-history",
+      "type": "news"
+    },
+    {
+      "text": "The Hill: This was the longest government shutdown in US history",
+      "url": "https://thehill.com/homenews/nexstar_media_wire/5532286-whats-the-longest-government-shutdown-in-us-history-this-one-isnt-even-close/",
       "type": "news"
     }
   ],

@@ -20,24 +20,24 @@
   ],
   "sources": [
     {
-      "text": "PBS NewsHour reporting on deported children",
-      "url": "https://www.pbs.org",
+      "text": "PBS News: Children who are U.S. citizens deported along with foreign-born mothers",
+      "url": "https://www.pbs.org/newshour/show/children-who-are-u-s-citizens-deported-along-with-foreign-born-mothers-attorneys-say",
       "type": "news"
     },
     {
-      "text": "Wikipedia - Deaths, detentions and deportations of American citizens",
-      "url": "https://en.wikipedia.org",
-      "type": "reference"
+      "text": "PBS News: ICE deported 3 children who are U.S. citizens, their families' lawyers say",
+      "url": "https://www.pbs.org/newshour/politics/ice-deported-3-children-who-are-u-s-citizens-their-families-lawyers-say",
+      "type": "news"
     },
     {
-      "text": "KTLA investigation",
-      "url": "https://ktla.com",
-      "type": "investigation"
+      "text": "CNN: 3 children who are US citizens — including one with cancer — deported",
+      "url": "https://www.cnn.com/2025/04/27/us/children-us-citizens-deported-honduras",
+      "type": "news"
     },
     {
-      "text": "CBC News budget analysis",
-      "url": "https://www.cbc.ca",
-      "type": "analysis"
+      "text": "CBS News: Transcript: Border czar Tom Homan on \"Face the Nation\"",
+      "url": "https://www.cbsnews.com/news/tom-homan-border-czar-face-the-nation-04-27-2025/",
+      "type": "interview"
     }
   ],
   "specialTags": ["ice", "deportation", "children", "immigration"]

@@ -19,18 +19,23 @@
   ],
   "sources": [
     {
-      "text": "Video footage, January 20, 2025",
-      "url": "https://www.youtube.com",
-      "type": "video"
+      "text": "Wikipedia: Elon Musk salute controversy",
+      "url": "https://en.wikipedia.org/wiki/Elon_Musk_salute_controversy",
+      "type": "reference"
     },
     {
-      "text": "Rep. Jerry Nadler statement",
-      "url": "https://nadler.house.gov",
-      "type": "government"
+      "text": "The Hill: Nadler criticizes Musk for apparent 'Heil Hitler' salute",
+      "url": "https://thehill.com/homenews/administration/5096983-nadler-heil-hitler-nazi-salute-musk-trump-inauguration-day/",
+      "type": "news"
     },
     {
-      "text": "International condemnation",
-      "url": "https://www.dw.com",
+      "text": "NPR: Elon Musk turns Inauguration Day salute into Nazi-themed jokes",
+      "url": "https://www.npr.org/2025/01/23/nx-s1-5269719/elon-musk-salute-inauguration-day-nazis",
+      "type": "news"
+    },
+    {
+      "text": "Al Jazeera: Musk accused of giving Nazi salute during Trump inauguration celebrations",
+      "url": "https://www.aljazeera.com/economy/2025/1/21/musk-accused-of-giving-nazi-salute-during-trump-inauguration-celebrations",
       "type": "news"
     }
   ],
